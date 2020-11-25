@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
 My name is Igor and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
+I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
+I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
 
 - 📢 I recently published [@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys),
 - 👀 I recenlty updated [encode-entities](https://www.npmjs.com/package/encode-entities), [registry-apppaths](https://www.npmjs.com/package/registry-apppaths), [windows-packages](https://www.npmjs.com/package/windows-packages),
@@ -10,3 +12,5 @@ My name is Igor and I am a full-stack Web, desktop and mobile developer with a s
 - 👯 I am looking to collaborate on exciting and challenging projects,
 - 🤝 I am looking for help with my FOSS projects,
 - 📫 Reach me by email, LinkedIn, Whatsapp.
+
+Thank you for reading. 😊
