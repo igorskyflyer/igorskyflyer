@@ -15,6 +15,6 @@ I always try to help the dev-community by building useful libraries, modules, ex
 - 📫 Reach me by email, LinkedIn, Whatsapp.
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my [Patreon](https://patreon.com/igor_dvlpr) page.
-Any type support is more than welcome. 🙂
+Any type of support is more than welcome. 🙂
 
 Thank you for reading. 😊
