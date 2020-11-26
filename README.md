@@ -15,7 +15,8 @@ Also, I:
 🤝 am looking for help with my FOSS projects, <br>
 🃏 like to play with code on my ✏️ **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
-🙊 am currently learning Spanish 🇪🇸😍, <br>
+🙊 am currently learning Spanish 🇪🇸😍, <br>,
+🎮 am playing Mobile Legends: Bang Bang in my spare time, join me,
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr** <br>
 
 📫 Reach me via email, [LinkedIn](https://www.linkedin.com/in/igor-dvlpr), Whatsapp.
