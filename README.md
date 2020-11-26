@@ -20,4 +20,6 @@ Any type of support is more than welcome. 🙂
 
 ### Showcase
 
+--- loading, please wait... ---
+
 Thank you for reading. 😊
