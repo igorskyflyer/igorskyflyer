@@ -11,10 +11,13 @@ I always try to help the dev-community by building useful libraries, modules, ex
 - 🎁 I am constantly creating open-source projects that help the dev-community,
 - 👯 I am looking to collaborate on exciting and challenging projects,
 - 🤝 I am looking for help with my FOSS projects,
+- 🃏 I like to play with code on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)** ✏️,
 - 🎭 I am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,
 - 📫 Reach me via email, LinkedIn, Whatsapp.
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my [Patreon](https://patreon.com/igor_dvlpr) page.
 Any type of support is more than welcome. 🙂
+
+### Showcase
 
 Thank you for reading. 😊
