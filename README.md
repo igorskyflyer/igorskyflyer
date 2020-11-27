@@ -4,6 +4,13 @@ My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mo
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
 
+### My tech stack
+🌎 **Web**: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br><br>
+🖥️ **Desktop**: **C#**, **C**, **Python**, **Java**, <br><br>
+📱 **Mobile**: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *begginer*. <br><br>
+
+<br>
+
 Also, I:
 
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
