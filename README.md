@@ -7,7 +7,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
 ### My tech stack
 🌎 **Web**: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
 🖥️ **Desktop**: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
-📱 **Mobile**: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *begginer*. <br>
+📱 **Mobile**: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *beginner*. <br>
 
 <br>
 
