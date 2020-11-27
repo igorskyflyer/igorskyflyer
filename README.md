@@ -36,4 +36,10 @@ Any type of support is more than welcome. 🙂
 
 --- loading, please wait... ---
 
+### Stats
+
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorskyflyer)
+
+<br>
+
 Thank you for reading. 😊
