@@ -5,8 +5,8 @@ I have an extensive experience in building projects from the ground up, all by m
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
 
 ### My tech stack
-🌎 **Web**: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
-🖥️ **Desktop**: **C#**, **C**, **Python**, **Java**, <br>
+🌎 **Web**: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
+🖥️ **Desktop**: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
 📱 **Mobile**: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *begginer*. <br>
 
 <br>
@@ -39,6 +39,8 @@ Any type of support is more than welcome. 🙂
 ### Stats
 
 ![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer)
 
 <br>
 
