@@ -38,7 +38,7 @@ Any type of support is more than welcome. 🙂
 
 ### Stats
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorskyflyer)
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true)
 
 <br>
 
