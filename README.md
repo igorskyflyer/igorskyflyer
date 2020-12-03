@@ -34,7 +34,7 @@ Any type of support is more than welcome. 🙂
 
 ### Showcase
 
---- Curating the list of projects, please wait... ---
+*Curating the list of projects, please wait...*
 
 ### Stats
 
