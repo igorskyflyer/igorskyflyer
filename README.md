@@ -34,7 +34,14 @@ Any type of support is more than welcome. 🙂
 
 ### Showcase
 
-*Curating the list of projects, please wait...*
+````js
+console.log('Curating the list of projects...')
+
+githubDo(() => {
+  const projects = getShowcaseProjects()
+  console.log(projects)
+})
+````
 
 ### Stats
 
