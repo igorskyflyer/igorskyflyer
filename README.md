@@ -16,13 +16,13 @@ Also, I:
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
 👀 recently updated **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[registry-apppaths](https://www.npmjs.com/package/registry-apppaths)**, **[windows-packages](https://www.npmjs.com/package/windows-packages)**, <br>
 🔭 am currently working on building my portfolio website, <br>
-🌱 am currently learning **React** + **Gatsby**, <br>
+🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)**, <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
-🤝 am looking for help with my FOSS projects, <br>
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
 ⚗️ do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
-🙊 am currently learning Spanish 🇪🇸😍, <br>
+🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
 🎮 play Mobile Legends: Bang Bang in my spare time - join me, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr** <br>
 
