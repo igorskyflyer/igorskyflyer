@@ -20,7 +20,7 @@ Also, I:
 🎁 am constantly creating open-source projects that help the dev-community, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my FOSS projects, <br>
-⚗️ like to do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
+⚗️ do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning Spanish 🇪🇸😍, <br>
 🎮 play Mobile Legends: Bang Bang in my spare time - join me, <br>
