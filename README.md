@@ -5,9 +5,9 @@ I have an extensive experience in building projects from the ground up, all by m
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
 
 ### My tech stack
-🌎 &nbsp; __*Web*__: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
-🖥️ &nbsp; __*Desktop*__: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
-📱 &nbsp; __*Mobile*__: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *beginner*. <br>
+🌎 __*Web*__: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
+🖥️ __*Desktop*__: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
+📱 __*Mobile*__: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *beginner*. <br>
 
 <br>
 
@@ -18,7 +18,7 @@ Also, I:
 🔭 am currently working on building my portfolio website, <br>
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)**, <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
-📒 am a proud owner of more than 30 programming certificates, <br>
+📒 am a proud owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
 ⚗️ do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
