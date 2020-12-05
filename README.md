@@ -24,13 +24,13 @@ Also, I:
 ⚗️ do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
-🎮 play [Mobile Legends: Bang Bang](https://mobilelegends.com/en) in my spare time - join me, <br>
+🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr** <br>
 
-📫 Reach me via email, [LinkedIn](https://www.linkedin.com/in/igor-dvlpr), Whatsapp.
+📫 Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp.
 <br>
 
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my [Patreon](https://patreon.com/igor_dvlpr) page.
+If you in any case want to support my open-source work which takes my dedication and time, you can do so using my **[Patreon](https://patreon.com/igor_dvlpr)** page.
 Any type of support is more than welcome. 🙂
 
 ### Showcase
