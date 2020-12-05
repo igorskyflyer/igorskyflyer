@@ -5,9 +5,9 @@ I have an extensive experience in building projects from the ground up, all by m
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
 
 ### My tech stack
-🌎 __*Web*__: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
-🖥️ __*Desktop*__: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
-📱 __*Mobile*__: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *beginner*. <br>
+🌎 &nbsp; __*Web*__: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **MySQL**, **Wordpress + Woocommerce**, **React** (*soon* 😅), <br>
+🖥️ &nbsp; __*Desktop*__: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, <br>
+📱 &nbsp; __*Mobile*__: **Xamarin**, **Java**, **Kotlin**, **Flutter** - *beginner*. <br>
 
 <br>
 
