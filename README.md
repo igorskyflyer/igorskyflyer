@@ -46,8 +46,10 @@ githubDo(() => {
 
 ### Stats
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true" alt="Igor's github stats">
+</p>
 
 <br>
 
-Thank you for reading. 😊
+<h4 align="center">Thank you for reading. 😊</h4>
