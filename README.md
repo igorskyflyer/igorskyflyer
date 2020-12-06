@@ -44,6 +44,7 @@ Any type of support is more than welcome. 🙂
 console.log('Curating the list of projects...')
 
 githubDo(() => {
+  // Please wait... 🥴
   const projects = getShowcaseProjects()
   console.log(projects)
 })
