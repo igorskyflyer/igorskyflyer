@@ -33,6 +33,8 @@ Also, I:
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my **[Patreon](https://patreon.com/igor_dvlpr)** page.
 Any type of support is more than welcome. 🙂
 
+<br>
+
 ### Showcase
 
 ````js
@@ -44,6 +46,8 @@ githubDo(() => {
 })
 ````
 
+<br>
+
 ### Stats
 
 <p align="center">
@@ -52,4 +56,4 @@ githubDo(() => {
 
 <br>
 
-<blockquote align="center">Thank you for reading. 😊</blockquote>
+<h3 align="center">Thank you for reading. 😊</h3>
