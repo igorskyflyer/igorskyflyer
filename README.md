@@ -47,11 +47,11 @@ Any type of support is more than welcome. 🙂
 ````js
 // Please wait while I pick the projects... 🥴
 
-githubDo((wall) => {
-  const showcase = wall.getSection('showcase')
+githubDo((bio) => {
+  const showcase = bio.getSection('showcase')
   const projects = git.getShowcaseProjects()
 
-  wall.appendTo(showcase, projects)
+  bio.appendTo(showcase, projects)
 })
 ````
 
