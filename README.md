@@ -43,10 +43,12 @@ Any type of support is more than welcome. 🙂
 ````js
 console.log('Curating the list of projects...')
 
-githubDo(() => {
+githubDo((wall) => {
   // Please wait... 🥴
-  const projects = getShowcaseProjects()
-  console.log(projects)
+  const showcase = wall.getSection('showcase')
+  const projects = git.getShowcaseProjects()
+
+  wall.appendTo(showcase, projects)
 })
 ````
 
