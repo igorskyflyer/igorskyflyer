@@ -52,4 +52,4 @@ githubDo(() => {
 
 <br>
 
-<h4 align="center">Thank you for reading. 😊</h4>
+<blockquote align="center">Thank you for reading. 😊</blockquote>
