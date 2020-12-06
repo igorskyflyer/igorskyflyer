@@ -41,10 +41,8 @@ Any type of support is more than welcome. 🙂
 ### Showcase
 
 ````js
-console.log('Curating the list of projects...')
-
 githubDo((wall) => {
-  // Please wait... 🥴
+  // Please wait while I pick the projects... 🥴
   const showcase = wall.getSection('showcase')
   const projects = git.getShowcaseProjects()
 
