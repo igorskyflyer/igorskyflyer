@@ -27,7 +27,10 @@ Also, I:
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr** <br>
 
+<br>
+
 📫 Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp.
+
 <br>
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my **[Patreon](https://patreon.com/igor_dvlpr)** page.
