@@ -41,8 +41,9 @@ Any type of support is more than welcome. 🙂
 ### Showcase
 
 ````js
+// Please wait while I pick the projects... 🥴
+
 githubDo((wall) => {
-  // Please wait while I pick the projects... 🥴
   const showcase = wall.getSection('showcase')
   const projects = git.getShowcaseProjects()
 
