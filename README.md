@@ -25,10 +25,11 @@ Also, I:
 📒 am a proud owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
-⚗️ do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
+🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
+🐬 am a firm believer in autodidacticism, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**. <br>
 
 <br>
