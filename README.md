@@ -43,7 +43,7 @@ Any type of support is more than welcome. 🙂
 
 <br>
 
-### 🎀 Showcase 🎀
+### 🌟 Showcase 🌟
 
 ````js
 // Please wait while I pick the projects... 🥴
