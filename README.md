@@ -1,4 +1,4 @@
-### 👋 Hi there! 👋
+### 👋 HI THERE! 👋
 
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
@@ -6,7 +6,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
-### ⚡ My tech stack ⚡
+### ⚡ MY TECH STACK ⚡
 🌎 **Web**: _**HTML**_, _**CSS**_, _**JavaScript**_, _**jQuery**_, _**PHP**_, _**TypeScript**_, _**Node.js**_, _**Express.js**_, _**Electron**_, _**SCSS**_, _**SQLite**_, _**Bootstrap**_, _**Tippy.js**_, _**MySQL**_, _**Wordpress + Woocommerce**_, _**PWA**_, _**Chrome API**_, _**React**_ (*soon* 😅). <br>
 🖥️ **Desktop**: _**C#**_, _**C**_, _**Python**_, _**Java**_, _**Pascal**_, _**Delphi**_, _**Visual Studio Code API**_, _**Electron**_. <br>
 📱 **Mobile**: _**Xamarin**_, _**Java**_, _**Kotlin**_, _**Flutter**_ (*beginner*), _**MortScript**_ (WM6.5, deprecated) <br>
@@ -44,7 +44,7 @@ Any type of support is more than welcome. 🙂
 
 <br>
 
-### 🌟 Showcase 🌟
+### 🌟 SHOWCASE 🌟
 
 ````javascript
 // Wait while I pick the projects 🥴
@@ -59,7 +59,7 @@ githubDo((bio) => {
 
 <br>
 
-### 🔥 Stats 🔥
+### 🔥 STATS 🔥
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Igor's github stats">
