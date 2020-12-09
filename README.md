@@ -70,3 +70,9 @@ githubDo((bio) => {
 <br>
 
 <h3 align="center">Thank you for reading. 😊</h3>
+
+<br>
+
+<p align="center">
+  <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="Made with Love">
+</p>
