@@ -47,7 +47,7 @@ Any type of support is more than welcome. 🙂
 ### 🌟 Showcase 🌟
 
 ````javascript
-// Please wait while I pick the projects... 🥴
+// Wait while I pick the projects... 🥴
 
 githubDo((bio) => {
   const showcase = bio.getSection('showcase')
