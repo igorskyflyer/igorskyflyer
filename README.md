@@ -19,7 +19,7 @@ Also, I:
 
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
 👀 recently updated **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[registry-apppaths](https://www.npmjs.com/package/registry-apppaths)**, **[windows-packages](https://www.npmjs.com/package/windows-packages)**, <br>
-🔭 am currently working on building my portfolio website, <br>
+💫 am currently working on building my portfolio website, <br>
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)**, <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
 📒 am a proud owner of more than **30** programming certificates, <br>
@@ -30,11 +30,12 @@ Also, I:
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
 🐬 am a firm believer in **autodidacticism**, <br>
-🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**. <br>
+🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**, <br>
+🤭 fun fact: call me if you need to "clean up" your buffet 🥥🥝🥖🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗 <br>
 
 <br>
 
-📫 Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp.
+📫 Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp. 🖇️
 
 <br>
 
