@@ -46,7 +46,7 @@ Any type of support is more than welcome. 🙂
 
 ### 🌟 Showcase 🌟
 
-````js
+````javascript
 // Please wait while I pick the projects... 🥴
 
 githubDo((bio) => {
