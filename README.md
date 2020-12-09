@@ -31,7 +31,7 @@ Also, I:
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
 🐬 am a firm believer in **autodidacticism**, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**, <br>
-🤭 fun fact: call me if you need to "clean up" your buffet 🥥🥝🥖🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗 <br>
+🤭 fun fact: call me if you need to "clean up" your buffet 🥖🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗 <br>
 
 <br>
 
