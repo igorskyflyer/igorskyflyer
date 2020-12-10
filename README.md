@@ -35,9 +35,13 @@ Also, I:
 
 <br>
 
-📫 Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp. 🖇️
+### 📬 CONTACT 📬
+
+Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp. 🖇️
 
 <br>
+
+### 🎁 SUPPORT 🎁
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my **[Patreon](https://patreon.com/igor_dvlpr)** page.
 Any type of support is more than welcome. 🙂
@@ -59,7 +63,7 @@ githubDo((bio) => {
 
 <br>
 
-### 🔥 STATS 🔥
+### 🔥 STATISTICS 🔥
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Igor's github stats">
