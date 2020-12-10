@@ -65,6 +65,8 @@ githubDo((bio) => {
 
 ### 🔥 STATISTICS 🔥
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Igor's github stats">
   <br>
