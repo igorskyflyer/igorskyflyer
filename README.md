@@ -68,7 +68,7 @@ githubDo((bio) => {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Igor's github stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=442" alt="Igor's Top Languages Used">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=445" alt="Igor's Top Languages Used">
  </p>
 
 <br>
