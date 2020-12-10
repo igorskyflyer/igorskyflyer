@@ -82,7 +82,7 @@ githubDo((bio) => {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=445&custom_title=👅%20Most%20Used%20Languages%20👅" alt="Igor&#39;s Top Languages Used">
  </p>
 
-<br>
+---
 
 <h3 align="center">😊 Thank you for reading 😊</h3>
 
