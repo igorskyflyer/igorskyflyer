@@ -1,8 +1,10 @@
 <h3 align="center">👋 HI THERE! 👋</h3>
 
+<p align="center">
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
+</p>
 
 <br>
 
@@ -40,14 +42,18 @@ Also, I:
 
 <h3 align="center">📬 CONTACT 📬</h3>
 
-Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp.
+<p align="center">
+  Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a>, Whatsapp.
+</p>
 
 <br>
 
 <h3 align="center">🎁 SUPPORT 🎁</h3>
 
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my **[Patreon](https://patreon.com/igor_dvlpr)** page.
+<p align="center">
+If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
 Any type of support is more than welcome. 🙂
+</p>
 
 <br>
 
