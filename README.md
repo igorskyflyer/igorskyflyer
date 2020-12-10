@@ -75,7 +75,7 @@ githubDo((bio) => {
 
 <br>
 
-<h3 align="center">Thank you for reading. 😊</h3>
+<h3 align="center">😊 Thank you for reading 😊</h3>
 
 <br>
 
