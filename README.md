@@ -77,7 +77,13 @@ githubDo((bio) => {
 
 <br>
 
-<h3 align="center">😊 Thank you for reading 😊</h3>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=igorskyflyer.visitor-badge" align="center" alt="Visitors">
+  <br><br>
+  👆
+</p>
+
+<h3 align="center">😊 Thank you all for reading 😊</h3>
 
 <br>
 
