@@ -54,7 +54,7 @@ Any type of support is more than welcome. 🙂
 // Wait while I pick the projects 🥴
 
 githubDo((bio) => {
-  const showcase = bio.getSection('showcase')
+  const showcase = bio.section('showcase')
   const projects = git.getShowcaseProjects()
 
   bio.appendTo(showcase, projects)
