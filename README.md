@@ -50,7 +50,7 @@ Any type of support is more than welcome. 🙂
 
 ### 🌟 SHOWCASE 🌟
 
-````javascript
+```js
 // Wait while I pick the projects 🥴
 
 githubDo((bio) => {
