@@ -38,7 +38,7 @@ Also, I:
 
 ### 📬 CONTACT 📬
 
-Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp. 🖇️
+Reach me via email, **[LinkedIn](https://www.linkedin.com/in/igor-dvlpr)**, Whatsapp.
 
 <br>
 
