@@ -1,14 +1,12 @@
-<h3 align="center">👋 HI THERE! 👋</h3>
+### 👋 HI THERE! 👋
 
-<p align="center">
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
-</p>
 
 <br>
 
-<h3 align="center">⚡ MY TECH STACK ⚡</h3>
+### ⚡ MY TECH STACK ⚡
 
 🌎 **Web**: _**HTML**_, _**CSS**_, _**JavaScript**_, _**jQuery**_, _**PHP**_, _**TypeScript**_, _**Node.js**_, _**Express.js**_, _**Electron**_, _**SCSS**_, _**SQLite**_, _**Bootstrap**_, _**Tippy.js**_, _**MySQL**_, _**Wordpress + Woocommerce**_, _**PWA**_, _**React**_ (*soon* 😅). <br>
 🖥️ **Desktop**: _**C#**_, _**C**_, _**Python**_, _**Java**_, _**Pascal**_, _**Delphi**_, _**Electron**_. <br>
@@ -40,24 +38,20 @@ Also, I:
 
 <br>
 
-<h3 align="center">📬 CONTACT 📬</h3>
+### 📬 CONTACT 📬
 
-<p align="center">
-  Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a>, Whatsapp.
-</p>
+Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a>, Whatsapp.
 
 <br>
 
-<h3 align="center">🎁 SUPPORT 🎁</h3>
+### 🎁 SUPPORT 🎁
 
-<p align="center">
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
 Any type of support is more than welcome. 🙂
-</p>
 
 <br>
 
-<h3 align="center">🌟 SHOWCASE 🌟</h3>
+### 🌟 SHOWCASE 🌟
 
 ```js
 // Wait while I pick the projects 🥴
@@ -72,7 +66,7 @@ githubDo((bio) => {
 
 <br>
 
-<h3 align="center">🔥 STATISTICS 🔥</h3>
+### 🔥 STATISTICS 🔥
 
 <br>
 
@@ -81,8 +75,6 @@ githubDo((bio) => {
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=445&custom_title=👅%20Most%20Used%20Languages%20Here%20👅" alt="Igor&#39;s Top Languages Used">
  </p>
-
----
 
 <h3 align="center">😊 Thank you for reading 😊</h3>
 
