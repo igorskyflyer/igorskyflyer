@@ -8,12 +8,12 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 ### ⚡ MY TECH STACK ⚡
 
-🌎 **Web**: _**HTML**_, _**CSS**_, _**JavaScript**_, _**jQuery**_, _**PHP**_, _**TypeScript**_, _**Node.js**_, _**Express.js**_, _**Electron**_, _**SCSS**_, _**SQLite**_, _**Bootstrap**_, _**Tippy.js**_, _**MySQL**_, _**Wordpress + Woocommerce**_, _**PWA**_, _**React**_ (*soon* 😅). <br>
-🖥️ **Desktop**: _**C#**_, _**C**_, _**Python**_, _**Java**_, _**Pascal**_, _**Delphi**_, _**Electron**_. <br>
-📱 **Mobile**: _**Xamarin**_, _**Java**_, _**Kotlin**_, _**Flutter**_ (*beginner*), _**MortScript**_ (WM6.5, deprecated) <br>
-🛠️ **Tooling**: _**webpack**_, _**Snowpack**_, _**npm**_, _**Mocha**_, _**ESLint**_, _**Prettier**_. <br>
-🦖 **Extensibility**: _**Visual Studio Code API**_, _**Chrome API**_. <br>
-🥊 **Editor**: _**Visual Studio Code**_ 💘, _**Visual Studio**_, _**Android Studio**_.
+🌎 **Web**: _HTML_, _CSS_, _JavaScript_, _jQuery_, _PHP_, _TypeScript_, _Node.js_, _Express.js_, _Electron_, _SCSS_, _SQLite_, _Bootstrap_, _Tippy.js_, _MySQL_, _Wordpress + Woocommerce_, _PWA_, _React_ (*soon* 😅). <br>
+🖥️ **Desktop**: _C#_, _C_, _Python_, _Java_, _Pascal_, _Delphi_, _Electron_. <br>
+📱 **Mobile**: _Xamarin_, _Java_, _Kotlin_, _Flutter_ (*beginner*), _MortScript_ (WM6.5, deprecated) <br>
+🛠️ **Tooling**: _webpack_, _Snowpack_, _npm_, _npx_, _AVA_, _Mocha_, _ESLint_, _Prettier_. <br>
+🦖 **Extensibility**: _Visual Studio Code API_, _Chrome API_. <br>
+🥊 **Editor**: _Visual Studio Code_ 💘, _Visual Studio_, _Android Studio_.
 
 <br>
 
