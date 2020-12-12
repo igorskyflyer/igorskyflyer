@@ -19,8 +19,6 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 Also, I:
 
-<a id="content"></a>
-
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
 👀 recently updated **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[registry-apppaths](https://www.npmjs.com/package/registry-apppaths)**, **[windows-packages](https://www.npmjs.com/package/windows-packages)**, <br>
 🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension, <br>
@@ -33,7 +31,7 @@ Also, I:
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
-🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer#user-content-content)** to learn more, <br>
+🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more, <br>
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
 🐬 am a firm believer in **autodidacticism**, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**, <br>
