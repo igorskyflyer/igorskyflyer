@@ -19,6 +19,8 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 Also, I:
 
+<a id="content"></a>
+
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
 👀 recently updated **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[registry-apppaths](https://www.npmjs.com/package/registry-apppaths)**, **[windows-packages](https://www.npmjs.com/package/windows-packages)**, <br>
 🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension, <br>
