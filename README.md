@@ -41,7 +41,7 @@ Also, I:
 
 ### 📬 CONTACT 📬
 
-Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a>, Whatsapp for business inquiries, exciting projects, etc. 🦜
+Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. 🦜
 
 <br>
 
