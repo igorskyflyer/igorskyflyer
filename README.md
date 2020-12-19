@@ -54,7 +54,7 @@ Any type of support is more than welcome. 🙂
 
 ### 🌟 SHOWCASE 🌟
 
-```js
+```javascript
 // Wait while I pick the projects 🥴
 
 githubDo((bio) => {
@@ -63,7 +63,7 @@ githubDo((bio) => {
 
   bio.appendTo(showcase, projects)
 })
-````
+```
 
 <br>
 
