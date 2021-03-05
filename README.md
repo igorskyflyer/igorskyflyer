@@ -32,7 +32,7 @@ Also, I:
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more, <br>
-🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, <br>
+🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here, <br>
 🐬 am a firm believer in **autodidacticism**, <br>
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**, <br>
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗 <br>
