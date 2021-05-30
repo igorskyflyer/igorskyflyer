@@ -20,10 +20,10 @@ I always try to help the dev-community by building useful libraries, modules, ex
 Also, I:
 
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
-👀 recently updated **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[registry-apppaths](https://www.npmjs.com/package/registry-apppaths)**, **[windows-packages](https://www.npmjs.com/package/windows-packages)**, <br>
+👀 recently updated **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**, **[node-clone-js](https://www.npmjs.com/package/node-clone-js)**, <br>
 🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension, <br>
 💫 am currently working on building my portfolio website, <br>
-🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)**, <br>
+🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)** <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
 📒 am a proud owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
