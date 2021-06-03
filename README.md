@@ -8,12 +8,12 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 ### ⚡ MY TECH STACK ⚡
 
-🌎 **Web**: _HTML_, _CSS_, _JavaScript_, _jQuery_, _PHP_, _TypeScript_, _Node.js_, _Express.js_, _Electron_, _SCSS_, _SQLite_, _Bootstrap_, _Tippy.js_, _MySQL_, _Wordpress + Woocommerce_, _PWA_, _React_ (*soon* 😅), <br>
-🖥️ **Desktop**: _C#_, _C_, _Python_, _Java_, _Pascal_, _Delphi_, _Electron_, <br>
-📱 **Mobile**: _Xamarin_, _Java_, _Kotlin_, _MortScript_ (WM6.5, deprecated), <br>
-🛠️ **Tooling**: _webpack_, _Snowpack_, _npm_, _npx_, _AVA_, _Mocha_, _EditorConfig_, _ESLint_, _Prettier_, <br>
-🦖 **Extensibility**: _Visual Studio Code API_, _Chrome API_, <br>
-🥊 **Editor**: _Visual Studio Code_ 💘, _Visual Studio_, _Android Studio_.
+🌎 _Web_: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **Express.js**, **Electron**, **SCSS**, **SQLite**, **Bootstrap**, **Tippy.js**, **MySQL**, **Wordpress + Woocommerce**, **PWA**, **React** (*soon* 😅), <br>
+🖥️ _Desktop_: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, **Electron**, <br>
+📱 _Mobile_: **Xamarin**, **Java**, **Kotlin**, **MortScript** (WM6.5, deprecated), <br>
+🛠️ _Tooling_: **webpack**, **Snowpack**, **npm**, **npx**, **AVA**, **Mocha**, **EditorConfig**, **ESLint**, **Prettier**, <br>
+🦖 _Extensibility_: **Visual Studio Code API**, **Chrome API**, <br>
+🥊 _IDE_: **Visual Studio Code** 💘, **Visual Studio**, **Android Studio**.
 
 <br>
 
