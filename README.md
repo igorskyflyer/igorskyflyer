@@ -31,6 +31,7 @@ Also, I:
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
+✨ love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository, <br>
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more, <br>
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here, <br>
 🐬 am a firm believer in **autodidacticism**, <br>
