@@ -8,11 +8,17 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 ### ⚡ MY TECH STACK ⚡
 
-🌎 _Web_: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **TypeScript**, **Node.js**, **Express.js**, **Electron**, **SCSS**, **SQLite**, **Bootstrap**, **Tippy.js**, **MySQL**, **Wordpress + Woocommerce**, **PWA**, **React** (*soon* 😅), <br>
-🖥️ _Desktop_: **C#**, **C**, **Python**, **Java**, **Pascal**, **Delphi**, **Electron**, <br>
-📱 _Mobile_: **Xamarin**, **Java**, **Kotlin**, **MortScript** (WM6.5, deprecated), <br>
-🛠️ _Tooling_: **webpack**, **Snowpack**, **npm**, **npx**, **AVA**, **Mocha**, **EditorConfig**, **ESLint**, **Prettier**, <br>
-🦖 _Extensibility_: **Visual Studio Code API**, **Chrome API**, <br>
+<br>
+
+> 🏄‍♂️ click on the technology links below to see repositories built with it 🏄‍
+
+<br>
+
+🌎 _Web_: **HTML**, **CSS**, **[JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript)**, **jQuery**, **[PHP](https://github.com/igorskyflyer?tab=repositories&q=php)**, **[TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript)**, **[Node.js](https://github.com/igorskyflyer?tab=repositories&q=node)**, **Express.js**, **Electron**, **SCSS**, **SQLite**, **Bootstrap**, **Tippy.js**, **MySQL**, **Wordpress + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce)**, **PWA**, **React** (*soon* 😅), <br>
+🖥️ _Desktop_: **[C#](https://github.com/igorskyflyer?tab=repositories&language=c%23)**, **C**, **Python**, **[Java](https://github.com/igorskyflyer?tab=repositories&language=java)**, **[Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal)**, **[Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)**, **Electron**, <br>
+📱 _Mobile_: **Xamarin**, **[Java](https://github.com/igorskyflyer?tab=repositories&language=java)**, **Kotlin**, **MortScript** (WM6.5, deprecated), <br>
+🛠️ _Tooling_: **webpack**, **Snowpack**, **[npm](https://github.com/igorskyflyer?tab=repositories&q=npm)**, **npx**, **AVA**, **Mocha**, **EditorConfig**, **ESLint**, **Prettier**, <br>
+🦖 _Extensibility_: **[Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode)**, **Chrome API**, <br>
 🥊 _IDE_: **Visual Studio Code** 💘, **Visual Studio**, **Android Studio**.
 
 <br>
@@ -46,13 +52,6 @@ Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>Lin
 
 <br>
 
-### 🎁 SUPPORT 🎁
-
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
-Any type of support is more than welcome. 🙂
-
-<br>
-
 ### 🌟 SHOWCASE 🌟
 
 ```javascript
@@ -65,6 +64,13 @@ githubDo((bio) => {
   bio.appendTo(showcase, projects)
 })
 ```
+
+<br>
+
+### 🎁 SUPPORT 🎁
+
+If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
+Any type of support is more than welcome. 🙂
 
 <br>
 
