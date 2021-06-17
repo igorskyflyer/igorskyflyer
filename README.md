@@ -10,7 +10,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
-> 🏄‍♂️ click on the technology links below to see repositories built with it 🏄‍
+> 🏄‍♂️ click on the technology links 👇 to see repositories built with it 🏄‍
 
 <br>
 
