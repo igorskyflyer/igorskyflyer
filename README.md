@@ -10,7 +10,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
-> 🌊 Ctrl/⌘ key + click on the technology links 👇 to see repositories built with it. 🏄‍
+> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it. 🏄‍
 
 <br>
 
