@@ -29,7 +29,7 @@ Let me tell you something about what I do. 🏄
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron,  
 📱  **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated),  
 🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop,  
-> 🏞️ Some of my designs are available [here](https://dribbble.com/igordvlpr)  
+> 🏞️ Some of my designs are available [here](https://dribbble.com/igordvlpr).  
  
 🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API,  
@@ -50,7 +50,7 @@ Let me tell you something about what I do. 🏄
 📜 am an owner of more than **30** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
-🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**  
+🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**,  
 &nbsp; &nbsp; &nbsp; like:  
 > 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
 > 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
