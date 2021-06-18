@@ -41,7 +41,7 @@ Also, I:
 💫 am currently working on building my portfolio website, <br>
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**, <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
-📒 am the owner of more than **30** programming certificates, <br>
+📒 am an owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects, <br>
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)** <br>
