@@ -34,7 +34,7 @@ Also, I:
 🎁 am constantly creating open-source projects that help the dev-community, <br>
 📒 am the owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
-🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects, <br>
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)** <br>
 > e.g. 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp), 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej), 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz), 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo), 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ), 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR), ▶️ [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb). <br>
 
