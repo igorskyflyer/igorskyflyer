@@ -33,6 +33,7 @@ Let me tell you something about what I do. 🏄
  
 🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API,  
+🌈 **Customizability**: Visual Sudio Code theme,  
 🥊 **IDE**: Visual Studio Code 💘, Visual Studio, Android Studio.  
 
 <br>
