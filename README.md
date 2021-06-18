@@ -43,6 +43,7 @@ Let me tell you something about what I do. 🏄
 <br>
 
 📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**,  
+🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens) repository,  
 👀 recently updated **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**, **[node-clone-js](https://www.npmjs.com/package/node-clone-js)**,  
 🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension,  
 💫 am currently working on building my portfolio website,  
