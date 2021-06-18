@@ -3,13 +3,14 @@
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-> 📮 Announcement: new and improved [RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) are available! 🎉
+> 📮 _Announcement_: new and improved **[RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)** are available! 🎉
 
 <br>
 
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc. Let me tell you something about what I do. 🏄
+I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.  
+Let me tell you something about what I do. 🏄
 
 <br>
 
@@ -21,40 +22,50 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
-🌎 **Web**: [HTML](https://github.com/igorskyflyer?tab=repositories&q=html"), CSS, [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, Electron, SCSS, SQLite, Bootstrap, Tippy.js, MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA, React (*soon* 😅), <br>
-🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron, <br>
-📱 &nbsp; **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated), <br>
-🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop, <br>
-> 🏞️ some of my work is available [here](https://dribbble.com/igordvlpr). <br>
-
-🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), <br>
-🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API, <br>
-🥊 **IDE**: Visual Studio Code 💘, Visual Studio, Android Studio.
+🌎 **Web**: [HTML](https://github.com/igorskyflyer?tab=repositories&q=html"), CSS, [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, Electron, SCSS, SQLite, Bootstrap, Tippy.js, MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA, React (*soon* 😅),  
+🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron,  
+📱 &nbsp; **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated),  
+🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop,  
+> 🏞️ some of my designs are available [here](https://dribbble.com/igordvlpr)  
+ 
+🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
+🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API,  
+🥊 **IDE**: Visual Studio Code 💘, Visual Studio, Android Studio.  
 
 <br>
 
-Also, I:
+💫 Don't go yet because I:
+  
+<br>
 
-📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**, <br>
-👀 recently updated **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**, **[node-clone-js](https://www.npmjs.com/package/node-clone-js)**, <br>
-🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension, <br>
-💫 am currently working on building my portfolio website, <br>
-🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**, <br>
-🎁 am constantly creating open-source projects that help the dev-community, <br>
-📒 am an owner of more than **30** programming certificates, <br>
-👯 am looking to collaborate on exciting and challenging projects, <br>
-🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects, <br>
-🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)** <br>
-> e.g. 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp), 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej), 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz), 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo), 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ), 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR), ▶️ [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb). <br>
+📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**,  
+👀 recently updated **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**, **[node-clone-js](https://www.npmjs.com/package/node-clone-js)**,  
+🧃 am preparing a new **NPM** module and a **Visual Studio Code** extension,  
+💫 am currently working on building my portfolio website,  
+🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
+🎁 am constantly creating open-source projects that help the dev-community,  
+📒 am an owner of more than **30** programming certificates,  
+👯 am looking to collaborate on exciting and challenging projects,  
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
+🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**  
+&nbsp; &nbsp; &nbsp; like:  
+> 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
+> 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
+> 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
+> 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
+> 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
+> 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
+> 🎷 [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb), and  
+> ♾️ still to come.
 
-🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
-🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
-✨ love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository, <br>
-🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more, <br>
-🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here, <br>
-🐬 am a firm believer in **autodidacticism**, <br>
-🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**, <br>
-🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗 <br>
+🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
+🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
+✨ love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository,  
+🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
+🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here,  
+🐬 am a firm believer in **autodidacticism**,  
+🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
+🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗  
 
 <br>
 
