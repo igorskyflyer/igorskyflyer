@@ -11,7 +11,6 @@ Let me tell you something about what I do. 🏄
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-
 <blockquote align="center">📮 <em>Announcement</em> &gt; new and improved <a href="https://www.npmjs.com/package/@igor.dvlpr/regkeys"><b>RegKeys</b></a> are available! 🎉</blockquote>
 
 <p align="right"><em><sub>🗓️ 18 June 2021</sub></em></p>
