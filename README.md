@@ -82,7 +82,13 @@ Any type of support is more than welcome. 🙂
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=445&custom_title=🦕%20My%20Repositories%20Mostly%20Contain%20🐉" alt="Igor&#39;s Top Languages Used">
- </p>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igorskyflyer">
+</p>
 
 <br>
 
