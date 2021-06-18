@@ -21,7 +21,7 @@ Let me tell you something about what I do. 🏄
 
 <br>
 
-> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it. 🏄‍
+> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍
 
 <br>
 
