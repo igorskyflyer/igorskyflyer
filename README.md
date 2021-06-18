@@ -2,17 +2,17 @@
 
 <br>
 
-<!-- 🎉 new stuff that's out 🤩 -->
-> 📮 _Announcement_ \> new and improved **[RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)** are available! 🎉
-<p align="right"><em><sub>🗓️ 18 June 2021</sub></em></p>
-
-
-<br>
-
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.  
 Let me tell you something about what I do. 🏄
+
+<br>
+<br>
+
+<!-- 🎉 new stuff that's out 🤩 -->
+> 📮 _Announcement_ \> new and improved **[RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)** are available! 🎉
+<p align="right"><em><sub>🗓️ 18 June 2021</sub></em></p>
 
 <br>
 
