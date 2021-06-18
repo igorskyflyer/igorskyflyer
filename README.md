@@ -4,6 +4,8 @@
 
 <!-- 🎉 new stuff that's out 🤩 -->
 > 📮 _Announcement_: new and improved **[RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)** are available! 🎉
+<p align="right"><em><sub>🗓️ 18 June 2021</sub></em></p>
+
 
 <br>
 
