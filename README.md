@@ -111,6 +111,7 @@ Any type of support is more than welcome. 🙂
 
 <br>
 
+<!-- 📈 since 18 Jun 2021 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=igorskyflyer">
 </p>
