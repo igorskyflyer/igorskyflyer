@@ -1,13 +1,14 @@
-### 👋 HI THERE! 👋
+### 🙀 OH, HI! 👋
 
 My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a full-stack Web, desktop and mobile developer with a strong passion for everything digital.
 I have an extensive experience in building projects from the ground up, all by myself, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc.
+I always try to help the dev-community by building useful libraries, modules, extensions, add-ons, etc. Let me tell you something about what I do. 🏄
 
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-> 🕊️ Announcement: new and improved [RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) are available! 🎉
+> 🤖 **igorskyflyer@github:~$** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 📮 Announcement: new and improved [RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) are available! 🎉
 
 <br>
 
