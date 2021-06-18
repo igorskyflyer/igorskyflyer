@@ -6,6 +6,11 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
+<!-- 🎉 new stuff that's out 🤩 -->
+> 🕊️ Announcement: new and improved [RegKeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys) are available! 🎉
+
+<br>
+
 ### ⚡ MY TECH STACK ⚡
 
 <br>
