@@ -35,8 +35,8 @@ Also, I:
 📒 am the owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
-🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
-> like so: 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp), 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej), 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz), 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo), 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ), 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR), ▶️ [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) <br>
+🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)** <br>
+> like so: 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp), 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej), 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz), 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo), 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ), 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR), ▶️ [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb). <br>
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**, <br>
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍, <br>
