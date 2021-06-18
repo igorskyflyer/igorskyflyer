@@ -17,7 +17,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
 🌎 **Web**: <a href="https://github.com/igorskyflyer?tab=repositories&q=html" target="_blank">HTML</a>, CSS, [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, Electron, SCSS, SQLite, Bootstrap, Tippy.js, MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA, React (*soon* 😅), <br>
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron, <br>
 📱 &nbsp; **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated), <br>
-🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), npx, AVA, Mocha, EditorConfig, ESLint, Prettier, <br>
+🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), npx, AVA, Mocha, <a href="https://github.com/igorskyflyer?tab=repositories&q=npm" target="_blank">EditorConfig</a>, ESLint, Prettier, <br>
 🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API, <br>
 🥊 **IDE**: Visual Studio Code 💘, Visual Studio, Android Studio.
 
@@ -31,7 +31,7 @@ Also, I:
 💫 am currently working on building my portfolio website, <br>
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**, <br>
 🎁 am constantly creating open-source projects that help the dev-community, <br>
-📒 am a proud owner of more than **30** programming certificates, <br>
+📒 am the owner of more than **30** programming certificates, <br>
 👯 am looking to collaborate on exciting and challenging projects, <br>
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories)** projects, <br>
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, <br>
