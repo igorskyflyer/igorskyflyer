@@ -10,11 +10,11 @@ I always try to help the dev-community by building useful libraries, modules, ex
 
 <br>
 
-> 🏄‍♂️ Ctrl/⌘ key + click on the technology links 👇 to see repositories built with it. 🏄‍
+> 🌊 Ctrl/⌘ key + click on the technology links 👇 to see repositories built with it. 🏄‍
 
 <br>
 
-🌎 **Web**: HTML, CSS, [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, Electron, SCSS, SQLite, Bootstrap, Tippy.js, MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA, React (*soon* 😅), <br>
+🌎 **Web**: <a href="https://github.com/igorskyflyer?tab=repositories&q=html" target="_blank">HTML</a>, CSS, [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, Electron, SCSS, SQLite, Bootstrap, Tippy.js, MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA, React (*soon* 😅), <br>
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron, <br>
 📱 &nbsp; **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated), <br>
 🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), npx, AVA, Mocha, EditorConfig, ESLint, Prettier, <br>
