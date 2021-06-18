@@ -29,7 +29,7 @@ Let me tell you something about what I do. 🏄
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, Python, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi), Electron,  
 📱  **Mobile**: Xamarin, [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Kotlin, MortScript (WM6.5, deprecated),  
 🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop,  
-> 🏞️ some of my designs are available [here](https://dribbble.com/igordvlpr)  
+> 🏞️ Some of my designs are available [here](https://dribbble.com/igordvlpr)  
  
 🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API,  
