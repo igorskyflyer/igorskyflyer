@@ -49,7 +49,7 @@ Let me tell you something about what I do. 🏄
 💫 am currently working on building my portfolio website,  
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
 🎁 am constantly creating open-source projects that help the dev-community,  
-📜 am the owner of more than **30** programming certificates,  
+📜 am an owner of more than **30** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**,  
@@ -65,7 +65,7 @@ Let me tell you something about what I do. 🏄
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
-✨ love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository,  
+🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository,  
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
 🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here,  
 🐬 am a firm believer in **autodidacticism**,  
