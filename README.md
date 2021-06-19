@@ -12,7 +12,7 @@ Let me tell you something about what I do. 🏄
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-<p align="center">📮 <em><b>Announcement</b></em> &gt; <br></p>
+📮 <em><b>Announcement</b></em> &gt; <br>
 I have added a collection of front-end Web development projects, available now in the <a href="https://github.com/igorskyflyer/my-pens">my-pens</a> repository! 🎉
 
 <p align="right"><em><sub>🗓️ 19 June 2021</sub></em></p>
