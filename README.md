@@ -14,10 +14,10 @@ Let me tell you something about what I do. 🏄
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📮 <em><b>Announcement</b></em> &gt; <br>
-A collection of front-end Web projects is available at <a href="https://github.com/igorskyflyer/my-pens">my-pens</a> repository! 🎉
+3D Cube met Electron, see them together <a href="https://github.com/igorskyflyer/electron-3d-cube">here</a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 19 June 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 20 June 2021</sub></em></p>
 
 <br>
 
