@@ -38,7 +38,7 @@ Let me tell you something about what I do. 🏄
 
 <br>
 
-🧳 Don't go yet because I:
+🚶 Don't go yet because I:
   
 <br>
 
