@@ -11,9 +11,9 @@ Let me tell you something about what I do. 🏄
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-<p align="center">📮 <em>Announcement</em> &gt; new and improved <a href="https://www.npmjs.com/package/@igor.dvlpr/regkeys"><b>RegKeys</b></a> are available! 🎉</p>
+<p align="center">📮 <em>Announcement</em> &gt; I have added a collection of front-end Web development projects, available now in the <a href="https://github.com/igorskyflyer/my-pens">my-pens</a> repository! 🎉</p>
 
-<p align="right"><em><sub>🗓️ 18 June 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 19 June 2021</sub></em></p>
 
 <br>
 
