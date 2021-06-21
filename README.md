@@ -105,12 +105,6 @@ Python,
 
 <br>
 
-### 📬 CONTACT 📬
-
-Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. 🦜
-
-<br>
-
 ### 🌟 SHOWCASE 🌟
 
 ```javascript
@@ -123,6 +117,12 @@ githubDo((bio) => {
   bio.appendTo(showcase, projects)
 })
 ```
+
+<br>
+
+### 📬 CONTACT 📬
+
+Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. 🦜
 
 <br>
 
