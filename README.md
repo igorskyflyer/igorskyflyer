@@ -58,9 +58,12 @@ MortScript (Windows Mobile 6.5),
 [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart),
 [Java](https://github.com/igorskyflyer?tab=repositories&language=java),
 Python,  
-🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop and...  
-> some of my designs are available [here](https://dribbble.com/igordvlpr) 🏞️  
-
+🦄 **UI/UX**:
+[Affinity Designer](https://dribbble.com/igordvlpr),
+[Figma](https://dribbble.com/igordvlpr),
+[Adobe XD](https://dribbble.com/igordvlpr),
+[Adobe Illustrator](https://dribbble.com/igordvlpr),
+[Adobe Photoshop](https://dribbble.com/igordvlpr),  
 🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&q=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch),  
 🛠️ **Tooling**: webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npm), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&language=typescript), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=npm"), ESLint, [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**: [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome API,  
