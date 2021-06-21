@@ -22,7 +22,7 @@ Let me tell you something about what I do. 🏄
 <br>
 
 <p align="center">
- <sub>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</sub>
+ <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</b></sub>
 </p>
 
 <br>
