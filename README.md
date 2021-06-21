@@ -21,11 +21,11 @@ Let me tell you something about what I do. 🏄
 
 <br>
 
-### ⚡ MY TECH STACK ⚡
+> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍
 
 <br>
 
-> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍
+### ⚡ MY TECH STACK ⚡
 
 <br>
 
