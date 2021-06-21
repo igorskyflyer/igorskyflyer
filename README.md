@@ -21,7 +21,9 @@ Let me tell you something about what I do. 🏄
 
 <br>
 
-> 🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍
+<p align="center">
+ <sub>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</sub>
+</p>
 
 <br>
 
