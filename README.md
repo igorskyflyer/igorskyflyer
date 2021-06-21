@@ -65,7 +65,7 @@ Python,
 [Adobe Illustrator](https://dribbble.com/igordvlpr),
 [Adobe Photoshop](https://dribbble.com/igordvlpr),  
 🦂 **Scripting**:
-[PowerShell](https://github.com/igorskyflyer/?tab=repositories&q=powershell),
+[PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell),
 [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash),
 [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch),  
 🛠️ **Tooling**:
