@@ -55,6 +55,7 @@ Kotlin,
 MortScript (Windows Mobile 6.5),  
 🕊️ **Cross-platform**:
 [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron),
+[Dart](https://github.com/igorskyflyer?tab=repositories&language=dart),
 [Java](https://github.com/igorskyflyer?tab=repositories&language=java),
 Python,  
 🦄 **UI/UX**: Affinity Designer, Figma, Adobe XD, Adobe Illustrator, Adobe Photoshop and...  
