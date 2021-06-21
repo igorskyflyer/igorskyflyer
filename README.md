@@ -44,13 +44,11 @@ SQLite,
 MySQL,
 [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce),
 PWA,  
-
 🖥️ **Desktop**:
 [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23),
 C,
 [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal),
 [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi),  
-
 📱 **Mobile**:
 Xamarin,
 Kotlin,
@@ -60,19 +58,16 @@ MortScript (Windows Mobile 6.5),
 [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart),
 [Java](https://github.com/igorskyflyer?tab=repositories&language=java),
 Python,  
-
 🦄 **UI/UX**:
 [Affinity Designer](https://dribbble.com/igordvlpr),
 [Figma](https://dribbble.com/igordvlpr),
 [Adobe XD](https://dribbble.com/igordvlpr),
 [Adobe Illustrator](https://dribbble.com/igordvlpr),
-[Adobe Photoshop](https://dribbble.com/igordvlpr), 
- 
+[Adobe Photoshop](https://dribbble.com/igordvlpr),  
 🦂 **Scripting**:
 [PowerShell](https://github.com/igorskyflyer/?tab=repositories&q=powershell),
 [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash),
 [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch),  
-
 🛠️ **Tooling**:
 webpack,
 Snowpack,
@@ -83,13 +78,10 @@ AVA,
 [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"),
 ESLint,
 [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
-
 🦖 **Extensibility**:
 [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode),
 Chrome API,  
-
 🌈 **Customizability**: Visual Sudio Code theme,  
-
 🥊 **IDE**:
 Visual Studio Code 💘,
 Visual Studio,
