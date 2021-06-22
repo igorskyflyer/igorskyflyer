@@ -54,6 +54,7 @@ C,
 📱 **Mobile**:
 Xamarin,
 Kotlin,
+[Java (Android)](https://github.com/igorskyflyer?tab=repositories&language=java),
 MortScript (Windows Mobile 6.5),  
 🕊️ **Cross-platform**:
 [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron),
