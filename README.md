@@ -78,7 +78,7 @@ Snowpack,
 AVA,
 [Mocha](https://github.com/igorskyflyer?tab=repositories&language=mocha),
 [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"),
-ESLint,
+[ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint),
 [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**:
 [Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode),
