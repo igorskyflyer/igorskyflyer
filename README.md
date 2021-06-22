@@ -13,7 +13,7 @@ Let me tell you something about what I do. 🏄
 
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
-📮 <em><b>Announcement</b></em> &gt; <br>
+📢 <em><b>Announcement</b></em> &gt; <br>
 3D Cube met Electron, see them together <a href="https://github.com/igorskyflyer/electron-3d-cube">here</a>. 🎉
 </p>
 
@@ -96,7 +96,6 @@ Android Studio.
   
 <br>
 
-📢 recently published **[@igor.dvlpr/regkeys](https://www.npmjs.com/package/@igor.dvlpr/regkeys)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**, **[node-clone-js](https://www.npmjs.com/package/node-clone-js)**,  
 🎀 like publishing modules on **[NPM](https://www.npmjs.com/~igor.dvlpr)**,  
