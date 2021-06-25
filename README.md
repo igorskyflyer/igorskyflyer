@@ -14,10 +14,10 @@ Let me tell you something about what I do. 🏄
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
-<a href="https://github.com/igorskyflyer/my-pens/tree/main/interactive-3d-cube">3D Cube</a> met Electron, see them together <a href="https://github.com/igorskyflyer/electron-3d-cube">here</a>. 🎉
+My new Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> is available. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 20 June 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 25 June 2021</sub></em></p>
 
 <br>
 
@@ -99,7 +99,7 @@ Android Studio.
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[uPath](https://github.com/igorskyflyer/npm-upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**,  
 🎀 like publishing modules on **[NPM](https://www.npmjs.com/~igor.dvlpr)**,  
-🧃 am preparing a **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extension,  
+🧃 like publishing **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,  
 🎠 like publishing packages on **[Packagist](https://packagist.org/users/igordvlpr/packages/)**,  
 💫 am currently working on building my portfolio website,  
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
