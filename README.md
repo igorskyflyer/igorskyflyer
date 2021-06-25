@@ -82,8 +82,8 @@ AVA,
 [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint),
 [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript),  
 🦖 **Extensibility**:
-[Visual Studio Code API](https://github.com/igorskyflyer?tab=repositories&q=vscode),
-Chrome API,  
+[Visual Studio Code extensions](https://github.com/igorskyflyer?tab=repositories&q=vscode),
+Chrome extensions,  
 🌈 **Customizability**: Visual Sudio Code theme,  
 🥊 **IDE**:
 Visual Studio Code 💘,
