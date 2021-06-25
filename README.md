@@ -98,9 +98,9 @@ Android Studio.
 
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**,  
-🎀 like crafting modules on **[NPM](https://www.npmjs.com/~igor.dvlpr)**,  
+🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules,  
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,  
-🎠 like making packages on **[Packagist](https://packagist.org/users/igordvlpr/packages/)**,  
+🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
 💫 am currently working on building my portfolio website,  
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
 🙌 am constantly creating open-source projects that help the dev-community,  
