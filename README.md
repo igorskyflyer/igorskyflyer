@@ -122,7 +122,7 @@ Android Studio.
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
 🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs)** repository,  
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
-🎮 play **[Mobile Legends: Bang Bang](https://mobilelegends.com/en)** in my spare time - join me, Roger 🐺 here,  
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main Roger 🐺 and Cyclops 🧙‍♂️ here,  
 🐬 am a firm believer in **autodidacticism**,  
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗  
