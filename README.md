@@ -21,9 +21,11 @@ My new Visual Studio Code extension <a href="https://marketplace.visualstudio.co
 
 <br>
 
+<!--- let's hide this for now
 <p align="center">
  <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</b></sub>
 </p>
+-->
 
 <br>
 
