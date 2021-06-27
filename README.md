@@ -99,7 +99,7 @@ Android Studio.
 <br>
 
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
-👀 recently updated **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**, **[mp3-size](https://www.npmjs.com/package/mp3size)**,  
+👀 recently updated **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**,  
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules,  
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,  
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
