@@ -99,7 +99,7 @@ Chrome extensions,
 <br>
 
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
-👀 recently updated **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**, **[encode-entities](https://www.npmjs.com/package/encode-entities)**,  
+👀 recently updated **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**, **[mapped-replacer](https://www.npmjs.com/package/mapped-replacer)**,  
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules,  
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,  
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
