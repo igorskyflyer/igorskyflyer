@@ -14,10 +14,10 @@ Let me tell you something more about what I do. 🏄
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
-My new Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> is available. 🎉
+My new Visual Studio Code custom <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">FolderPicker UI</a> is available. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 25 June 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 12 Jule 2021</sub></em></p>
 
 <br>
 
@@ -111,13 +111,13 @@ Chrome extensions,
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**,  
 &nbsp; &nbsp; &nbsp; like:  
-> 🔳 [3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
-> 💠 [Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
-> 🛣️ [CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
-> 💻 [CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
-> 🍦 [CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
-> 📱 [CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
-> 🎷 [Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb), and  
+> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
+> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
+> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
+> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
+> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
+> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
+> 🎷 &nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb), and  
 > ♾️ still to come.
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
