@@ -88,7 +88,7 @@ AVA,
 Chrome extensions,  
 🌈 **Customizability**: [Visual Sudio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme),  
 🥊 **IDE**:
-[`Visual Studio Code`](https://code.visualstudio.com) 💘,
+[`Visual Studio Code 💘`](https://code.visualstudio.com),
 [`Visual Studio`](https://visualstudio.microsoft.com),
 [`Android Studio`](https://developer.android.com/studio).  
 
