@@ -46,7 +46,7 @@ Express.js,
 SQLite,
 [`Bootstrap`](https://github.com/igorskyflyer?tab=repositories&q=bootstrap),
 MySQL,
-[`Wordpress`](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce),
+[`Wordpress`](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [`Woocommerce`](https://github.com/igorskyflyer?tab=repositories&q=woocommerce),
 PWA,  
 🖥️ **Desktop**:
 [`C#`](https://github.com/igorskyflyer?tab=repositories&language=c%23),
