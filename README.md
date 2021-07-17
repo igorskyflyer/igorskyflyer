@@ -17,7 +17,7 @@ Let me tell you something more about what I do. 🏄
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 16 Jule 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 16 July 2021</sub></em></p>
 
 <br>
 
