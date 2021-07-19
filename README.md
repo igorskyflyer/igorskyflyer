@@ -15,9 +15,11 @@ Let me tell you something more about what I do. 🏄
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a>. 🎉
+<br>
+I squashed a lot of bugs in <a href="https://github.com/igorskyflyer/npm-zep"><code>Zep()</code></a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 16 July 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 20 July 2021</sub></em></p>
 
 <br>
 
