@@ -16,6 +16,7 @@ Let me tell you something more about what I do. 🏄
 📢 <em><b>Announcement</b></em> &gt; <br>
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a>. 🎉
 <br>
+<br>
 I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-comment-it"><code>CommentIt!</code></a>. 🎉
 </p>
 
