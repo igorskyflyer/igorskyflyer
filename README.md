@@ -20,7 +20,7 @@ I made huge improvements to my Visual Studio Code extension <a href="https://mar
 I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-comment-it"><code>CommentIt!</code></a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 25 July 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 27 July 2021</sub></em></p>
 
 <br>
 
