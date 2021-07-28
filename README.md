@@ -170,7 +170,7 @@ Any type of support is more than welcome. 🙂
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=2700&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
   <br>
   <sub><em>My Github profile metrics</em></sub>
   <br>
