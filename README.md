@@ -139,16 +139,9 @@ Chrome extensions,
 
 ### 🌟 SHOWCASE 🌟
 
-```javascript
-// Wait while I pick the projects 🥴
-
-githubDo((bio) => {
-  const showcase = bio.section('showcase')
-  const projects = git.getShowcaseProjects()
-
-  bio.appendTo(showcase, projects)
-})
-```
+![Zep](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight)  
+![WinDev](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight)  
+![RecursiveReadDir](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight)  
 
 <br>
 
