@@ -75,8 +75,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 📜 am an owner of more than **30** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
-🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**,
-&nbsp; &nbsp; &nbsp; like:
+🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, like:
 
 > 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
 > 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
@@ -107,7 +106,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <p align="center">
 	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight" alt="RecursiveReadDir"></a>
-	<a href="https://github.com/igorskyflyer/npm-comment-it"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-comment-it&show_owner=true&theme=tokyonight" alt="CommentIt!"></a>
+	<a href="https://github.com/igorskyflyer/npm-snooze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-snooze&show_owner=true&theme=tokyonight" alt="Snooze!"></a>
 </p>
 
 <br>
