@@ -106,7 +106,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <p align="center">
 	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight" alt="RecursiveReadDir"></a>
-	<a href="https://github.com/igorskyflyer/npm-snooze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-snooze&show_owner=true&theme=tokyonight" alt="Snooze!"></a>
+	<a href="https://github.com/igorskyflyer/vscode-new-folder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=vscode-new-folder&show_owner=true&theme=tokyonight" alt="New Folder Visual Studio Code"></a>
 </p>
 
 <br>
