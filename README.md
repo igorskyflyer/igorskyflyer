@@ -139,9 +139,9 @@ Chrome extensions,
 
 ### 🌟 SHOWCASE 🌟
 
-![Zep](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight)  
-![WinDev](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight)  
-![RecursiveReadDir](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight)  
+[![Zep](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight)](https://github.com/igorskyflyer/npm-zep)  
+[![WinDev](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight)](https://github.com/igorskyflyer/npm-windev)  
+[![RecursiveReadDir](https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight)](https://github.com/igorskyflyer/npm-recursive-readdir)  
 
 <br>
 
