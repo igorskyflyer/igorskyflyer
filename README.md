@@ -63,37 +63,37 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,
-🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,
-👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
-🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules,
-🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,
-🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,
-💫 am currently working on building my portfolio website,
-🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,
-🙌 am constantly creating open-source projects that help the dev-community,
-📜 am an owner of more than **30** programming certificates,
-👯 am looking to collaborate on exciting and challenging projects,
-🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,
+🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
+🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
+👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
+🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules,  
+🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions,  
+🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
+💫 am currently working on building my portfolio website,  
+🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
+🙌 am constantly creating open-source projects that help the dev-community,  
+📜 am an owner of more than **30** programming certificates,  
+👯 am looking to collaborate on exciting and challenging projects,  
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**,
 &nbsp; &nbsp; &nbsp; like:
 
-> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),
-> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),
-> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),
-> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),
-> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),
-> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),
-> 🎷 &nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and
-> ♾️ still to come.
+> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
+> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
+> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
+> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
+> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
+> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
+> 🎷 &nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and  
+> ♾️ still to come.  
 
-🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,
-🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,
-🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository,
-🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,
-🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main Roger 🐺, Cyclops 🧙‍♂️ and Bane 🐙 here,
-🐬 am a firm believer in **autodidacticism**,
-🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,
+🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
+🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
+🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository,  
+🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main Roger 🐺, Cyclops 🧙‍♂️ and Bane 🐙 here,  
+🐬 am a firm believer in **autodidacticism**,  
+🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗
 
 <br>
