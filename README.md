@@ -36,25 +36,16 @@ I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-comm
 <br>
 
 🌎 **Web**:
-[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA.
-
-🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi).
-
+[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA.  
+🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), C, [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi).  
 📱 **Mobile**:
-Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5).
-
-🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Python.
-
-🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr).
-
-🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch).
-
-🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript).
-
-🦖 **Extensibility**: [Visual Studio Code extensions](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions.
-
-🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme).
-
+Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5).  
+🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), Python.  
+🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr).  
+🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch).  
+🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), webpack, Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript).  
+🦖 **Extensibility**: [Visual Studio Code extensions](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions.  
+🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme).  
 🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio).
 
 <br>
@@ -103,7 +94,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep"></a>
 	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight&hide_border=true" alt="WinDev"></a>
 	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir"></a>
-	<a href="https://github.com/igorskyflyer/npm-mapped-replacer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-mapped-replace&show_owner=true&theme=tokyonight&hide_border=true" alt="MappedReplacer"></a>
+	<a href="https://github.com/igorskyflyer/npm-mapped-replacer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-mapped-replacer&show_owner=true&theme=tokyonight&hide_border=true" alt="MappedReplacer"></a>
 </p>
 
 <br>
