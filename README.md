@@ -54,7 +54,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-☄️ am in the process of converting my [CommonJS](https://nodejs.org/docs/latest/api/modules.html#modules_modules_commonjs_modules) npm packages to [ES modules](https://nodejs.org/api/esm.html),  
+☄️ am in the process of converting my **[CommonJS](https://nodejs.org/docs/latest/api/modules.html#modules_modules_commonjs_modules)** npm packages to **[ES modules](https://nodejs.org/api/esm.html)**,  
 🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
@@ -82,7 +82,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
 🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository,  
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
-🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main [Roger](https://mobilelegends.com/en/hero/39) 🐺, [Cyclops](https://mobilelegends.com/en/hero/33) 🧙‍♂️ and [Bane](https://mobilelegends.com/en/hero/11) 🐙 here,  
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
 🐬 am a firm believer in **autodidacticism**,  
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗
