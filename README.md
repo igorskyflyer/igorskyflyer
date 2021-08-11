@@ -1,6 +1,6 @@
 ### 🤖 **igorskyflyer@github:~$**
 
-## Hi! 👋
+## Hello world! 👋
 
 <br>
 
