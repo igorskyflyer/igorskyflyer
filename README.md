@@ -79,6 +79,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 > ♾️ still to come.  
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
+📝 post snippets on my **[Gist](https://gist.github.com/igorskyflyer)**,  
 🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
 🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository,  
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
