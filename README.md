@@ -18,10 +18,10 @@ Let me tell you something more about what I do. 🏄
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a>. 🎉
 <br>
 <br>
-I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-comment-it"><code>CommentIt!</code></a>. 🎉
+I published a new Visual Studio Code extension, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 27 July 2021</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 Sep</sub></em></p>
 
 <br>
 
