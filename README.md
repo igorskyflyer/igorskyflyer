@@ -21,7 +21,7 @@ I made huge improvements to my Visual Studio Code extension <a href="https://mar
 I published a new Visual Studio Code extension, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a>. 🎉
 </p>
 
-<p align="right"><em><sub>🗓️ 10 Sep</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 Sep 2021</sub></em></p>
 
 <br>
 
