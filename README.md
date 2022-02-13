@@ -129,6 +129,9 @@ Any type of support is more than welcome. 🙂
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=12&card_width=445&hide_border=true&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
  <br>
  <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
+ <br>
+ <br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&background=1a1b27&border=30363d&stroke=30363d&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak">
 </p>
 
 <br>
