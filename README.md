@@ -132,6 +132,8 @@ Any type of support is more than welcome. 🙂
  <br>
  <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&background=1a1b27&border=30363d&stroke=30363d&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak">
+ <br>
+ <sub><em>Shows how much I contribute on a daily basis</em></sub>
 </p>
 
 <br>
