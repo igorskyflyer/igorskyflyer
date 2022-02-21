@@ -15,13 +15,13 @@ Let me tell you something more about what I do. 🏄
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
-I released an AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/adblock-only-major-adservers-filter">AdBlock major ad servers filter</a>. 🎉
+I released an AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/adblock-only-major-adservers-filter">AdBlock major ad servers filter</a> 🎉
 <br>
 <br>
-I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> repository. 🎉
+I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> repository 🎉
 <br>
 <br>
-I published a new Visual Studio Code extension, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a>. 🎉
+I published a new Visual Studio Code extension, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🎉
 </p>
 
 <p align="right"><em><sub>🗓️ 17 Feb 2022</sub></em></p>
