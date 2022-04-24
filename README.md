@@ -146,7 +146,7 @@ Any type of support is more than welcome. 🙂
   <sub>“<em>Consistency is key</em>”</sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&no-bg=true&theme=onestar&column=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3">
   <sub><em>My GitHub trophies</em></sub>
 </p>
 
