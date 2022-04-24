@@ -132,14 +132,22 @@ Any type of support is more than welcome. 🙂
   <sub><em>My Github profile metrics</em></sub>
   <br>
   <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorskyflyer&theme=tokyonight">
+  <sub><em>My Github profile summary</em></sub>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=12&card_width=445&hide_border=true&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
- <br>
- <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
- <br>
- <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats">
- <br>
- <sub><em>Consistency is key</em></sub>
+  <br>
+  <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats">
+  <br>
+  <sub><em>Consistency is key</em></sub>
+  <br>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&no-bg=true&theme=onestar&column=3">
+  <sub><em>My GitHub trophies</em></sub>
 </p>
 
 <br>
