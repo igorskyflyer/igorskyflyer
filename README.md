@@ -109,6 +109,12 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
+### 🥊 RECENT ACTIVITY 🪁
+<br>
+<!--START_SECTION:activity-->
+
+<br>
+
 ### 📬 CONTACT 📬
 
 Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> (currently not available) or Whatsapp for business inquiries, exciting projects, etc. 🦜
