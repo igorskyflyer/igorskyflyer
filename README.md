@@ -109,7 +109,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-### 🥊 RECENT ACTIVITY 🪁
+### ⏰ RECENT ACTIVITY 🪁
 <br>
 
 <!--START_SECTION:activity-->
