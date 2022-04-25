@@ -111,6 +111,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 ### 🥊 RECENT ACTIVITY 🪁
 <br>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#41](https://github.com/igorskyflyer/ad-void/issues/41) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 2. ❗️ Closed issue [#40](https://github.com/igorskyflyer/ad-void/issues/40) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
