@@ -140,13 +140,14 @@ Any type of support is more than welcome. 🙂
 <br>
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorskyflyer&theme=tokyonight">
+  <br>
+  <sub><em>My Github profile summary</em></sub>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=2700&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
   <br>
   <sub><em>My Github profile metrics</em></sub>
-  <br>
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorskyflyer&theme=tokyonight">
-  <sub><em>My Github profile summary</em></sub>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=12&card_width=445&hide_border=true&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
@@ -160,6 +161,7 @@ Any type of support is more than welcome. 🙂
   <br>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3">
+  <br>
   <sub><em>My GitHub trophies</em></sub>
 </p>
 
