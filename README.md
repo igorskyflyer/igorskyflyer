@@ -34,7 +34,7 @@ I published a new Visual Studio Code extension <a href="https://marketplace.visu
 
 <br>
 
-### ⚡ MY TECH STACK ⚡
+<h3 align="center">⚡ MY TECH STACK ⚡</h3>
 
 <br>
 
@@ -96,7 +96,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-### 🌟 SHOWCASE 🌟
+<h3 align="center">🌟 SHOWCASE 🌟</h3>
 
 <p align="center">
         <a href="https://github.com/igorskyflyer/npm-modern-module"><img src="https://github-readme-stats.vercel.app/api/pin/?username=igorskyflyer&repo=npm-modern-module&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir"></a>
@@ -109,7 +109,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-### ⏰ RECENT ACTIVITY 🪁
+<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <br>
 
 <!--START_SECTION:activity-->
@@ -122,20 +122,20 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-### 📬 CONTACT 📬
+<h3 align="center">📬 CONTACT 📬</h3>
 
 Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> (currently not available) or Whatsapp for business inquiries, exciting projects, etc. 🦜
 
 <br>
 
-### 🎁 SUPPORT 🎁
+<h3 align="center">🎁 SUPPORT 🎁</h3>
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
 Any type of support is more than welcome. 🙂
 
 <br>
 
-### 🔥 STATISTICS 🔥
+<h3 align="center">🔥 STATISTICS 🔥</h3>
 
 <br>
 
