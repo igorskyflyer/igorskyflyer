@@ -1,4 +1,4 @@
-name: Update activity
+name: Self-update
 
 on:
   schedule:
