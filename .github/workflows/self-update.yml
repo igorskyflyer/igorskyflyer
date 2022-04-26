@@ -1,4 +1,4 @@
-name: Self-update
+name: self-update
 
 on:
   schedule:
