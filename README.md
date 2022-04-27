@@ -140,7 +140,7 @@ Any type of support is more than welcome. 🙂
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorskyflyer&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorskyflyer&theme=tokyonight" style="max-width: 495px">
   <br>
   <sub><em>My Github profile summary</em></sub>
   <br>
