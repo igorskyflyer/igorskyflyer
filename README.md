@@ -57,7 +57,6 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-☄️ am in the process of converting my **[CommonJS](https://nodejs.org/docs/latest/api/modules.html#modules_modules_commonjs_modules)** npm packages to **[ES modules](https://nodejs.org/api/esm.html)**,  
 🌹 can help you block pesky ads & trackers using an AdBlock filter I am developing 👉🏻 **[AdVoid](https://github.com/igorskyflyer/ad-void)**,  
 🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
