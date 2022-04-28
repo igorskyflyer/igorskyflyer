@@ -113,11 +113,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-modern-module/issues/2) in [igorskyflyer/npm-modern-module](https://github.com/igorskyflyer/npm-modern-module)
-2. ❗️ Closed issue [#1](https://github.com/igorskyflyer/npm-modern-module/issues/1) in [igorskyflyer/npm-modern-module](https://github.com/igorskyflyer/npm-modern-module)
-3. ❗️ Closed issue [#42](https://github.com/igorskyflyer/ad-void/issues/42) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🗣 Commented on [#42](https://github.com/igorskyflyer/ad-void/issues/42) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Closed issue [#36](https://github.com/igorskyflyer/ad-void/issues/36) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#37](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/37) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+2. 🗣 Commented on [#37](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/37) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+3. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-uarray/issues/10) in [igorskyflyer/npm-uarray](https://github.com/igorskyflyer/npm-uarray)
+4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-uarray/issues/9) in [igorskyflyer/npm-uarray](https://github.com/igorskyflyer/npm-uarray)
+5. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-uarray/issues/8) in [igorskyflyer/npm-uarray](https://github.com/igorskyflyer/npm-uarray)
 <!--END_SECTION:activity-->
 
 <br>
