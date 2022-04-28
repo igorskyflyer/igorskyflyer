@@ -113,11 +113,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗️ Opened issue [#42](https://github.com/igorskyflyer/ad-void/issues/42) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗️ Opened issue [#40](https://github.com/igorskyflyer/ad-void/issues/40) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Closed issue [#39](https://github.com/igorskyflyer/ad-void/issues/39) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-modern-module/issues/2) in [igorskyflyer/npm-modern-module](https://github.com/igorskyflyer/npm-modern-module)
+2. ❗️ Closed issue [#1](https://github.com/igorskyflyer/npm-modern-module/issues/1) in [igorskyflyer/npm-modern-module](https://github.com/igorskyflyer/npm-modern-module)
+3. ❗️ Closed issue [#42](https://github.com/igorskyflyer/ad-void/issues/42) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 🗣 Commented on [#42](https://github.com/igorskyflyer/ad-void/issues/42) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗️ Closed issue [#36](https://github.com/igorskyflyer/ad-void/issues/36) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
