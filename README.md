@@ -12,6 +12,20 @@ Let me tell you something more about what I do. 🏄
 <br>
 <br>
 
+<h3 align="center">🙆🏻‍♂️ SOCIALS 🥳</h3>
+
+<div align="center">
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36"></a>
+ <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36"></a>
+</div>
+
+<br>
+<br>
+
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
