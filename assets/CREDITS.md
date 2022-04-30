@@ -1,14 +1,40 @@
+<div align="center">
+  <h4>Icons used in this repository:</h4>
+  <br>
 
-Icons used in this repository:
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Pixel perfect - Flaticon</a>
+  <br>
+  <br>
 
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Pixel perfect - Flaticon</a>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>
+  <br>
+  <br>
 
-<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/dribbble" title="dribbble icons">Dribbble icons created by Ruslan Babkin - Flaticon</a>
+  <br>
+  <br>
 
-<a href="https://www.flaticon.com/free-icons/dribbble" title="dribbble icons">Dribbble icons created by Ruslan Babkin - Flaticon</a>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+  <br>
+  <br>
 
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Ruslan Babkin - Flaticon</a>
+  <br>
+  <br>
 
-<a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Ruslan Babkin - Flaticon</a>
-
-<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Ruslan Babkin - Flaticon</a>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png">
+  <br>
+  <a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Ruslan Babkin - Flaticon</a>
+  <br>
+  <br>
+</div>
