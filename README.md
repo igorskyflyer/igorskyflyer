@@ -15,12 +15,12 @@ Let me tell you something more about what I do. 🏄
 <h3 align="center">🙆🏻‍♂️ SOCIALS 🥳</h3>
 
 <div align="center">
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36"></a>
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36"></a>
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36"></a>
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36"></a>
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36"></a>
- <a href=""><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36"></a>
+ <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36"></a>
+ <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36"></a>
+ <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36"></a>
+ <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36"></a>
+ <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36"></a>
+ <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36"></a>
 </div>
 
 <br>
