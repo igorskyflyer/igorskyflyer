@@ -69,4 +69,8 @@
   <br>
   
   <br>
+
+<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/node-js.png">
+  <br>
+<a href="https://iconscout.com/icons/node-js" target="_blank">Node Js Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
 </div>
