@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h4>Icons used in this repository:</h4>
   <br>
 
@@ -7,6 +7,16 @@
   <br>
 
   <a href="https://beacons.ai" title="Beacon.ai icon">Beacons.ai</a>
+
+<br>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png">
+
+  <br>
+
+  <a href="https://codepen.io" title="Codepen icon">Codepen.io</a>
 
 <br>
 
