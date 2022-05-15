@@ -134,13 +134,13 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 🗣 Commented on [#47](https://github.com/igorskyflyer/ad-void/issues/47) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗️ Closed issue [#47](https://github.com/igorskyflyer/ad-void/issues/47) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 4. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🗣 Commented on [#18](https://github.com/igorskyflyer/vscode-open-in-browser/issues/18) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
-7. 🗣 Commented on [#47](https://github.com/igorskyflyer/ad-void/issues/47) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. ❗️ Opened issue [#47](https://github.com/igorskyflyer/ad-void/issues/47) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
