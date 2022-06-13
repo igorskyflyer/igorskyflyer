@@ -133,12 +133,12 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗️ Closed issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. ❗️ Opened issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗️ Opened issue [#49](https://github.com/igorskyflyer/ad-void/issues/49) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Closed issue [#48](https://github.com/igorskyflyer/ad-void/issues/48) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. ❗️ Closed issue [#47](https://github.com/igorskyflyer/ad-void/issues/47) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#51](https://github.com/igorskyflyer/ad-void/issues/51) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗️ Opened issue [#51](https://github.com/igorskyflyer/ad-void/issues/51) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗️ Closed issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗️ Opened issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. ❗️ Opened issue [#49](https://github.com/igorskyflyer/ad-void/issues/49) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 7. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 8. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
