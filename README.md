@@ -133,8 +133,8 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/igorskyflyer/ad-void/issues/51) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗️ Opened issue [#51](https://github.com/igorskyflyer/ad-void/issues/51) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#52](https://github.com/igorskyflyer/ad-void/issues/52) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗️ Opened issue [#52](https://github.com/igorskyflyer/ad-void/issues/52) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 3. 🗣 Commented on [#6](https://github.com/igorskyflyer/ad-void/issues/6) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 4. ❗️ Closed issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. ❗️ Opened issue [#50](https://github.com/igorskyflyer/ad-void/issues/50) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
