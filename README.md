@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/igorskyflyer/vscode-new-folder/issues/25) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
-2. 🗣 Commented on [#25](https://github.com/igorskyflyer/vscode-new-folder/issues/25) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
-3. ❗️ Closed issue [#31](https://github.com/igorskyflyer/vscode-new-folder/issues/31) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
-4. ❗️ Closed issue [#59](https://github.com/igorskyflyer/ad-void/issues/59) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Opened issue [#59](https://github.com/igorskyflyer/ad-void/issues/59) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. ❗️ Closed issue [#48](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/48) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
-7. ❗️ Closed issue [#47](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/47) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
-8. ❗️ Closed issue [#46](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/46) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+1. 🗣 Commented on [#31](https://github.com/igorskyflyer/vscode-new-folder/issues/31) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+2. ❗️ Closed issue [#30](https://github.com/igorskyflyer/vscode-new-folder/issues/30) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+3. ❗️ Closed issue [#29](https://github.com/igorskyflyer/vscode-new-folder/issues/29) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+4. ❗️ Closed issue [#28](https://github.com/igorskyflyer/vscode-new-folder/issues/28) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+5. ❗️ Closed issue [#27](https://github.com/igorskyflyer/vscode-new-folder/issues/27) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+6. ❗️ Closed issue [#26](https://github.com/igorskyflyer/vscode-new-folder/issues/26) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+7. ❗️ Closed issue [#25](https://github.com/igorskyflyer/vscode-new-folder/issues/25) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
+8. 🗣 Commented on [#25](https://github.com/igorskyflyer/vscode-new-folder/issues/25) in [igorskyflyer/vscode-new-folder](https://github.com/igorskyflyer/vscode-new-folder)
 <!--END_SECTION:activity-->
 
 <br>
