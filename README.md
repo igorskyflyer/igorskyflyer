@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/igorskyflyer/npm-comment-it/issues/51) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-2. ❗️ Opened issue [#51](https://github.com/igorskyflyer/npm-comment-it/issues/51) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-3. ❗️ Closed issue [#29](https://github.com/igorskyflyer/npm-comment-it/issues/29) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-4. ❗️ Closed issue [#30](https://github.com/igorskyflyer/npm-comment-it/issues/30) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-5. ❗️ Closed issue [#31](https://github.com/igorskyflyer/npm-comment-it/issues/31) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-6. ❗️ Closed issue [#32](https://github.com/igorskyflyer/npm-comment-it/issues/32) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-7. ❗️ Closed issue [#34](https://github.com/igorskyflyer/npm-comment-it/issues/34) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-8. ❗️ Closed issue [#33](https://github.com/igorskyflyer/npm-comment-it/issues/33) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+1. ❗️ Opened issue [#53](https://github.com/igorskyflyer/npm-comment-it/issues/53) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+2. ❗️ Opened issue [#52](https://github.com/igorskyflyer/npm-comment-it/issues/52) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+3. ❗️ Closed issue [#51](https://github.com/igorskyflyer/npm-comment-it/issues/51) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+4. ❗️ Opened issue [#51](https://github.com/igorskyflyer/npm-comment-it/issues/51) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+5. ❗️ Closed issue [#29](https://github.com/igorskyflyer/npm-comment-it/issues/29) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+6. ❗️ Closed issue [#30](https://github.com/igorskyflyer/npm-comment-it/issues/30) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+7. ❗️ Closed issue [#31](https://github.com/igorskyflyer/npm-comment-it/issues/31) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+8. ❗️ Closed issue [#32](https://github.com/igorskyflyer/npm-comment-it/issues/32) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
 <!--END_SECTION:activity-->
 
 <br>
