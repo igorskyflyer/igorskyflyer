@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-regkeys/issues/10) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
-2. ❗️ Opened issue [#10](https://github.com/igorskyflyer/npm-regkeys/issues/10) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
-3. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-regkeys/issues/9) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
-4. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-regkeys/issues/7) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
-5. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-regkeys/issues/8) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
-6. ❗️ Closed issue [#54](https://github.com/igorskyflyer/npm-comment-it/issues/54) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-7. ❗️ Opened issue [#54](https://github.com/igorskyflyer/npm-comment-it/issues/54) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-8. ❗️ Closed issue [#52](https://github.com/igorskyflyer/npm-comment-it/issues/52) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+1. ❗️ Closed issue [#65](https://github.com/igorskyflyer/ad-void/issues/65) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗️ Opened issue [#65](https://github.com/igorskyflyer/ad-void/issues/65) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-regkeys/issues/10) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
+4. ❗️ Opened issue [#10](https://github.com/igorskyflyer/npm-regkeys/issues/10) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
+5. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-regkeys/issues/9) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
+6. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-regkeys/issues/7) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
+7. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-regkeys/issues/8) in [igorskyflyer/npm-regkeys](https://github.com/igorskyflyer/npm-regkeys)
+8. ❗️ Closed issue [#54](https://github.com/igorskyflyer/npm-comment-it/issues/54) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
 <!--END_SECTION:activity-->
 
 <br>
