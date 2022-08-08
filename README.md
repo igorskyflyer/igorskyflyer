@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/igorskyflyer/ad-void/issues/68) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗️ Closed issue [#67](https://github.com/igorskyflyer/ad-void/issues/67) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. ❗️ Opened issue [#67](https://github.com/igorskyflyer/ad-void/issues/67) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗️ Closed issue [#66](https://github.com/igorskyflyer/ad-void/issues/66) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Opened issue [#66](https://github.com/igorskyflyer/ad-void/issues/66) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. ❗️ Closed issue [#55](https://github.com/igorskyflyer/npm-comment-it/issues/55) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-7. ❗️ Opened issue [#55](https://github.com/igorskyflyer/npm-comment-it/issues/55) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
-8. ❗️ Closed issue [#65](https://github.com/igorskyflyer/ad-void/issues/65) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Opened issue [#70](https://github.com/igorskyflyer/ad-void/issues/70) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗️ Closed issue [#69](https://github.com/igorskyflyer/ad-void/issues/69) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗️ Opened issue [#69](https://github.com/igorskyflyer/ad-void/issues/69) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗️ Opened issue [#68](https://github.com/igorskyflyer/ad-void/issues/68) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗️ Closed issue [#67](https://github.com/igorskyflyer/ad-void/issues/67) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. ❗️ Opened issue [#67](https://github.com/igorskyflyer/ad-void/issues/67) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. ❗️ Closed issue [#66](https://github.com/igorskyflyer/ad-void/issues/66) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. ❗️ Opened issue [#66](https://github.com/igorskyflyer/ad-void/issues/66) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
