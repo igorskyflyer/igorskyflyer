@@ -88,7 +88,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 💫 am currently working on building my portfolio website,  
 🌱 am currently learning **[React](https://reactjs.org)** + **[Gatsby](https://www.gatsbyjs.com)** and **[Flutter](https://flutter.dev)** + **[Dart](https://dart.dev)**,  
 🙌 am constantly creating open-source projects that help the dev-community,  
-📜 own more than **30** programming certificates,  
+📜 own more than **`30`** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
 🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, like:
