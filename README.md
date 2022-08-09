@@ -12,7 +12,7 @@ Let me tell you something more about what I do. 🏄
 <br>
 <br>
 
-<h3 align="center">🙆🏻‍♂️ SOCIALS 🥳</h3>
+<h3 align="center">🙆🏻‍♂️ LET'S CONNECT  🥳</h3>
 
 <div align="center">
  <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36"></a>
