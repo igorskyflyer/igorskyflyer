@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/igorskyflyer/ad-void/pull/77) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#77](https://github.com/igorskyflyer/ad-void/pull/77) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#76](https://github.com/igorskyflyer/ad-void/pull/76) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#76](https://github.com/igorskyflyer/ad-void/pull/76) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#75](https://github.com/igorskyflyer/ad-void/pull/75) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#75](https://github.com/igorskyflyer/ad-void/pull/75) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#74](https://github.com/igorskyflyer/ad-void/pull/74) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#74](https://github.com/igorskyflyer/ad-void/pull/74) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-simple-exec/issues/9) in [igorskyflyer/npm-simple-exec](https://github.com/igorskyflyer/npm-simple-exec)
+2. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-simple-exec/issues/10) in [igorskyflyer/npm-simple-exec](https://github.com/igorskyflyer/npm-simple-exec)
+3. 🎉 Merged PR [#77](https://github.com/igorskyflyer/ad-void/pull/77) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#77](https://github.com/igorskyflyer/ad-void/pull/77) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#76](https://github.com/igorskyflyer/ad-void/pull/76) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#76](https://github.com/igorskyflyer/ad-void/pull/76) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#75](https://github.com/igorskyflyer/ad-void/pull/75) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#75](https://github.com/igorskyflyer/ad-void/pull/75) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
