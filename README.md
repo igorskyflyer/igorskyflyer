@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-str-is-in/issues/7) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
-2. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-str-is-in/issues/5) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
-3. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-str-is-in/issues/6) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
-4. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-windows-packages/issues/5) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
-5. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-windows-packages/issues/4) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
-6. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-windows-packages/issues/6) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
-7. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-windows-packages/issues/3) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
-8. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-simple-exec/issues/9) in [igorskyflyer/npm-simple-exec](https://github.com/igorskyflyer/npm-simple-exec)
+1. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-mapped-replacer/issues/5) in [igorskyflyer/npm-mapped-replacer](https://github.com/igorskyflyer/npm-mapped-replacer)
+2. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-mapped-replacer/issues/4) in [igorskyflyer/npm-mapped-replacer](https://github.com/igorskyflyer/npm-mapped-replacer)
+3. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-mapped-replacer/issues/3) in [igorskyflyer/npm-mapped-replacer](https://github.com/igorskyflyer/npm-mapped-replacer)
+4. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-str-is-in/issues/7) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
+5. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-str-is-in/issues/5) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
+6. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-str-is-in/issues/6) in [igorskyflyer/npm-str-is-in](https://github.com/igorskyflyer/npm-str-is-in)
+7. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-windows-packages/issues/5) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
+8. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-windows-packages/issues/4) in [igorskyflyer/npm-windows-packages](https://github.com/igorskyflyer/npm-windows-packages)
 <!--END_SECTION:activity-->
 
 <br>
