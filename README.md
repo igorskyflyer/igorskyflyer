@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-is-rootdir/issues/5) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
-2. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-is-rootdir/issues/3) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
-3. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-is-rootdir/issues/4) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
-4. 🎉 Merged PR [#6](https://github.com/igorskyflyer/npm-is-rootdir/pull/6) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
-5. 💪 Opened PR [#6](https://github.com/igorskyflyer/npm-is-rootdir/pull/6) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
-6. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-pathexists/issues/3) in [igorskyflyer/npm-pathexists](https://github.com/igorskyflyer/npm-pathexists)
-7. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-pathexists/issues/2) in [igorskyflyer/npm-pathexists](https://github.com/igorskyflyer/npm-pathexists)
-8. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-pathexists/issues/4) in [igorskyflyer/npm-pathexists](https://github.com/igorskyflyer/npm-pathexists)
+1. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-chars-in-string/issues/3) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+2. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-chars-in-string/issues/4) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+3. 🎉 Merged PR [#5](https://github.com/igorskyflyer/npm-chars-in-string/pull/5) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+4. 💪 Opened PR [#5](https://github.com/igorskyflyer/npm-chars-in-string/pull/5) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+5. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-upath/issues/5) in [igorskyflyer/npm-upath](https://github.com/igorskyflyer/npm-upath)
+6. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-upath/issues/3) in [igorskyflyer/npm-upath](https://github.com/igorskyflyer/npm-upath)
+7. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-upath/issues/4) in [igorskyflyer/npm-upath](https://github.com/igorskyflyer/npm-upath)
+8. 🎉 Merged PR [#6](https://github.com/igorskyflyer/npm-upath/pull/6) in [igorskyflyer/npm-upath](https://github.com/igorskyflyer/npm-upath)
 <!--END_SECTION:activity-->
 
 <br>
