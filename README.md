@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/igorskyflyer/npm-recursive-readdir/issues/25) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-2. 🎉 Merged PR [#26](https://github.com/igorskyflyer/npm-recursive-readdir/pull/26) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-3. 💪 Opened PR [#26](https://github.com/igorskyflyer/npm-recursive-readdir/pull/26) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-4. ❗️ Opened issue [#25](https://github.com/igorskyflyer/npm-recursive-readdir/issues/25) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-5. 🎉 Merged PR [#24](https://github.com/igorskyflyer/npm-recursive-readdir/pull/24) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-6. 💪 Opened PR [#24](https://github.com/igorskyflyer/npm-recursive-readdir/pull/24) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-7. ❗️ Closed issue [#20](https://github.com/igorskyflyer/npm-recursive-readdir/issues/20) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-8. ❗️ Closed issue [#21](https://github.com/igorskyflyer/npm-recursive-readdir/issues/21) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+1. 🎉 Merged PR [#6](https://github.com/igorskyflyer/npm-mp3size/pull/6) in [igorskyflyer/npm-mp3size](https://github.com/igorskyflyer/npm-mp3size)
+2. 💪 Opened PR [#6](https://github.com/igorskyflyer/npm-mp3size/pull/6) in [igorskyflyer/npm-mp3size](https://github.com/igorskyflyer/npm-mp3size)
+3. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-mp3size/issues/5) in [igorskyflyer/npm-mp3size](https://github.com/igorskyflyer/npm-mp3size)
+4. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-mp3size/issues/4) in [igorskyflyer/npm-mp3size](https://github.com/igorskyflyer/npm-mp3size)
+5. ❗️ Opened issue [#5](https://github.com/igorskyflyer/npm-mp3size/issues/5) in [igorskyflyer/npm-mp3size](https://github.com/igorskyflyer/npm-mp3size)
+6. ❗️ Closed issue [#25](https://github.com/igorskyflyer/npm-recursive-readdir/issues/25) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+7. 🎉 Merged PR [#26](https://github.com/igorskyflyer/npm-recursive-readdir/pull/26) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+8. 💪 Opened PR [#26](https://github.com/igorskyflyer/npm-recursive-readdir/pull/26) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
 <!--END_SECTION:activity-->
 
 <br>
