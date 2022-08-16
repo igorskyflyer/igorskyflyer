@@ -133,14 +133,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/igorskyflyer/igorskyflyer/pull/1) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-2. 💪 Opened PR [#1](https://github.com/igorskyflyer/igorskyflyer/pull/1) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-3. 🎉 Merged PR [#78](https://github.com/igorskyflyer/ad-void/pull/78) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#78](https://github.com/igorskyflyer/ad-void/pull/78) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#6](https://github.com/igorskyflyer/npm-clone-js/pull/6) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
-6. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-clone-js/issues/5) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
-7. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-clone-js/issues/4) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
-8. 💪 Opened PR [#6](https://github.com/igorskyflyer/npm-clone-js/pull/6) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
+1. 🎉 Merged PR [#2](https://github.com/igorskyflyer/igorskyflyer/pull/2) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+2. 💪 Opened PR [#2](https://github.com/igorskyflyer/igorskyflyer/pull/2) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+3. 🎉 Merged PR [#1](https://github.com/igorskyflyer/igorskyflyer/pull/1) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+4. 💪 Opened PR [#1](https://github.com/igorskyflyer/igorskyflyer/pull/1) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+5. 🎉 Merged PR [#78](https://github.com/igorskyflyer/ad-void/pull/78) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#78](https://github.com/igorskyflyer/ad-void/pull/78) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#6](https://github.com/igorskyflyer/npm-clone-js/pull/6) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
+8. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-clone-js/issues/5) in [igorskyflyer/npm-clone-js](https://github.com/igorskyflyer/npm-clone-js)
 <!--END_SECTION:activity-->
 
 <br>
