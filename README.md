@@ -178,14 +178,14 @@ Any type of support is more than welcome. 🙂
   <sub>“<em>Consistency is key</em>”</sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3">
-  <br>
-  <sub><em>My GitHub trophies</em></sub>
-  <br>
-  <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=igorskyflyer&theme=github" width="600px"></a>
   <br>
   <sub><em>Commits statistics</em></sub>
+  <br>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&row=1">
+  <br>
+  <sub><em>My GitHub trophies</em></sub>
 </p>
 
 <br>
