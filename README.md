@@ -109,6 +109,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
 👟 love taking long walks & runs,  
 🌱 adore being in touch with nature,  
+⚙️ cherish automatizing things,  
 🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
 🐬 am a firm believer in **autodidacticism**,  
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
