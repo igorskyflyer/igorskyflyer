@@ -177,7 +177,7 @@ Any type of support is more than welcome. 🙂
   <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats">
+  <img src="https://igordvlpr-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats">
   <br>
   <sub><em>Consistency is key</em></sub>
   <br>
