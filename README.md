@@ -48,13 +48,15 @@ I published a new Visual Studio Code extension <a href="https://marketplace.visu
 
 <br>
 
-<!-- <p align="center">
- <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</b></sub>
-</p> -->
-
 <br>
 
 <h3 align="center">⚡ MY TECH STACK ⚡</h3>
+
+<br>
+
+<p align="center">
+ <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</b></sub>
+</p>
 
 <br>
 
