@@ -71,7 +71,8 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript)  
 🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions  
 🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
-🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)
+🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
+❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com)
 
 <br>
 
