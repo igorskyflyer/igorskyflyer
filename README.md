@@ -167,12 +167,12 @@ Any type of support is more than welcome. 🙂
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=2700&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=7200&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
   <br>
   <sub><em>My Github profile metrics</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=20&card_width=445&hide_border=true&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=20&card_width=445&hide_border=true&cache_seconds=7200&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
   <br>
   <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
   <br>
