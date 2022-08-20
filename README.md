@@ -137,14 +137,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-2. 💪 Opened PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-3. 🎉 Merged PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-4. 💪 Opened PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-5. 🎉 Merged PR [#104](https://github.com/igorskyflyer/ad-void/pull/104) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#104](https://github.com/igorskyflyer/ad-void/pull/104) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#10](https://github.com/igorskyflyer/igorskyflyer/pull/10) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-8. 💪 Opened PR [#10](https://github.com/igorskyflyer/igorskyflyer/pull/10) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+1. 🎉 Merged PR [#12](https://github.com/igorskyflyer/igorskyflyer/pull/12) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+2. 💪 Opened PR [#12](https://github.com/igorskyflyer/igorskyflyer/pull/12) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+3. 🎉 Merged PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+4. 💪 Opened PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+5. 🎉 Merged PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+6. 💪 Opened PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+7. 🎉 Merged PR [#104](https://github.com/igorskyflyer/ad-void/pull/104) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#104](https://github.com/igorskyflyer/ad-void/pull/104) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
