@@ -72,7 +72,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions  
 🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
 🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
-❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com)
+❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com), [GitHub Pages](https://github.com)
 
 <br>
 
