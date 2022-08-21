@@ -125,10 +125,15 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <p align="center">
         <a href="https://github.com/igorskyflyer/npm-modern-module"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-modern-module&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
+	<br>
 	<a href="https://github.com/igorskyflyer/robby"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=robby&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
+	<br>
 	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep" align="center"></a>
+	<br>
 	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight&hide_border=true" alt="WinDev" align="center"></a>
+	<br>
 	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
+	<br>
 	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-valid-path&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
 </p>
 
