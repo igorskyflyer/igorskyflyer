@@ -138,14 +138,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/igorskyflyer/wayback-machine/pull/1) in [igorskyflyer/wayback-machine](https://github.com/igorskyflyer/wayback-machine)
-2. 💪 Opened PR [#1](https://github.com/igorskyflyer/wayback-machine/pull/1) in [igorskyflyer/wayback-machine](https://github.com/igorskyflyer/wayback-machine)
-3. 🎉 Merged PR [#12](https://github.com/igorskyflyer/igorskyflyer/pull/12) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-4. 💪 Opened PR [#12](https://github.com/igorskyflyer/igorskyflyer/pull/12) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-5. 🎉 Merged PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-6. 💪 Opened PR [#11](https://github.com/igorskyflyer/igorskyflyer/pull/11) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-7. 🎉 Merged PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-8. 💪 Opened PR [#1](https://github.com/igorskyflyer/github-readme-stats/pull/1) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+1. 🎉 Merged PR [#3](https://github.com/igorskyflyer/npm-zing/pull/3) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
+2. 💪 Opened PR [#3](https://github.com/igorskyflyer/npm-zing/pull/3) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
+3. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-zing/issues/2) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
+4. 🎉 Merged PR [#1](https://github.com/igorskyflyer/npm-zing/pull/1) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
+5. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-zing/issues/2) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
+6. 🎉 Merged PR [#105](https://github.com/igorskyflyer/ad-void/pull/105) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#105](https://github.com/igorskyflyer/ad-void/pull/105) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1](https://github.com/igorskyflyer/npm-zing/pull/1) in [igorskyflyer/npm-zing](https://github.com/igorskyflyer/npm-zing)
 <!--END_SECTION:activity-->
 
 <br>
