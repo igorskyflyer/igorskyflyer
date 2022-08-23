@@ -55,7 +55,7 @@ I published a new Visual Studio Code extension <a href="https://marketplace.visu
 <br>
 
 <p align="center">
- <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it 🏄‍</b></sub>
+ <sub><b>🌊 Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it – where applicable 🏄‍</b></sub>
 </p>
 
 <br>
