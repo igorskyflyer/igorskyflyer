@@ -62,30 +62,18 @@ I published a new Visual Studio Code extension <a href="https://marketplace.visu
 
 🌎 **Web**:
 [HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA  
-
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), [C](https://github.com/igorskyflyer?tab=repositories&language=c), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)  
-
 📱 **Mobile**:
 Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)  
-
 🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python)  
-
 🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr), [Affinity Photo](https://dribbble.com/igordvlpr), [paint.net](https://www.getpaint.net/), [Microsoft Blend](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio)  
-
 🕹 **Game**: [Unity](https://unity.com)  
-
 🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)  
-
 🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), Snowpack, [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Composer](https://github.com/igorskyflyer?tab=repositories&q=composer)  
-
 🪀 **Software**: [DBeaver](https://dbeaver.io), [Microsoft Office](https://www.office.com) (Word, Excel, Powerpoint, Access), [Notepad++](https://notepad-plus-plus.org), [Poedit](https://poedit.net), [RunJS](https://runjs.app), [WinMerge](https://winmerge.org), [XAMPP](https://www.apachefriends.org)  
-
 🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions  
-
 🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
-
 🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
-
 ❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com), [GitHub Pages](https://github.com)
 
 <br>
