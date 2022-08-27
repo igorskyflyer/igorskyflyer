@@ -41,7 +41,7 @@ I released an AdBlock filter that blocks major ad servers, so it's very lightwei
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> repository 🌻
 <br>
 <br>
-I published a new Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
+I added new functionalities to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
 </p>
 
 <p align="right"><em><sub>🗓️ 09 Aug 2022</sub></em></p>
