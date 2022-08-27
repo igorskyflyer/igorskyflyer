@@ -91,4 +91,12 @@
  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="48">
   <br>
  <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Rakib Hassan Rahim - Flaticon</a>
+ 
+  <br>
+ 
+ <br>
+ 
+ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="48">
+  <br>
+ <a href="https://pluralsight.com">Pluralsight</a>
 </div>
