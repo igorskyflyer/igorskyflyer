@@ -146,14 +146,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/igorskyflyer/ad-void/pull/130) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#130](https://github.com/igorskyflyer/ad-void/pull/130) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#129](https://github.com/igorskyflyer/ad-void/pull/129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#129](https://github.com/igorskyflyer/ad-void/pull/129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🗣 Commented on [#128](https://github.com/igorskyflyer/ad-void/issues/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. ❌ Closed PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 🎉 Merged PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+1. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-keppo/issues/5) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+2. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-keppo/issues/4) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+3. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-keppo/issues/6) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+4. 🗣 Commented on [#3](https://github.com/igorskyflyer/npm-keppo/issues/3) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+5. ❗️ Opened issue [#6](https://github.com/igorskyflyer/npm-keppo/issues/6) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+6. ❗️ Opened issue [#5](https://github.com/igorskyflyer/npm-keppo/issues/5) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+7. ❗️ Opened issue [#4](https://github.com/igorskyflyer/npm-keppo/issues/4) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+8. 🎉 Merged PR [#3](https://github.com/igorskyflyer/npm-keppo/pull/3) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
 <!--END_SECTION:activity-->
 
 <br>
