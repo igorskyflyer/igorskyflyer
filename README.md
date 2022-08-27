@@ -146,14 +146,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/igorskyflyer/ad-void/pull/127) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#127](https://github.com/igorskyflyer/ad-void/pull/127) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#126](https://github.com/igorskyflyer/ad-void/pull/126) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#126](https://github.com/igorskyflyer/ad-void/pull/126) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#125](https://github.com/igorskyflyer/ad-void/pull/125) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#125](https://github.com/igorskyflyer/ad-void/pull/125) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#124](https://github.com/igorskyflyer/ad-void/pull/124) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#124](https://github.com/igorskyflyer/ad-void/pull/124) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+2. 💪 Opened PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
+3. ❗️ Closed issue [#7](https://github.com/igorskyflyer/vscode-project-version/issues/7) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/vscode-project-version/issues/9) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+5. ❗️ Closed issue [#8](https://github.com/igorskyflyer/vscode-project-version/issues/8) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+6. 🎉 Merged PR [#10](https://github.com/igorskyflyer/vscode-project-version/pull/10) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+7. 💪 Opened PR [#10](https://github.com/igorskyflyer/vscode-project-version/pull/10) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+8. 🎉 Merged PR [#127](https://github.com/igorskyflyer/ad-void/pull/127) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
