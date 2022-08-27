@@ -146,14 +146,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/igorskyflyer/ad-void/pull/129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 🗣 Commented on [#128](https://github.com/igorskyflyer/ad-void/issues/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. ❌ Closed PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
-6. 💪 Opened PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
-7. ❗️ Closed issue [#7](https://github.com/igorskyflyer/vscode-project-version/issues/7) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-8. ❗️ Closed issue [#9](https://github.com/igorskyflyer/vscode-project-version/issues/9) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+1. 🎉 Merged PR [#130](https://github.com/igorskyflyer/ad-void/pull/130) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#130](https://github.com/igorskyflyer/ad-void/pull/130) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#129](https://github.com/igorskyflyer/ad-void/pull/129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#129](https://github.com/igorskyflyer/ad-void/pull/129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🗣 Commented on [#128](https://github.com/igorskyflyer/ad-void/issues/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. ❌ Closed PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#128](https://github.com/igorskyflyer/ad-void/pull/128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 🎉 Merged PR [#2](https://github.com/igorskyflyer/npm-keppo/pull/2) in [igorskyflyer/npm-keppo](https://github.com/igorskyflyer/npm-keppo)
 <!--END_SECTION:activity-->
 
 <br>
