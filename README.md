@@ -44,7 +44,7 @@ I made huge improvements to my Visual Studio Code extension <a href="https://mar
 I added new functionalities to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
 </p>
 
-<p align="right"><em><sub>🗓️ 09 Aug 2022</sub></em></p>
+<p align="right"><em><sub>🗓️ 27 Aug 2022</sub></em></p>
 
 <br>
 
