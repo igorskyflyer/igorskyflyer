@@ -1,4 +1,4 @@
-### 🤖 **igorskyflyer@github:~$**
+### 🤖 **`igorskyflyer@github:~$`**
 
 ## Hello world! 👋
 
