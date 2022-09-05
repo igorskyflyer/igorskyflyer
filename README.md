@@ -148,14 +148,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-zeus/issues/2) in [igorskyflyer/npm-zeus](https://github.com/igorskyflyer/npm-zeus)
-2. ❗️ Opened issue [#1](https://github.com/igorskyflyer/npm-zeus/issues/1) in [igorskyflyer/npm-zeus](https://github.com/igorskyflyer/npm-zeus)
-3. ❗️ Closed issue [#15](https://github.com/igorskyflyer/vscode-project-version/issues/15) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-4. ❗️ Closed issue [#16](https://github.com/igorskyflyer/vscode-project-version/issues/16) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-5. ❗️ Closed issue [#14](https://github.com/igorskyflyer/vscode-project-version/issues/14) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-6. ❗️ Closed issue [#13](https://github.com/igorskyflyer/vscode-project-version/issues/13) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-7. ❗️ Closed issue [#12](https://github.com/igorskyflyer/vscode-project-version/issues/12) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-8. ❗️ Closed issue [#11](https://github.com/igorskyflyer/vscode-project-version/issues/11) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+1. 🎉 Merged PR [#420](https://github.com/igorskyflyer/ad-void/pull/420) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#420](https://github.com/igorskyflyer/ad-void/pull/420) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#419](https://github.com/igorskyflyer/ad-void/pull/419) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#419](https://github.com/igorskyflyer/ad-void/pull/419) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#418](https://github.com/igorskyflyer/ad-void/pull/418) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#418](https://github.com/igorskyflyer/ad-void/pull/418) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-zeus/issues/2) in [igorskyflyer/npm-zeus](https://github.com/igorskyflyer/npm-zeus)
+8. ❗️ Opened issue [#1](https://github.com/igorskyflyer/npm-zeus/issues/1) in [igorskyflyer/npm-zeus](https://github.com/igorskyflyer/npm-zeus)
 <!--END_SECTION:activity-->
 
 <br>
