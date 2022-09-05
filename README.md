@@ -129,7 +129,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 
 <p align="center">
-        <a href="https://github.com/igorskyflyer/npm-modern-module"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-modern-module&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
+        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
 	<br>
 	<a href="https://github.com/igorskyflyer/robby"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=robby&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
 	<br>
