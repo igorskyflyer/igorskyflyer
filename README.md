@@ -46,7 +46,7 @@ I made huge improvements to my Visual Studio Code extension <a href="https://mar
 I added new functionalities to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
 <br>
 <br>
-I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus"><code>⚡ zeus 🦅</code></a> that allows you to create HTML elements and set their attributes in a different manner - all at once! 
+I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once! 
 </p>
 
 <p align="right"><em><sub>🗓️ 06 Sep 2022</sub></em></p>
