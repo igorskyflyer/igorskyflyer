@@ -52,7 +52,7 @@ I added new functionalities to my Visual Studio Code extension <a href="https://
 I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once! 
 </p>
 
-<p align="right"><em><sub>🗓️ 06 Sep 2022</sub></em></p>
+<p align="right"><em><sub>🗓️ 12 Sep 2022</sub></em></p>
 
 <br>
 
@@ -96,7 +96,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
-🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules, **`24+`** modules built already with **``32K+``** of downloads,  
+🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules, **`26+`** modules built already with **``35K+``** of downloads,  
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions, **``4``** extensions so far, with **`130K+`** of installs,  
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
 🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**,  
