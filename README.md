@@ -37,6 +37,9 @@ Let me tell you something more about what I do. 🏄
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
+I published my first Astro component ✨🎊🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a>
+<br>
+<br>
 I updated my AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository 🌷
 <br>
 <br>
