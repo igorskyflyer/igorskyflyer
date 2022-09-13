@@ -154,14 +154,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/5) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. ❗️ Closed issue [#4](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/4) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-3. ❗️ Opened issue [#5](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/5) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-4. ❗️ Opened issue [#4](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/4) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-5. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/3) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-6. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/2) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-7. ❗️ Opened issue [#3](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/3) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-8. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/2) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+1. 🎉 Merged PR [#532](https://github.com/igorskyflyer/ad-void/pull/532) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#532](https://github.com/igorskyflyer/ad-void/pull/532) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗️ Closed issue [#5](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/5) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+4. ❗️ Closed issue [#4](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/4) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+5. ❗️ Opened issue [#5](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/5) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+6. ❗️ Opened issue [#4](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/4) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+7. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/3) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+8. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/2) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 <!--END_SECTION:activity-->
 
 <br>
