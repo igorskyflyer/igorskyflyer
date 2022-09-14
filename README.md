@@ -154,14 +154,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. ❗️ Opened issue [#7](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/7) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-3. 🗣 Commented on [#13985](https://github.com/microsoft/terminal/issues/13985) in [microsoft/terminal](https://github.com/microsoft/terminal)
-4. 🎉 Merged PR [#536](https://github.com/igorskyflyer/ad-void/pull/536) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#536](https://github.com/igorskyflyer/ad-void/pull/536) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🎉 Merged PR [#535](https://github.com/igorskyflyer/ad-void/pull/535) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#535](https://github.com/igorskyflyer/ad-void/pull/535) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. ❗️ Closed issue [#6](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/6) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+1. 🗣 Commented on [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+2. 🗣 Commented on [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+3. ❗️ Closed issue [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+5. ❗️ Opened issue [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+6. ❗️ Opened issue [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+7. ❗️ Opened issue [#7](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/7) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+8. 🗣 Commented on [#13985](https://github.com/microsoft/terminal/issues/13985) in [microsoft/terminal](https://github.com/microsoft/terminal)
 <!--END_SECTION:activity-->
 
 <br>
