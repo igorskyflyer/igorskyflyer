@@ -199,7 +199,7 @@ Any type of support is more than welcome. 🙂
   <sub><em>Consistency is key</em></sub>
   <br>
   <br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="500px"></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="500px">
   <br>
   <sub><em>Commits statistics</em></sub>
   <br>
