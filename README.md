@@ -154,14 +154,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. 🗣 Commented on [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-3. ❗️ Closed issue [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-5. ❗️ Opened issue [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-6. ❗️ Opened issue [#8](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/8) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-7. ❗️ Opened issue [#7](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/7) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-8. 🗣 Commented on [#13985](https://github.com/microsoft/terminal/issues/13985) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. 🎉 Merged PR [#539](https://github.com/igorskyflyer/ad-void/pull/539) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#539](https://github.com/igorskyflyer/ad-void/pull/539) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#538](https://github.com/igorskyflyer/ad-void/pull/538) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#538](https://github.com/igorskyflyer/ad-void/pull/538) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#537](https://github.com/igorskyflyer/ad-void/pull/537) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#537](https://github.com/igorskyflyer/ad-void/pull/537) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🗣 Commented on [#85828](https://github.com/microsoft/vscode/issues/85828) in [microsoft/vscode](https://github.com/microsoft/vscode)
+8. 🗣 Commented on [#9](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/9) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
 <!--END_SECTION:activity-->
 
 <br>
