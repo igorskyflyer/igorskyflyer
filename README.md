@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/header.png" />
+<p align="center"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/header.png"></p>
 
 ### 🤖 **`igorskyflyer@github:~$`**
 
