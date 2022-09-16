@@ -1,6 +1,6 @@
 ### 🤖 **`igorskyflyer@github:~$`**
 
-## Hello world! 👋
+## Hello world! <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/wave.gif" height="36" width="36">
 
 <br>
 
