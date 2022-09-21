@@ -159,14 +159,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/igorskyflyer/vscode-project-version/issues/26) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-2. ❗️ Opened issue [#26](https://github.com/igorskyflyer/vscode-project-version/issues/26) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-3. ❗️ Closed issue [#22](https://github.com/igorskyflyer/vscode-project-version/issues/22) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-4. ❗️ Closed issue [#25](https://github.com/igorskyflyer/vscode-project-version/issues/25) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-5. ❗️ Closed issue [#24](https://github.com/igorskyflyer/vscode-project-version/issues/24) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-6. ❗️ Closed issue [#23](https://github.com/igorskyflyer/vscode-project-version/issues/23) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-7. ❗️ Closed issue [#21](https://github.com/igorskyflyer/vscode-project-version/issues/21) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-8. ❗️ Opened issue [#25](https://github.com/igorskyflyer/vscode-project-version/issues/25) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+1. ❗️ Closed issue [#27](https://github.com/igorskyflyer/vscode-project-version/issues/27) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+2. ❗️ Opened issue [#27](https://github.com/igorskyflyer/vscode-project-version/issues/27) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+3. ❗️ Closed issue [#26](https://github.com/igorskyflyer/vscode-project-version/issues/26) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+4. ❗️ Opened issue [#26](https://github.com/igorskyflyer/vscode-project-version/issues/26) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+5. ❗️ Closed issue [#22](https://github.com/igorskyflyer/vscode-project-version/issues/22) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+6. ❗️ Closed issue [#25](https://github.com/igorskyflyer/vscode-project-version/issues/25) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+7. ❗️ Closed issue [#24](https://github.com/igorskyflyer/vscode-project-version/issues/24) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+8. ❗️ Closed issue [#23](https://github.com/igorskyflyer/vscode-project-version/issues/23) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
 <!--END_SECTION:activity-->
 
 <br>
