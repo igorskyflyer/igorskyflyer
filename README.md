@@ -159,14 +159,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/12) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. 🗣 Commented on [#13138](https://github.com/PowerShell/PowerShell/issues/13138) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-3. 🗣 Commented on [#13138](https://github.com/PowerShell/PowerShell/issues/13138) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-4. ❗️ Opened issue [#12](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/12) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-5. ❗️ Closed issue [#29](https://github.com/igorskyflyer/vscode-project-version/issues/29) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-6. ❗️ Opened issue [#29](https://github.com/igorskyflyer/vscode-project-version/issues/29) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-7. ❗️ Closed issue [#28](https://github.com/igorskyflyer/vscode-project-version/issues/28) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
-8. ❗️ Opened issue [#28](https://github.com/igorskyflyer/vscode-project-version/issues/28) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+1. 🎉 Merged PR [#560](https://github.com/igorskyflyer/ad-void/pull/560) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#560](https://github.com/igorskyflyer/ad-void/pull/560) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗️ Closed issue [#12](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/12) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+4. 🗣 Commented on [#13138](https://github.com/PowerShell/PowerShell/issues/13138) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+5. 🗣 Commented on [#13138](https://github.com/PowerShell/PowerShell/issues/13138) in [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+6. ❗️ Opened issue [#12](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/12) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
+7. ❗️ Closed issue [#29](https://github.com/igorskyflyer/vscode-project-version/issues/29) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
+8. ❗️ Opened issue [#29](https://github.com/igorskyflyer/vscode-project-version/issues/29) in [igorskyflyer/vscode-project-version](https://github.com/igorskyflyer/vscode-project-version)
 <!--END_SECTION:activity-->
 
 <br>
