@@ -173,7 +173,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <h3 align="center">📬 CONTACT 📬</h3>
 
-Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. 🦜
+Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer">here</a> 😂 🦜
 
 <br>
 
