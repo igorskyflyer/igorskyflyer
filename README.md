@@ -159,14 +159,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/17) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. ❗️ Opened issue [#17](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/17) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-3. ❗️ Closed issue [#16](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/16) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-4. ❗️ Opened issue [#16](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/16) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-5. 🎉 Merged PR [#601](https://github.com/igorskyflyer/ad-void/pull/601) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#601](https://github.com/igorskyflyer/ad-void/pull/601) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#600](https://github.com/igorskyflyer/ad-void/pull/600) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#600](https://github.com/igorskyflyer/ad-void/pull/600) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Opened issue [#55](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/55) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+2. ❗️ Opened issue [#54](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/54) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+3. ❗️ Opened issue [#53](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/53) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+4. ❗️ Opened issue [#52](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/52) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+5. ❗️ Opened issue [#51](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/51) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+6. ❗️ Opened issue [#50](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/50) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+7. ❗️ Opened issue [#49](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/49) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
+8. ❗️ Closed issue [#17](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/17) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
 <!--END_SECTION:activity-->
 
 <br>
