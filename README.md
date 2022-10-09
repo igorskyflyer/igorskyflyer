@@ -219,8 +219,10 @@ Any type of support is more than welcome. 🙂
 <!-- 📈 since 18 Jun 2021 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=igorskyflyer">
-  <br>
-  <sub><em>since 18 Jun 2021</em></sub>
+  <!--
+   <br>
+   <sub><em>since 18 Jun 2021</em></sub>
+  -->
 </p>
 
 <br>
