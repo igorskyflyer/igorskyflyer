@@ -170,14 +170,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/36) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-2. ❗️ Opened issue [#34](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/34) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-3. ❗️ Opened issue [#35](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/35) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-4. ❗️ Opened issue [#31](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/31) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-5. ❗️ Opened issue [#32](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/32) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-6. ❗️ Opened issue [#33](https://github.com/igorskyflyer/igorskyflyer.github.io/issues/33) in [igorskyflyer/igorskyflyer.github.io](https://github.com/igorskyflyer/igorskyflyer.github.io)
-7. 🎉 Merged PR [#1112](https://github.com/igorskyflyer/ad-void/pull/1112) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#1112](https://github.com/igorskyflyer/ad-void/pull/1112) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#2](https://github.com/igorskyflyer/github-readme-stats/pull/2) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+2. 💪 Opened PR [#2](https://github.com/igorskyflyer/github-readme-stats/pull/2) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+3. ❗️ Opened issue [#31](https://github.com/igorskyflyer/npm-recursive-readdir/issues/31) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+4. ❗️ Opened issue [#28](https://github.com/igorskyflyer/npm-recursive-readdir/issues/28) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+5. ❗️ Opened issue [#29](https://github.com/igorskyflyer/npm-recursive-readdir/issues/29) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+6. ❗️ Opened issue [#30](https://github.com/igorskyflyer/npm-recursive-readdir/issues/30) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+7. ❗️ Opened issue [#27](https://github.com/igorskyflyer/npm-recursive-readdir/issues/27) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+8. ❗️ Opened issue [#16](https://github.com/igorskyflyer/npm-registry-apppaths/issues/16) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
 <!--END_SECTION:activity-->
 
 <br>
