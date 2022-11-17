@@ -117,4 +117,14 @@
  <br>
  
  <a href="https://pluralsight.com">Pluralsight</a>
+ 
+  <br>
+ 
+ <br>
+ 
+ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="48">
+ 
+ <br>
+ 
+ <a href="https://www.flaticon.com/free-icons/stack-overflow" title="stack overflow icons">Stack overflow icons created by Pixel perfect - Flaticon</a>
 </div>
