@@ -127,4 +127,14 @@
  <br>
  
  <a href="https://www.flaticon.com/free-icons/stack-overflow" title="stack overflow icons">Stack overflow icons created by Pixel perfect - Flaticon</a>
+ 
+   <br>
+ 
+ <br>
+ 
+ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="48">
+ 
+ <br>
+ 
+ <a href="https://www.polywork.com">Polywork</a>
 </div>
