@@ -170,14 +170,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1114](https://github.com/igorskyflyer/ad-void/pull/1114) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1114](https://github.com/igorskyflyer/ad-void/pull/1114) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#1113](https://github.com/igorskyflyer/ad-void/pull/1113) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#1113](https://github.com/igorskyflyer/ad-void/pull/1113) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#2](https://github.com/igorskyflyer/github-readme-stats/pull/2) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-6. 💪 Opened PR [#2](https://github.com/igorskyflyer/github-readme-stats/pull/2) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-7. ❗️ Opened issue [#31](https://github.com/igorskyflyer/npm-recursive-readdir/issues/31) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
-8. ❗️ Opened issue [#28](https://github.com/igorskyflyer/npm-recursive-readdir/issues/28) in [igorskyflyer/npm-recursive-readdir](https://github.com/igorskyflyer/npm-recursive-readdir)
+1. 🎉 Merged PR [#1129](https://github.com/igorskyflyer/ad-void/pull/1129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1129](https://github.com/igorskyflyer/ad-void/pull/1129) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#1128](https://github.com/igorskyflyer/ad-void/pull/1128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#1128](https://github.com/igorskyflyer/ad-void/pull/1128) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#1127](https://github.com/igorskyflyer/ad-void/pull/1127) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#1127](https://github.com/igorskyflyer/ad-void/pull/1127) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#1126](https://github.com/igorskyflyer/ad-void/pull/1126) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1126](https://github.com/igorskyflyer/ad-void/pull/1126) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
