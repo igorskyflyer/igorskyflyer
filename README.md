@@ -1,4 +1,4 @@
-<p align="center" id="header-image"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/header.png"></p>
 
 ### 🤖 **`igorskyflyer@github:~$`**
 
@@ -68,7 +68,7 @@ I released my first UserScript that blocks all popup APIs, available here: <a hr
 <br>
 
 <div align="center">
-	<em><strong>Browse by development paradigm:</strong></em>
+	<em><strong>Browse by development aspect:</strong></em>
 	<br>
 	<br>
 	<a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://custom-icon-badges.herokuapp.com/badge/front-end-0099ff?style=flat-square&logo=paintbrush" alt="See my front-end development projects"></a>
