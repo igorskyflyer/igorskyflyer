@@ -85,7 +85,7 @@ I released my first UserScript that blocks all popup APIs, available here: <a hr
 <br>
 
 🌎 **Web**:
-[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), PWA  
+[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), [Astro](https://github.com/igorskyflyer?tab=repositories&language=astro), PWA  
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), [C](https://github.com/igorskyflyer?tab=repositories&language=c), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)  
 📱 **Mobile**:
 Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)  
@@ -117,7 +117,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
 🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**,  
 💫 am currently working on building my portfolio website,  
-🌱 am currently learning **[React](https://reactjs.org)** + **[Astro](https://github.com/withastro/astro)**,  
+🌱 am currently learning **[React](https://reactjs.org)**,  
 🙌 am constantly creating open-source projects that help the dev-community,  
 📜 own more than **`30`** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
