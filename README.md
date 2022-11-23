@@ -57,7 +57,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </p>
 
-<p align="right"><em><sub>🗓️ 20 Sep 2022</sub></em></p>
+<p align="right"><em><sub>🗓️ 23 Nov 2022</sub></em></p>
 
 <br>
 
