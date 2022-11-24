@@ -23,6 +23,7 @@ I always try to help the dev-community by building useful libraries, modules, ex
  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36"></a>
  <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36"></a>
  <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36"></a>
+<!-- TODO: https://g.dev/igor-dvlpr -->
 </div>
 <div align="center">
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36"></a>
