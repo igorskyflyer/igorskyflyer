@@ -28,12 +28,12 @@ I always try to help the dev-community by building useful libraries, modules, ex
 <div align="center">
  <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36"></a>
  <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36"></a>
+  <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36"></a>
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36"></a>
  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36"></a>
  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36"></a>
  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36"></a>
  <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36" height="36"></a>
- <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36"></a>
 </div>
 <br>
 <br>
