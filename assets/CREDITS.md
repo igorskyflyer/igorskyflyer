@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://beacons.ai" title="Beacon.ai icon">Beacons.ai</a>
+<a href="https://beacons.ai" title="Beacon.ai icon">Beacons.ai</a>
 
 <br>
 
@@ -16,7 +16,7 @@
 
   <br>
 
-  <a href="https://codepen.io" title="Codepen icon">Codepen.io</a>
+<a href="https://codepen.io" title="Codepen icon">Codepen.io</a>
 
 <br>
 
@@ -27,7 +27,7 @@
   <br>
 
 <a href="https://www.flaticon.com/free-icons/microsoft" title="microsoft icons">Microsoft icons created by Pixel perfect - Flaticon</a>
- 
+
 <br>
 
 <br>
@@ -96,8 +96,8 @@
  
  <br>
 
- <a href="https://iconscout.com/icons/npm" target="_blank">NPM Icon</a>
- 
+<a href="https://iconscout.com/icons/npm" target="_blank">NPM Icon</a>
+
  <br>
  
  <br>
