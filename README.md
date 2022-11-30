@@ -148,7 +148,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 > 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
 > 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
 > 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
-> 🎷 &nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and  
+> 🎷&nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and  
 > ♾️ still to come.
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
