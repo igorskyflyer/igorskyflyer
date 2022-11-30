@@ -153,10 +153,15 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
 📝 post snippets on my **[Gist](https://gist.github.com/igorskyflyer)**,  
-🙊 am currently learning **[Spanish](https://en.m.wikipedia.org/wiki/Spanish_language)** 🇪🇸😍,  
-🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository,  
+🦘 love adding new applications to the **[WinGet-Pkgs](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** repository:
+
+- 🦑 added **`8 applications`** so far,
+
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
-👟 love taking long walks & runs,  
+👟 love taking long walks & runs:
+
+- PR: ~**29km/18mi**
+
 🌱 adore being in touch with nature,  
 ⚙️ cherish automatizing things,  
 🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
