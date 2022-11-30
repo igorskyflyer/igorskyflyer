@@ -170,7 +170,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
 🐬 am a firm believer in **autodidacticism**,  
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
-🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🧀🥩🍟🍕🌮🌯🍣🍔🍫🍩🥧🥗
+🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 
 <br>
 
