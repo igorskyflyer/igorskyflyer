@@ -160,7 +160,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🔃 can teach you about recursion, click **[here](https://github.com/igorskyflyer)** to learn more,  
 👟 love taking long walks & runs:
 
-- PR: ~**29km/18mi**
+- PR: **`~29km/18mi`**
 
 🌱 adore being in touch with nature,  
 ⚙️ cherish automatizing things,  
