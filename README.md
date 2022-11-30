@@ -197,14 +197,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#17](https://github.com/igorskyflyer/npm-registry-apppaths/issues/17) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-2. ❗️ Closed issue [#15](https://github.com/igorskyflyer/npm-registry-apppaths/issues/15) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-3. ❗️ Opened issue [#17](https://github.com/igorskyflyer/npm-registry-apppaths/issues/17) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-4. ❗️ Closed issue [#13](https://github.com/igorskyflyer/npm-registry-apppaths/issues/13) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-5. ❗️ Closed issue [#12](https://github.com/igorskyflyer/npm-registry-apppaths/issues/12) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-6. ❗️ Closed issue [#14](https://github.com/igorskyflyer/npm-registry-apppaths/issues/14) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-7. ❗️ Closed issue [#16](https://github.com/igorskyflyer/npm-registry-apppaths/issues/16) in [igorskyflyer/npm-registry-apppaths](https://github.com/igorskyflyer/npm-registry-apppaths)
-8. 🎉 Merged PR [#1339](https://github.com/igorskyflyer/ad-void/pull/1339) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#1355](https://github.com/igorskyflyer/ad-void/pull/1355) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1355](https://github.com/igorskyflyer/ad-void/pull/1355) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#1354](https://github.com/igorskyflyer/ad-void/pull/1354) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#1354](https://github.com/igorskyflyer/ad-void/pull/1354) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#1353](https://github.com/igorskyflyer/ad-void/pull/1353) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#1353](https://github.com/igorskyflyer/ad-void/pull/1353) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#1352](https://github.com/igorskyflyer/ad-void/pull/1352) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1352](https://github.com/igorskyflyer/ad-void/pull/1352) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
