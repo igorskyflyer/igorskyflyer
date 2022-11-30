@@ -6,9 +6,11 @@
 
 <br>
 
-My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a graduate BSc Hons IT and a full-stack Web, desktop and mobile developer with a strong passion for everything digital and tech related.
+My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a graduate **BSc IT _(with Hons, 4 years)_** and a full-stack Web, desktop and mobile developer with a strong passion for everything digital and tech related.
 I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts: Let me tell you something more about what I do. 🏄
+I always try to help the dev-community by building useful libraries, modules, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts:
+
+Let me tell you something more about what I do. 🏄
 
 <br>
 <br>
@@ -41,7 +43,11 @@ I always try to help the dev-community by building useful libraries, modules, ex
 <!-- 🎉 new stuff that's out 🤩 -->
 <p align="center">
 📢 <em><b>Announcement</b></em> &gt; <br>
-I published my first Astro component ✨🎊🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a>
+<br>
+I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a>,
+<br>
+<br>
+I published my first Astro component ✨🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a>
 <br>
 <br>
 I updated my AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository 🌷
@@ -59,7 +65,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript/scriptlet that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </p>
 
-<p align="right"><em><sub>🗓️ 23 Nov 2022</sub></em></p>
+<p align="right"><em><sub>🗓️ 30 Nov 2022</sub></em></p>
 
 <br>
 
@@ -96,11 +102,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🕹 **Game**: [Unity](https://unity.com)  
 🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)  
 🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), [Vite](https://github.com/igorskyflyer?tab=repositories&q=vite), [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Composer](https://github.com/igorskyflyer?tab=repositories&q=composer)  
-🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), Chrome extensions  
+🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), [UserScript](https://github.com/igorskyflyer?tab=repositories&q=userscript), Chrome extensions  
 🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
 🪀 **Tools**: [DBeaver](https://dbeaver.io), [Microsoft Office](https://www.office.com) (Word, Excel, Powerpoint, Access), [Notepad++](https://notepad-plus-plus.org), [Poedit](https://poedit.net), [RunJS](https://runjs.app), [WinMerge](https://winmerge.org), [XAMPP](https://www.apachefriends.org), [FileZilla](https://filezilla-project.org), [Postman](https://www.postman.com)  
 ⚔ **Productivity**: [Notion](https://notion.so), [Slack](https://slack.com), [Trello](https://trello.com)  
-🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (**Ubuntu** & **Mint** & **Manjaro**)  
+🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (**Ubuntu**, **Mint** & **Manjaro**)  
 🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
 ❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com), [GitHub Pages](https://github.com), [Replit](https://replit.com), [Cyclic](https://www.cyclic.sh)
 
@@ -110,7 +116,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining 👉🏻 **[AdVoid](https://github.com/igorskyflyer/ad-void)**,  
+🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining **[AdVoid](https://github.com/igorskyflyer/ad-void)** 👈🏼 ,  
 🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
 🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
