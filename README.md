@@ -197,14 +197,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/9) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-2. ❗️ Opened issue [#9](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/9) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-3. 🎉 Merged PR [#1377](https://github.com/igorskyflyer/ad-void/pull/1377) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#1377](https://github.com/igorskyflyer/ad-void/pull/1377) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#1376](https://github.com/igorskyflyer/ad-void/pull/1376) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1376](https://github.com/igorskyflyer/ad-void/pull/1376) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#51](https://github.com/stylify/web/pull/51) in [stylify/web](https://github.com/stylify/web)
-8. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/8) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+1. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/6) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+2. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/10) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+3. ❗️ Opened issue [#10](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/10) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/9) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+5. ❗️ Opened issue [#9](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/9) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+6. 🎉 Merged PR [#1377](https://github.com/igorskyflyer/ad-void/pull/1377) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#1377](https://github.com/igorskyflyer/ad-void/pull/1377) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 🎉 Merged PR [#1376](https://github.com/igorskyflyer/ad-void/pull/1376) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
