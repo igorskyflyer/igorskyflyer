@@ -217,7 +217,7 @@ Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>Lin
 
 <h3 align="center">:gift_heart: SUPPORT :gift_heart:</h3>
 
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://patreon.com/igor_dvlpr"><strong>Patreon</strong></a> page.
+If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
 
 <blockquote align="center">
 Any type of support is more than welcome. 🙂
