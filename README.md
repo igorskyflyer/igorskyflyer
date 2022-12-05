@@ -16,8 +16,8 @@ Let me tell you something more about what I do. 🏄
 <br>
 
 <!-- 🎉 new stuff that's out 🤩 -->
-<p align="center">
-<blockquote>📢 <em><b>Announcement</b></em> &gt;</blockquote> <br>
+<div align="center">
+<blockquote>📢 <em><b>Announcement</b></em> &gt;</blockquote>
 <br>
 I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a>,
 <br>
@@ -38,8 +38,8 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 <br>
 <br>
 I released my first UserScript/scriptlet that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
-</p>
-
+</div>
+<br>
 <p align="right"><em><sub>🗓️ 30 Nov 2022</sub></em></p>
 
 <br>
@@ -151,7 +151,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 
-<p align="center">
+<div align="center">
         <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
 	<br>
 	<a href="https://github.com/igorskyflyer/vscode-new-folder"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=vscode-new-folder&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
@@ -163,7 +163,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
 	<br>
 	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-valid-path&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
-</p>
+</div>
 
 <br>
 
@@ -231,7 +231,7 @@ Any type of support is more than welcome. 🙂
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=7200&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
   <br>
   <sub><em>My Github profile metrics</em></sub>
@@ -255,7 +255,7 @@ Any type of support is more than welcome. 🙂
   <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=4&row=2">
   <br>
   <sub><em>My GitHub trophies</em></sub>
-</p>
+</div>
 
 <br>
 
