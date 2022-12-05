@@ -208,7 +208,6 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
  <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36" height="36"></a>
 </div>
 
-
 <br>
 
 <h3 align="center">📬 CONTACT 📬</h3>
@@ -247,7 +246,7 @@ Any type of support is more than welcome. 🙂
   <sub><em>Consistency is key</em></sub>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="500px">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="500px">
   <br>
   <sub><em>Commits statistics</em></sub>
   <br>
