@@ -172,14 +172,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#14](https://github.com/igorskyflyer/igorskyflyer/issues/14) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-2. 🎉 Merged PR [#1380](https://github.com/igorskyflyer/ad-void/pull/1380) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 💪 Opened PR [#1380](https://github.com/igorskyflyer/ad-void/pull/1380) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗️ Opened issue [#440](https://github.com/withastro/astro.build/issues/440) in [withastro/astro.build](https://github.com/withastro/astro.build)
-5. 🎉 Merged PR [#1379](https://github.com/igorskyflyer/ad-void/pull/1379) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1379](https://github.com/igorskyflyer/ad-void/pull/1379) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#1378](https://github.com/igorskyflyer/ad-void/pull/1378) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#1378](https://github.com/igorskyflyer/ad-void/pull/1378) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#1382](https://github.com/igorskyflyer/ad-void/pull/1382) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1382](https://github.com/igorskyflyer/ad-void/pull/1382) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#1381](https://github.com/igorskyflyer/ad-void/pull/1381) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#1381](https://github.com/igorskyflyer/ad-void/pull/1381) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗️ Closed issue [#14](https://github.com/igorskyflyer/igorskyflyer/issues/14) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+6. 🎉 Merged PR [#1380](https://github.com/igorskyflyer/ad-void/pull/1380) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#1380](https://github.com/igorskyflyer/ad-void/pull/1380) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. ❗️ Opened issue [#440](https://github.com/withastro/astro.build/issues/440) in [withastro/astro.build](https://github.com/withastro/astro.build)
 <!--END_SECTION:activity-->
 
 <br>
