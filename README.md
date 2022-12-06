@@ -6,7 +6,7 @@
 
 <br>
 
-My name is Igor (IPA: /ˈIːɡɔːɹ/) and I am a graduate **BSc IT _(with Hons, 4 years)_** and a full-stack Web, desktop and mobile developer with a strong passion for everything digital and tech related.
+My name is **_Igor Dimitrijević_** (IPA: /ˈIːɡɔːɹ/) and I am a software engineer from Serbia, a graduate **BSc IT _(with Hons, 4 years)_** doing full-stack Web, desktop and mobile development with a strong passion for everything digital and tech related.
 I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts:
 
