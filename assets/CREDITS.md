@@ -157,4 +157,14 @@
  <br>
  
  <a href="https://leetcode.com/">Leetcode</a>
+ 
+   <br>
+ 
+ <br>
+ 
+ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" width="100">
+ 
+ <br>
+ 
+ <a href="https://ko-fi.com/">Ko-Fi</a>
 </div>
