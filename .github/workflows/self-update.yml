@@ -2,7 +2,7 @@ name: self-update
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/180 * * * *'
   workflow_dispatch:
 
 jobs:
