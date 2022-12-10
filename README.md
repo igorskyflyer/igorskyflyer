@@ -172,8 +172,6 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <br>
 <br>
 
