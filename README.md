@@ -81,7 +81,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
 🪀 **Tools**: [DBeaver](https://dbeaver.io), [Microsoft Office](https://www.office.com) (Word, Excel, Powerpoint, Access), [Notepad++](https://notepad-plus-plus.org), [Poedit](https://poedit.net), [RunJS](https://runjs.app), [WinMerge](https://winmerge.org), [XAMPP](https://www.apachefriends.org), [FileZilla](https://filezilla-project.org), [Postman](https://www.postman.com)  
 ⚔ **Productivity**: [Notion](https://notion.so), [Slack](https://slack.com), [Trello](https://trello.com)  
-🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (**Ubuntu**, **Mint** & **Manjaro**)  
+🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (Ubuntu, Mint & Manjaro)  
 🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
 ❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com), [GitHub Pages](https://github.com), [Replit](https://replit.com), [Cyclic](https://www.cyclic.sh)
 
