@@ -171,16 +171,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1523](https://github.com/igorskyflyer/ad-void/pull/1523) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1523](https://github.com/igorskyflyer/ad-void/pull/1523) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#1522](https://github.com/igorskyflyer/ad-void/pull/1522) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#1522](https://github.com/igorskyflyer/ad-void/pull/1522) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#1521](https://github.com/igorskyflyer/ad-void/pull/1521) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1521](https://github.com/igorskyflyer/ad-void/pull/1521) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#1520](https://github.com/igorskyflyer/ad-void/pull/1520) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#1520](https://github.com/igorskyflyer/ad-void/pull/1520) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 🎉 Merged PR [#1519](https://github.com/igorskyflyer/ad-void/pull/1519) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 💪 Opened PR [#1519](https://github.com/igorskyflyer/ad-void/pull/1519) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#59](https://github.com/igorskyflyer/npm-comment-it/issues/59) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+2. ❗️ Closed issue [#56](https://github.com/igorskyflyer/npm-comment-it/issues/56) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+3. ❗️ Closed issue [#58](https://github.com/igorskyflyer/npm-comment-it/issues/58) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+4. ❗️ Closed issue [#57](https://github.com/igorskyflyer/npm-comment-it/issues/57) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+5. 🎉 Merged PR [#60](https://github.com/igorskyflyer/npm-comment-it/pull/60) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+6. 💪 Opened PR [#60](https://github.com/igorskyflyer/npm-comment-it/pull/60) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+7. ❗️ Opened issue [#59](https://github.com/igorskyflyer/npm-comment-it/issues/59) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+8. ❗️ Opened issue [#58](https://github.com/igorskyflyer/npm-comment-it/issues/58) in [igorskyflyer/npm-comment-it](https://github.com/igorskyflyer/npm-comment-it)
+9. 🎉 Merged PR [#16](https://github.com/igorskyflyer/npm-is-rootdir/pull/16) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
+10. 💪 Opened PR [#16](https://github.com/igorskyflyer/npm-is-rootdir/pull/16) in [igorskyflyer/npm-is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)
 <!--END_SECTION:activity-->
 
 <br>
