@@ -22,7 +22,7 @@ Let me tell you something more about what I do. 🏄
 I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a>,
 <br>
 <br>
-I published my first Astro component ✨🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a>
+I published my first Astro component ✨🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations/css+ui/?q=igor.dvlpr">Integrations library</a> 😍
 <br>
 <br>
 I updated my AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository 🌷
