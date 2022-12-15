@@ -37,7 +37,7 @@ I added new functionalities to my Visual Studio Code extension <a href="https://
 I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once! 
 <br>
 <br>
-I released my first UserScript/scriptlet that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
+I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
 <p align="right"><em><sub>🗓️ 15 Dec 2022</sub></em></p>
