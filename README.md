@@ -171,16 +171,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/igorskyflyer/npm-vscode-folderpicker/issues/22) in [igorskyflyer/npm-vscode-folderpicker](https://github.com/igorskyflyer/npm-vscode-folderpicker)
-2. 🎉 Merged PR [#1547](https://github.com/igorskyflyer/ad-void/pull/1547) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 💪 Opened PR [#1547](https://github.com/igorskyflyer/ad-void/pull/1547) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🎉 Merged PR [#1546](https://github.com/igorskyflyer/ad-void/pull/1546) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#1546](https://github.com/igorskyflyer/ad-void/pull/1546) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🎉 Merged PR [#1545](https://github.com/igorskyflyer/ad-void/pull/1545) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#1545](https://github.com/igorskyflyer/ad-void/pull/1545) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 🗣 Commented on [#22](https://github.com/tylerwray/me/issues/22) in [tylerwray/me](https://github.com/tylerwray/me)
-9. 💪 Opened PR [#1544](https://github.com/igorskyflyer/ad-void/pull/1544) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 🎉 Merged PR [#1543](https://github.com/igorskyflyer/ad-void/pull/1543) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#57](https://github.com/igorskyflyer/igorskyflyer.me/issues/57) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+2. ❗️ Closed issue [#58](https://github.com/igorskyflyer/igorskyflyer.me/issues/58) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+3. ❗️ Closed issue [#59](https://github.com/igorskyflyer/igorskyflyer.me/issues/59) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+4. ❗️ Opened issue [#59](https://github.com/igorskyflyer/igorskyflyer.me/issues/59) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+5. ❗️ Opened issue [#58](https://github.com/igorskyflyer/igorskyflyer.me/issues/58) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+6. ❗️ Opened issue [#57](https://github.com/igorskyflyer/igorskyflyer.me/issues/57) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+7. 🎉 Merged PR [#1549](https://github.com/igorskyflyer/ad-void/pull/1549) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1549](https://github.com/igorskyflyer/ad-void/pull/1549) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🎉 Merged PR [#1548](https://github.com/igorskyflyer/ad-void/pull/1548) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#1548](https://github.com/igorskyflyer/ad-void/pull/1548) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
