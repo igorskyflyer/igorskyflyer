@@ -171,16 +171,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#1561](https://github.com/igorskyflyer/ad-void/pull/1561) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#1561](https://github.com/igorskyflyer/ad-void/pull/1561) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#1560](https://github.com/igorskyflyer/ad-void/pull/1560) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1560](https://github.com/igorskyflyer/ad-void/pull/1560) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#1559](https://github.com/igorskyflyer/ad-void/pull/1559) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#1559](https://github.com/igorskyflyer/ad-void/pull/1559) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 🎉 Merged PR [#1558](https://github.com/igorskyflyer/ad-void/pull/1558) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 💪 Opened PR [#1558](https://github.com/igorskyflyer/ad-void/pull/1558) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-chars-in-string/issues/6) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+2. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-chars-in-string/issues/7) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+3. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-chars-in-string/issues/8) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-chars-in-string/issues/9) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+5. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-chars-in-string/issues/10) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+6. 🎉 Merged PR [#11](https://github.com/igorskyflyer/npm-chars-in-string/pull/11) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+7. 💪 Opened PR [#11](https://github.com/igorskyflyer/npm-chars-in-string/pull/11) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
+8. 🎉 Merged PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 💪 Opened PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 🎉 Merged PR [#1561](https://github.com/igorskyflyer/ad-void/pull/1561) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
