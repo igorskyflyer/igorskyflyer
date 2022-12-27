@@ -171,16 +171,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-chars-in-string/issues/6) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-2. ❗️ Closed issue [#7](https://github.com/igorskyflyer/npm-chars-in-string/issues/7) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-3. ❗️ Closed issue [#8](https://github.com/igorskyflyer/npm-chars-in-string/issues/8) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-4. ❗️ Closed issue [#9](https://github.com/igorskyflyer/npm-chars-in-string/issues/9) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-5. ❗️ Closed issue [#10](https://github.com/igorskyflyer/npm-chars-in-string/issues/10) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-6. 🎉 Merged PR [#11](https://github.com/igorskyflyer/npm-chars-in-string/pull/11) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-7. 💪 Opened PR [#11](https://github.com/igorskyflyer/npm-chars-in-string/pull/11) in [igorskyflyer/npm-chars-in-string](https://github.com/igorskyflyer/npm-chars-in-string)
-8. 🎉 Merged PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 💪 Opened PR [#1562](https://github.com/igorskyflyer/ad-void/pull/1562) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 🎉 Merged PR [#1561](https://github.com/igorskyflyer/ad-void/pull/1561) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🗣 Commented on [#26](https://github.com/remotion-dev/github-unwrapped-2022/issues/26) in [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022)
+2. ❗️ Closed issue [#4](https://github.com/igorskyflyer/vscode-pack-vsix/issues/4) in [igorskyflyer/vscode-pack-vsix](https://github.com/igorskyflyer/vscode-pack-vsix)
+3. ❗️ Closed issue [#3](https://github.com/igorskyflyer/vscode-pack-vsix/issues/3) in [igorskyflyer/vscode-pack-vsix](https://github.com/igorskyflyer/vscode-pack-vsix)
+4. ❗️ Closed issue [#2](https://github.com/igorskyflyer/vscode-pack-vsix/issues/2) in [igorskyflyer/vscode-pack-vsix](https://github.com/igorskyflyer/vscode-pack-vsix)
+5. ❗️ Opened issue [#4](https://github.com/igorskyflyer/vscode-pack-vsix/issues/4) in [igorskyflyer/vscode-pack-vsix](https://github.com/igorskyflyer/vscode-pack-vsix)
+6. ❗️ Closed issue [#14](https://github.com/igorskyflyer/vscode-open-in-browser/issues/14) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
+7. ❗️ Closed issue [#17](https://github.com/igorskyflyer/vscode-open-in-browser/issues/17) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
+8. ❗️ Closed issue [#15](https://github.com/igorskyflyer/vscode-open-in-browser/issues/15) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
+9. ❗️ Closed issue [#16](https://github.com/igorskyflyer/vscode-open-in-browser/issues/16) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
+10. 🎉 Merged PR [#19](https://github.com/igorskyflyer/vscode-open-in-browser/pull/19) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
 <!--END_SECTION:activity-->
 
 <br>
