@@ -15,7 +15,11 @@ Let me tell you something more about what I do. 🏄
 <br>
 <br>
 
-> See my 2022 year in GitHub Unwrapped, right [here](https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2022.md).
+<div align="center">
+  <blockquote>
+   🤗 See my 2022 year in GitHub Unwrapped, right <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2022.md">here</a>. 🎄
+  </blockquote>
+</div>
 
 <br>
 <br>
