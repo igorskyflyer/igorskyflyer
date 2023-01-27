@@ -108,7 +108,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
 
 - 🦆 **`26+`** modules built already,
-- 🦀 **`43K+`** of installs,
+- 🦀 **`45.5K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
 
