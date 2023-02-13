@@ -163,7 +163,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <div align="center">
         <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/vscode-new-folder"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-astro-post-excerpt&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-astro-post-excerpt&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
 	<br>
 	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep" align="center"></a>
 	<br>
