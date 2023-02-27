@@ -99,10 +99,10 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining **[AdVoid](https://github.com/igorskyflyer/ad-void)** 👈🏼 ,
-🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,
-🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,
-🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,
+🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining **[AdVoid](https://github.com/igorskyflyer/ad-void)** 👈🏼 ,  
+🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
+🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,  
+🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
 
@@ -115,26 +115,26 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 - 🦐 **`160K+`** of installs,
 - ✅ **`verified`** extension developer,
 
-🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,
-🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**, **[ChatGPT](https://chat.openai.com/chat)**,
-💫 am currently working on building my portfolio website,
-🌱 am currently learning **[React](https://reactjs.org)**,
-🙌 am constantly creating open-source projects that help the dev-community,
-📜 own more than **`30`** programming certificates,
-👯 am looking to collaborate on exciting and challenging projects,
-🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,
+🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
+🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**, **[ChatGPT](https://chat.openai.com/chat)**,  
+💫 am currently working on building my portfolio website,  
+🌱 am currently learning **[React](https://reactjs.org)**,  
+🙌 am constantly creating open-source projects that help the dev-community,  
+📜 own more than **`30`** programming certificates,  
+👯 am looking to collaborate on exciting and challenging projects,  
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, like:
 
-> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),
-> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),
-> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),
-> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),
-> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),
-> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),
-> 🎷&nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and
+> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
+> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
+> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
+> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
+> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
+> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
+> 🎷&nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and  
 > ♾️ still to come.
 
-🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,
+🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
 📝 post snippets on my **[Gist](https://gist.github.com/igorskyflyer)**,
 
 <span id="recursion"></span>
@@ -143,16 +143,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 - 🦑 added **[`8 applications`](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** so far,
 
-🔃 can teach you about recursion, click <a href="https://github.com/igorskyflyer#recursion"><strong>here</strong></a> to learn more,
+🔃 can teach you about recursion, click <a href="https://github.com/igorskyflyer#recursion"><strong>here</strong></a> to learn more,  
 👟 love taking long walks & runs:
 
 - PR: **`~29km/18mi`**
 
-🌱 adore being in touch with nature,
-⚙️ cherish automatizing things,
-🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,
-🐬 am a firm believer in **autodidacticism**,
-🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,
+🌱 adore being in touch with nature,  
+⚙️ cherish automatizing things,  
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
+🐬 am a firm believer in **autodidacticism**,  
+🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 
 <br>
