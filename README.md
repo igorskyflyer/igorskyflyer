@@ -43,13 +43,13 @@ I made huge improvements to my Visual Studio Code extension <a href="https://mar
 I added new functionalities to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
 <br>
 <br>
-I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once! 
+I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once!
 <br>
 <br>
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 25 Feb 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 27 Feb 2023</sub></em></p>
 
 <br>
 
@@ -77,21 +77,21 @@ I released my first UserScript that blocks all popup APIs, available here: <a hr
 <br>
 
 🌎 **Web**:
-[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), [Astro](https://github.com/igorskyflyer?tab=repositories&language=astro), PWA  
-🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), [C](https://github.com/igorskyflyer?tab=repositories&language=c), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)  
+[HTML](https://github.com/igorskyflyer?tab=repositories&q=html), [CSS](https://github.com/igorskyflyer?tab=repositories&q=css), [JavaScript](https://github.com/igorskyflyer?tab=repositories&language=javascript), jQuery, [PHP](https://github.com/igorskyflyer?tab=repositories&q=php), [TypeScript](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Node.js](https://github.com/igorskyflyer?tab=repositories&q=node), Express.js, [Sass](https://github.com/igorskyflyer?tab=repositories&q=scss), SQLite, [Bootstrap](https://github.com/igorskyflyer?tab=repositories&q=bootstrap), MySQL, [Wordpress](https://github.com/igorskyflyer?tab=repositories&q=wordpress) + [Woocommerce](https://github.com/igorskyflyer?tab=repositories&q=woocommerce), [Astro](https://github.com/igorskyflyer?tab=repositories&language=astro), PWA
+🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), [C](https://github.com/igorskyflyer?tab=repositories&language=c), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)
 📱 **Mobile**:
-Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)  
-🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python)  
-🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr), [Affinity Photo](https://dribbble.com/igordvlpr), [paint.net](https://www.getpaint.net/), [Microsoft Blend](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio)  
-🕹 **Game**: [Unity](https://unity.com)  
-🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)  
-🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), [Vite](https://github.com/igorskyflyer?tab=repositories&q=vite), [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Composer](https://github.com/igorskyflyer?tab=repositories&q=composer)  
-🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), [UserScript](https://github.com/igorskyflyer?tab=repositories&q=userscript), Chrome extensions  
-🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)  
-🪀 **Tools**: [DBeaver](https://dbeaver.io), [Microsoft Office](https://www.office.com) (Word, Excel, Powerpoint, Access), [Notepad++](https://notepad-plus-plus.org), [Poedit](https://poedit.net), [RunJS](https://runjs.app), [WinMerge](https://winmerge.org), [XAMPP](https://www.apachefriends.org), [FileZilla](https://filezilla-project.org), [Postman](https://www.postman.com)  
-⚔ **Productivity**: [Notion](https://notion.so), [Slack](https://slack.com), [Trello](https://trello.com)  
-🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (Ubuntu, Mint & Manjaro)  
-🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)  
+Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)
+🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python)
+🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr), [Affinity Photo](https://dribbble.com/igordvlpr), [paint.net](https://www.getpaint.net/), [Microsoft Blend](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio)
+🕹 **Game**: [Unity](https://unity.com)
+🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)
+🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), [Vite](https://github.com/igorskyflyer?tab=repositories&q=vite), [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Composer](https://github.com/igorskyflyer?tab=repositories&q=composer)
+🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), [UserScript](https://github.com/igorskyflyer?tab=repositories&q=userscript), Chrome extensions
+🌈 **Customizability**: [Visual Studio Code themes](https://github.com/igorskyflyer?tab=repositories&q=vscode-theme)
+🪀 **Tools**: [DBeaver](https://dbeaver.io), [Microsoft Office](https://www.office.com) (Word, Excel, Powerpoint, Access), [Notepad++](https://notepad-plus-plus.org), [Poedit](https://poedit.net), [RunJS](https://runjs.app), [WinMerge](https://winmerge.org), [XAMPP](https://www.apachefriends.org), [FileZilla](https://filezilla-project.org), [Postman](https://www.postman.com)
+⚔ **Productivity**: [Notion](https://notion.so), [Slack](https://slack.com), [Trello](https://trello.com)
+🌿 **Environments**: [Windows](https://www.microsoft.com/en-us/windows), [WSL](https://docs.microsoft.com/en-us/windows/wsl/) (Ubuntu), [Linux](https://kernel.org) (Ubuntu, Mint & Manjaro)
+🥊 **IDE**: [Visual Studio Code 💘](https://code.visualstudio.com), [Visual Studio](https://visualstudio.microsoft.com), [Android Studio](https://developer.android.com/studio)
 ❄️ **Platforms**: [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), [Heroku](https://heroku.com), [GitHub Pages](https://github.com), [Replit](https://replit.com), [Cyclic](https://www.cyclic.sh)
 
 <br>
@@ -100,11 +100,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining **[AdVoid](https://github.com/igorskyflyer/ad-void)** 👈🏼 ,  
-🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,  
-🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,  
-🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
-👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
+🌹 can help you block pesky ads & trackers using an AdBlock filter I am maintaining **[AdVoid](https://github.com/igorskyflyer/ad-void)** 👈🏼 ,
+🌴 recently published the **[FolderPicker VS Code UI](https://github.com/igorskyflyer/npm-vscode-folderpicker)**,
+🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,
+🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,
+👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
 
 - 🦆 **`26+`** modules built already,
@@ -116,26 +116,26 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 - 🦐 **`160K+`** of installs,
 - ✅ **`verified`** extension developer,
 
-🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
-🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**, **[ChatGPT](https://chat.openai.com/chat)**,  
-💫 am currently working on building my portfolio website,  
-🌱 am currently learning **[React](https://reactjs.org)**,  
-🙌 am constantly creating open-source projects that help the dev-community,  
-📜 own more than **`30`** programming certificates,  
-👯 am looking to collaborate on exciting and challenging projects,  
-🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,  
+🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,
+🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**, **[ChatGPT](https://chat.openai.com/chat)**,
+💫 am currently working on building my portfolio website,
+🌱 am currently learning **[React](https://reactjs.org)**,
+🙌 am constantly creating open-source projects that help the dev-community,
+📜 own more than **`30`** programming certificates,
+👯 am looking to collaborate on exciting and challenging projects,
+🤝 am looking for help with my **[FOSS](https://github.com/igorskyflyer?tab=repositories&sort=stargazers)** projects,
 🧪 do front-end experiments on my **[CodePen](https://codepen.io/igorskyflyer/pens/public/)**, like:
 
-> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),  
-> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),  
-> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),  
-> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),  
-> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),  
-> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),  
-> 🎷&nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and  
+> 🔳 &nbsp;[3D Cube](https://codepen.io/igorskyflyer/pen/XvbQpp),
+> 💠 &nbsp;[Diamond Menu](https://codepen.io/igorskyflyer/pen/PrdKej),
+> 🛣️ &nbsp;[CSS Road](https://codepen.io/igorskyflyer/pen/QXBrXz),
+> 💻 &nbsp;[CSS Laptop](https://codepen.io/igorskyflyer/pen/orWEjo),
+> 🍦 &nbsp;[CSS Ice-Cream](https://codepen.io/igorskyflyer/pen/ydaMYJ),
+> 📱 &nbsp;[CSS Mobile Phone](https://codepen.io/igorskyflyer/pen/pmGyGR),
+> 🎷&nbsp;[Audio Player](https://codepen.io/igorskyflyer/pen/OYaLrb) , and
 > ♾️ still to come.
 
-🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,  
+🏀 dribble on **[Dribbble](https://dribbble.com/igordvlpr)**,
 📝 post snippets on my **[Gist](https://gist.github.com/igorskyflyer)**,
 
 <span id="recursion"></span>
@@ -144,16 +144,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 - 🦑 added **[`8 applications`](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** so far,
 
-🔃 can teach you about recursion, click <a href="https://github.com/igorskyflyer#recursion"><strong>here</strong></a> to learn more,  
+🔃 can teach you about recursion, click <a href="https://github.com/igorskyflyer#recursion"><strong>here</strong></a> to learn more,
 👟 love taking long walks & runs:
 
 - PR: **`~29km/18mi`**
 
-🌱 adore being in touch with nature,  
-⚙️ cherish automatizing things,  
-🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
-🐬 am a firm believer in **autodidacticism**,  
-🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
+🌱 adore being in touch with nature,
+⚙️ cherish automatizing things,
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,
+🐬 am a firm believer in **autodidacticism**,
+🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 
 <br>
@@ -180,6 +180,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1708](https://github.com/igorskyflyer/ad-void/pull/1708) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 2. 💪 Opened PR [#1708](https://github.com/igorskyflyer/ad-void/pull/1708) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 3. 🎉 Merged PR [#1707](https://github.com/igorskyflyer/ad-void/pull/1707) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
