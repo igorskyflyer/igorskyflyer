@@ -180,16 +180,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1733](https://github.com/igorskyflyer/ad-void/pull/1733) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1733](https://github.com/igorskyflyer/ad-void/pull/1733) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#1732](https://github.com/igorskyflyer/ad-void/pull/1732) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🎉 Merged PR [#1731](https://github.com/igorskyflyer/ad-void/pull/1731) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#1732](https://github.com/igorskyflyer/ad-void/pull/1732) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1731](https://github.com/igorskyflyer/ad-void/pull/1731) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#15507](https://github.com/microsoft/winget-pkgs/issues/15507) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🎉 Merged PR [#1733](https://github.com/igorskyflyer/ad-void/pull/1733) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 💪 Opened PR [#1733](https://github.com/igorskyflyer/ad-void/pull/1733) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 🎉 Merged PR [#1732](https://github.com/igorskyflyer/ad-void/pull/1732) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#1731](https://github.com/igorskyflyer/ad-void/pull/1731) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#1732](https://github.com/igorskyflyer/ad-void/pull/1732) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#1731](https://github.com/igorskyflyer/ad-void/pull/1731) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 8. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367) in [microsoft/vscode](https://github.com/microsoft/vscode)
-9. 🎉 Merged PR [#1730](https://github.com/igorskyflyer/ad-void/pull/1730) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 💪 Opened PR [#1730](https://github.com/igorskyflyer/ad-void/pull/1730) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367) in [microsoft/vscode](https://github.com/microsoft/vscode)
+10. 🎉 Merged PR [#1730](https://github.com/igorskyflyer/ad-void/pull/1730) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
