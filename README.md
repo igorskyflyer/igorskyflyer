@@ -180,16 +180,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1776](https://github.com/igorskyflyer/ad-void/pull/1776) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1776](https://github.com/igorskyflyer/ad-void/pull/1776) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🗣 Commented on [#1](https://github.com/openscript/openscript/issues/1) in [openscript/openscript](https://github.com/openscript/openscript)
-4. 🎉 Merged PR [#1775](https://github.com/igorskyflyer/ad-void/pull/1775) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#1775](https://github.com/igorskyflyer/ad-void/pull/1775) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🎉 Merged PR [#1774](https://github.com/igorskyflyer/ad-void/pull/1774) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#1774](https://github.com/igorskyflyer/ad-void/pull/1774) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 🎉 Merged PR [#1773](https://github.com/igorskyflyer/ad-void/pull/1773) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 💪 Opened PR [#1773](https://github.com/igorskyflyer/ad-void/pull/1773) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 🗣 Commented on [#73](https://github.com/Bnyro/RecordYou/issues/73) in [Bnyro/RecordYou](https://github.com/Bnyro/RecordYou)
+1. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-strip-headings/issues/4) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+2. ❗️ Opened issue [#5](https://github.com/igorskyflyer/npm-strip-headings/issues/5) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+3. ❗️ Opened issue [#4](https://github.com/igorskyflyer/npm-strip-headings/issues/4) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+4. ❗️ Opened issue [#3](https://github.com/igorskyflyer/npm-strip-headings/issues/3) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+5. ❗️ Opened issue [#1](https://github.com/igorskyflyer/npm-strip-headings/issues/1) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+6. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-strip-headings/issues/2) in [igorskyflyer/npm-strip-headings](https://github.com/igorskyflyer/npm-strip-headings)
+7. 🎉 Merged PR [#1776](https://github.com/igorskyflyer/ad-void/pull/1776) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1776](https://github.com/igorskyflyer/ad-void/pull/1776) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🗣 Commented on [#1](https://github.com/openscript/openscript/issues/1) in [openscript/openscript](https://github.com/openscript/openscript)
+10. 🎉 Merged PR [#1775](https://github.com/igorskyflyer/ad-void/pull/1775) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
