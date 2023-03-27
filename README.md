@@ -28,7 +28,9 @@ Let me tell you something more about what I do. 🏄
 <div align="center">
 <blockquote>📢 <em><b>Announcement</b></em> &gt;</blockquote>
 <br>
-I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a>,
+I released a new npm package, <a href="https://www.npmjs.com/package/@igor.dvlpr/strip-headings" target="_blank">strip-headings</a> ⛸
+<br>
+I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a> 💃🏼
 <br>
 <br>
 I published my first Astro component ✨🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations/css+ui/?q=igor.dvlpr">Integrations library</a> 😍
@@ -106,7 +108,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
 
-- 🦆 **`26+`** modules built already,
+- 🦆 **`27+`** modules built already,
 - 🦀 **`48.5K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
