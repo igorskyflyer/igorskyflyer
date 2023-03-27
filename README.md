@@ -182,16 +182,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1792](https://github.com/igorskyflyer/ad-void/pull/1792) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#1792](https://github.com/igorskyflyer/ad-void/pull/1792) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#1791](https://github.com/igorskyflyer/ad-void/pull/1791) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#1791](https://github.com/igorskyflyer/ad-void/pull/1791) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗️ Closed issue [#19](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/19) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-6. 🎉 Merged PR [#20](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/20) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-7. 💪 Opened PR [#20](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/20) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-8. ❗️ Opened issue [#19](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/19) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-9. ❗️ Closed issue [#17](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/17) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-10. 🎉 Merged PR [#18](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/18) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+1. 🎉 Merged PR [#1814](https://github.com/igorskyflyer/ad-void/pull/1814) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1814](https://github.com/igorskyflyer/ad-void/pull/1814) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#1813](https://github.com/igorskyflyer/ad-void/pull/1813) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#1813](https://github.com/igorskyflyer/ad-void/pull/1813) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#1812](https://github.com/igorskyflyer/ad-void/pull/1812) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#1812](https://github.com/igorskyflyer/ad-void/pull/1812) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#1811](https://github.com/igorskyflyer/ad-void/pull/1811) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#1811](https://github.com/igorskyflyer/ad-void/pull/1811) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🎉 Merged PR [#1810](https://github.com/igorskyflyer/ad-void/pull/1810) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#1810](https://github.com/igorskyflyer/ad-void/pull/1810) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
