@@ -36,7 +36,7 @@ I became a verified Visual Studio Code extension developer/publisher, see my ext
 I published my first Astro component ✨🎉, available at <a href="https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations/css+ui/?q=igor.dvlpr">Integrations library</a> 😍
 <br>
 <br>
-I updated my AdBlock filter that blocks major ad servers, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository 🌷
+I updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and supported by AdGuard themselved 🌷
 <br>
 <br>
 I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> repository 🌻
