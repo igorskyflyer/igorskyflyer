@@ -183,16 +183,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#65](https://github.com/igorskyflyer/igorskyflyer.me/issues/65) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-2. ❗️ Opened issue [#62](https://github.com/igorskyflyer/igorskyflyer.me/issues/62) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-3. ❗️ Opened issue [#65](https://github.com/igorskyflyer/igorskyflyer.me/issues/65) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-4. ❗️ Opened issue [#63](https://github.com/igorskyflyer/igorskyflyer.me/issues/63) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-5. ❗️ Opened issue [#61](https://github.com/igorskyflyer/igorskyflyer.me/issues/61) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-6. ❗️ Opened issue [#64](https://github.com/igorskyflyer/igorskyflyer.me/issues/64) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-7. ❗️ Opened issue [#60](https://github.com/igorskyflyer/igorskyflyer.me/issues/60) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-8. ❗️ Opened issue [#23](https://github.com/igorskyflyer/igorskyflyer/issues/23) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-9. ❗️ Opened issue [#22](https://github.com/igorskyflyer/igorskyflyer/issues/22) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
-10. ❗️ Opened issue [#20](https://github.com/igorskyflyer/igorskyflyer/issues/20) in [igorskyflyer/igorskyflyer](https://github.com/igorskyflyer/igorskyflyer)
+1. ❗️ Closed issue [#66](https://github.com/igorskyflyer/igorskyflyer.me/issues/66) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+2. ❗️ Opened issue [#67](https://github.com/igorskyflyer/igorskyflyer.me/issues/67) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+3. ❗️ Opened issue [#66](https://github.com/igorskyflyer/igorskyflyer.me/issues/66) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+4. ❗️ Closed issue [#64](https://github.com/igorskyflyer/igorskyflyer.me/issues/64) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+5. ❗️ Closed issue [#62](https://github.com/igorskyflyer/igorskyflyer.me/issues/62) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+6. ❗️ Closed issue [#63](https://github.com/igorskyflyer/igorskyflyer.me/issues/63) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+7. ❗️ Closed issue [#60](https://github.com/igorskyflyer/igorskyflyer.me/issues/60) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+8. ❗️ Closed issue [#65](https://github.com/igorskyflyer/igorskyflyer.me/issues/65) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+9. ❗️ Opened issue [#62](https://github.com/igorskyflyer/igorskyflyer.me/issues/62) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+10. ❗️ Opened issue [#65](https://github.com/igorskyflyer/igorskyflyer.me/issues/65) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
 <!--END_SECTION:activity-->
 
 <br>
