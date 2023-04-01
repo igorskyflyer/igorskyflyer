@@ -8,7 +8,7 @@
 
 My name is **_Igor Dimitrijević_** (IPA: /ˈIːɡɔːɹ ˈDi:mi:tɹijævitʃ/) and I am a software engineer from Serbia, a graduate **BSc IT _(with Hons, 4 years)_** doing full-stack Web, desktop and mobile development with a strong passion for everything digital and tech related.
 I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts:
+I always try to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts:
 
 Let me tell you something more about what I do. 🏄
 
@@ -106,9 +106,9 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎆 recently released **[Zing](https://github.com/igorskyflyer/npm-zing)** and **[Keppo()](https://github.com/igorskyflyer/npm-keppo)**,  
 🐛 recently created the **[my-pens](https://github.com/igorskyflyer/my-pens)** repository,  
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
-🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
+🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** packages:
 
-- 🦆 **`28+`** modules built already,
+- 🦆 **`28+`** packages built already,
 - 🦀 **`49K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
