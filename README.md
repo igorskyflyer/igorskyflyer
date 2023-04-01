@@ -51,7 +51,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 01 Apr 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 02 Apr 2023</sub></em></p>
 
 <br>
 
@@ -108,7 +108,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** modules:
 
-- 🦆 **`27+`** modules built already,
+- 🦆 **`28+`** modules built already,
 - 🦀 **`49K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
