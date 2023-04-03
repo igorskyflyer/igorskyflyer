@@ -118,7 +118,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 - ✅ **`verified`** extension developer,
 
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
-🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**, **[ChatGPT](https://chat.openai.com/chat)**,  
+🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**,  
 💫 am currently working on building my portfolio website,  
 🌱 am currently learning **[React](https://reactjs.org)**,  
 🙌 am constantly creating open-source projects that help the dev-community,  
