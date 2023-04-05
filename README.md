@@ -51,7 +51,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 04 Apr 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 06 Apr 2023</sub></em></p>
 
 <br>
 
@@ -109,7 +109,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** packages:
 
 - 🦆 **`29+`** packages built already,
-- 🦀 **`49K+`** of installs,
+- 🦀 **`50K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
 
