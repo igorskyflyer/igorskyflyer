@@ -33,7 +33,7 @@ I released a new npm package, <a href="https://github.com/igorskyflyer/npm-strip
 I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a> 💃🏼
 <br>
 <br>
-I published my first Astro component ✨🎉, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
+I updated  my first Astro component ✨🎉, Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
 <br>
 <br>
 I updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
@@ -51,7 +51,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 08 Apr 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 Apr 2023</sub></em></p>
 
 <br>
 
