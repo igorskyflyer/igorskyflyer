@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#86](https://github.com/Bnyro/WallYou/pull/86) in [Bnyro/WallYou](https://github.com/Bnyro/WallYou)
-2. 💪 Opened PR [#220](https://github.com/Bnyro/TranslateYou/pull/220) in [Bnyro/TranslateYou](https://github.com/Bnyro/TranslateYou)
-3. 💪 Opened PR [#135](https://github.com/Bnyro/ConnectYou/pull/135) in [Bnyro/ConnectYou](https://github.com/Bnyro/ConnectYou)
-4. 🎉 Merged PR [#1883](https://github.com/igorskyflyer/ad-void/pull/1883) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#1883](https://github.com/igorskyflyer/ad-void/pull/1883) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. ❗️ Closed issue [#1879](https://github.com/igorskyflyer/ad-void/issues/1879) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. ❗️ Closed issue [#1880](https://github.com/igorskyflyer/ad-void/issues/1880) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. ❗️ Closed issue [#1881](https://github.com/igorskyflyer/ad-void/issues/1881) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. ❗️ Closed issue [#1882](https://github.com/igorskyflyer/ad-void/issues/1882) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. ❗️ Opened issue [#1882](https://github.com/igorskyflyer/ad-void/issues/1882) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#1885](https://github.com/igorskyflyer/ad-void/pull/1885) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1885](https://github.com/igorskyflyer/ad-void/pull/1885) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 💪 Opened PR [#1884](https://github.com/igorskyflyer/ad-void/pull/1884) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#97](https://github.com/Bnyro/TriviaYou/pull/97) in [Bnyro/TriviaYou](https://github.com/Bnyro/TriviaYou)
+5. 💪 Opened PR [#86](https://github.com/Bnyro/WallYou/pull/86) in [Bnyro/WallYou](https://github.com/Bnyro/WallYou)
+6. 💪 Opened PR [#220](https://github.com/Bnyro/TranslateYou/pull/220) in [Bnyro/TranslateYou](https://github.com/Bnyro/TranslateYou)
+7. 💪 Opened PR [#135](https://github.com/Bnyro/ConnectYou/pull/135) in [Bnyro/ConnectYou](https://github.com/Bnyro/ConnectYou)
+8. 🎉 Merged PR [#1883](https://github.com/igorskyflyer/ad-void/pull/1883) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 💪 Opened PR [#1883](https://github.com/igorskyflyer/ad-void/pull/1883) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. ❗️ Closed issue [#1879](https://github.com/igorskyflyer/ad-void/issues/1879) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
