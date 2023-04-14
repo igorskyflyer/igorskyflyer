@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#21](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/21) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-2. 🎉 Merged PR [#1886](https://github.com/igorskyflyer/ad-void/pull/1886) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 💪 Opened PR [#1886](https://github.com/igorskyflyer/ad-void/pull/1886) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🎉 Merged PR [#1885](https://github.com/igorskyflyer/ad-void/pull/1885) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#1885](https://github.com/igorskyflyer/ad-void/pull/1885) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#1884](https://github.com/igorskyflyer/ad-void/pull/1884) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#97](https://github.com/Bnyro/TriviaYou/pull/97) in [Bnyro/TriviaYou](https://github.com/Bnyro/TriviaYou)
-8. 💪 Opened PR [#86](https://github.com/Bnyro/WallYou/pull/86) in [Bnyro/WallYou](https://github.com/Bnyro/WallYou)
-9. 💪 Opened PR [#220](https://github.com/Bnyro/TranslateYou/pull/220) in [Bnyro/TranslateYou](https://github.com/Bnyro/TranslateYou)
-10. 💪 Opened PR [#135](https://github.com/Bnyro/ConnectYou/pull/135) in [Bnyro/ConnectYou](https://github.com/Bnyro/ConnectYou)
+1. 🎉 Merged PR [#1906](https://github.com/igorskyflyer/ad-void/pull/1906) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#1906](https://github.com/igorskyflyer/ad-void/pull/1906) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#1905](https://github.com/igorskyflyer/ad-void/pull/1905) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#1905](https://github.com/igorskyflyer/ad-void/pull/1905) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#1904](https://github.com/igorskyflyer/ad-void/pull/1904) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#1904](https://github.com/igorskyflyer/ad-void/pull/1904) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#1903](https://github.com/igorskyflyer/ad-void/pull/1903) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 🎉 Merged PR [#1902](https://github.com/igorskyflyer/ad-void/pull/1902) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 💪 Opened PR [#1903](https://github.com/igorskyflyer/ad-void/pull/1903) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#1902](https://github.com/igorskyflyer/ad-void/pull/1902) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
