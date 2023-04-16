@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2006](https://github.com/igorskyflyer/ad-void/pull/2006) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#2006](https://github.com/igorskyflyer/ad-void/pull/2006) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#2005](https://github.com/igorskyflyer/ad-void/pull/2005) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#2005](https://github.com/igorskyflyer/ad-void/pull/2005) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#2004](https://github.com/igorskyflyer/ad-void/pull/2004) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#2004](https://github.com/igorskyflyer/ad-void/pull/2004) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#2003](https://github.com/igorskyflyer/ad-void/pull/2003) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#2003](https://github.com/igorskyflyer/ad-void/pull/2003) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 🎉 Merged PR [#2002](https://github.com/igorskyflyer/ad-void/pull/2002) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 💪 Opened PR [#2002](https://github.com/igorskyflyer/ad-void/pull/2002) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#6](https://github.com/igorskyflyer/userscript-block-popups/issues/6) in [igorskyflyer/userscript-block-popups](https://github.com/igorskyflyer/userscript-block-popups)
+2. 🎉 Merged PR [#7](https://github.com/igorskyflyer/userscript-block-popups/pull/7) in [igorskyflyer/userscript-block-popups](https://github.com/igorskyflyer/userscript-block-popups)
+3. 💪 Opened PR [#7](https://github.com/igorskyflyer/userscript-block-popups/pull/7) in [igorskyflyer/userscript-block-popups](https://github.com/igorskyflyer/userscript-block-popups)
+4. ❗️ Opened issue [#6](https://github.com/igorskyflyer/userscript-block-popups/issues/6) in [igorskyflyer/userscript-block-popups](https://github.com/igorskyflyer/userscript-block-popups)
+5. 🎉 Merged PR [#2008](https://github.com/igorskyflyer/ad-void/pull/2008) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#2008](https://github.com/igorskyflyer/ad-void/pull/2008) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#2007](https://github.com/igorskyflyer/ad-void/pull/2007) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#2007](https://github.com/igorskyflyer/ad-void/pull/2007) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🎉 Merged PR [#2006](https://github.com/igorskyflyer/ad-void/pull/2006) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#2006](https://github.com/igorskyflyer/ad-void/pull/2006) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
