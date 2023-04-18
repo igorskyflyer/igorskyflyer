@@ -237,7 +237,7 @@ Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>Lin
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
 
 <blockquote align="center">
-Any type of support is more than welcome. 🙂
+Any type of support is very much appreciated. 🙂
 </blockquote>
 
 <br>
