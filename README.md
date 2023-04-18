@@ -267,7 +267,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em>Commits statistics</em></sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=2&rank=-A">
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A">
   <br>
   <sub><em>My GitHub trophies</em></sub>
 </div>
