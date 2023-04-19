@@ -8,7 +8,7 @@
 
 My name is **_Igor Dimitrijević_** (IPA: /ˈIːɡɔːɹ ˈDi:mi:tɹijævitʃ/) and I am a software engineer from Serbia, a graduate **BSc IT _(with Hons, 4 years)_** doing full-stack Web, desktop and mobile development with a strong passion for everything digital and tech related.
 I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. :revolving_hearts:
+I always try to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. 💞
 
 Let me tell you something more about what I do. 🏄
 
@@ -232,7 +232,7 @@ Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>Lin
 <br>
 <br>
 
-<h3 align="center">:gift_heart: SUPPORT :gift_heart:</h3>
+<h3 align="center">💝 SUPPORT 💝</h3>
 
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
 
