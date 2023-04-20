@@ -152,7 +152,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 - PR: **`~29km/18mi`**
 
 🌱 adore being in touch with nature,  
-⚙️ cherish automatizing things,  
+⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,  
 🧿 love watching anime,  
 🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
 🐬 am a firm believer in **autodidacticism**,  
