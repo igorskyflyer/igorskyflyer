@@ -252,7 +252,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em>My Github profile metrics</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=20&card_width=445&hide_border=true&cache_seconds=3600&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=30&card_width=300&hide_border=true&cache_seconds=3600&hide=json&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
   <br>
   <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
   <br>
