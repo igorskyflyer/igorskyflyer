@@ -164,17 +164,17 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 
 <div align="center">
-        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
+        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center" width="450px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-astro-post-excerpt&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-astro-post-excerpt&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center" width="450px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep" align="center" width="450px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight&hide_border=true" alt="WinDev" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight&hide_border=true" alt="WinDev" align="center" width="450px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center" width="450px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-valid-path&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center"></a>
+	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-valid-path&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center" width="450px"></a>
 </div>
 
 <br>
