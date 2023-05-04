@@ -247,27 +247,27 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&card_width=450&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats">
-  <br>
-  <sub><em>My Github profile metrics</em></sub>
-  <br>
-  <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=32&card_width=450&hide_border=true&cache_seconds=1800&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=32&hide_border=true&cache_seconds=1800&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used" width="450px">
   <br>
   <sub><em>Metric that shows which languages are mostly used in my repositories</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065&card_width=450" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats"  width="450px">
+  <br>
+  <sub><em>My Github profile metrics</em></sub>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats" width="450px">
   <br>
   <sub><em>Consistency is key</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="500px">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="450px">
   <br>
   <sub><em>Commits statistics</em></sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A">
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A" width="450px">
   <br>
   <sub><em>My GitHub trophies</em></sub>
 </div>
