@@ -184,13 +184,13 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/igorskyflyer/cs-bench-pro/pull/1) in [igorskyflyer/cs-bench-pro](https://github.com/igorskyflyer/cs-bench-pro)
-2. ❌ Closed PR [#1](https://github.com/igorskyflyer/cs-iso-standards-listing/pull/1) in [igorskyflyer/cs-iso-standards-listing](https://github.com/igorskyflyer/cs-iso-standards-listing)
-3. ❌ Closed PR [#1](https://github.com/igorskyflyer/.net-core-mp3size/pull/1) in [igorskyflyer/.net-core-mp3size](https://github.com/igorskyflyer/.net-core-mp3size)
-4. 🎉 Merged PR [#2245](https://github.com/igorskyflyer/ad-void/pull/2245) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#2245](https://github.com/igorskyflyer/ad-void/pull/2245) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#2243](https://github.com/igorskyflyer/ad-void/pull/2243) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 🎉 Merged PR [#2242](https://github.com/igorskyflyer/ad-void/pull/2242) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#28](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/28) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+2. 💪 Opened PR [#28](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/28) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+3. 🎉 Merged PR [#27](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/27) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+4. 💪 Opened PR [#27](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/27) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+5. ❌ Closed PR [#1](https://github.com/igorskyflyer/cs-bench-pro/pull/1) in [igorskyflyer/cs-bench-pro](https://github.com/igorskyflyer/cs-bench-pro)
+6. ❌ Closed PR [#1](https://github.com/igorskyflyer/cs-iso-standards-listing/pull/1) in [igorskyflyer/cs-iso-standards-listing](https://github.com/igorskyflyer/cs-iso-standards-listing)
+7. ❌ Closed PR [#1](https://github.com/igorskyflyer/.net-core-mp3size/pull/1) in [igorskyflyer/.net-core-mp3size](https://github.com/igorskyflyer/.net-core-mp3size)
 8. 💪 Opened PR [#2242](https://github.com/igorskyflyer/ad-void/pull/2242) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 9. 🎉 Merged PR [#2241](https://github.com/igorskyflyer/ad-void/pull/2241) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 10. 💪 Opened PR [#2241](https://github.com/igorskyflyer/ad-void/pull/2241) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
