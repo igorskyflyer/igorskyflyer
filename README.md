@@ -262,7 +262,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em>Consistency is key</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&custom_title=Last%20week%20I%20coded%20in" width="450px" alt="WakaTime stats for last week">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&theme=tokyonight&custom_title=Last%20week%20I%20coded%20in" width="450px" alt="WakaTime stats for last week">
   <br>
   <sub><em>My mostly used languages in the past week</em></sub>
   <br>
