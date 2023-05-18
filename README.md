@@ -264,7 +264,9 @@ Any type of support is very much appreciated. 🙂
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&theme=tokyonight&hide_border=true&custom_title=Last%20week%20I%20coded%20in" width="450px" alt="WakaTime stats for last week">
   <br>
-  <sub><em>My mostly used languages in the past week (not in real-time)</em></sub>
+  <sub><em>My mostly used languages in the past week</em></sub>
+  <br>
+  <sub><em>(not in real-time)</em></sub>
   <br>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="450px">
