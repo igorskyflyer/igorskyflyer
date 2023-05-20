@@ -266,7 +266,7 @@ Any type of support is very much appreciated. 🙂
   <br>
   <sub><em><strong>My mostly used languages in the past week</strong></em></sub>
   <br>
-  <sub><em>(not in real-time, refreshes every 4h)</em></sub>
+  <sub><em>(not in real-time, refreshes every >= 4h)</em></sub>
   <br>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6" width="450px">
