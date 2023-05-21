@@ -269,7 +269,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em>(not in real-time, refreshes every >= 4h)</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=My%20contributions%20graph" width="450px">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="450px">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
   <br>
