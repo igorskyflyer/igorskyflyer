@@ -247,12 +247,12 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=32&hide_border=true&cache_seconds=1800&custom_title=🌊%20Top%20Languages%20🌊" alt="Igor&#39;s Top Languages Used" width="450px">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&count_private=true&langs_count=32&hide_border=true&cache_seconds=1800&custom_title=Top%20Languages" alt="Igor&#39;s Top Languages Used" width="450px">
   <br>
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&custom_title=👻%20Github%20Stats%20👻" alt="Igor&#39;s github stats" width="450px">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&custom_title=Github%20Stats" alt="Igor&#39;s github stats" width="450px">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
