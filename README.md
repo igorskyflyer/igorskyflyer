@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#22](https://github.com/tylerwray/me/pull/22) in [tylerwray/me](https://github.com/tylerwray/me)
-2. 🎉 Merged PR [#2264](https://github.com/igorskyflyer/ad-void/pull/2264) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 💪 Opened PR [#2264](https://github.com/igorskyflyer/ad-void/pull/2264) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🎉 Merged PR [#2263](https://github.com/igorskyflyer/ad-void/pull/2263) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#2263](https://github.com/igorskyflyer/ad-void/pull/2263) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🗣 Commented on [#3248](https://github.com/microsoft/winget-cli/issues/3248) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-7. 🎉 Merged PR [#2262](https://github.com/igorskyflyer/ad-void/pull/2262) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 💪 Opened PR [#2262](https://github.com/igorskyflyer/ad-void/pull/2262) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. ❗️ Opened issue [#3248](https://github.com/microsoft/winget-cli/issues/3248) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-10. 🎉 Merged PR [#2261](https://github.com/igorskyflyer/ad-void/pull/2261) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. ❗️ Closed issue [#21](https://github.com/tylerwray/me/issues/21) in [tylerwray/me](https://github.com/tylerwray/me)
+2. ❌ Closed PR [#22](https://github.com/tylerwray/me/pull/22) in [tylerwray/me](https://github.com/tylerwray/me)
+3. 🎉 Merged PR [#2264](https://github.com/igorskyflyer/ad-void/pull/2264) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#2264](https://github.com/igorskyflyer/ad-void/pull/2264) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#2263](https://github.com/igorskyflyer/ad-void/pull/2263) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#2263](https://github.com/igorskyflyer/ad-void/pull/2263) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🗣 Commented on [#3248](https://github.com/microsoft/winget-cli/issues/3248) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+8. 🎉 Merged PR [#2262](https://github.com/igorskyflyer/ad-void/pull/2262) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 💪 Opened PR [#2262](https://github.com/igorskyflyer/ad-void/pull/2262) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. ❗️ Opened issue [#3248](https://github.com/microsoft/winget-cli/issues/3248) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
 <!--END_SECTION:activity-->
 
 <br>
