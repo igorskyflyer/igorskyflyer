@@ -15,10 +15,6 @@ I currently work as a:
 - 🍸 full-stack tech lead at [SissiS.com](https://www.sissis.com).
 
 <br>
-
-<p align="center">Let me tell you something more about what I do. 🏄</p>
-
-<br>
 <br>
 
 <div align="center">
