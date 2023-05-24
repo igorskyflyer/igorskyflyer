@@ -28,7 +28,7 @@ I currently work as a:
 
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
-<blockquote>📢 <em><b>Announcement</b></em> &gt;</blockquote>
+📢 <em><b>Announcement</b></em> &gt;
 <br>
 I released a new npm package, <a href="https://github.com/igorskyflyer/npm-strip-headings" target="_blank">strip-headings</a> ⛸
 <br>
@@ -115,8 +115,8 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
 
-- 🐚 **`4` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
-- 💄 **`1` [color theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
+- 🐚&nbsp; **`4` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
+- 💄&nbsp; **`1` [color theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
 - 🦐 **`190K+`** of installs,
 - ✅ **`verified`** extension developer,
 
