@@ -119,8 +119,8 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
 
-- 🐚 **`4`** extensions so far,
-- 💄 **`1`** color theme so far,
+- 🐚 **[`4 extensions`](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
+- 💄 **[`1 color theme`](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
 - 🦐 **`190K+`** of installs,
 - ✅ **`verified`** extension developer,
 
