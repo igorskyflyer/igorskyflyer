@@ -114,7 +114,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** packages:
 
-- 🦆 **`30+`** packages built already,
+- 🦆 **`30+`** [packages](https://www.npmjs.com/~igor.dvlpr) built already,
 - 🦀 **`55K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
@@ -127,7 +127,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
 🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**,  
 💫 am currently working on building my portfolio website,  
-🌱 am currently learning **[React](https://reactjs.org)**,  
+🌱 am currently learning **[Rust](https://www.rust-lang.org)**,  
 🙌 am constantly creating open-source projects that help the dev-community,  
 📜 own more than **`30`** programming certificates,  
 👯 am looking to collaborate on exciting and challenging projects,  
