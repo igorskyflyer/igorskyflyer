@@ -30,6 +30,8 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
+I released my first VS Code theme, Kai, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
+<br>
 I released a new npm package, <a href="https://github.com/igorskyflyer/npm-strip-headings" target="_blank">strip-headings</a> ⛸
 <br>
 I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a> 💃🏼
@@ -53,7 +55,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 23 May 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 25 May 2023</sub></em></p>
 
 <br>
 
