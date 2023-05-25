@@ -10,9 +10,11 @@ My name is **_Igor Dimitrijević_** (IPA: /ˈIːɡɔːɹ ˈDi:mi:tɹijævitʃ/) 
 I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 I always try to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. 💞
 
+💼 Work
+---
 I currently work as a:
-- 🍃 full-stack tech lead at [Sensomed.eu](https://www.sensomed.eu),
-- 🍸 full-stack tech lead at [SissiS.com](https://www.sissis.com).
+- 🍃 full-stack tech lead at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
+- 🍸 full-stack tech lead at <a href="https://www.sissis.com">SissiS.com</a>.
 
 <br>
 <br>
