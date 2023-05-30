@@ -193,16 +193,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-extendable-string/issues/6) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-2. ❗️ Opened issue [#6](https://github.com/igorskyflyer/npm-extendable-string/issues/6) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-3. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-extendable-string/issues/5) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-4. ❗️ Opened issue [#5](https://github.com/igorskyflyer/npm-extendable-string/issues/5) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-5. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-extendable-string/issues/4) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-6. ❗️ Opened issue [#4](https://github.com/igorskyflyer/npm-extendable-string/issues/4) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-7. ❗️ Closed issue [#3](https://github.com/igorskyflyer/npm-extendable-string/issues/3) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-8. ❗️ Opened issue [#3](https://github.com/igorskyflyer/npm-extendable-string/issues/3) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-9. ❗️ Closed issue [#2](https://github.com/igorskyflyer/npm-extendable-string/issues/2) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
-10. ❗️ Opened issue [#2](https://github.com/igorskyflyer/npm-extendable-string/issues/2) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+1. 🎉 Merged PR [#2287](https://github.com/igorskyflyer/ad-void/pull/2287) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#2287](https://github.com/igorskyflyer/ad-void/pull/2287) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#2286](https://github.com/igorskyflyer/ad-void/pull/2286) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#2286](https://github.com/igorskyflyer/ad-void/pull/2286) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗️ Closed issue [#6](https://github.com/igorskyflyer/npm-extendable-string/issues/6) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+6. ❗️ Opened issue [#6](https://github.com/igorskyflyer/npm-extendable-string/issues/6) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+7. ❗️ Closed issue [#5](https://github.com/igorskyflyer/npm-extendable-string/issues/5) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+8. ❗️ Opened issue [#5](https://github.com/igorskyflyer/npm-extendable-string/issues/5) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+9. ❗️ Closed issue [#4](https://github.com/igorskyflyer/npm-extendable-string/issues/4) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
+10. ❗️ Opened issue [#4](https://github.com/igorskyflyer/npm-extendable-string/issues/4) in [igorskyflyer/npm-extendable-string](https://github.com/igorskyflyer/npm-extendable-string)
 <!--END_SECTION:activity-->
 
 <br>
