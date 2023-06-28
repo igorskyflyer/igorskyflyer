@@ -193,16 +193,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#34](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/34) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-2. 🗣 Commented on [#29](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/29) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-3. 🎉 Merged PR [#2288](https://github.com/igorskyflyer/ad-void/pull/2288) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#2288](https://github.com/igorskyflyer/ad-void/pull/2288) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🗣 Commented on [#3288](https://github.com/microsoft/winget-cli/issues/3288) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-6. ❗ Opened issue [#3289](https://github.com/microsoft/winget-cli/issues/3289) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-7. ❗ Opened issue [#3288](https://github.com/microsoft/winget-cli/issues/3288) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-8. 🗣 Commented on [#859](https://github.com/microsoft/vscode-extension-samples/issues/859) in [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
-9. 🔒 Closed issue [#29](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/29) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-10. 🗣 Commented on [#29](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/29) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+1. 🎉 Merged PR [#2290](https://github.com/igorskyflyer/ad-void/pull/2290) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#2290](https://github.com/igorskyflyer/ad-void/pull/2290) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#2289](https://github.com/igorskyflyer/ad-void/pull/2289) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#2289](https://github.com/igorskyflyer/ad-void/pull/2289) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🗣 Commented on [#34](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/34) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+6. 🗣 Commented on [#29](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/29) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+7. 🎉 Merged PR [#2288](https://github.com/igorskyflyer/ad-void/pull/2288) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#2288](https://github.com/igorskyflyer/ad-void/pull/2288) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🗣 Commented on [#3288](https://github.com/microsoft/winget-cli/issues/3288) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+10. ❗ Opened issue [#3289](https://github.com/microsoft/winget-cli/issues/3289) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
 <!--END_SECTION:activity-->
 
 <br>
