@@ -116,14 +116,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 👀 recently updated **[Zep()](https://github.com/igorskyflyer/npm-zep)**, **[is-rootdir](https://github.com/igorskyflyer/npm-is-rootdir)**, **[path-exists](https://github.com/igorskyflyer/npm-pathexists)**, **[str-is-in](https://github.com/igorskyflyer/npm-str-is-in)**, **[uArray](https://github.com/igorskyflyer/npm-uarray)**, **[unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)**, **[uPath](https://www.npmjs.com/package/@igor.dvlpr/upath)**,  
 🎀 like crafting **[NPM](https://www.npmjs.com/~igor.dvlpr)** packages:
 
-- 🦆 **`31+`** **[packages](https://www.npmjs.com/~igor.dvlpr)** built already,
+- 🦆 **`32+`** **[packages](https://www.npmjs.com/~igor.dvlpr)** built already,
 - 🦀 **`55K+`** of installs,
 
 🧃 like building **[Visual Studio Code](https://marketplace.visualstudio.com/publishers/igordvlpr)** extensions:
 
 - 🐚&nbsp; **`4` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
 - 💄&nbsp; **`1` [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
-- 🦐 **`196K+`** of installs,
+- 🦐 **`199K+`** of installs,
 - ✅ **`verified`** extension developer,
 
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
