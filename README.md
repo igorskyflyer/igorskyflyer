@@ -34,6 +34,8 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
+I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-normalized-string">normalized-string</a>
+<br>
 I released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
 <br>
 I released a new npm package, <a href="https://github.com/igorskyflyer/npm-strip-headings" target="_blank">strip-headings</a> ⛸
