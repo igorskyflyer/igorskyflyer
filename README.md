@@ -15,7 +15,7 @@ I always try to help the dev-community by building useful libraries, modules, pa
 💼 Work
 ---
 I currently work as a:
-- 🍃 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
+- 👟 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
 - 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>.
 
 <br>
