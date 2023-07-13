@@ -177,17 +177,17 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 
 <div align="center">
-        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-vscode-folderpicker&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center" width="450px"></a>
+        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-astro-post-excerpt&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center" width="450px"></a>
+	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-2.png" alt="Astro Post excerpt component" align="center" width="500px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-zep&show_owner=true&theme=tokyonight&hide_border=true" alt="Zep" align="center" width="450px"></a>
+	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-3.png" alt="Zep" align="center" width="500px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-windev&show_owner=true&theme=tokyonight&hide_border=true" alt="WinDev" align="center" width="450px"></a>
+	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-4.png" alt="WinDev" align="center" width="500px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-recursive-readdir&show_owner=true&theme=tokyonight&hide_border=true" alt="RecursiveReadDir" align="center" width="450px"></a>
+	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-5.png" alt="RecursiveReadDir" align="center" width="500px"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://github-readme-stats-igordvlpr.vercel.app/api/pin/?username=igorskyflyer&repo=npm-valid-path&show_owner=true&theme=tokyonight&hide_border=true" alt="ValidPath" align="center" width="450px"></a>
+	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-6.png" alt="ValidPath" align="center" width="500px"></a>
 </div>
 
 <br>
@@ -197,16 +197,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2322](https://github.com/igorskyflyer/ad-void/pull/2322) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#2322](https://github.com/igorskyflyer/ad-void/pull/2322) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#2321](https://github.com/igorskyflyer/ad-void/pull/2321) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 💪 Opened PR [#2321](https://github.com/igorskyflyer/ad-void/pull/2321) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🎉 Merged PR [#2320](https://github.com/igorskyflyer/ad-void/pull/2320) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 💪 Opened PR [#2320](https://github.com/igorskyflyer/ad-void/pull/2320) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#2319](https://github.com/igorskyflyer/ad-void/pull/2319) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 🔒 Closed issue [#2315](https://github.com/igorskyflyer/ad-void/issues/2315) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-9. 🔒 Closed issue [#2317](https://github.com/igorskyflyer/ad-void/issues/2317) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-10. 🔒 Closed issue [#2318](https://github.com/igorskyflyer/ad-void/issues/2318) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🎉 Merged PR [#2336](https://github.com/igorskyflyer/ad-void/pull/2336) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#2336](https://github.com/igorskyflyer/ad-void/pull/2336) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#2335](https://github.com/igorskyflyer/ad-void/pull/2335) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#2335](https://github.com/igorskyflyer/ad-void/pull/2335) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#2334](https://github.com/igorskyflyer/ad-void/pull/2334) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#2334](https://github.com/igorskyflyer/ad-void/pull/2334) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#2333](https://github.com/igorskyflyer/ad-void/pull/2333) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#2333](https://github.com/igorskyflyer/ad-void/pull/2333) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🎉 Merged PR [#2332](https://github.com/igorskyflyer/ad-void/pull/2332) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#2332](https://github.com/igorskyflyer/ad-void/pull/2332) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
