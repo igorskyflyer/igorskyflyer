@@ -264,12 +264,12 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&cache_seconds=14400" alt="Igor&#39;s Top Languages Used" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&cache_seconds=14400" alt="Igor&#39;s Top Languages Used" width="500px">
   <br>
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered&disable_animations=true&cache_seconds=14400" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered&disable_animations=true&cache_seconds=14400" width="500px">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
@@ -279,7 +279,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em><strong>Consistency is key</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity&disable_animations=true&cache_seconds=14400" alt="WakaTime coding stats for past week&disable_animations=true" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity&disable_animations=true&cache_seconds=14400" alt="WakaTime coding stats for past week&disable_animations=true" width="500px">
   <br>
   <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
   <br>
