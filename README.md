@@ -63,7 +63,7 @@ I published a new vanilla JavaScript library, <a href="https://github.com/igorsk
 I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
 </div>
 <br>
-<p align="right"><em><sub>🗓️ 14 July 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 15 July 2023</sub></em></p>
 
 <br>
 
@@ -94,7 +94,7 @@ I released my first UserScript that blocks all popup APIs, available here: <a hr
 🖥️ **Desktop**: [C#](https://github.com/igorskyflyer?tab=repositories&language=c%23), [C](https://github.com/igorskyflyer?tab=repositories&language=c), [Pascal](https://github.com/igorskyflyer?tab=repositories&language=pascal), [Delphi](https://github.com/igorskyflyer?tab=repositories&q=delphi)  
 📱 **Mobile**:
 Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)  
-🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python)  
+🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python), [Go](https://github.com/igorskyflyer?tab=repositories&q=&type=&language=go)  
 🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr), [Affinity Photo](https://dribbble.com/igordvlpr), [paint.net](https://www.getpaint.net/), [Microsoft Blend](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio)  
 🕹 **Game**: [Unity](https://unity.com)  
 🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)  
