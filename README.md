@@ -264,29 +264,29 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages" alt="Igor&#39;s Top Languages Used" width="450px">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages" alt="Igor&#39;s Top Languages Used" width="500px">
   <br>
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&hide_border=true&custom_title=Github%20Stats" alt="Igor&#39;s github stats" width="450px">
+  <img src="https://github-readme-stats-igordvlpr.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered" width="500px">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats" width="500px">
   <br>
   <sub><em><strong>Consistency is key</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity" width="450px" alt="WakaTime coding stats for past week">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity" width="5000px" alt="WakaTime coding stats for past week">
   <br>
   <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
   <br>
   <sub><em>(not in real-time, refreshes every ~4h)</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="450px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
   <br>
