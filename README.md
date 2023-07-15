@@ -201,16 +201,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2941](https://github.com/anuraghazra/github-readme-stats/issues/2941) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🎉 Merged PR [#2347](https://github.com/igorskyflyer/ad-void/pull/2347) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 💪 Opened PR [#2347](https://github.com/igorskyflyer/ad-void/pull/2347) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🎉 Merged PR [#2346](https://github.com/igorskyflyer/ad-void/pull/2346) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 💪 Opened PR [#2346](https://github.com/igorskyflyer/ad-void/pull/2346) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-6. 🎉 Merged PR [#2345](https://github.com/igorskyflyer/ad-void/pull/2345) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-7. 💪 Opened PR [#2345](https://github.com/igorskyflyer/ad-void/pull/2345) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-8. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/go-adblock-filter-counter/releases/tag/v1.0.1) in [igorskyflyer/go-adblock-filter-counter](https://github.com/igorskyflyer/go-adblock-filter-counter)
-9. 🎉 Merged PR [#1](https://github.com/igorskyflyer/project-revival/pull/1) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
-10. 💪 Opened PR [#1](https://github.com/igorskyflyer/project-revival/pull/1) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
+1. 🎉 Merged PR [#2348](https://github.com/igorskyflyer/ad-void/pull/2348) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#2348](https://github.com/igorskyflyer/ad-void/pull/2348) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗ Opened issue [#2941](https://github.com/anuraghazra/github-readme-stats/issues/2941) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 🎉 Merged PR [#2347](https://github.com/igorskyflyer/ad-void/pull/2347) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 💪 Opened PR [#2347](https://github.com/igorskyflyer/ad-void/pull/2347) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 🎉 Merged PR [#2346](https://github.com/igorskyflyer/ad-void/pull/2346) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 💪 Opened PR [#2346](https://github.com/igorskyflyer/ad-void/pull/2346) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 🎉 Merged PR [#2345](https://github.com/igorskyflyer/ad-void/pull/2345) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 💪 Opened PR [#2345](https://github.com/igorskyflyer/ad-void/pull/2345) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/go-adblock-filter-counter/releases/tag/v1.0.1) in [igorskyflyer/go-adblock-filter-counter](https://github.com/igorskyflyer/go-adblock-filter-counter)
 <!--END_SECTION:activity-->
 
 <br>
