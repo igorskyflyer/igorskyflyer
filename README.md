@@ -130,9 +130,9 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 - 🦐 **`202K+`** of installs,
 - ✅ **`verified`** extension developer,
 
-🦦 like producing **[Go modules](https://pkg.go.dev/search?q=github.com%2Figorskyflyer&m=package)**:
+🦦 like producing **[Go modules](https://pkg.go.dev/search?q=igorskyflyer&m=package)**:
 
-- 🐢 **`1` [module](https://pkg.go.dev/search?q=github.com%2Figorskyflyer&m=package)** so far,
+- 🐢 **`1` [module](https://pkg.go.dev/search?q=igorskyflyer&m=package)** so far,
 
 🎠 like making **[Packagist](https://packagist.org/users/igordvlpr/packages/)** packages,  
 🐣 am excited about these upcoming technologies: **[PyScript](https://pyscript.net)**, **[FormKit](https://formkit.com)**, **[Carbon](https://github.com/carbon-language/carbon-lang)**, **[SWC](https://github.com/swc-project/swc)**, **[Web3](https://www.cloudflare.com/en-gb/web3/)**,  
