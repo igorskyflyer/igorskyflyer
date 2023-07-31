@@ -35,7 +35,7 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
-I created a custom templating language for Adblock templates (<code>*.adbt</code>), its complementary files (<code>*.adbm</code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
+I created a custom templating language `ADBT`, for writing Adblock templates (<code>*.adbt</code>), its complementary files `ADBM` (<code>*.adbm</code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
 <br>
 <br>
 I released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
