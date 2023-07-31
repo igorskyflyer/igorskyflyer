@@ -45,6 +45,7 @@ I updated  my first Astro component ✨🎉, Astro Collections are now supported
 <br>
 <br>
 I updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
+</div>
 <p align="right"><em><sub>🗓️ 31 July 2023</sub></em></p>
 
 <br>
