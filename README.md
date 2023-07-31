@@ -35,7 +35,7 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
-I created a custom templating language, its complementary files, its parser, compiler, and a Visual Studio Code extension, more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a>. 🍭
+I created a custom templating language, its complementary files, its parser, compiler, and a Visual Studio Code extension, more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
 <br>
 <br>
 I released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
