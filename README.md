@@ -12,9 +12,10 @@ I always try to help the dev-community by building useful libraries, modules, pa
 
 <br>
 
-💼 Work
----
+## 💼 Work
+
 I currently work as a:
+
 - 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
 - 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>.
 
@@ -34,36 +35,17 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
-I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-adblock-filter-counter">adblock-filter-counter</a>
+I created a custom templating language, its complementary files, its parser, compiler, and a Visual Studio Code extension, more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a>. 🍭
 <br>
-I published a new NPM package, <a href="https://github.com/igorskyflyer/npm-normalized-string">normalized-string</a>
 <br>
 I released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
-<br>
-I released a new npm package, <a href="https://github.com/igorskyflyer/npm-strip-headings" target="_blank">strip-headings</a> ⛸
-<br>
-I became a verified Visual Studio Code extension developer/publisher, see my extensions <a href="https://marketplace.visualstudio.com/publishers/igordvlpr">here</a> 💃🏼
 <br>
 <br>
 I updated  my first Astro component ✨🎉, Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
 <br>
 <br>
 I updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
-<br>
-<br>
-I made huge improvements to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.new-folder">New Folder</a> repository 🌻
-<br>
-<br>
-I added new functionalities to my Visual Studio Code extension <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.project-version">Project Version</a> 🍁
-<br>
-<br>
-I published a new vanilla JavaScript library, <a href="https://github.com/igorskyflyer/js-zeus">⚡ zeus 🦅</a> that allows you to create HTML elements and set their attributes in a different manner - all at once!
-<br>
-<br>
-I released my first UserScript that blocks all popup APIs, available here: <a href="https://github.com/igorskyflyer/userscript-block-popups">userscript-block-popups</a> 🎇
-</div>
-<br>
-<p align="right"><em><sub>🗓️ 25 July 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 31 July 2023</sub></em></p>
 
 <br>
 
