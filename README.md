@@ -110,7 +110,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 - 🐚&nbsp; **`5` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
 - 💄&nbsp; **`1` [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
-- 🦐 **`204K+`** of installs,
+- 🦐 **`205K+`** of installs,
 - ✅ **`verified`** extension developer,
 
 🦦 like producing **[Go modules](https://pkg.go.dev/search?q=igorskyflyer&m=package)**:
