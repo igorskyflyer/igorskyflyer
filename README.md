@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#189574](https://github.com/microsoft/vscode/issues/189574) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#5](https://github.com/igorskyflyer/github-readme-stats/pull/5) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-3. 💪 Opened PR [#5](https://github.com/igorskyflyer/github-readme-stats/pull/5) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
-4. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/file-format-adbt/releases/tag/v1.0.1) in [igorskyflyer/file-format-adbt](https://github.com/igorskyflyer/file-format-adbt)
-5. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/file-format-adbt/releases/tag/v1.0.1) in [igorskyflyer/file-format-adbt](https://github.com/igorskyflyer/file-format-adbt)
+1. 🎉 Merged PR [#6](https://github.com/igorskyflyer/github-readme-stats/pull/6) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+2. 💪 Opened PR [#6](https://github.com/igorskyflyer/github-readme-stats/pull/6) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+3. ❗ Opened issue [#189574](https://github.com/microsoft/vscode/issues/189574) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🎉 Merged PR [#5](https://github.com/igorskyflyer/github-readme-stats/pull/5) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
+5. 💪 Opened PR [#5](https://github.com/igorskyflyer/github-readme-stats/pull/5) in [igorskyflyer/github-readme-stats](https://github.com/igorskyflyer/github-readme-stats)
 6. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/file-format-adbt/releases/tag/v1.0.1) in [igorskyflyer/file-format-adbt](https://github.com/igorskyflyer/file-format-adbt)
-7. 🔒 Closed issue [#28](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/28) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-8. 🎉 Merged PR [#29](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/29) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-9. 💪 Opened PR [#29](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/29) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-10. ❗ Opened issue [#28](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/28) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+7. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/file-format-adbt/releases/tag/v1.0.1) in [igorskyflyer/file-format-adbt](https://github.com/igorskyflyer/file-format-adbt)
+8. 🚀 Published release [v1.0.1](https://github.com/igorskyflyer/file-format-adbt/releases/tag/v1.0.1) in [igorskyflyer/file-format-adbt](https://github.com/igorskyflyer/file-format-adbt)
+9. 🔒 Closed issue [#28](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/28) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+10. 🎉 Merged PR [#29](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/29) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
 <!--END_SECTION:activity-->
 
 <br>
