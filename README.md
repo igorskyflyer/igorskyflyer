@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2437](https://github.com/igorskyflyer/ad-void/pull/2437) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 💪 Opened PR [#2437](https://github.com/igorskyflyer/ad-void/pull/2437) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#34](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/34) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-4. 🎉 Merged PR [#35](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/35) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-5. 💪 Opened PR [#35](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/35) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-6. ❗ Opened issue [#34](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/34) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-7. 🎉 Merged PR [#33](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/33) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-8. 🔒 Closed issue [#32](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/32) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-9. 💪 Opened PR [#33](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/33) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-10. ❗ Opened issue [#32](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/32) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+1. 🎉 Merged PR [#2463](https://github.com/igorskyflyer/ad-void/pull/2463) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 💪 Opened PR [#2463](https://github.com/igorskyflyer/ad-void/pull/2463) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#2462](https://github.com/igorskyflyer/ad-void/pull/2462) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 💪 Opened PR [#2462](https://github.com/igorskyflyer/ad-void/pull/2462) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🎉 Merged PR [#2461](https://github.com/igorskyflyer/ad-void/pull/2461) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+6. 💪 Opened PR [#2461](https://github.com/igorskyflyer/ad-void/pull/2461) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+7. 🎉 Merged PR [#2460](https://github.com/igorskyflyer/ad-void/pull/2460) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+8. 💪 Opened PR [#2460](https://github.com/igorskyflyer/ad-void/pull/2460) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+9. 🎉 Merged PR [#2459](https://github.com/igorskyflyer/ad-void/pull/2459) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+10. 💪 Opened PR [#2459](https://github.com/igorskyflyer/ad-void/pull/2459) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
