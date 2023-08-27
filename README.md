@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#66](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/66) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-2. 🎉 Merged PR [#67](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/67) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-3. 💪 Opened PR [#67](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/67) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-4. ❗ Opened issue [#66](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/66) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-5. 🔒 Closed issue [#64](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/64) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-6. 🎉 Merged PR [#65](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/65) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-7. 💪 Opened PR [#65](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/65) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-8. ❗ Opened issue [#64](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/64) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-9. 🔒 Closed issue [#62](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/62) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-10. 🎉 Merged PR [#63](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/63) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+1. 🔒 Closed issue [#70](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/70) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+2. 🎉 Merged PR [#71](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/71) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+3. 💪 Opened PR [#71](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/71) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+4. ❗ Opened issue [#70](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/70) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+5. 🔒 Closed issue [#68](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/68) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+6. 🎉 Merged PR [#69](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/69) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+7. 💪 Opened PR [#69](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/69) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+8. ❗ Opened issue [#68](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/68) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+9. 🔒 Closed issue [#66](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/66) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+10. 🎉 Merged PR [#67](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/67) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
 <!--END_SECTION:activity-->
 
 <br>
