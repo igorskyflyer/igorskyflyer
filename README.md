@@ -6,15 +6,15 @@
 
 <br>
 
-My name is **_Igor Dimitrijević_** (IPA: /ˈIːɡoːɹ ˈDi:mi:tɹijævitʃ/) AKA **_IgorSkyFlyer_** (IPA: /ˈIːɡoː͡ɹSkˈa͡ɪFlˈa͡ɪɚ/) and I am a software engineer from Serbia, a graduate **BSc IT _(with Hons, 4 years)_** doing full-stack Web, desktop and mobile development with a strong passion for everything digital and tech related.
-I have an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
-I always try to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. I am a huge DX (developer experience) advocate. 💞
+**_Igor Dimitrijević_**, commonly known as **_IgorSkyFlyer_** is a software engineer from Serbia, a graduate **BSc in Software engineering** _(with Honours, 4 years)_ doing full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of **`Aria`** - an Adblock templates compiler, **ADBT** - Adblock template language and **AdVoid** - multiple efficient Adblock filter lists.  
+Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
+He is always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. A huge DX (developer experience) advocate.
 
 <br>
 
 ## 💼 Work
 
-I currently work as a:
+Currently working as a:
 
 - 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
 - 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>.
@@ -35,16 +35,16 @@ I currently work as a:
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
-I created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code>*.adbt</code>), its complementary files <code>ADBM</code> (<code>*.adbm</code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
+Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code>*.adbt</code>), its complementary files <code>ADBM</code> (<code>*.adbm</code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
 <br>
 <br>
-I released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
+Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
 <br>
 <br>
-I updated  my first Astro component ✨🎉, Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
+Updated  my first Astro component ✨🎉, Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro's official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
 <br>
 <br>
-I updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
+Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
 <p align="right"><em><sub>🗓️ 05 September 2023</sub></em></p>
 
