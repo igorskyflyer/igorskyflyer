@@ -6,7 +6,7 @@
 
 <br>
 
-**_Igor Dimitrijević_**, commonly known as **_IgorSkyFlyer_** is a software engineer from Serbia, a graduate **BSc in Software engineering** _(with Honours, 4 years)_ doing full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of **`Aria`**, an Adblock templates compiler, **ADBT**, Adblock template language and file format and **AdVoid**, multiple efficient Adblock filter lists and many more projects.  
+**_Igor Dimitrijević_**, commonly known as **_IgorSkyFlyer_** is a software engineer from Serbia, a graduate **BSc in Software engineering** _(with Honours, 4 years)_ doing full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of **`Aria`**, an Adblock templates compiler, **ADBT**, Adblock template language and file format and **AdVoid**, multiple efficient Adblock filter lists and many other endearing projects.  
 Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 He is always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes. A huge DX (developer experience) advocate.
 
