@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/header.png"></p>
-
 ### 🤖 **`igorskyflyer@github:~$`**
 
 ## Hello world! <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/wave.gif" height="36" width="36">
