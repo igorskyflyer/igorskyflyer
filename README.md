@@ -184,16 +184,16 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-2. 🔒 Closed issue [#119](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/119) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-3. 🎉 Merged PR [#120](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-4. 💪 Opened PR [#120](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-5. ❗ Opened issue [#119](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/119) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-6. 🔒 Closed issue [#117](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/117) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-7. 🎉 Merged PR [#118](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/118) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-8. 💪 Opened PR [#118](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/118) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-9. ❗ Opened issue [#117](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/117) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-10. 🎉 Merged PR [#116](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/116) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+1. 🔒 Closed issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+2. 🎉 Merged PR [#122](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/122) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+3. 💪 Opened PR [#122](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/122) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+4. ❗ Opened issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+5. 🔒 Closed issue [#119](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/119) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+6. 🎉 Merged PR [#120](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+7. 💪 Opened PR [#120](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+8. ❗ Opened issue [#119](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/119) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+9. 🔒 Closed issue [#117](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/117) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+10. 🎉 Merged PR [#118](https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/118) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
 <!--END_SECTION:activity-->
 
 <br>
