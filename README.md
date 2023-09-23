@@ -14,7 +14,7 @@ Currently working as a:
 
 - 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
 - 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,
-- 🦑 freelance full-stack developer,
+- 🐆 freelance full-stack developer,
 - 🙌🏼 free-will open sourcerer.
 
 <br>
