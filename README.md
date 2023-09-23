@@ -13,7 +13,9 @@ Always trying to help the dev-community by building useful libraries, modules, p
 Currently working as a:
 
 - 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
-- 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>.
+- 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>
+- ⚡ freelance full-stack developer,
+- 🙌🏼 free-will open sourcer.
 
 <br>
 <br>
@@ -42,7 +44,7 @@ Updated  my first Astro component ✨🎉, Astro Collections are now supported, 
 <br>
 Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 21 September 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 23 September 2023</sub></em></p>
 
 <br>
 
