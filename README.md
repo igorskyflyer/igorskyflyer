@@ -13,7 +13,7 @@ Always trying to help the dev-community by building useful libraries, modules, p
 Currently working as a:
 
 - 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
-- 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>
+- 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,
 - ⚡ freelance full-stack developer,
 - 🙌🏼 free-will open sourcerer.
 
