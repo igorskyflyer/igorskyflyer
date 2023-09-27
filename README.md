@@ -181,7 +181,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
 <br>
 <!-- BLOG-POST-LIST:START -->
-
+- [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
+- [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
+- [Stop using &#39;all&#39; in CSS transitions 🙅🏻‍♂️](https://igorskyflyer.me/blog/stop-using-all-in-css-transitions/)
+- [Build an HTML element creation utility ⚡](https://igorskyflyer.me/blog/build-html-create-utility-zeus/)
+- [Hello world 👋🏼](https://igorskyflyer.me/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
