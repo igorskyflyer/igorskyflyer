@@ -285,13 +285,11 @@ Any type of support is very much appreciated. 🙂
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
-  <!-- currently offline
   <br>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A" width="450px">
   <br>
   <sub><em><strong>My GitHub trophies</strong></em></sub>
-  -->
 </div>
 
 <br>
