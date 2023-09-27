@@ -183,8 +183,8 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736143596) in [withastro/astro](https://github.com/withastro/astro)
-2. 🔒 Closed issue [#2980](https://github.com/igorskyflyer/ad-void/issues/2980) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736425013) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736143596) in [withastro/astro](https://github.com/withastro/astro)
 3. ❗ Opened issue [#2980](https://github.com/igorskyflyer/ad-void/issues/2980) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 4. ❗ Opened issue [#2979](https://github.com/igorskyflyer/ad-void/issues/2979) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 🔒 Closed issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
