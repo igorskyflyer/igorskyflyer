@@ -1,0 +1,20 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-latests-blog-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update latest blog posts from website
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://igorskyflyer.me/rss.xml"
