@@ -178,6 +178,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
+<h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
+<br>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <br>
 
