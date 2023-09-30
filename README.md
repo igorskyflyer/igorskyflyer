@@ -219,6 +219,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36"></a>
  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36"></a>
   <a href="https://g.dev/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36" height="36"></a>
+	<a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36" height="36"></a>
    <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36"></a>
   <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36"></a>
  <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36"></a>
@@ -229,6 +230,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
  <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36"></a>
   <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36"></a>
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36"></a>
+	<a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36" height="36"></a>
  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36"></a>
  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36"></a>
  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36"></a>
