@@ -281,7 +281,7 @@ Any type of support is very much appreciated. 🙂
   <br>
   <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
   <br>
-  <sub><em>(not in real-time, refreshes every ~4h)</em></sub>
+  <sub><em>(not in real-time, refreshes every ~6h)</em></sub>
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px">
