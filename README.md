@@ -181,6 +181,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
 <br>
 
+Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):  
 
 <!-- BLOG-POST-LIST:START -->
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
