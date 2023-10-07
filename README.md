@@ -198,8 +198,8 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#37](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/37) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-2. 💪 Opened PR [#37](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/37) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+1. 🗣 Commented on [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40#issuecomment-1751771436) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+2. 🎉 Merged PR [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 3. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736143596) in [withastro/astro](https://github.com/withastro/astro)
 4. ❗ Opened issue [#2979](https://github.com/igorskyflyer/ad-void/issues/2979) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 🔒 Closed issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
