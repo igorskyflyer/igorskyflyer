@@ -45,7 +45,7 @@ Updated  my first Astro component ✨🎉, Astro Collections are now supported, 
 <br>
 Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 02 October 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 09 October 2023</sub></em></p>
 
 <br>
 
@@ -103,13 +103,13 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎀 like crafting **[NPM packages](https://www.npmjs.com/~igor.dvlpr)**:
 
 - 🦆 **`35+`** **[packages](https://www.npmjs.com/~igor.dvlpr)** built already,
-- 🦀 **`63K+`** of installs,
+- 🦀 **`65K+`** of installs,
 
 🧃 like building **[Visual Studio Code extensions](https://marketplace.visualstudio.com/publishers/igordvlpr)**:
 
 - 🐚&nbsp; **`5` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
 - 💄&nbsp; **`1` [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
-- 🦐 **`220K+`** of installs,
+- 🦐 **`221K+`** of installs,
 - ✅ **`verified`** extension developer,
 
 🦦 like producing **[Go modules](https://pkg.go.dev/search?q=igorskyflyer&m=package)**:
