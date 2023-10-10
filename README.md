@@ -231,7 +231,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Dribbble page"></a>
 	<a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Threads page"></a>
  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Beacons page"></a>
- <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) LinkedIn page"></a>
+ <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) LinkedIn page"></a>
  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Twitter page"></a>
  <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Facebook/Meta page"></a>
 </div>
