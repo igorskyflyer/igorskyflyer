@@ -142,7 +142,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 - 🦑 added `8` **[applications](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer)** so far,
 
-🔃 can teach you about recursion, click <a href="https://github.com/igorskyflyer#recursion"><strong>here</strong></a> to learn more,  
+🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,  
 👟 love taking long walks & runs:
 
 - PR: **`~29km/18mi`**
