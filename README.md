@@ -238,13 +238,13 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <br>
 
 <h3 align="center">📬 CONTACT 📬</h3>
-Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜
+<p>Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜</p>
 
 <br>
 <br>
 
 <h3 align="center">💝 SUPPORT 💝</h3>
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+<p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
 <br>
 <br>
 <div align="center">
