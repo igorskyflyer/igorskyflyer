@@ -215,7 +215,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) npm page"></a>
  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Microsoft Developer page"></a>
  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Codepen page"></a>
-  <a href="https://g.dev/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) PlayStore page"></a>
+  <a href="https://g.dev/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) PlayStore page"></a>
 	<a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Ko-Fi page"></a>
    <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Leetcode page"></a>
 </div>
