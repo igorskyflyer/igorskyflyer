@@ -92,7 +92,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <br>
 
-<div data-no-restyle>
+<div data-no-restyle="true">
 <p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <strong><a href="https://github.com/igorskyflyer/ad-void">AdVoid</a></strong> 👈🏼 ,<br>🌴 recently published the <strong><a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">FolderPicker VS Code UI</a></strong>,<br>🎆 recently released <strong><a href="https://github.com/igorskyflyer/npm-zing">Zing</a></strong> and <strong><a href="https://github.com/igorskyflyer/npm-keppo">Keppo()</a></strong>,<br>🐛 recently created the <strong><a href="https://github.com/igorskyflyer/my-pens">my-pens</a></strong> repository,<br>👀 recently updated <strong><a href="https://github.com/igorskyflyer/npm-zep">Zep()</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-is-rootdir">is-rootdir</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-pathexists">path-exists</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-str-is-in">str-is-in</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-uarray">uArray</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath</a></strong>,<br>🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages</a></strong>:</p>
 <ul>
 <li>🦆 <strong><code>35+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages</a></strong> built already,</li>
