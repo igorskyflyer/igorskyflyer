@@ -251,9 +251,6 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <h3>💝 SUPPORT 💝</h3>
 <p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
 
-<br>
-<br>
-
 <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="150"></a>
 
 <br>
