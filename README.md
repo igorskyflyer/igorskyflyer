@@ -270,7 +270,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500px" height="316px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500px" height="316px" alt="Igor Dimitrijević (igorskyflyer) GitHub profile metrics">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
@@ -287,7 +287,7 @@ Any type of support is very much appreciated. 🙂
   <sub><em>(not in real-time, refreshes every ~6h)</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px" height="175px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px" height="175px" alt="Igor Dimitrijević (igorskyflyer) contribution graph">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
   <br>
