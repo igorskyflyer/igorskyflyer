@@ -217,7 +217,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Codepen page"></a>
   <a href="https://g.dev/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) PlayStore page"></a>
 	<a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Ko-Fi page"></a>
-   <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Leetcode page"></a>
+   <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Leetcode page"></a>
 </div>
 <div align="center">
   <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Polywork page"></a>
