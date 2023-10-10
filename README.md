@@ -45,16 +45,13 @@ Updated  my first Astro component ✨🎉, Astro Collections are now supported, 
 <br>
 Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 24 September 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 October 2023</sub></em></p>
 
 <br>
 
 <br>
 
 <h3 align="center">⚡ MY TECH STACK ⚡</h3>
-
-<br>
-
 <div align="center">
 	<em><strong>Browse by development aspect:</strong></em>
 	<br>
@@ -103,13 +100,13 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🎀 like crafting **[NPM packages](https://www.npmjs.com/~igor.dvlpr)**:
 
 - 🦆 **`35+`** **[packages](https://www.npmjs.com/~igor.dvlpr)** built already,
-- 🦀 **`62K+`** of installs,
+- 🦀 **`65K+`** of installs,
 
 🧃 like building **[Visual Studio Code extensions](https://marketplace.visualstudio.com/publishers/igordvlpr)**:
 
 - 🐚&nbsp; **`5` [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance)** so far,
 - 💄&nbsp; **`1` [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)** so far,
-- 🦐 **`219K+`** of installs,
+- 🦐 **`221K+`** of installs,
 - ✅ **`verified`** extension developer,
 
 🦦 like producing **[Go modules](https://pkg.go.dev/search?q=igorskyflyer&m=package)**:
@@ -153,7 +150,7 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 🌱 adore being in touch with nature,  
 ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,  
 🧿 love watching anime,  
-🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://m.mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://m.mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
+🎮 play **[MLBB](https://mobilelegends.com/en)** in my spare time - join me, main **[Nana](https://mobilelegends.com/en/hero/5)** 🐱, **[Balmond](https://mobilelegends.com/en/hero/2)** 👹, **[Roger](https://mobilelegends.com/en/hero/39)** 🐺, **[Silvanna](https://mobilelegends.com/en/hero/90)** ⚔️, **[Cyclops](https://mobilelegends.com/en/hero/33)** 🧙‍♂️ and **[Bane](https://mobilelegends.com/en/hero/11)** 🐙 here,  
 🐬 am a firm believer in **autodidacticism**,  
 🎭 am known as: **Igor Dimitrijević**, **igorskyflyer**, **igordvlpr**, **igor.dvlpr**,  
 🤭 fun fact — call me if you need to "_clean up_" your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
@@ -161,7 +158,6 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
-
 <div align="center">
         <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500px"></a>
 	<br>
@@ -177,10 +173,11 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 </div>
 
 <br>
-
-<h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
 <br>
 
+<h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
+
+Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):  
 
 <!-- BLOG-POST-LIST:START -->
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
@@ -191,14 +188,13 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
-<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <br>
 
+<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/igorskyflyer/github-readme-streak-stats/pull/1) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
-2. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736425013) in [withastro/astro](https://github.com/withastro/astro)
+1. 🗣 Commented on [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40#issuecomment-1751771436) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+2. 🎉 Merged PR [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 3. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736143596) in [withastro/astro](https://github.com/withastro/astro)
 4. ❗ Opened issue [#2979](https://github.com/igorskyflyer/ad-void/issues/2979) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 🔒 Closed issue [#121](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
@@ -213,22 +209,25 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <h3 align="center">🙆🏻‍♂️ LET'S CONNECT  🥳</h3>
-
 <div align="center">
  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36"></a>
  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36"></a>
  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36"></a>
   <a href="https://g.dev/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36" height="36"></a>
+	<a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36" height="36"></a>
    <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36"></a>
+</div>
+<div align="center">
   <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36"></a>
  <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36"></a>
  <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36"></a>
-</div>
-<div align="center">
  <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36"></a>
  <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36"></a>
   <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36"></a>
+</div>
+<div align="center">
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36"></a>
+	<a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36" height="36"></a>
  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36"></a>
  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36"></a>
  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36"></a>
@@ -239,15 +238,19 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <h3 align="center">📬 CONTACT 📬</h3>
-
-Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜
+<p>Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜</p>
 
 <br>
 <br>
 
 <h3 align="center">💝 SUPPORT 💝</h3>
-
-If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+<p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
+<br>
+<br>
+<div align="center">
+	<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="150"></a>
+</div>
+<br>
 
 <blockquote align="center">
 Any type of support is very much appreciated. 🙂
@@ -256,9 +259,6 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <h3 align="center">🔥 STATISTICS 🔥</h3>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px">
   <br>
@@ -279,7 +279,7 @@ Any type of support is very much appreciated. 🙂
   <br>
   <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
   <br>
-  <sub><em>(not in real-time, refreshes every ~4h)</em></sub>
+  <sub><em>(not in real-time, refreshes every ~6h)</em></sub>
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px">
