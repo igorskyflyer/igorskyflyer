@@ -45,16 +45,13 @@ Updated  my first Astro component ✨🎉, Astro Collections are now supported, 
 <br>
 Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 09 October 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 October 2023</sub></em></p>
 
 <br>
 
 <br>
 
 <h3 align="center">⚡ MY TECH STACK ⚡</h3>
-
-<br>
-
 <div align="center">
 	<em><strong>Browse by development aspect:</strong></em>
 	<br>
@@ -161,7 +158,6 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <br>
 
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
-
 <div align="center">
         <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500px"></a>
 	<br>
@@ -177,9 +173,9 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 </div>
 
 <br>
+<br>
 
 <h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
-<br>
 
 Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):  
 
@@ -192,10 +188,9 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
-<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <br>
 
+<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40#issuecomment-1751771436) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
@@ -214,7 +209,6 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <br>
 
 <h3 align="center">🙆🏻‍♂️ LET'S CONNECT  🥳</h3>
-
 <div align="center">
  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36"></a>
  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36"></a>
@@ -244,16 +238,14 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <br>
 
 <h3 align="center">📬 CONTACT 📬</h3>
-
 Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜
 
 <br>
 <br>
 
 <h3 align="center">💝 SUPPORT 💝</h3>
-
 If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
-
+<br>
 <br>
 <div align="center">
 	<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="150"></a>
@@ -267,9 +259,6 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <h3 align="center">🔥 STATISTICS 🔥</h3>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px">
   <br>
