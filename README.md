@@ -265,34 +265,34 @@ Any type of support is very much appreciated. 🙂
 
 <div align="center">
 <h3>🔥 STATISTICS 🔥</h3>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px" height="567px">
   <br>
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500px" height="316px">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats-plum.vercel.app/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats" width="500px">
+  <img src="https://github-readme-streak-stats-plum.vercel.app/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="GitHub Streak Stats" width="500px" height="197px">
   <br>
   <sub><em><strong>Consistency is key</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity&disable_animations=true&cache_seconds=14400" alt="WakaTime coding stats for the past week" width="500px">
+  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity&disable_animations=true&cache_seconds=14400" alt="WakaTime coding stats for the past week" width="500px" height="192px">
   <br>
   <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
   <br>
   <sub><em>(not in real-time, refreshes every ~6h)</em></sub>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500px" height="175px">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A" width="450px">
+  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A" width="450px" height="300px">
   <br>
   <sub><em><strong>My GitHub trophies</strong></em></sub>
 </div>
