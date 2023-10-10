@@ -302,7 +302,7 @@ Any type of support is very much appreciated. 🙂
 
 <!-- 📈 since 18 Jun 2021 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorskyflyer" width="140px" height="21px">
+  <img src="https://komarev.com/ghpvc/?username=igorskyflyer" width="140px" height="21px" alt="Igor Dimitrijević (igorskyflyer) profile views counter">
 	<br>
   <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Self-update" width="140px" height="20px">
   <br>
