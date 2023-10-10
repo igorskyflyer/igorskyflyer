@@ -225,7 +225,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
  <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Stackoverflow page"></a>
  <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) Instagram page"></a>
  <a href="https://www.tiktok.com/@caged.wolf"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) TikTok page"></a>
-  <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) YouTube page"></a>
+  <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36px" height="36px" alt="Igor Dimitrijević (igorskyflyer) YouTube page"></a>
 </div>
 <div align="center">
 <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Dribbble page"></a>
