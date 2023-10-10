@@ -241,7 +241,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 
 <div align="center">
 <h3>📬 CONTACT 📬</h3>
-<p>Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can do that 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>here</strong></a> 😂 🦜</p>
+<p>Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
 </div>
 
 <br>
