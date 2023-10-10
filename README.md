@@ -9,14 +9,14 @@ A huge DX (developer experience) advocate.
 
 <br>
 
-## 💼 Work
-
-Currently working as a:
-
-- 🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,
-- 🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,
-- 🐆 freelance full-stack developer,
-- 🙌🏼 free-will open sourcerer.
+<h2 id="-work">💼 Work</h2>
+<p>Currently working as a:</p>
+<ul data-no-restyle>
+<li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,</li>
+<li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,</li>
+<li>🐆 freelance full-stack developer,</li>
+<li>🙌🏼 free-will open sourcerer.</li>
+</ul>
 
 <br>
 <br>
