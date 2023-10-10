@@ -56,9 +56,9 @@ Updated my AdBlock filters, so it's very lightweight on your hardware's resource
 	<em><strong>Browse by development aspect:</strong></em>
 	<br>
 	<br>
-	<a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://custom-icon-badges.herokuapp.com/badge/front-end-0099ff?style=flat-square&logo=paintbrush" alt="See my front-end development projects"></a>
-	<a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://custom-icon-badges.herokuapp.com/badge/back-end-408D47?style=flat-square&logo=cache" alt="See my back-end development projects"></a>
-	<a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://custom-icon-badges.herokuapp.com/badge/full-stack-7057ff?style=flat-square&logo=zap" alt="See my full-stack development projects"></a>
+	<a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://custom-icon-badges.herokuapp.com/badge/front-end-0099ff?style=flat-square&logo=paintbrush" alt="See my front-end development projects" width="85px" height="20px"></a>
+	<a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://custom-icon-badges.herokuapp.com/badge/back-end-408D47?style=flat-square&logo=cache" alt="See my back-end development projects" width="83px" height="20px"></a>
+	<a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://custom-icon-badges.herokuapp.com/badge/full-stack-7057ff?style=flat-square&logo=zap" alt="See my full-stack development projects" width="83px" height="20px"></a>
 </div>
 
 <br>
