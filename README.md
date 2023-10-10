@@ -90,21 +90,20 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 🤗 Don't go yet because I:
 
-<div data-no-restyle>
 <p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <strong><a href="https://github.com/igorskyflyer/ad-void">AdVoid</a></strong> 👈🏼 ,<br>🌴 recently published the <strong><a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">FolderPicker VS Code UI</a></strong>,<br>🎆 recently released <strong><a href="https://github.com/igorskyflyer/npm-zing">Zing</a></strong> and <strong><a href="https://github.com/igorskyflyer/npm-keppo">Keppo()</a></strong>,<br>🐛 recently created the <strong><a href="https://github.com/igorskyflyer/my-pens">my-pens</a></strong> repository,<br>👀 recently updated <strong><a href="https://github.com/igorskyflyer/npm-zep">Zep()</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-is-rootdir">is-rootdir</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-pathexists">path-exists</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-str-is-in">str-is-in</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-uarray">uArray</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath</a></strong>,<br>🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages</a></strong>:</p>
-<ul>
+<ul data-no-restyle>
 <li>🦆 <strong><code>35+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages</a></strong> built already,</li>
 <li>🦀 <strong><code>65K+</code></strong> of installs,</li>
 </ul>
 <p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions</a></strong>:</p>
-<ul>
+<ul data-no-restyle>
 <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">extensions</a></strong> so far,</li>
 <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=Themes&amp;sortBy=Relevance">theme</a></strong> so far,</li>
 <li>🦐 <strong><code>222K+</code></strong> of installs,</li>
 <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">Go/Golang modules</a></strong>:</p>
-<ul>
+<ul data-no-restyle>
 <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">module</a></strong> so far,</li>
 </ul>
 <p>🎠 like making <strong><a href="https://packagist.org/users/igordvlpr/packages/">Packagist</a></strong> packages,<br>🐣 am excited about these upcoming technologies: <strong><a href="https://pyscript.net">PyScript</a></strong>, <strong><a href="https://formkit.com">FormKit</a></strong>, <strong><a href="https://github.com/carbon-language/carbon-lang">Carbon</a></strong>, <strong><a href="https://github.com/swc-project/swc">SWC</a></strong>, <strong><a href="https://www.cloudflare.com/en-gb/web3/">Web3</a></strong>,<br>💫 am currently working on building my portfolio website,<br>🌱 am currently learning <strong><a href="https://www.rust-lang.org">Rust</a></strong>,<br>🙌 am constantly creating open-source projects that help the dev-community,<br>📜 own more than <strong><code>30</code></strong> programming certificates,<br>👯 am looking to collaborate on exciting and challenging projects,<br>🤝 am looking for help with my <strong><a href="https://github.com/igorskyflyer?tab=repositories&amp;sort=stargazers">FOSS</a></strong> projects,<br>🤼 like exchanging opinions with my people at <strong><a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+">VS Code</a></strong>,<br>🧪 do front-end experiments on my <strong><a href="https://codepen.io/igorskyflyer/pens/public/">CodePen</a></strong>, like:</p>
@@ -114,15 +113,14 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 <p>🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble</a></strong>,<br>📝 post snippets on my <strong><a href="https://gist.github.com/igorskyflyer">Gist</a></strong>,</p>
 <p><span id="recursion"></span></p>
 <p>🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs</a></strong> repository:</p>
-<ul>
+<ul data-no-restyle>
 <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications</a></strong> so far,</li>
 </ul>
 <p>🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,<br>👟 love taking long walks &amp; runs:</p>
-<ul>
+<ul data-no-restyle>
 <li>PR: <strong><code>~29km/18mi</code></strong></li>
 </ul>
 <p>🌱 adore being in touch with nature,<br>⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,<br>🧿 love watching anime,<br>🎮 play <strong><a href="https://mobilelegends.com/en">MLBB</a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana</a></strong> 🐱, <strong><a href="https://mobilelegends.com/en/hero/2">Balmond</a></strong> 👹, <strong><a href="https://mobilelegends.com/en/hero/39">Roger</a></strong> 🐺, <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna</a></strong> ⚔️, <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops</a></strong> 🧙‍♂️ and <strong><a href="https://mobilelegends.com/en/hero/11">Bane</a></strong> 🐙 here,<br>🐬 am a firm believer in <strong>autodidacticism</strong>,<br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧</p>
-</div>
 
 <br>
 <br>
