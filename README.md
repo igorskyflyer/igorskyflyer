@@ -23,7 +23,7 @@ Currently working as a:
 
 <div align="center">
   <blockquote>
-   🤗 See my 2022 year in GitHub Unwrapped, right <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2022.md">here</a>. 🎄
+   🤗 See my 2022 year in <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2022.md">GitHub Unwrapped</a>. 🎄
   </blockquote>
 </div>
 
