@@ -158,7 +158,7 @@ Posts on my blog [igorskyflyer.me](https://igorskyflyer.me/blog):
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40#issuecomment-1751771436) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+1. 🗣 Commented on [#79](https://github.com/antonkomarev/github-profile-views-counter/issues/79#issuecomment-1757745139) in [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 2. 🎉 Merged PR [#40](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 3. 🗣 Commented on [#5794](https://github.com/withastro/astro/issues/5794#issuecomment-1736143596) in [withastro/astro](https://github.com/withastro/astro)
 4. ❗ Opened issue [#2979](https://github.com/igorskyflyer/ad-void/issues/2979) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
