@@ -30,7 +30,7 @@ Always trying to help the dev-community by building useful libraries, modules, p
 <div align="center">
 📢 <em><b>Announcement</b></em> &gt;
 <br>
-Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</code>), its complementary files <code>ADBM</code> (<code></em>.adbm</code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
+Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
 <br>
 <br>
 Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
