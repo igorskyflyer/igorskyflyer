@@ -133,13 +133,14 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <li><a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/">How to write low performance CSS animations 🐌</a></li>
 <li><a href="https://igorskyflyer.me/blog/stop-using-all-in-css-transitions/">Stop using &#39;all&#39; in CSS transitions 🙅🏻‍♂️</a></li>
 <li><a href="https://igorskyflyer.me/blog/build-html-create-utility-zeus/">Build an HTML element creation utility ⚡</a></li>
-<li><a href="https://igorskyflyer.me/blog/hello-world/">Hello world 👋🏼</a><!-- BLOG-POST-LIST:END -->
+<li><a href="https://igorskyflyer.me/blog/hello-world/">Hello world 👋🏼</a>
 </li>
 </ul>
+<!-- BLOG-POST-LIST:END -->
 <br>
 <br>
-<p><h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
-<!--START_SECTION:activity--></p>
+<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
+<!--START_SECTION:activity-->
 <ol>
 <li>🗣 Commented on <a href="https://github.com/antonkomarev/github-profile-views-counter/issues/79#issuecomment-1757745139">#79</a> in <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev/github-profile-views-counter</a></li>
 <li>🎉 Merged PR <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/40">#40</a> in <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">igorskyflyer/npm-astro-post-excerpt</a></li>
@@ -150,9 +151,10 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <li>💪 Opened PR <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/122">#122</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a></li>
 <li>❗ Opened issue <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/121">#121</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a></li>
 <li>🔒 Closed issue <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/119">#119</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a></li>
-<li>🎉 Merged PR <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120">#120</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a><!--END_SECTION:activity-->
+<li>🎉 Merged PR <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120">#120</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a>
 </li>
 </ol>
+<!--END_SECTION:activity-->
 <br>
 <br>
 <p><h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3></p>
