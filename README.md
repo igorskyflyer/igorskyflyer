@@ -185,7 +185,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <br>
 <div align="center">
 <h3>📬 CONTACT 📬</h3>
-<p>Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a>, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
+<p>Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
 </div>
 
 <br>
