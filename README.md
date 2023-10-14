@@ -43,7 +43,7 @@ Updated  my first Astro component ✨🎉, Astro Collections are now supported, 
 <br>
 Updated my AdBlock filters, so it's very lightweight on your hardware's resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 13 October 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 14 October 2023</sub></em></p>
 
 <br>
 
@@ -73,7 +73,7 @@ Updated my AdBlock filters, so it's very lightweight on your hardware's resource
 Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositories&q=flutter), [Java/Android](https://github.com/igorskyflyer?tab=repositories&language=java), MortScript (Windows Mobile 6.5)  
 🕊️ **Cross-platform**: [Electron](https://github.com/igorskyflyer?tab=repositories&q=electron), [Dart](https://github.com/igorskyflyer?tab=repositories&language=dart), [Java](https://github.com/igorskyflyer?tab=repositories&language=java), [Python](https://github.com/igorskyflyer?tab=repositories&language=python), [Go/Golang](https://github.com/igorskyflyer?tab=repositories&q=&type=&language=go)  
 🦄 **UI/UX**: [Affinity Designer](https://dribbble.com/igordvlpr), [Figma](https://dribbble.com/igordvlpr), [Adobe XD](https://dribbble.com/igordvlpr), [Adobe Illustrator](https://dribbble.com/igordvlpr), [Adobe Photoshop](https://dribbble.com/igordvlpr), [Affinity Photo](https://dribbble.com/igordvlpr), [paint.net](https://www.getpaint.net/), [Microsoft Blend](https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio)  
-🕹 **Game**: [Unity](https://unity.com)  
+🕹 **Game**: [Godot](https://github.com/igorskyflyer?tab=repositories&q=godot), [Unity](https://unity.com)  
 🦂 **Scripting**: [PowerShell](https://github.com/igorskyflyer/?tab=repositories&language=powershell), [Bash](https://github.com/igorskyflyer/?tab=repositories&q=bash), [Batch](https://github.com/igorskyflyer/?tab=repositories&q=batch)  
 🛠️ **Tooling**: [esbuild](https://github.com/igorskyflyer?tab=repositories&q=esbuild), [Vitest](https://github.com/igorskyflyer?tab=repositories&q=vitest), [tsx](https://github.com/igorskyflyer?tab=repositories&q=tsx), [webpack](https://github.com/igorskyflyer?tab=repositories&q=webpack), [Gulp](https://github.com/igorskyflyer?tab=repositories&q=gulp), [Rollup](https://github.com/igorskyflyer?tab=repositories&q=rollup), [TypeScript Compiler](https://github.com/igorskyflyer?tab=repositories&q=tsc), [Babel](https://github.com/igorskyflyer?tab=repositories&q=babel), [Vite](https://github.com/igorskyflyer?tab=repositories&q=vite), [npm](https://github.com/igorskyflyer?tab=repositories&q=npm), [npx](https://github.com/igorskyflyer?tab=repositories&q=npx), AVA, [Mocha](https://github.com/igorskyflyer?tab=repositories&q=mocha), [Jest](https://github.com/igorskyflyer?tab=repositories&q=jest), [EditorConfig](https://github.com/igorskyflyer?tab=repositories&q=editorconfig"), [ESLint](https://github.com/igorskyflyer?tab=repositories&q=eslint), [Prettier](https://github.com/igorskyflyer?tab=repositories&language=typescript), [Composer](https://github.com/igorskyflyer?tab=repositories&q=composer)  
 🦖 **Extensibility**: [Visual Studio Code extensions/VSIX](https://github.com/igorskyflyer?tab=repositories&q=vscode), [UserScript](https://github.com/igorskyflyer?tab=repositories&q=userscript), Chrome extensions  
