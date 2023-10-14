@@ -5,7 +5,7 @@ Always trying to help the dev-community by building useful libraries, modules, p
 </div>
 
 <br>
-<p><h2 id="-work">💼 Work</h2></p>
+<h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
 <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,</li>
@@ -157,7 +157,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <!--END_SECTION:activity-->
 <br>
 <br>
-<p><h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3></p>
+<h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3>
 <div align="center">
  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) npm page"></a>
  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Microsoft Developer page"></a>
