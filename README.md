@@ -135,8 +135,8 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <li><a href="https://igorskyflyer.me/blog/hello-world/">Hello world 👋🏼</a><!-- BLOG-POST-LIST:END -->
 </li>
 </ul>
-<p><br>
-<br></p>
+<br>
+<br>
 <p><h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 <!--START_SECTION:activity--></p>
 <ol>
@@ -152,8 +152,8 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <li>🎉 Merged PR <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler/pull/120">#120</a> in <a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">igorskyflyer/npm-adblock-aria-compiler</a><!--END_SECTION:activity-->
 </li>
 </ol>
-<p><br>
-<br></p>
+<br>
+<br>
 <p><h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3></p>
 <div align="center">
  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) npm page"></a>
@@ -180,15 +180,15 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
  <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) Facebook/Meta page"></a>
 </div>
 
-<p><br>
-<br></p>
+<br>
+<br>
 <div align="center">
 <h3>📬 CONTACT 📬</h3>
 <p>Reach me via email, <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> or Whatsapp for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
 </div>
 
-<p><br>
-<br></p>
+<br>
+<br>
 <div align="center">
 <h3>💝 SUPPORT 💝</h3>
 <p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
@@ -202,8 +202,8 @@ Any type of support is very much appreciated. 🙂
 </blockquote>
 </div>
 
-<p><br>
-<br></p>
+<br>
+<br>
 <div align="center">
 <h3>🔥 STATISTICS 🔥</h3>
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500" height="auto">
@@ -238,8 +238,8 @@ Any type of support is very much appreciated. 🙂
   <sub><em><strong>My GitHub trophies</strong></em></sub>
 </div>
 
-<p><br>
-<br></p>
+<br>
+<br>
 <!-- 📈 since 18 Jun 2021 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=igorskyflyer" width="140" height="21" alt="Igor Dimitrijević (igorskyflyer) profile views counter">
