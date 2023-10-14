@@ -125,15 +125,15 @@ Xamarin, Kotlin, [Dart + Flutter](https://github.com/igorskyflyer?tab=repositori
 
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 <div align="center">
-        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500" height="150"></a>
+        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500" height="auto"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-2.png" alt="Astro Post excerpt component" align="center" width="500" height="150"></a>
+	<a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-2.png" alt="Astro Post excerpt component" align="center" width="500" height="auto"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-3.png" alt="Zep" align="center" width="500" height="150"></a>
+	<a href="https://github.com/igorskyflyer/npm-zep"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-3.png" alt="Zep" align="center" width="500" height="auto"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-4.png" alt="WinDev" align="center" width="500" height="150"></a>
+	<a href="https://github.com/igorskyflyer/npm-windev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-4.png" alt="WinDev" align="center" width="500" height="auto"></a>
 	<br>
-	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-5.png" alt="RecursiveReadDir" align="center" width="500" height="150"></a>
+	<a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-5.png" alt="RecursiveReadDir" align="center" width="500" height="auto"></a>
 	<br>
 	<a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-6.png" alt="ValidPath" align="center" width="500" height="150"></a>
 </div>
