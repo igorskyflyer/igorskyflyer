@@ -128,14 +128,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 
 <p>Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me</a>:</p>
 <!-- BLOG-POST-LIST:START -->
-<ul>
-<li><a href="https://igorskyflyer.me/blog/vscode-npm-bin/">Fix Node binaries in VS Code Terminal 🐢</a></li>
-<li><a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/">How to write low performance CSS animations 🐌</a></li>
-<li><a href="https://igorskyflyer.me/blog/stop-using-all-in-css-transitions/">Stop using &#39;all&#39; in CSS transitions 🙅🏻‍♂️</a></li>
-<li><a href="https://igorskyflyer.me/blog/build-html-create-utility-zeus/">Build an HTML element creation utility ⚡</a></li>
-<li><a href="https://igorskyflyer.me/blog/hello-world/">Hello world 👋🏼</a>
-</li>
-</ul>
+- [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
+- [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
+- [Stop using &#39;all&#39; in CSS transitions 🙅🏻‍♂️](https://igorskyflyer.me/blog/stop-using-all-in-css-transitions/)
+- [Build an HTML element creation utility ⚡](https://igorskyflyer.me/blog/build-html-create-utility-zeus/)
+- [Hello world 👋🏼](https://igorskyflyer.me/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
