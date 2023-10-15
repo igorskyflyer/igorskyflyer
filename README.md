@@ -127,6 +127,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
 
 <p>Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me</a>:</p>
+
 <!-- BLOG-POST-LIST:START -->
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
 - [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
@@ -134,9 +135,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 - [Build an HTML element creation utility ⚡](https://igorskyflyer.me/blog/build-html-create-utility-zeus/)
 - [Hello world 👋🏼](https://igorskyflyer.me/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 <br>
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
+
 <!--START_SECTION:activity-->
 <ol>
 <li>🗣 Commented on <a href="https://github.com/antonkomarev/github-profile-views-counter/issues/79#issuecomment-1757745139">#79</a> in <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev/github-profile-views-counter</a></li>
@@ -152,6 +155,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 </li>
 </ol>
 <!--END_SECTION:activity-->
+
 <br>
 <br>
 <h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3>
