@@ -79,7 +79,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <ul data-no-restyle>
 <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">extensions</a></strong> so far,</li>
 <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=Themes&amp;sortBy=Relevance">theme</a></strong> so far,</li>
-<li>🦐 <strong><code>224K+</code></strong> of installs,</li>
+<li>🦐 <strong><code>225K+</code></strong> of installs,</li>
 <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">Go/Golang modules</a></strong>:</p>
