@@ -197,7 +197,7 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <p align="center">
-There is also a 🔮 magical 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/">my official site</a>.
+There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/">my official site</a>.
 </p>
 
 <br>
