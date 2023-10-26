@@ -195,6 +195,13 @@ Any type of support is very much appreciated. 🙂
 
 <br>
 <br>
+
+<p align="center">
+There is also a 🔮 magical 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/">my official site</a>.
+</p>
+
+<br>
+<br>
 <div align="center">
 <h3>🔥 STATISTICS 🔥</h3>
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500">
