@@ -1,6 +1,6 @@
 <h3 id="-igorskyflyer-github-">🤖 <strong><code>igorskyflyer@github:~$</code></strong></h3>
 <div data-no-restyle>
-<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 200K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
+<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 210K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.<br>A huge DX (developer experience) advocate.
 </div>
 
@@ -79,7 +79,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <ul data-no-restyle>
 <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">extensions</a></strong> so far,</li>
 <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=Themes&amp;sortBy=Relevance">theme</a></strong> so far,</li>
-<li>🦐 <strong><code>225K+</code></strong> of installs,</li>
+<li>🦐 <strong><code>226K+</code></strong> of installs,</li>
 <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">Go/Golang modules</a></strong>:</p>
