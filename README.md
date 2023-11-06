@@ -5,7 +5,6 @@ Always trying to help the dev-community by building useful libraries, modules, p
 <br>Always looking for challenges.
 </div>
 
-<!--
 <br>
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
@@ -15,7 +14,6 @@ Always trying to help the dev-community by building useful libraries, modules, p
 <li>🐆 freelance full-stack developer,</li>
 <li>🙌🏼 free-will open sourcerer.</li>
 </ul>
--->
 
 <br>
 <br>
