@@ -141,7 +141,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/astro-community/AstroCompress/issues/208#issuecomment-1774236641) in [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress)
+1. 🗣 Commented on [#1018](https://github.com/DenverCoder1/custom-icon-badges/issues/1018#issuecomment-1796114132) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 <br>
