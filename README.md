@@ -52,9 +52,9 @@ Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s 
     <em><strong>Browse by development aspect:</strong></em>
     <br>
     <br>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://custom-icon-badges.herokuapp.com/badge/front-end-0099ff?style=flat-square&logo=paintbrush" alt="See my front-end development projects" width="85" height="20"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://custom-icon-badges.herokuapp.com/badge/back-end-408D47?style=flat-square&logo=cache" alt="See my back-end development projects" width="83" height="20"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://custom-icon-badges.herokuapp.com/badge/full-stack-7057ff?style=flat-square&logo=zap" alt="See my full-stack development projects" width="83" height="20"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/badge/front-end.svg" alt="See my front-end development projects" width="85" height="20"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/badge/back-end.svg" alt="See my back-end development projects" width="83" height="20"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/badge/full-stack.svg" alt="See my full-stack development projects" width="83" height="20"></a>
 </div>
 
 <br>
