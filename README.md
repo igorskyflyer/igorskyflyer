@@ -141,7 +141,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1018](https://github.com/DenverCoder1/custom-icon-badges/issues/1018#issuecomment-1796114132) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗ Opened issue [#1023](https://github.com/DenverCoder1/custom-icon-badges/issues/1023) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 <br>
