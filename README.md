@@ -141,7 +141,6 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <br>
