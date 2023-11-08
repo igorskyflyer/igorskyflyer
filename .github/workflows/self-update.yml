@@ -3,8 +3,8 @@ name: self-update
 on:
   schedule:
     - cron: '*/180 * * * *'
+    
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
