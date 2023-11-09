@@ -226,13 +226,6 @@ There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this R
   <sub><em><strong>Consistency is key</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api/wakatime?username=igorskyflyer&layout=compact&range=last_7_days&hide=Text&theme=tokyonight&hide_border=true&custom_title=Past%20week%20activity&disable_animations=true&cache_seconds=14400" alt="WakaTime coding stats for the past week" width="500">
-  <br>
-  <sub><em><strong>My coding activity in the last 7 days</strong></em></sub>
-  <br>
-  <sub><em>(not in real-time, refreshes every ~6h)</em></sub>
-  <br>
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorskyflyer&bg_color=1A1B27&color=FFFFFF&point=EE7F64&line=58A4F9&hide_border=true&radius=6&custom_title=Contributions%20graph" width="500" alt="Igor Dimitrijević (igorskyflyer) contribution graph">
   <br>
   <sub><em><strong>Commits statistics</strong></em></sub>
