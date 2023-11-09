@@ -43,7 +43,7 @@ Astro Collections are now supported, available at <a href="https://github.com/ig
 <br>
 Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 09 November 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 November 2023</sub></em></p>
 
 <br>
 <br>
