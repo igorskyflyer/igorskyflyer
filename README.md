@@ -1,6 +1,6 @@
 <h3 id="-igorskyflyer-github-">🤖 <strong><code>igorskyflyer@github:~$</code></strong></h3>
 <div data-no-restyle>
-<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 210K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
+<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 215K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.<br>A huge DX (developer experience) advocate.
 <br>Always looking for challenges.
 </div>
@@ -76,13 +76,13 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <strong><a href="https://github.com/igorskyflyer/ad-void">AdVoid</a></strong> 👈🏼 ,<br>🌴 recently published the <strong><a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">FolderPicker VS Code UI</a></strong>,<br>🎆 recently released <strong><a href="https://github.com/igorskyflyer/npm-zing">Zing</a></strong> and <strong><a href="https://github.com/igorskyflyer/npm-keppo">Keppo()</a></strong>,<br>🐛 recently created the <strong><a href="https://github.com/igorskyflyer/my-pens">my-pens</a></strong> repository,<br>👀 recently updated <strong><a href="https://github.com/igorskyflyer/npm-zep">Zep()</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-is-rootdir">is-rootdir</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-pathexists">path-exists</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-str-is-in">str-is-in</a></strong>, <strong><a href="https://github.com/igorskyflyer/npm-uarray">uArray</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path</a></strong>, <strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath</a></strong>,<br>🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages</a></strong>:</p>
 <ul data-no-restyle>
 <li>🦆 <strong><code>35+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages</a></strong> built already,</li>
-<li>🦀 <strong><code>66K+</code></strong> of installs,</li>
+<li>🦀 <strong><code>70K+</code></strong> of installs,</li>
 </ul>
 <p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions</a></strong>:</p>
 <ul data-no-restyle>
 <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">extensions</a></strong> so far,</li>
 <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=Themes&amp;sortBy=Relevance">theme</a></strong> so far,</li>
-<li>🦐 <strong><code>229K+</code></strong> of installs,</li>
+<li>🦐 <strong><code>230K+</code></strong> of installs,</li>
 <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">Go/Golang modules</a></strong>:</p>
