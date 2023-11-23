@@ -143,7 +143,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/41) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+1. ❗ Opened issue [#198975](https://github.com/microsoft/vscode/issues/198975) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 💪 Opened PR [#41](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/41) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
 3. 🗣 Commented on [#50619](https://github.com/nodejs/node/issues/50619#issuecomment-1800905947) in [nodejs/node](https://github.com/nodejs/node)
 4. 🔒 Closed issue [#50619](https://github.com/nodejs/node/issues/50619) in [nodejs/node](https://github.com/nodejs/node)
