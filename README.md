@@ -43,7 +43,7 @@ Astro Collections are now supported, available at <a href="https://github.com/ig
 <br>
 Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 27 November 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 29 November 2023</sub></em></p>
 
 <br>
 <br>
@@ -82,7 +82,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <ul data-no-restyle>
 <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=All%20categories&amp;sortBy=Relevance">extensions</a></strong> so far,</li>
 <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&amp;target=VSCode&amp;category=Themes&amp;sortBy=Relevance">theme</a></strong> so far,</li>
-<li>🦐 <strong><code>230K+</code></strong> of installs,</li>
+<li>🦐 <strong><code>233K+</code></strong> of installs,</li>
 <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&amp;m=package">Go/Golang modules</a></strong>:</p>
