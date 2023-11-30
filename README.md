@@ -143,10 +143,10 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#198975](https://github.com/microsoft/vscode/issues/198975) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#41](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/41) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-3. 🗣 Commented on [#50619](https://github.com/nodejs/node/issues/50619#issuecomment-1800905947) in [nodejs/node](https://github.com/nodejs/node)
-4. 🔒 Closed issue [#50619](https://github.com/nodejs/node/issues/50619) in [nodejs/node](https://github.com/nodejs/node)
+1. 🔒 Closed issue [#2982](https://github.com/igorskyflyer/ad-void/issues/2982) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#2982](https://github.com/igorskyflyer/ad-void/issues/2982) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🔒 Closed issue [#2981](https://github.com/igorskyflyer/ad-void/issues/2981) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗ Opened issue [#2981](https://github.com/igorskyflyer/ad-void/issues/2981) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 🗣 Commented on [#1018](https://github.com/DenverCoder1/custom-icon-badges/issues/1018#issuecomment-1796114132) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 
