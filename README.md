@@ -143,11 +143,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/igorskyflyer/github-readme-streak-stats/pull/3) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
-2. 🗣 Commented on [#2983](https://github.com/igorskyflyer/ad-void/issues/2983#issuecomment-1834543630) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#2983](https://github.com/igorskyflyer/ad-void/issues/2983) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#2983](https://github.com/igorskyflyer/ad-void/issues/2983) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🔒 Closed issue [#2982](https://github.com/igorskyflyer/ad-void/issues/2982) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🗣 Commented on [#247](https://github.com/ryo-ma/github-profile-trophy/issues/247#issuecomment-1837131117) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. 🎉 Merged PR [#3](https://github.com/igorskyflyer/github-readme-streak-stats/pull/3) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+3. 🗣 Commented on [#2983](https://github.com/igorskyflyer/ad-void/issues/2983#issuecomment-1834543630) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 🔒 Closed issue [#2983](https://github.com/igorskyflyer/ad-void/issues/2983) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗ Opened issue [#2983](https://github.com/igorskyflyer/ad-void/issues/2983) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
