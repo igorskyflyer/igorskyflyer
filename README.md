@@ -143,11 +143,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/ryo-ma/github-profile-trophy/issues/247#issuecomment-1837225722) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-2. 🗣 Commented on [#247](https://github.com/ryo-ma/github-profile-trophy/issues/247#issuecomment-1837131117) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-3. 🎉 Merged PR [#3](https://github.com/igorskyflyer/github-readme-streak-stats/pull/3) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
-4. 🗣 Commented on [#2983](https://github.com/igorskyflyer/ad-void/issues/2983#issuecomment-1834543630) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🔒 Closed issue [#2983](https://github.com/igorskyflyer/ad-void/issues/2983) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#44](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/44) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+2. 🎉 Merged PR [#45](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/45) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+3. 💪 Opened PR [#45](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/45) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+4. ❗ Opened issue [#44](https://github.com/igorskyflyer/userscript-anti-anti-adblock/issues/44) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+5. 🎉 Merged PR [#43](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/43) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
 <!--END_SECTION:activity-->
 
 <br>
