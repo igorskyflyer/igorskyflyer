@@ -231,7 +231,7 @@ There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this R
   <sub><em><strong>Commits statistics</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=3&row=2&rank=-A" width="450" alt="Igor Dimitrijević (igorskyflyer) GitHub trophies">
+  <img src="https://github-profile-trophy-igordvlpr.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=4&row=2&rank=-C" width="450" alt="Igor Dimitrijević (igorskyflyer) GitHub trophies">
   <br>
   <sub><em><strong>My GitHub trophies</strong></em></sub>
 </div>
