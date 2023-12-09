@@ -206,7 +206,7 @@ Any type of support is very much appreciated. 🙂
 <br>
 <br>
 
-<p align="center">
+<p data-hide align="center">
 There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/">my official site</a>.
 </p>
 
