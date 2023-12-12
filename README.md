@@ -207,7 +207,7 @@ Any type of support is very much appreciated. 🙂
 <br>
 
 <div data-hide align="center">
-There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/">my official site</a>.
+There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical">my official site</a>.
   <br>
   <br>
 </div>
