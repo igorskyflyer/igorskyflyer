@@ -1,6 +1,6 @@
 <h3 id="-igorskyflyer-github-">🤖 <strong><code>igorskyflyer@github:~$</code></strong></h3>
 <div data-no-restyle>
-<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 215K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
+<strong><em>Igor Dimitrijević</em></strong>, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>&gt; 217K</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
 Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
 <br>
 <br>✍🏼 Tech book author.
@@ -46,7 +46,7 @@ Astro Collections are now supported, available at <a href="https://github.com/ig
 <br>
 Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
 </div>
-<p align="right"><em><sub>🗓️ 11 December 2023</sub></em></p>
+<p align="right"><em><sub>🗓️ 12 December 2023</sub></em></p>
 
 <br>
 <br>
