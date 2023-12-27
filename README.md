@@ -146,11 +146,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3004](https://github.com/igorskyflyer/ad-void/issues/3004) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3004](https://github.com/igorskyflyer/ad-void/issues/3004) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#46](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/46) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-4. 💪 Opened PR [#46](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/46) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-5. 🔒 Closed issue [#2998](https://github.com/igorskyflyer/ad-void/issues/2998) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#70](https://github.com/igorskyflyer/igorskyflyer.me/issues/70) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+2. 🗣 Commented on [#70](https://github.com/igorskyflyer/igorskyflyer.me/issues/70#issuecomment-1870424440) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+3. ❗ Opened issue [#70](https://github.com/igorskyflyer/igorskyflyer.me/issues/70) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+4. ❗ Opened issue [#69](https://github.com/igorskyflyer/igorskyflyer.me/issues/69) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+5. 🔒 Closed issue [#3004](https://github.com/igorskyflyer/ad-void/issues/3004) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
