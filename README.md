@@ -146,11 +146,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/igorskyflyer/igorskyflyer.me/issues/69#issuecomment-1870676828) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
-2. 🔒 Closed issue [#3009](https://github.com/igorskyflyer/ad-void/issues/3009) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. ❗ Opened issue [#3009](https://github.com/igorskyflyer/ad-void/issues/3009) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. 🔒 Closed issue [#3008](https://github.com/igorskyflyer/ad-void/issues/3008) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗ Opened issue [#3008](https://github.com/igorskyflyer/ad-void/issues/3008) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#69](https://github.com/igorskyflyer/igorskyflyer.me/issues/69) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+2. 🗣 Commented on [#69](https://github.com/igorskyflyer/igorskyflyer.me/issues/69#issuecomment-1870676828) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
+3. 🔒 Closed issue [#3009](https://github.com/igorskyflyer/ad-void/issues/3009) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗ Opened issue [#3009](https://github.com/igorskyflyer/ad-void/issues/3009) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🔒 Closed issue [#3008](https://github.com/igorskyflyer/ad-void/issues/3008) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
