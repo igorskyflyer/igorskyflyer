@@ -227,11 +227,11 @@ There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this R
   <img src="https://github-readme-streak-stats-plum.vercel.app/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="Igor Dimitrijević (igorskyflyer) profile - GitHub Streak Stats" width="500">
   <br>
   <sub><em><strong>Consistency is key</strong></em></sub>
-  <br>
+  <!--<br>
   <br>
   <img src="https://github-profile-trophy-mauve.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=4&row=2&rank=-C" width="450" alt="Igor Dimitrijević (igorskyflyer) - GitHub trophies">
   <br>
-  <sub><em><strong>My GitHub trophies</strong></em></sub>
+  <sub><em><strong>My GitHub trophies</strong></em></sub>-->
 </div>
 
 <br>
