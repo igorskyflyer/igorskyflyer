@@ -146,11 +146,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3011](https://github.com/igorskyflyer/ad-void/issues/3011) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3011](https://github.com/igorskyflyer/ad-void/issues/3011) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🎉 Merged PR [#49](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/49) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-4. 💪 Opened PR [#49](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/49) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
-5. 🎉 Merged PR [#48](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/48) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
+1. 🔒 Closed issue [#3013](https://github.com/igorskyflyer/ad-void/issues/3013) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3013](https://github.com/igorskyflyer/ad-void/issues/3013) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🔒 Closed issue [#3012](https://github.com/igorskyflyer/ad-void/issues/3012) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗ Opened issue [#3012](https://github.com/igorskyflyer/ad-void/issues/3012) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🔒 Closed issue [#3011](https://github.com/igorskyflyer/ad-void/issues/3011) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
