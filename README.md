@@ -146,8 +146,8 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35078](https://github.com/brave/brave-browser/issues/35078) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#35073](https://github.com/brave/brave-browser/issues/35073#issuecomment-1872610981) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 🔒 Closed issue [#3011](https://github.com/igorskyflyer/ad-void/issues/3011) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3011](https://github.com/igorskyflyer/ad-void/issues/3011) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 3. 🎉 Merged PR [#49](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/49) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
 4. 💪 Opened PR [#49](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/49) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
 5. 🎉 Merged PR [#48](https://github.com/igorskyflyer/userscript-anti-anti-adblock/pull/48) in [igorskyflyer/userscript-anti-anti-adblock](https://github.com/igorskyflyer/userscript-anti-anti-adblock)
