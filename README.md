@@ -146,11 +146,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3019](https://github.com/igorskyflyer/ad-void/issues/3019) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3019](https://github.com/igorskyflyer/ad-void/issues/3019) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#3018](https://github.com/igorskyflyer/ad-void/issues/3018) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#3018](https://github.com/igorskyflyer/ad-void/issues/3018) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗ Opened issue [#35140](https://github.com/brave/brave-browser/issues/35140) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 🗣 Commented on [#202111](https://github.com/microsoft/vscode/issues/202111#issuecomment-1888139806) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🔒 Closed issue [#3019](https://github.com/igorskyflyer/ad-void/issues/3019) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗ Opened issue [#3019](https://github.com/igorskyflyer/ad-void/issues/3019) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 🔒 Closed issue [#3018](https://github.com/igorskyflyer/ad-void/issues/3018) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗ Opened issue [#3018](https://github.com/igorskyflyer/ad-void/issues/3018) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
