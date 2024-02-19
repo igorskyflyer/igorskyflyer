@@ -146,11 +146,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/41#issuecomment-1913711624) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-2. 🎉 Merged PR [#4](https://github.com/igorskyflyer/github-readme-streak-stats/pull/4) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
-3. 🗣 Commented on [#35140](https://github.com/brave/brave-browser/issues/35140#issuecomment-1897826385) in [brave/brave-browser](https://github.com/brave/brave-browser)
-4. 🗣 Commented on [#202111](https://github.com/microsoft/vscode/issues/202111#issuecomment-1888139806) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#3019](https://github.com/igorskyflyer/ad-void/issues/3019) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🗣 Commented on [#3020](https://github.com/igorskyflyer/ad-void/issues/3020#issuecomment-1953012074) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. 🔒 Closed issue [#3020](https://github.com/igorskyflyer/ad-void/issues/3020) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. ❗ Opened issue [#3020](https://github.com/igorskyflyer/ad-void/issues/3020) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. 🗣 Commented on [#41](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/41#issuecomment-1913711624) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+5. 🎉 Merged PR [#4](https://github.com/igorskyflyer/github-readme-streak-stats/pull/4) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 <br>
