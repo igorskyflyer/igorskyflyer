@@ -50,6 +50,10 @@ Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s 
 
 <br>
 <br>
+<h4 align="center">七転び八起き</h4>
+<br>
+<br>
+
 <h3 align="center">⚡ MY TECH STACK ⚡</h3>
 <div align="center">
     <em><strong>Browse by development aspect:</strong></em>
