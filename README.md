@@ -150,11 +150,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/igorskyflyer/vscode-open-in-browser/issues/20#issuecomment-2013667492) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
-2. 🎉 Merged PR [#6](https://github.com/igorskyflyer/github-readme-streak-stats/pull/6) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
-3. 🔒 Closed issue [#3021](https://github.com/igorskyflyer/ad-void/issues/3021) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#3021](https://github.com/igorskyflyer/ad-void/issues/3021) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-1965590105) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#7](https://github.com/igorskyflyer/github-readme-streak-stats/pull/7) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+2. 🗣 Commented on [#20](https://github.com/igorskyflyer/vscode-open-in-browser/issues/20#issuecomment-2013667492) in [igorskyflyer/vscode-open-in-browser](https://github.com/igorskyflyer/vscode-open-in-browser)
+3. 🎉 Merged PR [#6](https://github.com/igorskyflyer/github-readme-streak-stats/pull/6) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+4. 🔒 Closed issue [#3021](https://github.com/igorskyflyer/ad-void/issues/3021) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. ❗ Opened issue [#3021](https://github.com/igorskyflyer/ad-void/issues/3021) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
