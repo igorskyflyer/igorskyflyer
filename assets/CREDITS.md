@@ -76,7 +76,7 @@
 <a href="https://www.flaticon.com/free-icons/playstore" title="playstore icons">Playstore icons created by Pixel perfect - Flaticon</a>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCIDA.png" width="48">
+<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCID.png" width="48">
 <br>
 <a href="https://orcid.org/">ORCID</a>
 <br>
