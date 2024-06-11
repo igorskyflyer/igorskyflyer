@@ -182,7 +182,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Beacons page"></a>
  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page"></a>
  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Twitter page"></a>
- <a href="https://www.facebook.com/IgorSkyFlyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/facebook.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Facebook/Meta page"></a>
+ <a href="https://orcid.org/0009-0002-6906-1621"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCID.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - ORCID page"></a>
 </div>
 
 <br>
