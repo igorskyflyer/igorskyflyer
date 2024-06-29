@@ -150,11 +150,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3032](https://github.com/igorskyflyer/ad-void/issues/3032) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3032](https://github.com/igorskyflyer/ad-void/issues/3032) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#3031](https://github.com/igorskyflyer/ad-void/issues/3031) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#3031](https://github.com/igorskyflyer/ad-void/issues/3031) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-5. ❗ Opened issue [#3026](https://github.com/igorskyflyer/ad-void/issues/3026) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#3033](https://github.com/igorskyflyer/ad-void/issues/3033) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3033](https://github.com/igorskyflyer/ad-void/issues/3033) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🔒 Closed issue [#3032](https://github.com/igorskyflyer/ad-void/issues/3032) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗ Opened issue [#3032](https://github.com/igorskyflyer/ad-void/issues/3032) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+5. 🔒 Closed issue [#3031](https://github.com/igorskyflyer/ad-void/issues/3031) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
