@@ -150,11 +150,11 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/igorskyflyer/project-revival/pull/2) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
-2. 🎉 Merged PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
-3. 💪 Opened PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
-4. 💪 Opened PR [#2](https://github.com/igorskyflyer/project-revival/pull/2) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
-5. 🗣 Commented on [#1](https://github.com/igorskyflyer/project-scopify/issues/1#issuecomment-2198339258) in [igorskyflyer/project-scopify](https://github.com/igorskyflyer/project-scopify)
+1. 🔒 Closed issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🎉 Merged PR [#2](https://github.com/igorskyflyer/project-revival/pull/2) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
+4. 🎉 Merged PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
+5. 💪 Opened PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
 <!--END_SECTION:activity-->
 
 <br>
