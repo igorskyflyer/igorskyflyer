@@ -34,7 +34,20 @@
 <details>
   <summary><strong>Show</strong></summary>
   <br>
-  Always been keen on technology and anything tech-related, even from a very young age of 6-7. Igor was the exemplary student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors at the time. At the time, age 15, he started learning how to code, first in HTML, CSS and finally JavaScript on a 1.5 inches screen (Sony Ericsson J300i) because he didn't have a computer, spending multiple hours reading and trying out new things. Once he has learnt the basics he built a few websites on Peperonity which were some the most popular sites at the time. After that he proceeded with learning JS in depth and made a new website on XTgem with which he applied to a contest for the best website that the XTgem team organized and his site (skywap.xtgem.com) won an award (there were multiple categories), after which he continued learning, next was PHP which he started learning together with WordPress. In the meantime, in high school he was learning about Pascal (console apps) and later Delphi (a variant of Object Pascal, GUI apps) where he once again excelled even without having a computer and practising at home like the rest of his classmates. After finishing high school he created his next website named NeoVisio based on WordPress and it was the first website that brought him some money. When he saved enough of it he bought his first laptop at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia. Software engineering was his main field of study while attending it; while there he was taught various things, from UML to C and C#, to ethics, mathematics, marketing and psychology, etc. He did both solo and team projects in his college. While studying there he fell in love with C# and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of autodidactism.</details>
+  Always been keen on technology and anything tech-related, even from a very young age of 6-7. Fast forward a few years, at the age of 15, he started learning how to code, first in HTML, CSS and finally JavaScript on a 1.5 inches screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer, spending <strong>8h+/day</strong> reading and trying out new things. Once he has learnt the basics he built a few websites on <em>Peperonity</em> which were some the most popular sites at the time. After that he proceeded with learning JavaScript in depth and made a new website on <em>XTgem</em> with which he applied to a contest for the best website (multiple categories) that the <em>XTgem</em> team organized and his site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
+  <br>
+  <br>
+  Igor was the <strong>exemplary</strong> student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors at the time. After HTML and CSS he continued learning; next was PHP which he started learning in conjunction with WordPress. In the meantime, in high school he was learning about Pascal (console apps) and later Delphi (a variant of Object Pascal, GUI apps) where he once again <strong>excelled</strong> even without having a computer and practising at home like the rest of his classmates.
+  <br>
+  <br>
+  After finishing high school he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough of it he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
+  <br>
+  <br>
+  <strong>Software engineering</strong> was his main field of study while attending it; while there he was taught various things, from UML to C and C#, to ethics, mathematics, marketing and psychology, etc. He did both solo and team projects in his college days. While studying there, he got captivated by C# and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of autodidactism.
+  <br>
+  <br>
+  During his studies, he gave programming classes to other, fellow students and high-school students as well and started doing freelance development.
+  </details>
 
 <br>
 <br>
