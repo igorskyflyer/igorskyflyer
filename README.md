@@ -13,8 +13,8 @@
   Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way. Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
   <br>
   <br>✍🏼 Tech book author <em>in the <strong>making</strong></em>.
-  <br>👨🏻‍💻 Huge DX (developer experience) advocate.
-  <br>🎯 Always looking for challenges.
+  <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
+  <br>🎯 Always looking for <strong>challenges</strong>.
 </div>
 
 <br>
