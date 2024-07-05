@@ -71,9 +71,14 @@
   <br>
   
   <blockquote>
+    <br>
     🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2023.md">GitHub Unwrapped</a> for 2023 🎄
+    <br>
+    <br>
   </blockquote>
 </div>
+
+<br>
 
 <p align="right"><em><sub>🗓️ 05 July 2024</sub></em></p>
 
