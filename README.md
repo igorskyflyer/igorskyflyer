@@ -28,7 +28,6 @@
 </ul>
 
 <br>
-<br>
 
 <h2>👶🏼 Early life</h2>
 <details>
