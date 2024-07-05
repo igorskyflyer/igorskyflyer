@@ -52,7 +52,7 @@
   Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
   <br>
   <br>
-Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
+  Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
   </div>
 <p align="right"><em><sub>🗓️ 05 July 2024</sub></em></p>
 
@@ -69,6 +69,7 @@ Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s 
 <br>
 
 <h4 align="center">七転び八起き</h4>
+
 <br>
 <br>
 
@@ -165,6 +166,7 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 
 <br>
 <br>
+
 <h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
@@ -177,30 +179,33 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 
 <br>
 <br>
+
 <h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3>
 <div align="center">
- <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - npm page"></a>
- <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page"></a>
- <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Codepen page"></a>
+  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - npm page"></a>
+  <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page"></a>
+  <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Codepen page"></a>
   <a href="https://g.dev/igor-dev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page"></a>
-    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page"></a>
-   <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page"></a>
+  <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page"></a>
+  <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page"></a>
 </div>
+
 <div align="center">
   <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Polywork page"></a>
- <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page"></a>
- <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Stackoverflow page"></a>
- <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Instagram page"></a>
- <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - TikTok page"></a>
+  <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page"></a>
+  <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Stackoverflow page"></a>
+  <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Instagram page"></a>
+  <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - TikTok page"></a>
   <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - YouTube page"></a>
 </div>
+
 <div align="center">
-<a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Dribbble page"></a>
-    <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Threads page"></a>
- <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Beacons page"></a>
- <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page"></a>
- <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Twitter page"></a>
- <a href="https://orcid.org/0009-0002-6906-1621"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCID.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - ORCID page"></a>
+  <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Dribbble page"></a>
+  <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Threads page"></a>
+  <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Beacons page"></a>
+  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page"></a>
+  <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Twitter page"></a>
+  <a href="https://orcid.org/0009-0002-6906-1621"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCID.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - ORCID page"></a>
 </div>
 
 <br>
