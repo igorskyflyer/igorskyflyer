@@ -21,6 +21,11 @@ Always trying to help the dev-community by building useful libraries, modules, p
 <br>
 <br>
 
+<details><summary>Early life</summary>
+I've always been keen on technology and anything tech-related, even from a very young age of 6-7. I was the exemplary student of my generation in IT (in high school, 4 years) and was commended multiple times by my professors at the time. At the time (age 15) I started learning how to code, first in HTML, CSS and finally JavaScript on a 1.5 inches screen (Sony Ericsson J300i) because I didn't have a computer, spending multiple hours reading and trying out new things. Once I have learnt the basics I've built a few websites on Peperonity (if anyone except me remembers) which were one the most popular sites at the time. After that I went on learning JS in depth and made a new website on XTgem with which I applied to a contest for the best website that the XTgem team organized and my site (https://skywap.xtgem.com) won an award (there were multiple categories), after which I continued learning, next was PHP which I started learning together with WordPress. In the meantime, in high school we were taught Pascal (console apps) and later Delphi (a variant of Object Pascal, GUI apps) where I once again excelled even without having a computer and practising at home like my classmates. After finishing high school I created my next website named NeoVisio based on WordPress and it was the first website that brought me some money. When I saved enough of it I bought my first laptop at the age of 18 and started attending the Faculty of Technical Sciences (http://www.ftn.kg.ac.rs/) in Čačak, Serbia. Software engineering was my main field of study while attending it; we were taught various things there, from UML to C and C#, to ethics, mathematics, marketing and psychology, etc. We did both solo and team projects. While studying there I fell in love with C# and started learning it not only in college but also through self-study at home because I am a firm believer and devotee of autodidactism.</details>
+
+<br>
+<br>
 <div align="center">
   <blockquote>
    🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2023.md">GitHub Unwrapped</a> for 2023 🎄
