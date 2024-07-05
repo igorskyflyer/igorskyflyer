@@ -228,7 +228,10 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
   <br>
 
   <blockquote>
+    <br>
     Any type of support is very much appreciated. 🙂
+    <br>
+    <br>
   </blockquote>
 </div>
 
