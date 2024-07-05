@@ -400,8 +400,8 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3036](https://github.com/igorskyflyer/ad-void/issues/3036) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. 🗣 Commented on [#3248](https://github.com/microsoft/winget-cli/issues/3248#issuecomment-2208842888) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+1. 🔒 Closed issue [#3036](https://github.com/igorskyflyer/ad-void/issues/3036) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3036](https://github.com/igorskyflyer/ad-void/issues/3036) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 3. 🔒 Closed issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 4. ❗ Opened issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 💪 Opened PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
