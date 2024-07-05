@@ -260,7 +260,7 @@ Chrome extensions
 <ul data-no-restyle>
   <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far,</li>
   <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme</a></strong> so far,</li>
-  <li>🦐 <strong><code>275K+</code></strong> of installs,</li>
+  <li>🦐 <strong><code>280K+</code></strong> of installs,</li>
   <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">Go/Golang modules</a></strong>:</p>
