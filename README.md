@@ -9,6 +9,7 @@
   
   Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.
   <br>
+  <br>
   Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
   <br>
   Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
