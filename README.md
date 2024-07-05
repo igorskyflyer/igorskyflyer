@@ -210,24 +210,26 @@ Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&amp;q
 
 <br>
 <br>
+
 <div align="center">
-<h3>📬 CONTACT 📬</h3>
-<p>Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
+  <h3>📬 CONTACT 📬</h3>
+  <p>Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
 </div>
 
 <br>
 <br>
+
 <div align="center">
-<h3>💝 SUPPORT 💝</h3>
-<p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
+  <h3>💝 SUPPORT 💝</h3>
+  <p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
 
-<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="150" height="36"></a>
+  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="150" height="36"></a>
 
-<br>
+  <br>
 
-<blockquote>
-Any type of support is very much appreciated. 🙂
-</blockquote>
+  <blockquote>
+    Any type of support is very much appreciated. 🙂
+  </blockquote>
 </div>
 
 <br>
