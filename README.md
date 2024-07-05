@@ -289,17 +289,51 @@ Chrome extensions
     ♾️ &nbsp;still to come.
   </p>
 </blockquote>
-<p>🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble</a></strong>,<br>📝 post snippets on my <strong><a href="https://gist.github.com/igorskyflyer">Gist</a></strong>,</p>
-<p><span id="recursion"></span></p>
-<p>🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs</a></strong> repository:</p>
+<p>
+  🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble</a></strong>,
+  <br>
+  📝 post snippets on my <strong><a href="https://gist.github.com/igorskyflyer">Gist</a></strong>,
+</p>
+<p>
+  <span id="recursion"></span>
+</p>
+<p>
+  🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs</a></strong> repository:
+</p>
 <ul data-no-restyle>
-<li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications</a></strong> so far,</li>
+  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications</a></strong> so far,</li>
 </ul>
-<p>🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,<br>👟 love taking long walks &amp; runs:</p>
+<p>
+  🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,
+  <br>
+  👟 love taking long walks &amp; runs:
+</p>
 <ul data-no-restyle>
-<li>PR: <strong><code>~29km/18mi</code></strong></li>
+  <li>PR: <strong><code>~29km/18mi</code></strong></li>
 </ul>
-<p>🌱 adore being in touch with nature,<br>⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,<br>🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a> (on Notion),<br>🎮 play <strong><a href="https://mobilelegends.com/en">MLBB</a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana</a></strong> 🐱, <strong><a href="https://mobilelegends.com/en/hero/2">Balmond</a></strong> 👹, <strong><a href="https://mobilelegends.com/en/hero/39">Roger</a></strong> 🐺, <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna</a></strong> ⚔️, <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops</a></strong> 🧙‍♂️ and <strong><a href="https://mobilelegends.com/en/hero/11">Bane</a></strong> 🐙 here and <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka</strong></a> 🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong></a> 🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong></a> 🕯️ and <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong></a> 🛡️, <br>🐬 am a firm believer in <strong>autodidacticism</strong>,<br>🎶 am a huge audiophile, I even post Eurovision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel</a>, <br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>Игор Димитријевић</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧</p>
+<p>
+  🌱 adore being in touch with nature,
+  <br>
+  ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,
+  <br>
+  🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a> (on Notion),
+  <br>
+  🎮 play <strong><a href="https://mobilelegends.com/en">MLBB</a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana</a></strong> 🐱,
+  <strong><a href="https://mobilelegends.com/en/hero/2">Balmond</a></strong> 👹, 
+  <strong><a href="https://mobilelegends.com/en/hero/39">Roger</a></strong> 🐺,
+  <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna</a></strong> ⚔️,
+  <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops</a></strong> 🧙‍♂️ and
+  <strong><a href="https://mobilelegends.com/en/hero/11">Bane</a></strong> 🐙 here and
+  <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka</strong></a>
+  🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong></a>
+  🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong></a>
+  🕯️ and <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong></a>
+  🛡️,
+  <br>
+  🐬 am a firm believer in <strong>autodidacticism</strong>,
+  <br>
+  🎶 am a huge audiophile, I even post Eurovision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel</a>, <br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>Игор Димитријевић</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+</p>
 
 <br>
 <br>
