@@ -92,8 +92,124 @@
 
 <br>
 
-🌎 <strong>Web</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=javascript">JavaScript</a>, jQuery, <a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">TypeScript</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>, Express.js, <a href="https://github.com/igorskyflyer?tab=repositories&q=scss">Sass</a>, SQLite, <a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap">Bootstrap</a>, MySQL, <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">Wordpress</a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">Woocommerce</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=astro">Astro</a>, PWA<br>🖥️ <strong>Desktop</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&language=c%23">C#</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=c">C</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=pascal">Pascal</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a><br>📱 <strong>Mobile</strong>:
-Xamarin, Kotlin, <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Dart + Flutter</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java/Android</a>, MortScript (Windows Mobile 6.5)<br>🕊️ <strong>Cross-platform</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=electron">Electron</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=dart">Dart</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=python">Python</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&language=go">Go/Golang</a><br>🦄 <strong>UI/UX</strong>: <a href="https://dribbble.com/igordvlpr">Affinity Designer</a>, <a href="https://dribbble.com/igordvlpr">Figma</a>, <a href="https://dribbble.com/igordvlpr">Adobe XD</a>, <a href="https://dribbble.com/igordvlpr">Adobe Illustrator</a>, <a href="https://dribbble.com/igordvlpr">Adobe Photoshop</a>, <a href="https://dribbble.com/igordvlpr">Affinity Photo</a>, <a href="https://www.getpaint.net/">paint.net</a>, <a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio">Microsoft Blend</a><br>🕹 <strong>Game</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=godot">Godot</a>, <a href="https://unity.com">Unity</a><br>🦂 <strong>Scripting</strong>: <a href="https://github.com/igorskyflyer/?tab=repositories&language=powershell">PowerShell</a>, <a href="https://github.com/igorskyflyer/?tab=repositories&q=bash">Bash</a>, <a href="https://github.com/igorskyflyer/?tab=repositories&q=batch">Batch</a><br>🛠️ <strong>Tooling</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild">esbuild</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=vitest">Vitest</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=tsx">tsx</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=webpack">webpack</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=gulp">Gulp</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=rollup">Rollup</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=tsc">TypeScript Compiler</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=babel">Babel</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=vite">Vite</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=npm">npm</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=npx">npx</a>, AVA, <a href="https://github.com/igorskyflyer?tab=repositories&q=mocha">Mocha</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=jest">Jest</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig">EditorConfig</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint">ESLint</a>, <a href="https://biomejs.dev/">Biome</a>, <a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">Prettier</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a><br>🦖 <strong>Extensibility</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode">Visual Studio Code extensions/VSIX</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=userscript">UserScript</a>, Chrome extensions<br>🌈 <strong>Customizability</strong>: <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme">Visual Studio Code themes</a><br>🪀 <strong>Tools</strong>: <a href="https://dbeaver.io">DBeaver</a>, <a href="https://www.office.com">Microsoft Office</a> (Word, Excel, Powerpoint, Access), <a href="https://notepad-plus-plus.org">Notepad++</a>, <a href="https://poedit.net">Poedit</a>, <a href="https://runjs.app">RunJS</a>, <a href="https://winmerge.org">WinMerge</a>, <a href="https://www.apachefriends.org">XAMPP</a>, <a href="https://filezilla-project.org">FileZilla</a>, <a href="https://www.postman.com">Postman</a><br>⚔ <strong>Productivity</strong>: <a href="https://notion.so">Notion</a>, <a href="https://slack.com">Slack</a>, <a href="https://trello.com">Trello</a><br>🌿 <strong>Environments</strong>: <a href="https://www.microsoft.com/en-us/windows">Windows</a>, <a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL</a> (Ubuntu), <a href="https://kernel.org">Linux</a> (Ubuntu, Mint &amp; Manjaro)<br>🥊 <strong>IDE</strong>: <a href="https://code.visualstudio.com">Visual Studio Code 💘</a>, <a href="https://visualstudio.microsoft.com">Visual Studio</a>, <a href="https://developer.android.com/studio">Android Studio</a><br>❄️ <strong>Platforms</strong>: <a href="https://www.cyclic.sh">Cyclic</a>, <a href="https://vercel.com">Vercel</a>, <a href="https://www.netlify.com">Netlify</a>, <a href="https://www.cloudflare.com/">Cloudflare</a>, <a href="https://github.com">GitHub Pages</a>, <a href="https://replit.com">Replit</a>
+🌎 <strong>Web</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=javascript">JavaScript</a>,
+jQuery,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">TypeScript</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>,
+Express.js,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=scss">Sass</a>,
+SQLite,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap">Bootstrap</a>,
+MySQL,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">Wordpress</a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">Woocommerce</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=astro">Astro</a>,
+PWA
+<br>
+🖥️ <strong>Desktop</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&language=c%23">C#</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=c">C</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=pascal">Pascal</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>
+<br>
+📱 <strong>Mobile</strong>:
+Xamarin,
+Kotlin,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Dart + Flutter</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java/Android</a>,
+MortScript (Windows Mobile 6.5)
+<br>
+🕊️<strong>Cross-platform</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=electron">Electron</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=dart">Dart</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=python">Python</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&language=go">Go/Golang</a>
+<br>
+🦄 <strong>UI/UX</strong>:
+<a href="https://dribbble.com/igordvlpr">Affinity Designer</a>,
+<a href="https://dribbble.com/igordvlpr">Figma</a>,
+<a href="https://dribbble.com/igordvlpr">Adobe XD</a>,
+<a href="https://dribbble.com/igordvlpr">Adobe Illustrator</a>,
+<a href="https://dribbble.com/igordvlpr">Adobe Photoshop</a>,
+<a href="https://dribbble.com/igordvlpr">Affinity Photo</a>,
+<a href="https://www.getpaint.net/">paint.net</a>,
+<a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio">Microsoft Blend</a>
+<br>
+🕹 <strong>Game</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=godot">Godot</a>,
+<a href="https://unity.com">Unity</a>
+<br>
+🦂 <strong>Scripting</strong>:
+<a href="https://github.com/igorskyflyer/?tab=repositories&language=powershell">PowerShell</a>,
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=bash">Bash</a>,
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=batch">Batch</a>
+<br>
+🛠️ <strong>Tooling</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild">esbuild</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vitest">Vitest</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=tsx">tsx</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=webpack">webpack</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=gulp">Gulp</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=rollup">Rollup</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=tsc">TypeScript Compiler</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=babel">Babel</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vite">Vite</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=npm">npm</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=npx">npx</a>,
+AVA,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=mocha">Mocha</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=jest">Jest</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig">EditorConfig</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=eslint">ESLint</a>,
+<a href="https://biomejs.dev/">Biome</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">Prettier</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a>
+<br>
+🦖 <strong>Extensibility</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode">Visual Studio Code extensions/VSIX</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=userscript">UserScript</a>,
+Chrome extensions
+<br>
+🌈 <strong>Customizability</strong>:
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme">Visual Studio Code themes</a>
+<br>
+🪀 <strong>Tools</strong>:
+<a href="https://dbeaver.io">DBeaver</a>,
+<a href="https://www.office.com">Microsoft Office</a> (Word, Excel, Powerpoint, Access),
+<a href="https://notepad-plus-plus.org">Notepad++</a>,
+<a href="https://poedit.net">Poedit</a>,
+<a href="https://runjs.app">RunJS</a>,
+<a href="https://winmerge.org">WinMerge</a>,
+<a href="https://www.apachefriends.org">XAMPP</a>,
+<a href="https://filezilla-project.org">FileZilla</a>,
+<a href="https://www.postman.com">Postman</a>
+<br>
+⚔ <strong>Productivity</strong>:
+<a href="https://notion.so">Notion</a>,
+<a href="https://slack.com">Slack</a>,
+<a href="https://trello.com">Trello</a>
+<br>
+🌿 <strong>Environments</strong>:
+<a href="https://www.microsoft.com/en-us/windows">Windows</a>,
+<a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL</a> (Ubuntu),
+<a href="https://kernel.org">Linux</a> (Ubuntu, Mint &amp; Manjaro)
+<br>
+🥊 <strong>IDE</strong>:
+<a href="https://code.visualstudio.com">Visual Studio Code 💘</a>,
+<a href="https://visualstudio.microsoft.com">Visual Studio</a>,
+<a href="https://developer.android.com/studio">Android Studio</a>
+<br>
+❄️ <strong>Platforms</strong>:
+<a href="https://www.cyclic.sh">Cyclic</a>,
+<a href="https://vercel.com">Vercel</a>,
+<a href="https://www.netlify.com">Netlify</a>,
+<a href="https://www.cloudflare.com/">Cloudflare</a>,
+<a href="https://github.com">GitHub Pages</a>,
+<a href="https://replit.com">Replit</a>
 
 <br>
 <br>
