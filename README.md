@@ -1,24 +1,29 @@
 <h3 id="-igorskyflyer-github-">
-	<strong><code>igorskyflyer@github:~$</code> 🤖</strong>
+  <strong><code>igorskyflyer@github:~$</code> 🤖</strong>
 </h3>
 
 <div data-no-restyle>
-	<strong><em>Igor Dimitrijević</em></strong> (born August 27, 1993), commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <strong>Aria</strong> - an Adblock templates compiler, <strong>ADBT</strong> - Adblock template language and file format and <strong>AdVoid</strong> - a set of multiple efficient Adblock filter lists, <strong>Open in Browser</strong> - a popular (<strong><code>300K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
-Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
-<br>
-<br>✍🏼 Tech book author <em>in the <strong>making</strong></em>.
-<br>👨🏻‍💻 Huge DX (developer experience) advocate.
-<br>🎯 Always looking for challenges.
+  <strong><em>Igor Dimitrijević</em></strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related.
+
+  <br>
+  
+  Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.<br>Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way.
+
+  Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
+  <br>
+  <br>✍🏼 Tech book author <em>in the <strong>making</strong></em>.
+  <br>👨🏻‍💻 Huge DX (developer experience) advocate.
+  <br>🎯 Always looking for challenges.
 </div>
 
 <br>
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
-<li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,</li>
-<li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,</li>
-<li>🐆 freelance full-stack developer,</li>
-<li>🙌🏼 free-will open sourcerer.</li>
+  <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,</li>
+  <li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,</li>
+  <li>🐆 freelance full-stack developer,</li>
+  <li>🙌🏼 free-will open sourcerer.</li>
 </ul>
 
 <br>
