@@ -3,7 +3,7 @@
 </h3>
 
 <div data-no-restyle>
-  <strong><em>Igor Dimitrijević</em></strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related.
 
   <br>
   
