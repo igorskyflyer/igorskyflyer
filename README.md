@@ -62,8 +62,6 @@
   </blockquote>
 </div>
 
-<br>
-
 <p align="right"><em><sub>🗓️ 05 July 2024</sub></em></p>
 
 <br>
