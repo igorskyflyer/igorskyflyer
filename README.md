@@ -340,25 +340,29 @@ Chrome extensions
 
 <h3 align="center">🌟 SHOWCASE 🌟</h3>
 <div align="center">
-        <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500"></a>
-    <br>
-    <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-2.png" alt="Astro Post excerpt component" align="center" width="500"></a>
-    <br>
-    <a href="https://github.com/igorskyflyer/npm-zep"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-3.png" alt="Zep" align="center" width="500"></a>
-    <br>
-    <a href="https://github.com/igorskyflyer/npm-windev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-4.png" alt="WinDev" align="center" width="500"></a>
-    <br>
-    <a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-5.png" alt="RecursiveReadDir" align="center" width="500"></a>
-    <br>
-    <a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-6.png" alt="ValidPath" align="center" width="500"></a>
+  <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-1.png" alt="RecursiveReadDir" align="center" width="500"></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-2.png" alt="Astro Post excerpt component" align="center" width="500"></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/npm-zep"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-3.png" alt="Zep" align="center" width="500"></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/npm-windev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-4.png" alt="WinDev" align="center" width="500"></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/npm-recursive-readdir"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-5.png" alt="RecursiveReadDir" align="center" width="500"></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/npm-valid-path"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cards/repo-card-6.png" alt="ValidPath" align="center" width="500"></a>
 </div>
 
 <br>
 <br>
 
-<h3 align="center">💻 LATEST BLOG POSTS ✍🏼</h3>
+<h3 align="center">
+  💻 LATEST BLOG POSTS ✍🏼
+</h3>
 
-<p>Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me</a>:</p>
+<p>
+  Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me</a>:
+</p>
 
 <!-- BLOG-POST-LIST:START -->
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
@@ -371,7 +375,9 @@ Chrome extensions
 <br>
 <br>
 
-<h3 align="center">⏰ RECENT ACTIVITY 🪁</h3>
+<h3 align="center">
+  ⏰ RECENT ACTIVITY 🪁
+</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3248](https://github.com/microsoft/winget-cli/issues/3248#issuecomment-2209580064) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
@@ -384,7 +390,10 @@ Chrome extensions
 <br>
 <br>
 
-<h3 align="center">🙆🏻‍♂️ LET&#39;S CONNECT  🥳</h3>
+<h3 align="center">
+  🙆🏻‍♂️ LET&#39;S CONNECT 🥳
+</h3>
+
 <div align="center">
   <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - npm page"></a>
   <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page"></a>
@@ -417,7 +426,9 @@ Chrome extensions
 
 <div align="center">
   <h3>📬 CONTACT 📬</h3>
-  <p>Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜</p>
+  <p>
+   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
+  </p>
 </div>
 
 <br>
@@ -425,7 +436,9 @@ Chrome extensions
 
 <div align="center">
   <h3>💝 SUPPORT 💝</h3>
-  <p>If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.</p>
+  <p>
+    If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+  </p>
 
   <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="150" height="36"></a>
 
