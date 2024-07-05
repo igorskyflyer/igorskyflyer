@@ -54,17 +54,17 @@
   <br>
   <br>
   Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
-  </div>
-<p align="right"><em><sub>🗓️ 05 July 2024</sub></em></p>
-
-<br>
-<br>
-
-<div align="center">
+  
+  <br>
+  
   <blockquote>
-   🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2023.md">GitHub Unwrapped</a> for 2023 🎄
+    🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2023.md">GitHub Unwrapped</a> for 2023 🎄
   </blockquote>
 </div>
+
+<br>
+
+<p align="right"><em><sub>🗓️ 05 July 2024</sub></em></p>
 
 <br>
 <br>
