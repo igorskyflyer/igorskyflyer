@@ -68,7 +68,7 @@
 <br>
 <br>
 
-<h4 align="center">七転び八起き</h4>
+<h3 align="center">七転び八起き</h3>
 
 <br>
 <br>
