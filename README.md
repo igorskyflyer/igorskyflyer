@@ -134,16 +134,16 @@ PWA
 📱 <strong>Mobile</strong>:
 Xamarin,
 Kotlin,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Dart + Flutter</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=java">Java/Android</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=flutter"><strong>Dart + Flutter</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=java"><strong>Java/Android</strong></a>,
 MortScript (Windows Mobile 6.5)
 <br>
 🕊️<strong>Cross-platform</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=electron">Electron</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=dart">Dart</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=java">Java</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=python">Python</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go">Go/Golang</a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=electron"><strong>Electron</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=dart"><strong>Dart</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=java"><strong>Java</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=python"><strong>Python</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go"><strong>Go/Golang</strong></a>
 <br>
 🦄 <strong>UI/UX</strong>:
 <a href="https://dribbble.com/igordvlpr">Affinity Designer <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
