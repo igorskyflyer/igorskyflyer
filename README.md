@@ -350,7 +350,15 @@ Chrome extensions
   <br>
   🐬 am a firm believer in <strong>autodidacticism</strong>,
   <br>
-  🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>, <br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>Игор Димитријевић</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+  🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+  <br>🎭 am known as:
+  <strong>Igor Dimitrijević</strong>,
+  <strong>igorskyflyer</strong>,
+  <strong>igordvlpr</strong>,
+  <strong>Игор Димитријевић</strong>,
+  <strong>igor.dvlpr</strong>,
+  <br>
+  🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 </p>
 
 <br>
