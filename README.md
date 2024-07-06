@@ -289,19 +289,19 @@ Chrome extensions
 <br>🧪 do front-end experiments on my <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> like:</p>
 <blockquote>
   <p>
-    🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp">3D Cube <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-    💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej">Diamond Menu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-    🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz">CSS Road <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz"><strong>CSS Road</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo">CSS Laptop <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo"><strong>CSS Laptop</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-    🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ">CSS Ice-Cream <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ"><strong>CSS Ice-Cream</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-   📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR">CSS Mobile Phone <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+   📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR"><strong>CSS Mobile Phone</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <br>
-    🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb">Audio Player <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> and
+    🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb"><strong>Audio Player</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> and
     <br>
     ♾️ &nbsp;still to come.
   </p>
@@ -380,7 +380,7 @@ Chrome extensions
   </ul>
   🐬 am a firm believer in <strong>autodidacticism</strong>
   <br>
-  🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+  🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://youtube.com/@igorskyflyer"><strong>YouTube channel</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
   <br>🎭 am known as:
   <strong>Igor Dimitrijević</strong>,
   <strong>igorskyflyer</strong>,
