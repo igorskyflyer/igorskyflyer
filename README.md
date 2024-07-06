@@ -185,12 +185,12 @@ AVA,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=composer"><strong>Composer</strong></a>
 <br>
 🦖 <strong>Extensibility</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode">Visual Studio Code extensions/VSIX</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=userscript">UserScript</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode"><strong>Visual Studio Code extensions/VSIX</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=userscript"><strong>UserScript</strong></a>,
 Chrome extensions
 <br>
 🌈 <strong>Customizability</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme">Visual Studio Code themes</a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme"><strong>Visual Studio Code themes</strong></a>
 <br>
 🪀 <strong>Tools</strong>:
 <a href="https://dbeaver.io">DBeaver <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
