@@ -117,17 +117,17 @@ jQuery,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node</strong></a>,
 Express.js,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=scss">Sass</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=scss"><strong>Sass</strong></a>,
 SQLite,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap">Bootstrap</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap"><strong>Bootstrap</strong></a>,
 MySQL,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">Wordpress</a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">WooCommerce</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=astro">Astro</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>Wordpress</strong></a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>,
 PWA
 <br>
 🖥️ <strong>Desktop</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=c%23">C#</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=c">C</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=c%23"><strong>C#</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=c"><strong>C</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=pascal">Pascal</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>
 <br>
