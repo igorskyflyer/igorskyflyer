@@ -21,9 +21,9 @@
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
-  <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a>,</li>
-  <li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a>,</li>
-  <li>🐆 freelance full-stack developer,</li>
+  <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a> [part-time]</li>,
+  <li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a> [part-time]</li>,
+  <li>🐆 freelance full-stack developer</li>,
   <li>🙌🏼 free-will open sourcerer.</li>
 </ul>
 
