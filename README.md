@@ -128,8 +128,8 @@ PWA
 🖥️ <strong>Desktop</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=c%23"><strong>C#</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=c"><strong>C</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=pascal">Pascal</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=pascal"><strong>Pascal</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=delphi"><strong>Delphi</strong></a>
 <br>
 📱 <strong>Mobile</strong>:
 Xamarin,
