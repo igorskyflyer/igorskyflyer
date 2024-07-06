@@ -398,10 +398,10 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3036](https://github.com/igorskyflyer/ad-void/issues/3036) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3036](https://github.com/igorskyflyer/ad-void/issues/3036) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#3034](https://github.com/igorskyflyer/ad-void/issues/3034) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#3038](https://github.com/igorskyflyer/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+2. ❗ Opened issue [#3038](https://github.com/igorskyflyer/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+3. 🔒 Closed issue [#3037](https://github.com/igorskyflyer/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+4. ❗ Opened issue [#3037](https://github.com/igorskyflyer/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
 5. 💪 Opened PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
 <!--END_SECTION:activity-->
 
