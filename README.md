@@ -17,10 +17,10 @@
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
-  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu">Sensomed.eu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time],</li>
-  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com">SissiS.com <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time],</li>
-  <li>🐆 freelance <strong>full-stack developer</strong>,</li>
-  <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong>.</li>
+  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu">Sensomed.eu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
+  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com">SissiS.com <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
+  <li>🐆 freelance <strong>full-stack developer</strong></li>
+  <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
 
 <br>
@@ -251,19 +251,19 @@ Chrome extensions
 <br>
 🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>45+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> built already,</li>
-  <li>🦀 <strong><code>80K+</code></strong> of installs,</li>
+  <li>🦆 <strong><code>45+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> built already</li>
+  <li>🦀 <strong><code>80K+</code></strong> of installs</li>
 </ul>
 <p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
-  <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
-  <li>🦐 <strong><code>280K+</code></strong> of installs,</li>
-  <li>✅ <strong><code>verified</code></strong> extension developer,</li>
+  <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
+  <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
+  <li>🦐 <strong><code>280K+</code></strong> of installs</li>
+  <li>✅ <strong><code>verified</code></strong> extension developer</li>
 </ul>
 <p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">Go/Golang modules <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
+  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
 </ul>
 <p>🎠 like making <strong><a href="https://packagist.org/users/igordvlpr/packages/">Packagist <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> packages,
 <br>
@@ -319,7 +319,7 @@ Chrome extensions
   🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> repository:
 </p>
 <ul data-no-restyle>
-  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
+  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
 </ul>
 <p>
   🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,
@@ -341,16 +341,16 @@ Chrome extensions
     <li><strong><a href="https://mobilelegends.com/en">Mobile Legends: Bang Bang <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
     <ul>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/5">Nana 🐱 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+        <strong><a href="https://mobilelegends.com/en/hero/5">Nana 🐱 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/2">Balmond 👹 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+        <strong><a href="https://mobilelegends.com/en/hero/2">Balmond 👹 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/39">Roger 🐺 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+        <strong><a href="https://mobilelegends.com/en/hero/39">Roger 🐺 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna ⚔️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+        <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna ⚔️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
       </li>
       <li>
         <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops 🧙‍♂️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
@@ -364,20 +364,19 @@ Chrome extensions
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>,
+        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>
       </li>
       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> 🔫 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> 🔫 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> 🕯️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>, and
+         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> 🕯️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-          <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> 🛡️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+          <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> 🛡️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
     </ul>
   </ul>
-  <br>
   🐬 am a firm believer in <strong>autodidacticism</strong>,
   <br>
   🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
