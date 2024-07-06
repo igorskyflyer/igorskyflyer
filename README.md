@@ -199,7 +199,7 @@ Chrome extensions
 <br>
 🪀 <strong>Tools</strong>:
 <a href="https://dbeaver.io">DBeaver <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://www.office.com">Microsoft Office</a> (Word, Excel, PowerPoint, Access) <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.office.com">Microsoft Office (Word, Excel, PowerPoint, Access) <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://notepad-plus-plus.org">Notepad++ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://poedit.net">Poedit <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://runjs.app">RunJS <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
