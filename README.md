@@ -31,7 +31,7 @@
 
 <h2>👶🏼 Early life</h2>
 <details>
-  <summary><strong>Show</strong></summary>
+  <summary>&nbsp;<strong>Show</strong></summary>
   <br>
   Always been keen on technology and everything tech-related, fascinated by how things work, analysing and reverse engineering them, even from a very young age of 6-7. Fast forward a few years, at the age of 15, he started learning how to code, first in HTML, CSS and finally JavaScript on a 1.5 inches screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer, spending <strong>8h+/day</strong> reading and trying out new things. Once he has learnt the basics he built a few websites on <em>Peperonity</em> which were some the most popular sites at the time. After that he proceeded with learning JavaScript in depth and made a new website on <em>XTgem</em> with which he applied to a contest for the best website (multiple categories) that the <em>XTgem</em> team organized and his site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
   <br>
