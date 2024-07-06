@@ -204,14 +204,14 @@ Chrome extensions
 <a href="https://www.postman.com"><strong>Postman</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 ⚔ <strong>Productivity</strong>:
-<a href="https://notion.so">Notion <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://slack.com">Slack <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://trello.com">Trello <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+<a href="https://notion.so"><strong>Notion</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://slack.com"><strong>Slack</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://trello.com"><strong>Trello</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🌿 <strong>Environments</strong>:
-<a href="https://www.microsoft.com/en-us/windows">Windows <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu),
-<a href="https://kernel.org">Linux <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu, Mint &amp; Manjaro)
+<a href="https://www.microsoft.com/en-us/windows"><strong>Windows</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://docs.microsoft.com/en-us/windows/wsl/"><strong>WSL</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu),
+<a href="https://kernel.org"><strong>Linux</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu, Mint &amp; Manjaro)
 <br>
 🥊 <strong>IDE</strong>:
 <a href="https://code.visualstudio.com">Visual Studio Code 💘 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
