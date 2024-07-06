@@ -109,13 +109,13 @@
 <br>
 
 🌎 <strong>Web</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=javascript">JavaScript</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=javascript"><strong>JavaScript</strong></a>,
 jQuery,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=typescript">TypeScript</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=php"><strong>PHP</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node</strong></a>,
 Express.js,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=scss">Sass</a>,
 SQLite,
