@@ -316,10 +316,10 @@ Chrome extensions
   <span id="recursion"></span>
 </p>
 <p>
-  🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> repository:
+  🦘 love adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> repository:
 </p>
 <ul data-no-restyle>
-  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
+  <li>🦑 added <code>8</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> so far</li>
 </ul>
 <p>
   🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,
@@ -338,25 +338,25 @@ Chrome extensions
   <br>
   🎮 play games in my spare time:
   <ul>
-    <li><strong><a href="https://mobilelegends.com/en">Mobile Legends: Bang Bang <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+    <li><a href="https://mobilelegends.com/en"><strong>Mobile Legends: Bang Bang</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/5">Nana 🐱 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/5"><strong>Nana 🐱</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/2">Balmond 👹 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/2"><strong>Balmond 👹</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/39">Roger 🐺 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/39"><strong>Roger 🐺</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna ⚔️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/90"><strong>Silvanna ⚔️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops 🧙‍♂️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/33"><strong>Cyclops 🧙‍♂️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <strong><a href="https://mobilelegends.com/en/hero/11">Bane 🐙 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+        <a href="https://mobilelegends.com/en/hero/11"><strong>Bane 🐙</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
     </ul>
   </li>
@@ -365,16 +365,16 @@ Chrome extensions
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>
+        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> 🔫 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn 🔫</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> 🕯️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette 🕯️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
        <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> 🛡️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+        <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur 🛡️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       </ul>
     </li>
