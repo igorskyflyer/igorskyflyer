@@ -373,7 +373,7 @@ Chrome extensions
          <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette 🕯️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Tel%27Annas"><strong>Tel'Annas 💘</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+        <a href="https://arenaofvalor.fandom.com/wiki/Tel%27Annas"><strong>Tel'Annas 🏹</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
        <li>
         <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur 🛡️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
