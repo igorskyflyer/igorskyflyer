@@ -7,7 +7,7 @@
 
   <br>
   
-  Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.
+  Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.
   <br>
   <br>
   Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way. Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
@@ -21,8 +21,8 @@
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
-  <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu</a> [part-time],</li>
-  <li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com</a> [part-time],</li>
+  <li>🦶🏼 full-stack engineer with Design and Product Insight at <a href="https://www.sensomed.eu">Sensomed.eu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time],</li>
+  <li>🍸 full-stack engineer with Design and Product Insight at <a href="https://www.sissis.com">SissiS.com <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time],</li>
   <li>🐆 freelance full-stack developer,</li>
   <li>🙌🏼 free-will open sourcerer.</li>
 </ul>
@@ -61,11 +61,11 @@
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler">Aria</a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt">ADBT</a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest">official file specification</a> 🍭
   <br>
   <br>
-  Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace</a> 🌊
+  Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai">Kai</a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank">VS Code Marketplace <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 🌊
   <br>
   <br>
   Updated  my first Astro component ✨🎉<br>
-  Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library</a> 😍
+  Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt">&lt;PostExcerpt /&gt;</a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr">Integrations library <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
   <br>
   <br>
   Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void">AdVoid</a> repository and is supported by the AdGuard team 🌷
@@ -148,18 +148,18 @@ MortScript (Windows Mobile 6.5)
 <a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go">Go/Golang</a>
 <br>
 🦄 <strong>UI/UX</strong>:
-<a href="https://dribbble.com/igordvlpr">Affinity Designer</a>,
-<a href="https://dribbble.com/igordvlpr">Figma</a>,
-<a href="https://dribbble.com/igordvlpr">Adobe XD</a>,
-<a href="https://dribbble.com/igordvlpr">Adobe Illustrator</a>,
-<a href="https://dribbble.com/igordvlpr">Adobe Photoshop</a>,
-<a href="https://dribbble.com/igordvlpr">Affinity Photo</a>,
-<a href="https://www.getpaint.net/">paint.net</a>,
-<a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio">Microsoft Blend</a>
+<a href="https://dribbble.com/igordvlpr">Affinity Designer <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr">Figma <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr">Adobe XD <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr">Adobe Illustrator <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr">Adobe Photoshop <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr">Affinity Photo <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.getpaint.net/">paint.net <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio">Microsoft Blend <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🕹 <strong>Game</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=godot">Godot</a>,
-<a href="https://unity.com">Unity</a>
+<a href="https://unity.com">Unity <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🦂 <strong>Scripting</strong>:
 <a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell">PowerShell</a>,
@@ -183,8 +183,8 @@ AVA,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=jest">Jest</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig">EditorConfig</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint">ESLint</a>,
-<a href="https://biomejs.dev/">Biome</a>,
-<a href="https://prettier.io/">Prettier</a>,
+<a href="https://biomejs.dev/">Biome <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://prettier.io/">Prettier <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a>
 <br>
 🦖 <strong>Extensibility</strong>:
@@ -196,38 +196,38 @@ Chrome extensions
 <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme">Visual Studio Code themes</a>
 <br>
 🪀 <strong>Tools</strong>:
-<a href="https://dbeaver.io">DBeaver</a>,
-<a href="https://www.office.com">Microsoft Office</a> (Word, Excel, PowerPoint, Access),
-<a href="https://notepad-plus-plus.org">Notepad++</a>,
-<a href="https://poedit.net">Poedit</a>,
-<a href="https://runjs.app">RunJS</a>,
-<a href="https://winmerge.org">WinMerge</a>,
-<a href="https://www.apachefriends.org">XAMPP</a>,
-<a href="https://filezilla-project.org">FileZilla</a>,
-<a href="https://www.postman.com">Postman</a>
+<a href="https://dbeaver.io">DBeaver <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.office.com">Microsoft Office</a> (Word, Excel, PowerPoint, Access) <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://notepad-plus-plus.org">Notepad++ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://poedit.net">Poedit <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://runjs.app">RunJS <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://winmerge.org">WinMerge <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.apachefriends.org">XAMPP <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://filezilla-project.org">FileZilla <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.postman.com">Postman <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 ⚔ <strong>Productivity</strong>:
-<a href="https://notion.so">Notion</a>,
-<a href="https://slack.com">Slack</a>,
-<a href="https://trello.com">Trello</a>
+<a href="https://notion.so">Notion <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://slack.com">Slack <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://trello.com">Trello <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🌿 <strong>Environments</strong>:
-<a href="https://www.microsoft.com/en-us/windows">Windows</a>,
-<a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL</a> (Ubuntu),
-<a href="https://kernel.org">Linux</a> (Ubuntu, Mint &amp; Manjaro)
+<a href="https://www.microsoft.com/en-us/windows">Windows <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu),
+<a href="https://kernel.org">Linux <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (Ubuntu, Mint &amp; Manjaro)
 <br>
 🥊 <strong>IDE</strong>:
-<a href="https://code.visualstudio.com">Visual Studio Code 💘</a>,
-<a href="https://visualstudio.microsoft.com">Visual Studio</a>,
-<a href="https://developer.android.com/studio">Android Studio</a>
+<a href="https://code.visualstudio.com">Visual Studio Code 💘 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://visualstudio.microsoft.com">Visual Studio <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://developer.android.com/studio">Android Studio <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 ❄️ <strong>Platforms</strong>:
-<a href="https://www.cyclic.sh">Cyclic</a>,
-<a href="https://vercel.com">Vercel</a>,
-<a href="https://www.netlify.com">Netlify</a>,
-<a href="https://www.cloudflare.com/">Cloudflare</a>,
-<a href="https://github.com">GitHub Pages</a>,
-<a href="https://replit.com">Replit</a>
+<a href="https://www.cyclic.sh">Cyclic <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://vercel.com">Vercel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.netlify.com">Netlify <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.cloudflare.com/">Cloudflare <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://github.com">GitHub Pages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://replit.com">Replit <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 
 <br>
 <br>
@@ -248,37 +248,37 @@ Chrome extensions
 <strong><a href="https://github.com/igorskyflyer/npm-pathexists">path-exists</a></strong>,
 <strong><a href="https://github.com/igorskyflyer/npm-str-is-in">str-is-in</a></strong>,
 <strong><a href="https://github.com/igorskyflyer/npm-uarray">uArray</a></strong>,
-<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path</a></strong>,
-<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath</a></strong>,
+<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
 <br>
-🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages</a></strong>:</p>
+🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>45+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages</a></strong> built already,</li>
+  <li>🦆 <strong><code>45+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> built already,</li>
   <li>🦀 <strong><code>80K+</code></strong> of installs,</li>
 </ul>
-<p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions</a></strong>:</p>
+<p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far,</li>
-  <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme</a></strong> so far,</li>
+  <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
+  <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
   <li>🦐 <strong><code>280K+</code></strong> of installs,</li>
   <li>✅ <strong><code>verified</code></strong> extension developer,</li>
 </ul>
-<p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">Go/Golang modules</a></strong>:</p>
+<p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">Go/Golang modules <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
 <ul data-no-restyle>
-  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module</a></strong> so far,</li>
+  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
 </ul>
-<p>🎠 like making <strong><a href="https://packagist.org/users/igordvlpr/packages/">Packagist</a></strong> packages,
+<p>🎠 like making <strong><a href="https://packagist.org/users/igordvlpr/packages/">Packagist <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> packages,
 <br>
 🐣 am excited about these upcoming technologies:
-<strong><a href="https://pyscript.net">PyScript</a></strong>,
-<strong><a href="https://formkit.com">FormKit</a></strong>,
-<strong><a href="https://github.com/carbon-language/carbon-lang">Carbon</a></strong>,
-<strong><a href="https://github.com/swc-project/swc">SWC</a></strong>,
-<strong><a href="https://www.cloudflare.com/en-gb/web3/">Web3</a></strong>,
+<strong><a href="https://pyscript.net">PyScript <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<strong><a href="https://formkit.com">FormKit <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<strong><a href="https://github.com/carbon-language/carbon-lang">Carbon <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<strong><a href="https://github.com/swc-project/swc">SWC <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<strong><a href="https://www.cloudflare.com/en-gb/web3/">Web3 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
 <br>
 💫 am currently working on building my portfolio website
 <br>
-🌱 am currently learning <strong><a href="https://www.rust-lang.org">Rust</a></strong>,
+🌱 am currently learning <strong><a href="https://www.rust-lang.org">Rust <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
 <br>
 🙌 am constantly creating open-source projects that help the dev-community,
 <br>
@@ -289,28 +289,28 @@ Chrome extensions
 🤝 am looking for help with my <strong><a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers">FOSS</a></strong> projects,
 <br>
 🤼 like exchanging opinions with my people at <strong><a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+">VS Code</a></strong>,
-<br>🧪 do front-end experiments on my <strong><a href="https://codepen.io/igorskyflyer/pens/public/">CodePen</a></strong>, like:</p>
+<br>🧪 do front-end experiments on my <strong><a href="https://codepen.io/igorskyflyer/pens/public/">CodePen <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>, like:</p>
 <blockquote>
   <p>
-    🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp">3D Cube</a>,
+    🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp">3D Cube <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-    💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej">Diamond Menu</a>,
+    💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej">Diamond Menu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-    🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz">CSS Road</a>,
+    🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz">CSS Road <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo">CSS Laptop</a>,
+    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo">CSS Laptop <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-    🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ">CSS Ice-Cream</a>,
+    🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ">CSS Ice-Cream <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-   📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR">CSS Mobile Phone</a>,
+   📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR">CSS Mobile Phone <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
     <br>
-    🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb">Audio Player</a> , and
+    🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb">Audio Player <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> , and
     <br>
     ♾️ &nbsp;still to come.
   </p>
 </blockquote>
 <p>
-  🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble</a></strong>,
+  🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
   <br>
   📝 post snippets on my <strong><a href="https://gist.github.com/igorskyflyer">Gist</a></strong>,
 </p>
@@ -336,23 +336,23 @@ Chrome extensions
   <br>
   ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python,
   <br>
-  🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a> (on Notion),
+  🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion),
   <br>
-  🎮 play <strong><a href="https://mobilelegends.com/en">MLBB</a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana</a></strong> 🐱,
-  <strong><a href="https://mobilelegends.com/en/hero/2">Balmond</a></strong> 👹, 
-  <strong><a href="https://mobilelegends.com/en/hero/39">Roger</a></strong> 🐺,
-  <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna</a></strong> ⚔️,
-  <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops</a></strong> 🧙‍♂️ and
-  <strong><a href="https://mobilelegends.com/en/hero/11">Bane</a></strong> 🐙 here and
-  <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka</strong></a>
-  🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong></a>
-  🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong></a>
-  🕯️ and <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong></a>
+  🎮 play <strong><a href="https://mobilelegends.com/en">MLBB <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐱,
+  <strong><a href="https://mobilelegends.com/en/hero/2">Balmond <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 👹, 
+  <strong><a href="https://mobilelegends.com/en/hero/39">Roger <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐺,
+  <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> ⚔️,
+  <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🧙‍♂️ and
+  <strong><a href="https://mobilelegends.com/en/hero/11">Bane <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐙 here and
+  <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>
+  🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+  🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+  🕯️ and <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
   🛡️,
   <br>
   🐬 am a firm believer in <strong>autodidacticism</strong>,
   <br>
-  🎶 am a huge audiophile, I even post Eurovision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel</a>, <br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>Игор Димитријевић</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+  🎶 am a huge audiophile, I even post Eurovision videos on my <a href="https://youtube.com/@igorskyflyer">YouTube channel <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>, <br>🎭 am known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>igordvlpr</strong>, <strong>Игор Димитријевић</strong>, <strong>igor.dvlpr</strong>,<br>🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 </p>
 
 <br>
@@ -381,7 +381,7 @@ Chrome extensions
 </h3>
 
 <p>
-  Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me</a>:
+  Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:
 </p>
 
 <!-- BLOG-POST-LIST:START -->
@@ -447,7 +447,7 @@ Chrome extensions
 <div align="center">
   <h3>📬 CONTACT 📬</h3>
   <p>
-   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
+   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😂 🦜
   </p>
 </div>
 
@@ -457,7 +457,7 @@ Chrome extensions
 <div align="center">
   <h3>💝 SUPPORT 💝</h3>
   <p>
-    If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+    If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> page.
   </p>
 
   <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="150" height="36"></a>
@@ -476,7 +476,7 @@ Chrome extensions
 <br>
 
 <div data-hide align="center">
-  There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical">my official site</a>.
+  There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical">my official site <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>.
 </div>
 
 <br>
