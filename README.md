@@ -261,22 +261,22 @@ Chrome extensions
   <li>🦐 <strong><code>280K+</code></strong> of installs</li>
   <li>✅ <strong><code>verified</code></strong> extension developer</li>
 </ul>
-<p>🦦 like producing <strong><a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">Go/Golang modules <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
+<p>🦦 like producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
   <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
 </ul>
-<p>🎠 like making <strong><a href="https://packagist.org/users/igordvlpr/packages/">Packagist <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> packages,
+<p>🎠 like making <a href="https://packagist.org/users/igordvlpr/packages/"><strong>Packagist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> packages,
 <br>
 🐣 am excited about these upcoming technologies:
-<strong><a href="https://pyscript.net">PyScript <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<strong><a href="https://formkit.com">FormKit <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<strong><a href="https://github.com/carbon-language/carbon-lang">Carbon <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<strong><a href="https://github.com/swc-project/swc">SWC <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<strong><a href="https://www.cloudflare.com/en-gb/web3/">Web3 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<a href="https://pyscript.net"><strong>PyScript</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://formkit.com"><strong>FormKit</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://github.com/swc-project/swc"><strong>SWC</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <br>
 💫 am currently working on building my portfolio website
 <br>
-🌱 am currently learning <strong><a href="https://www.rust-lang.org">Rust <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+🌱 am currently learning <a href="https://www.rust-lang.org"><strong>Rust</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <br>
 🙌 am constantly creating open-source projects that help the dev-community,
 <br>
@@ -284,10 +284,10 @@ Chrome extensions
 <br>
 👯 am looking to collaborate on exciting and challenging projects,
 <br>
-🤝 am looking for help with my <strong><a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers">FOSS</a></strong> projects,
+🤝 am looking for help with my <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>FOSS</strong></a> projects,
 <br>
-🤼 like exchanging opinions with my people at <strong><a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+">VS Code <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<br>🧪 do front-end experiments on my <strong><a href="https://codepen.io/igorskyflyer/pens/public/">CodePen <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>, like:</p>
+🤼 like exchanging opinions with my people at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<br>🧪 do front-end experiments on my <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>, like:</p>
 <blockquote>
   <p>
     🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp">3D Cube <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
@@ -308,9 +308,9 @@ Chrome extensions
   </p>
 </blockquote>
 <p>
-  🏀 dribble on <strong><a href="https://dribbble.com/igordvlpr">Dribbble <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+  🏀 dribble on <a href="https://dribbble.com/igordvlpr"><strong>Dribbble</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
   <br>
-  📝 post snippets on my <strong><a href="https://gist.github.com/igorskyflyer">Gist</a></strong>,
+  📝 post snippets on my <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>,
 </p>
 <p>
   <span id="recursion"></span>
