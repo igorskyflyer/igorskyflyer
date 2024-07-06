@@ -17,8 +17,8 @@
 <h2 id="-work">💼 Work</h2>
 <p>Currently working as a:</p>
 <ul data-no-restyle>
-  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu">Sensomed.eu <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
-  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com">SissiS.com <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
+  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
+  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> [part-time]</li>
   <li>🐆 freelance <strong>full-stack developer</strong></li>
   <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
@@ -360,7 +360,7 @@ Chrome extensions
       </li>
     </ul>
   </li>
-  
+
   <li>
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
