@@ -238,23 +238,23 @@ Chrome extensions
 <br>
 🎆 recently released <a href="https://github.com/igorskyflyer/npm-zing"><strong>Zing</strong></a> and <a href="https://github.com/igorskyflyer/npm-keppo"><strong>Keppo()</strong></a>,
 <br>
-🐛 recently created the <strong><a href="https://github.com/igorskyflyer/my-pens">my-pens</a></strong> repository,
+🐛 recently created the <a href="https://githuom/igorskyflyer/my-pens"><strong>my-pens</strong></a> repository,
 <br>
 👀 recently updated
-<strong><a href="https://github.com/igorskyflyer/npm-zep">Zep()</a></strong>,
-<strong><a href="https://github.com/igorskyflyer/npm-is-rootdir">is-rootdir</a></strong>,
-<strong><a href="https://github.com/igorskyflyer/npm-pathexists">path-exists</a></strong>,
-<strong><a href="https://github.com/igorskyflyer/npm-str-is-in">str-is-in</a></strong>,
-<strong><a href="https://github.com/igorskyflyer/npm-uarray">uArray</a></strong>,
-<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path">unc-path <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
-<strong><a href="https://www.npmjs.com/package/@igor.dvlpr/upath">uPath <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+<a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep()</strong></a>,
+<a href="https://github.com/igorskyflyer/npm-is-rootdir"><strong>is-rootdir</strong></a>,
+<a href="https://github.com/igorskyflyer/npm-pathexists"><strong>path-exists</strong></a>,
+<a href="https://github.com/igorskyflyer/npm-str-is-in"><strong>str-is-in</strong></a>,
+<a href="https://github.com/igorskyflyer/npm-uarray"><strong>uArray</strong></a>,
+<a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path"><strong>unc-path</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.npmjs.com/package/@igor.dvlpr/upath"><strong>uPath</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <br>
-🎀 like crafting <strong><a href="https://www.npmjs.com/~igor.dvlpr">NPM packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
+🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>45+</code></strong> <strong><a href="https://www.npmjs.com/~igor.dvlpr">packages <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> built already</li>
+  <li>🦆 <strong><code>45+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
   <li>🦀 <strong><code>80K+</code></strong> of installs</li>
 </ul>
-<p>🧃 like building <strong><a href="https://marketplace.visualstudio.com/publishers/igordvlpr">Visual Studio Code extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>:</p>
+<p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
   <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
   <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
