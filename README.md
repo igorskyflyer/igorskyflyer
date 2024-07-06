@@ -360,7 +360,7 @@ Chrome extensions
       </li>
     </ul>
   </li>
-  <br>
+  
   <li>
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
