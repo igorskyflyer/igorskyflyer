@@ -146,29 +146,28 @@ MortScript (Windows Mobile 6.5)
 <a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go"><strong>Go/Golang</strong></a>
 <br>
 🦄 <strong>UI/UX</strong>:
-<a href="https://dribbble.com/igordvlpr">Affinity Designer <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://dribbble.com/igordvlpr">Figma <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://dribbble.com/igordvlpr">Adobe XD <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://dribbble.com/igordvlpr">Adobe Illustrator <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://dribbble.com/igordvlpr">Adobe Photoshop <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://dribbble.com/igordvlpr">Affinity Photo <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://www.getpaint.net/">paint.net <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-blend-for-visual-studio">Microsoft Blend <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+<a href="https://dribbble.com/igordvlpr"><strong>Affinity Designer</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr"><strong>Figma</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr"><strong>Adobe XD</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr"><strong>Adobe Illustrator</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr"><strong>Adobe Photoshop</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://dribbble.com/igordvlpr"><strong>Affinity Photo</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://www.getpaint.net/"><strong>paint.net</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🕹 <strong>Game</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=godot">Godot</a>,
-<a href="https://unity.com">Unity <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=godot"><strong>Godot</strong></a>,
+<a href="https://unity.com"><strong>Unity</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🦂 <strong>Scripting</strong>:
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell">PowerShell</a>,
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=bash">Bash</a>,
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=batch">Batch</a>
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell"><strong>PowerShell</strong></a>,
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=bash"><strong>Bash</strong></a>,
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=batch"><strong>Batch</strong></a>
 <br>
 🛠️ <strong>Tooling</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild">esbuild</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vitest">Vitest</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=tsx">tsx</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=webpack">webpack</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild"><strong>esbuild</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=vitest"><strong>Vitest</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=tsx"><strong>tsx</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=webpack"><strong>webpack</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=gulp">Gulp</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=rollup">Rollup</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=tsc">TypeScript Compiler</a>,
