@@ -336,12 +336,31 @@ Chrome extensions
   <br>
   🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion),
   <br>
-  🎮 play <strong><a href="https://mobilelegends.com/en">MLBB <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> in my spare time - join me, main <strong><a href="https://mobilelegends.com/en/hero/5">Nana <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐱,
-  <strong><a href="https://mobilelegends.com/en/hero/2">Balmond <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 👹, 
-  <strong><a href="https://mobilelegends.com/en/hero/39">Roger <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐺,
-  <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> ⚔️,
-  <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🧙‍♂️ and
-  <strong><a href="https://mobilelegends.com/en/hero/11">Bane <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> 🐙 here and
+  🎮 play games in my spare time:
+  <ul>
+    <li><strong><a href="https://mobilelegends.com/en">Mobile Legends: Bang Bang <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+    <ul>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/5">Nana 🐱 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+      </li>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/2">Balmond 👹 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+      </li>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/39">Roger 🐺 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+      </li>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/90">Silvanna ⚔️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
+      </li>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/33">Cyclops 🧙‍♂️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+      </li>
+      <li>
+        <strong><a href="https://mobilelegends.com/en/hero/11">Bane 🐙 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
+      </li>
+    </ul>
+  </ul>
+   and
   <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>
   🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
   🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
