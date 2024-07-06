@@ -113,10 +113,10 @@
 🌎 <strong>Web</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=javascript">JavaScript</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=javascript">JavaScript</a>,
 jQuery,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">TypeScript</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=typescript">TypeScript</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>,
 Express.js,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=scss">Sass</a>,
@@ -124,28 +124,28 @@ SQLite,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap">Bootstrap</a>,
 MySQL,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">Wordpress</a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">WooCommerce</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=astro">Astro</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=astro">Astro</a>,
 PWA
 <br>
 🖥️ <strong>Desktop</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&language=c%23">C#</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=c">C</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=pascal">Pascal</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=c%23">C#</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=c">C</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=pascal">Pascal</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>
 <br>
 📱 <strong>Mobile</strong>:
 Xamarin,
 Kotlin,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Dart + Flutter</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java/Android</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=java">Java/Android</a>,
 MortScript (Windows Mobile 6.5)
 <br>
 🕊️<strong>Cross-platform</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=electron">Electron</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=dart">Dart</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=java">Java</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=python">Python</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&language=go">Go/Golang</a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=dart">Dart</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=java">Java</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=python">Python</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go">Go/Golang</a>
 <br>
 🦄 <strong>UI/UX</strong>:
 <a href="https://dribbble.com/igordvlpr">Affinity Designer</a>,
@@ -162,7 +162,7 @@ MortScript (Windows Mobile 6.5)
 <a href="https://unity.com">Unity</a>
 <br>
 🦂 <strong>Scripting</strong>:
-<a href="https://github.com/igorskyflyer/?tab=repositories&language=powershell">PowerShell</a>,
+<a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell">PowerShell</a>,
 <a href="https://github.com/igorskyflyer/?tab=repositories&q=bash">Bash</a>,
 <a href="https://github.com/igorskyflyer/?tab=repositories&q=batch">Batch</a>
 <br>
@@ -184,7 +184,7 @@ AVA,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig">EditorConfig</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint">ESLint</a>,
 <a href="https://biomejs.dev/">Biome</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&language=typescript">Prettier</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=prettier">Prettier</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a>
 <br>
 🦖 <strong>Extensibility</strong>:
