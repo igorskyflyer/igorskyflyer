@@ -7,7 +7,7 @@
 
   <br>
   
-  Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.
+  Creator of <a href="https://github.com/aria-toolkit"><strong>Aria <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - Adblock template language and file format and <a href="https://github.com/the-advoid"><strong>AdVoid</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - a popular (<strong><code>260K+</code></strong> of downloads) Visual Studio Code extension and many other endearing projects.
   <br>
   <br>
   Having an extensive experience in building projects from the ground up, with dedication and commitment in every step of the way. Always trying to help the dev-community by building useful libraries, modules, packages, extensions, add-ons and only recently, Visual Studio Code themes.
@@ -290,7 +290,7 @@ Chrome extensions
 <br>
 🤝 am looking for help with my <strong><a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers">FOSS</a></strong> projects,
 <br>
-🤼 like exchanging opinions with my people at <strong><a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+">VS Code</a></strong>,
+🤼 like exchanging opinions with my people at <strong><a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+">VS Code <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>,
 <br>🧪 do front-end experiments on my <strong><a href="https://codepen.io/igorskyflyer/pens/public/">CodePen <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>, like:</p>
 <blockquote>
   <p>
@@ -320,10 +320,10 @@ Chrome extensions
   <span id="recursion"></span>
 </p>
 <p>
-  🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs</a></strong> repository:
+  🦘 love adding new applications to the <strong><a href="https://github.com/microsoft/winget-pkgs/">WinGet-Pkgs <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> repository:
 </p>
 <ul data-no-restyle>
-  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications</a></strong> so far,</li>
+  <li>🦑 added <code>8</code> <strong><a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer">applications <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far,</li>
 </ul>
 <p>
   🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more,
