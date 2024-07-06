@@ -232,11 +232,11 @@ Chrome extensions
 
 🤗 Don&#39;t go yet because I:
 
-<p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <strong><a href="https://github.com/igorskyflyer/ad-void">AdVoid</a></strong> 👈🏼,
+<p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/igorskyflyer/ad-void"><strong>AdVoid</strong></a> 👈🏼,
 <br>
-🌴 recently published the <strong><a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">FolderPicker VS Code UI</a></strong>,
+🌴 recently published the <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>FolderPicker VS Code UI</strong></a>,
 <br>
-🎆 recently released <strong><a href="https://github.com/igorskyflyer/npm-zing">Zing</a></strong> and <strong><a href="https://github.com/igorskyflyer/npm-keppo">Keppo()</a></strong>,
+🎆 recently released <a href="https://github.com/igorskyflyer/npm-zing"><strong>Zing</strong></a> and <a href="https://github.com/igorskyflyer/npm-keppo"><strong>Keppo()</strong></a>,
 <br>
 🐛 recently created the <strong><a href="https://github.com/igorskyflyer/my-pens">my-pens</a></strong> repository,
 <br>
@@ -360,6 +360,7 @@ Chrome extensions
       </li>
     </ul>
   </li>
+  <br>
   <li>
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
