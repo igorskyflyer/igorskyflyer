@@ -106,6 +106,8 @@
 
 <p align="center">
  <sub><strong>🌊 Or Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it – where applicable 🏄‍</strong></sub>
+ <br>
+ <sub><strong>☄️ Links showing the  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"> icon are external and will navigate away from this page🌋‍</strong></sub>
 </p>
 
 <br>
