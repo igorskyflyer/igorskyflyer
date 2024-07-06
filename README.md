@@ -359,13 +359,24 @@ Chrome extensions
         <strong><a href="https://mobilelegends.com/en/hero/11">Bane 🐙 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong>
       </li>
     </ul>
+  </li>
+  <li>
+    <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+    <ul>
+      <li>
+        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>,
+      </li>
+      <li>
+        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> 🔫 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+      </li>
+      <li>
+         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> 🕯️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>, and
+      </li>
+      <li>
+          <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> 🛡️ <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+      </li>
+    </ul>
   </ul>
-   and
-  <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> - join me, main <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></strong></a>
-  🏜️, <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-  🔫, <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-  🕯️ and <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-  🛡️,
   <br>
   🐬 am a firm believer in <strong>autodidacticism</strong>,
   <br>
