@@ -512,7 +512,7 @@ Chrome extensions
 <br>
 
 <div data-hide align="center">
-  There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical">my official site <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>.
+  There is also a 🔮 <strong>magical</strong> 🌟, self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>.
 </div>
 
 <br>
