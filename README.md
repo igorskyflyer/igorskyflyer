@@ -111,7 +111,7 @@
 <br>
 
 🌎 <strong>Web</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&language=html">HTML</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&language=javascript">JavaScript</a>,
 jQuery,
