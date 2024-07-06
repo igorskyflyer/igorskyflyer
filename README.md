@@ -326,7 +326,7 @@ Chrome extensions
   👟 love taking long walks &amp; runs:
 </p>
 <ul data-no-restyle>
-  <li>PR: <strong><code>~29km/18mi</code></strong></li>
+  <li>🏆 PR: <strong><code>~29km/18mi</code></strong>🥇</li>
 </ul>
 <p>
   🌱 adore being in touch with nature
