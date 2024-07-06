@@ -417,7 +417,7 @@ Chrome extensions
 </h3>
 
 <p>
-  Posts on my blog <a href="https://igorskyflyer.me/blog">igorskyflyer.me <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:
+  Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:
 </p>
 
 <!-- BLOG-POST-LIST:START -->
