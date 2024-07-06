@@ -184,7 +184,7 @@ AVA,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig">EditorConfig</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint">ESLint</a>,
 <a href="https://biomejs.dev/">Biome</a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=prettier">Prettier</a>,
+<a href="https://prettier.io/">Prettier</a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a>
 <br>
 🦖 <strong>Extensibility</strong>:
