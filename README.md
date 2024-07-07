@@ -531,11 +531,11 @@ Chrome extensions
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500" alt="Igor Dimitrijević (igorskyflyer) - GitHub profile metrics">
+  <!-- <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500" alt="Igor Dimitrijević (igorskyflyer) - GitHub profile metrics">
   <br>
   <sub><em><strong>My Github profile metrics</strong></em></sub>
   <br>
-  <br>
+  <br> -->
   <img src="https://github-readme-streak-stats-plum.vercel.app/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="Igor Dimitrijević (igorskyflyer) profile - GitHub Streak Stats" width="500">
   <br>
   <sub><em><strong>Consistency is key</strong></em></sub>
