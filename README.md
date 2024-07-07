@@ -178,8 +178,6 @@ MortScript (Windows Mobile 6.5)
 <a href="https://github.com/igorskyflyer?tab=repositories&q=vite"><strong>Vite</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=npm"><strong>npm</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=npx"><strong>npx</strong></a>,
-AVA,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=mocha"><strong>Mocha</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=jest"><strong>Jest</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig"><strong>EditorConfig</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint"><strong>ESLint</strong></a>,
