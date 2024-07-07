@@ -67,7 +67,7 @@
   Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><strong>&lt;PostExcerpt /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
   <br>
   <br>
-  Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/igorskyflyer/ad-void"><strong>AdVoid</strong></a> repository and is supported by the AdGuard team 🌷
+  Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> repository and is supported by the AdGuard team 🌷
   
   <br>
   
@@ -234,7 +234,7 @@ Chrome extensions
 
 🤗 Don&#39;t go yet because I:
 
-<p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/igorskyflyer/ad-void"><strong>AdVoid</strong></a> 👈🏼
+<p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
 <br>
 🌴 recently published the <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>FolderPicker VS Code UI</strong></a>
 <br>
@@ -442,10 +442,10 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3038](https://github.com/igorskyflyer/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-2. ❗ Opened issue [#3038](https://github.com/igorskyflyer/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-3. 🔒 Closed issue [#3037](https://github.com/igorskyflyer/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
-4. ❗ Opened issue [#3037](https://github.com/igorskyflyer/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/igorskyflyer/ad-void)
+1. 🔒 Closed issue [#3038](https://github.com/the-advoid/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/the-advoid/ad-void)
+2. ❗ Opened issue [#3038](https://github.com/the-advoid/ad-void/issues/3038) in [igorskyflyer/ad-void](https://github.com/the-advoid/ad-void)
+3. 🔒 Closed issue [#3037](https://github.com/the-advoid/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3037](https://github.com/the-advoid/ad-void/issues/3037) in [igorskyflyer/ad-void](https://github.com/the-advoid/ad-void)
 5. 💪 Opened PR [#3](https://github.com/igorskyflyer/project-revival/pull/3) in [igorskyflyer/project-revival](https://github.com/igorskyflyer/project-revival)
 <!--END_SECTION:activity-->
 
