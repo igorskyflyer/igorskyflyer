@@ -139,7 +139,6 @@ Xamarin,
 Kotlin,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter"><strong>Dart + Flutter</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=java"><strong>Java/Android</strong></a>,
-MortScript (Windows Mobile 6.5)
 <br>
 🕊️<strong>Cross-platform</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=electron"><strong>Electron</strong></a>,
