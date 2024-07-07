@@ -180,7 +180,7 @@ MortScript (Windows Mobile 6.5)
 <a href="https://github.com/igorskyflyer?tab=repositories&q=npx"><strong>npx</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig"><strong>EditorConfig</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint"><strong>ESLint</strong></a>,
-<a href="https://biomejs.dev/"><strong>Biome</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=biome"><strong>Biome</strong></a>,
 <a href="https://prettier.io/"><strong>Prettier</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=composer"><strong>Composer</strong></a>
 <br>
