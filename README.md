@@ -336,7 +336,7 @@ Chrome extensions
   🎮 play games in my spare time:
   <ul data-no-restyle>
     <li><a href="https://mobilelegends.com/en"><strong>Mobile Legends: Bang Bang</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-    <ul>
+    <ul data-no-restyle>
       <li>
         <a href="https://mobilelegends.com/en/hero/5"><strong>Nana 🐱</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
@@ -360,7 +360,7 @@ Chrome extensions
 
   <li>
     <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-    <ul>
+    <ul data-no-restyle>
       <li>
         <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
       </li>
