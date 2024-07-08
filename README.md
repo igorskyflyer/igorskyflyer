@@ -195,7 +195,6 @@ Chrome extensions
 <a href="https://www.office.com"><strong>Microsoft Office (Word, Excel, PowerPoint, Access)</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://notepad-plus-plus.org"><strong>Notepad++</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://poedit.net"><strong>Poedit</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://runjs.app"><strong>RunJS</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://winmerge.org"><strong>WinMerge</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://www.apachefriends.org"><strong>XAMPP</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
 <a href="https://filezilla-project.org"><strong>FileZilla</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
