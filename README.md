@@ -334,7 +334,7 @@ Chrome extensions
   🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion)
   <br>
   🎮 play games in my spare time:
-  <ul>
+  <ul data-no-restyle>
     <li><a href="https://mobilelegends.com/en"><strong>Mobile Legends: Bang Bang</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
     <ul>
       <li>
