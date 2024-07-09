@@ -441,11 +441,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-2. 🔒 Closed issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. ❗ Opened issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. 🚀 Published release [Initial release](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-5. 🗣 Commented on [#3248](https://github.com/microsoft/winget-cli/issues/3248#issuecomment-2216007653) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+1. 🚀 Published release [v1.1.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.1.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+2. 🚀 Published release [v1.0.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+3. 🔒 Closed issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. 🚀 Published release [Initial release](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
 <!--END_SECTION:activity-->
 
 <br>
