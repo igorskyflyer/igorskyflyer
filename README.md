@@ -272,7 +272,9 @@ Chrome extensions
 <br>
 💫 am currently working on building my portfolio website
 <br>
-🌱 am currently learning <a href="https://www.rust-lang.org"><strong>Rust</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+🌱 am currently learning
+<a href="https://www.rust-lang.org"><strong>Rust</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
+<a href="https://react.dev/"><strong>React</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
 <br>
 🙌 am constantly creating open-source projects that help the dev-community
 <br>
