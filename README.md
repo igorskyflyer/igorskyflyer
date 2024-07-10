@@ -441,11 +441,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.1.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-2. 🚀 Published release [v1.0.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-3. 🔒 Closed issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. ❗ Opened issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. 🚀 Published release [Initial release](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+1. 🎉 Merged PR [#8](https://github.com/igorskyflyer/github-readme-streak-stats/pull/8) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+2. 🚀 Published release [v1.1.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.1.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+3. 🚀 Published release [v1.0.0](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.0.0) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+4. 🔒 Closed issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. ❗ Opened issue [#3040](https://github.com/the-advoid/ad-void/issues/3040) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
