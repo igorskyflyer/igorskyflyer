@@ -333,7 +333,7 @@ Chrome extensions
 <p>
   🌱 adore being in touch with nature
   <br>
-	🦧 adhere to the metaphysical naturalism
+	🐒 adhere to the metaphysical naturalism
   <br>
   ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
   <br>
@@ -387,7 +387,7 @@ Chrome extensions
   </ul>
   🐬 am a firm believer in <strong>autodidacticism</strong>
   <br>
-  🎶 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
+  🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
   <br>🎭 am known as:
   <strong>Igor Dimitrijević</strong>,
   <strong>igorskyflyer</strong>,
