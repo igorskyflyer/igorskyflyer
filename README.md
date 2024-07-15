@@ -66,8 +66,8 @@
   Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 🌊
   <br>
   <br>
-  Updated  my first Astro component ✨🎉<br>
-  Astro Collections are now supported, available at <a href="https://github.com/igorskyflyer/npm-astro-post-excerpt"><strong>&lt;PostExcerpt /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
+  Created a new Astro component ✨🎉<br>
+  EasyNav Button, an easy-to-add and use navigational button, available at <a href="https://github.com/igorskyflyer/npm-astro-easynav-button"><strong>&lt;EasyNavButton /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
   <br>
   <br>
   Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> repository and is supported by the AdGuard team 🌷
@@ -84,7 +84,7 @@
 
 <br>
 
-<p align="right"><em><sub>🗓️ 09 July 2024</sub></em></p>
+<p align="right"><em><sub>🗓️ 16 July 2024</sub></em></p>
 
 <br>
 <br>
@@ -250,8 +250,8 @@ Chrome extensions
 <br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>50+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
-  <li>🦀 <strong><code>80K+</code></strong> of installs</li>
+  <li>🦆 <strong><code>51+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
+  <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
