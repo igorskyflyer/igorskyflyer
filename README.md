@@ -233,6 +233,8 @@ Chrome extensions
 
 <p>🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
 <br>
+🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
+<br>
 🌴 recently published the <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>FolderPicker VS Code UI</strong></a>
 <br>
 🎆 recently released <a href="https://github.com/igorskyflyer/npm-zing"><strong>Zing</strong></a> and <a href="https://github.com/igorskyflyer/npm-keppo"><strong>Keppo()</strong></a>
