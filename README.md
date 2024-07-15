@@ -443,8 +443,8 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2127](https://github.com/withastro/starlight/issues/2127#issuecomment-2225764114) in [withastro/starlight](https://github.com/withastro/starlight)
-2. ❗ Opened issue [#2127](https://github.com/withastro/starlight/issues/2127) in [withastro/starlight](https://github.com/withastro/starlight)
+1. 🔒 Closed issue [#123](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/123) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+2. ❗ Opened issue [#123](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/123) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
 3. 🔒 Closed issue [#42](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/42) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 4. ❗ Opened issue [#42](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/42) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 5. 🗣 Commented on [#11](https://github.com/SoyCarlos/SoyCarlos.github.io/issues/11#issuecomment-2221610186) in [SoyCarlos/SoyCarlos.github.io](https://github.com/SoyCarlos/SoyCarlos.github.io)
