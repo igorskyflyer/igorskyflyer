@@ -67,7 +67,7 @@
   <br>
   <br>
   Created a new Astro component ✨🎉<br>
-  EasyNav Button, an easy-to-add and use navigational button, available at <a href="https://github.com/igorskyflyer/npm-astro-easynav-button"><strong>&lt;EasyNavButton /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
+  EasyNav Button, an easy-to-add and use navigational button, available at <a href="https://github.com/igorskyflyer/astro-easynav-button"><strong>&lt;EasyNavButton /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 😍
   <br>
   <br>
   Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> repository and is supported by the AdGuard team 🌷
