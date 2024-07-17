@@ -445,11 +445,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1176](https://github.com/withastro/astro.build/issues/1176) in [withastro/astro.build](https://github.com/withastro/astro.build)
-2. 🔒 Closed issue [#125](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/125) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-3. 🔒 Closed issue [#124](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/124) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-4. ❗ Opened issue [#125](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/125) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-5. ❗ Opened issue [#124](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/124) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+1. 🔒 Closed issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+2. ❗ Opened issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+3. 🔒 Closed issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. 🔒 Closed issue [#3046](https://github.com/the-advoid/ad-void/issues/3046) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
