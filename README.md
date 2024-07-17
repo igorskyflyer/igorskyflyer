@@ -445,11 +445,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#123](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/123) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-2. ❗ Opened issue [#123](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/123) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-3. 🔒 Closed issue [#42](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/42) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-4. ❗ Opened issue [#42](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/42) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-5. 🗣 Commented on [#11](https://github.com/SoyCarlos/SoyCarlos.github.io/issues/11#issuecomment-2221610186) in [SoyCarlos/SoyCarlos.github.io](https://github.com/SoyCarlos/SoyCarlos.github.io)
+1. 🔒 Closed issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+2. ❗ Opened issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+3. 🔒 Closed issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. 🔒 Closed issue [#3046](https://github.com/the-advoid/ad-void/issues/3046) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
