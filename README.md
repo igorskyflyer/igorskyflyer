@@ -445,8 +445,8 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
-2. ❗ Opened issue [#126](https://github.com/igorskyflyer/npm-adblock-aria-compiler/issues/126) in [igorskyflyer/npm-adblock-aria-compiler](https://github.com/igorskyflyer/npm-adblock-aria-compiler)
+1. 🔒 Closed issue [#3048](https://github.com/the-advoid/ad-void/issues/3048) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+2. ❗ Opened issue [#3048](https://github.com/the-advoid/ad-void/issues/3048) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 3. 🔒 Closed issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. ❗ Opened issue [#3047](https://github.com/the-advoid/ad-void/issues/3047) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. 🔒 Closed issue [#3046](https://github.com/the-advoid/ad-void/issues/3046) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
