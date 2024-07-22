@@ -434,7 +434,7 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/igorskyflyer/github-readme-streak-stats/pull/10) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+1. 🚀 Published release [v1.2.1](https://github.com/igorskyflyer/npm-scrollend-polyfill/releases/tag/v1.2.1) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
 2. 🔒 Closed issue [#3050](https://github.com/the-advoid/ad-void/issues/3050) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 3. ❗ Opened issue [#3050](https://github.com/the-advoid/ad-void/issues/3050) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. 🔒 Closed issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
