@@ -60,7 +60,7 @@
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
   <br>
   <br>
-	Created a performant and light (<strong>&lt; 1KB</strong>) JavaScript polyfill for the <code>scrollend</code> Event in browser, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
+	Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> Event in browser, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
 	<br>
 	<br>
   Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 🌊
@@ -84,7 +84,7 @@
 
 <br>
 
-<p align="right"><em><sub>🗓️ 16 July 2024</sub></em></p>
+<p align="right"><em><sub>🗓️ 23 July 2024</sub></em></p>
 
 <br>
 <br>
@@ -252,14 +252,14 @@ Chrome extensions
 <br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>51+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
+  <li>🦆 <strong><code>54+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
   <li>🐚&nbsp; <strong><code>5</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
   <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
-  <li>🦐 <strong><code>280K+</code></strong> of installs</li>
+  <li>🦐 <strong><code>290K+</code></strong> of installs</li>
   <li>✅ <strong><code>verified</code></strong> extension developer</li>
 </ul>
 <p>🦦 like producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
