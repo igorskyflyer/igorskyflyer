@@ -84,7 +84,7 @@
 
 <br>
 
-<p align="right"><em><sub>🗓️ 23 July 2024</sub></em></p>
+<p align="right"><em><sub>🗓️ 25 July 2024</sub></em></p>
 
 <br>
 <br>
@@ -252,7 +252,7 @@ Chrome extensions
 <br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>54+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
+  <li>🦆 <strong><code>55+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
