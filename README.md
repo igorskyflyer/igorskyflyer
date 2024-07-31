@@ -434,8 +434,8 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3053](https://github.com/the-advoid/ad-void/issues/3053) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3053](https://github.com/the-advoid/ad-void/issues/3053) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🎉 Merged PR [#12](https://github.com/igorskyflyer/github-readme-streak-stats/pull/12) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+2. ❌ Closed PR [#71](https://github.com/igorskyflyer/igorskyflyer.me/pull/71) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
 3. 🔒 Closed issue [#3052](https://github.com/the-advoid/ad-void/issues/3052) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. 🔒 Closed issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. ❗ Opened issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
