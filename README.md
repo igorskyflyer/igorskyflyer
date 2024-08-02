@@ -235,24 +235,9 @@ Chrome extensions
 <br>
 🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
 <br>
-🌴 recently published the <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>FolderPicker VS Code UI</strong></a>
-<br>
-🎆 recently released <a href="https://github.com/igorskyflyer/npm-zing"><strong>Zing</strong></a> and <a href="https://github.com/igorskyflyer/npm-keppo"><strong>Keppo()</strong></a>
-<br>
-🐛 recently created the <a href="https://githuom/igorskyflyer/my-pens"><strong>my-pens</strong></a> repository
-<br>
-👀 recently updated
-<a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep()</strong></a>,
-<a href="https://github.com/igorskyflyer/npm-is-rootdir"><strong>is-rootdir</strong></a>,
-<a href="https://github.com/igorskyflyer/npm-pathexists"><strong>path-exists</strong></a>,
-<a href="https://github.com/igorskyflyer/npm-str-is-in"><strong>str-is-in</strong></a>,
-<a href="https://github.com/igorskyflyer/npm-uarray"><strong>uArray</strong></a>,
-<a href="https://www.npmjs.com/package/@igor.dvlpr/unc-path"><strong>unc-path</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<a href="https://www.npmjs.com/package/@igor.dvlpr/upath"><strong>uPath</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>,
-<br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>60+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
+  <li>🦆 <strong><code>62+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
