@@ -422,7 +422,7 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/igorskyflyer/github-readme-streak-stats/pull/12) in [igorskyflyer/github-readme-streak-stats](https://github.com/igorskyflyer/github-readme-streak-stats)
+1. ❗ Opened issue [#224644](https://github.com/microsoft/vscode/issues/224644) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. ❌ Closed PR [#71](https://github.com/igorskyflyer/igorskyflyer.me/pull/71) in [igorskyflyer/igorskyflyer.me](https://github.com/igorskyflyer/igorskyflyer.me)
 3. 🔒 Closed issue [#3052](https://github.com/the-advoid/ad-void/issues/3052) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. 🔒 Closed issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
