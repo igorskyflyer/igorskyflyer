@@ -87,7 +87,7 @@
 
 <br>
 
-<p align="right"><em><sub>🗓️ 03 Aug 2024</sub></em></p>
+<p align="right"><em><sub>🗓️ 08 Aug 2024</sub></em></p>
 
 <br>
 <br>
@@ -245,7 +245,7 @@ Chrome extensions
 </ul>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
-  <li>🐚&nbsp; <strong><code>6</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
+  <li>🐚&nbsp; <strong><code>7</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
   <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
   <li>🦐 <strong><code>300K+</code></strong> of installs</li>
   <li>✅ <strong><code>verified</code></strong> extension developer</li>
@@ -511,19 +511,9 @@ Chrome extensions
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
   <br>
   <br>
-  <!-- <img src="https://github-readme-stats-nu-ecru.vercel.app/api?username=igorskyflyer&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&custom_title=Github%20Stats&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged&disable_animations=true&cache_seconds=14400" width="500" alt="Igor Dimitrijević (igorskyflyer) - GitHub profile metrics">
-  <br>
-  <sub><em><strong>My Github profile metrics</strong></em></sub>
-  <br>
-  <br> -->
   <img src="https://github-readme-streak-stats-plum.vercel.app/?user=igorskyflyer&theme=tokyonight&hide_border=true&stroke=1a1b27&dates=8b949e&sideNums=59A5FA&sideLabels=59A5FA&currStreakNum=C9D1D2&ring=EF8065&fire=EF8065&currStreakLabel=EF8065" alt="Igor Dimitrijević (igorskyflyer) profile - GitHub Streak Stats" width="500">
   <br>
   <sub><em><strong>Consistency is key</strong></em></sub>
-  <!--<br>
-  <br>
-  <img src="https://github-profile-trophy-mauve.vercel.app/?username=igorskyflyer&no-frame=true&theme=onestar&column=4&row=2&rank=-C" width="450" alt="Igor Dimitrijević (igorskyflyer) - GitHub trophies">
-  <br>
-  <sub><em><strong>My GitHub trophies</strong></em></sub>-->
 </div>
 
 <br>
