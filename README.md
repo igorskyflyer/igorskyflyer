@@ -422,11 +422,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3056](https://github.com/the-advoid/ad-void/issues/3056) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3056](https://github.com/the-advoid/ad-void/issues/3056) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🔒 Closed issue [#3052](https://github.com/the-advoid/ad-void/issues/3052) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. 🔒 Closed issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. ❗ Opened issue [#3049](https://github.com/the-advoid/ad-void/issues/3049) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. ❗ Opened issue [#983](https://github.com/microsoft/vsmarketplace/issues/983) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
+2. 🗣 Commented on [#3029](https://github.com/the-advoid/ad-void/issues/3029#issuecomment-2282785372) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+3. 🔒 Closed issue [#3029](https://github.com/the-advoid/ad-void/issues/3029) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. 🔒 Closed issue [#3057](https://github.com/the-advoid/ad-void/issues/3057) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. ❗ Opened issue [#3057](https://github.com/the-advoid/ad-void/issues/3057) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
