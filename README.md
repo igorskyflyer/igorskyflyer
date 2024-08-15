@@ -422,8 +422,8 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1031](https://github.com/microsoft/vscode-vsce/issues/1031) in [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce)
-2. ❗ Opened issue [#983](https://github.com/microsoft/vsmarketplace/issues/983) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
+1. 🔒 Closed issue [#3058](https://github.com/the-advoid/ad-void/issues/3058) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+2. ❗ Opened issue [#3058](https://github.com/the-advoid/ad-void/issues/3058) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 3. 🗣 Commented on [#3029](https://github.com/the-advoid/ad-void/issues/3029#issuecomment-2282785372) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. 🔒 Closed issue [#3029](https://github.com/the-advoid/ad-void/issues/3029) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. 🔒 Closed issue [#3057](https://github.com/the-advoid/ad-void/issues/3057) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
