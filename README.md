@@ -422,11 +422,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🔒 Closed issue [#3060](https://github.com/the-advoid/ad-void/issues/3060) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. ❗ Opened issue [#3060](https://github.com/the-advoid/ad-void/issues/3060) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. 🔒 Closed issue [#3058](https://github.com/the-advoid/ad-void/issues/3058) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🗣 Commented on [#1701](https://github.com/localsend/localsend/issues/1701#issuecomment-2308583436) in [localsend/localsend](https://github.com/localsend/localsend)
+2. 🔒 Closed issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
+3. ❗ Opened issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
+4. 🔒 Closed issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. ❗ Opened issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
