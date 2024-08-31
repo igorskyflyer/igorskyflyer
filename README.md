@@ -422,11 +422,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1701](https://github.com/localsend/localsend/issues/1701#issuecomment-2308583436) in [localsend/localsend](https://github.com/localsend/localsend)
-2. 🔒 Closed issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
-3. ❗ Opened issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
-4. 🔒 Closed issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. ❗ Opened issue [#3061](https://github.com/the-advoid/ad-void/issues/3061) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322168722) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+2. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322156285) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+3. 🗣 Commented on [#1701](https://github.com/localsend/localsend/issues/1701#issuecomment-2308583436) in [localsend/localsend](https://github.com/localsend/localsend)
+4. 🔒 Closed issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
+5. ❗ Opened issue [#1701](https://github.com/localsend/localsend/issues/1701) in [localsend/localsend](https://github.com/localsend/localsend)
 <!--END_SECTION:activity-->
 
 <br>
