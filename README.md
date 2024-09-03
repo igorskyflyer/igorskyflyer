@@ -422,11 +422,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2323018771) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-2. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322934388) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-3. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322168722) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-4. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322156285) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
-5. 🗣 Commented on [#1701](https://github.com/localsend/localsend/issues/1701#issuecomment-2308583436) in [localsend/localsend](https://github.com/localsend/localsend)
+1. 🔒 Closed issue [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+2. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2324616159) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+3. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2323018771) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+4. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322934388) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+5. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2322168722) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
 <!--END_SECTION:activity-->
 
 <br>
