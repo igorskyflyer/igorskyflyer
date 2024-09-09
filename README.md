@@ -250,6 +250,10 @@ Chrome extensions
   <li>🦐 <strong><code>300K+</code></strong> of installs</li>
   <li>✅ <strong><code>verified</code></strong> extension developer</li>
 </ul>
+<p>🧩 like assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
+<ul data-no-restyle>
+  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
+</ul>
 <p>🦦 like producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
 <ul data-no-restyle>
   <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
