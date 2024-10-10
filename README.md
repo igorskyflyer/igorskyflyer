@@ -426,11 +426,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3062](https://github.com/the-advoid/ad-void/issues/3062#issuecomment-2395651142) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. 🔒 Closed issue [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-3. 🗣 Commented on [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1#issuecomment-2352676743) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-4. 🗣 Commented on [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1#issuecomment-2350559381) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
-5. 🗣 Commented on [#43](https://github.com/igorskyflyer/npm-astro-post-excerpt/issues/43#issuecomment-2324616159) in [igorskyflyer/npm-astro-post-excerpt](https://github.com/igorskyflyer/npm-astro-post-excerpt)
+1. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2400526903) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#3062](https://github.com/the-advoid/ad-void/issues/3062#issuecomment-2395651142) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+3. 🔒 Closed issue [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+4. 🗣 Commented on [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1#issuecomment-2352676743) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
+5. 🗣 Commented on [#1](https://github.com/igorskyflyer/npm-scrollend-polyfill/issues/1#issuecomment-2350559381) in [igorskyflyer/npm-scrollend-polyfill](https://github.com/igorskyflyer/npm-scrollend-polyfill)
 <!--END_SECTION:activity-->
 
 <br>
