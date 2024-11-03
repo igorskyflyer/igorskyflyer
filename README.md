@@ -426,11 +426,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231368](https://github.com/microsoft/vscode/issues/231368#issuecomment-2415590012) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#3063](https://github.com/the-advoid/ad-void/issues/3063#issuecomment-2403690877) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🗣 Commented on [#1528](https://github.com/uazo/cromite/issues/1528#issuecomment-2403689981) in [uazo/cromite](https://github.com/uazo/cromite)
-4. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2400526903) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#3062](https://github.com/the-advoid/ad-void/issues/3062#issuecomment-2395651142) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🗣 Commented on [#15507](https://github.com/microsoft/winget-pkgs/issues/15507#issuecomment-2452196861) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#231368](https://github.com/microsoft/vscode/issues/231368#issuecomment-2415590012) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#3063](https://github.com/the-advoid/ad-void/issues/3063#issuecomment-2403690877) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. 🗣 Commented on [#1528](https://github.com/uazo/cromite/issues/1528#issuecomment-2403689981) in [uazo/cromite](https://github.com/uazo/cromite)
+5. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2400526903) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 <br>
