@@ -426,11 +426,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42347](https://github.com/brave/brave-browser/issues/42347) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#15507](https://github.com/microsoft/winget-pkgs/issues/15507#issuecomment-2452196861) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🗣 Commented on [#231368](https://github.com/microsoft/vscode/issues/231368#issuecomment-2415590012) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#3063](https://github.com/the-advoid/ad-void/issues/3063#issuecomment-2403690877) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. 🗣 Commented on [#1528](https://github.com/uazo/cromite/issues/1528#issuecomment-2403689981) in [uazo/cromite](https://github.com/uazo/cromite)
+1. 🗣 Commented on [#42347](https://github.com/brave/brave-browser/issues/42347#issuecomment-2543398211) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. ❗ Opened issue [#42347](https://github.com/brave/brave-browser/issues/42347) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. 🗣 Commented on [#15507](https://github.com/microsoft/winget-pkgs/issues/15507#issuecomment-2452196861) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 🗣 Commented on [#231368](https://github.com/microsoft/vscode/issues/231368#issuecomment-2415590012) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#3063](https://github.com/the-advoid/ad-void/issues/3063#issuecomment-2403690877) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
