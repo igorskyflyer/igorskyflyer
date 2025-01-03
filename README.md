@@ -426,11 +426,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3064](https://github.com/the-advoid/ad-void/issues/3064) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3064](https://github.com/the-advoid/ad-void/issues/3064) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🗣 Commented on [#3062](https://github.com/the-advoid/ad-void/issues/3062#issuecomment-2546604790) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. 🗣 Commented on [#3063](https://github.com/the-advoid/ad-void/issues/3063#issuecomment-2546591894) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. 🔒 Closed issue [#3063](https://github.com/the-advoid/ad-void/issues/3063) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2567210903) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2567204243) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🔒 Closed issue [#3064](https://github.com/the-advoid/ad-void/issues/3064) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3064](https://github.com/the-advoid/ad-void/issues/3064) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. 🗣 Commented on [#3062](https://github.com/the-advoid/ad-void/issues/3062#issuecomment-2546604790) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
 <br>
