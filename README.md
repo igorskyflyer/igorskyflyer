@@ -426,11 +426,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43170](https://github.com/brave/brave-browser/issues/43170) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2571750049) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2567210903) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#130367](https://github.com/microsoft/vscode/issues/130367#issuecomment-2567204243) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🔒 Closed issue [#3064](https://github.com/the-advoid/ad-void/issues/3064) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🗣 Commented on [#43170](https://github.com/brave/brave-browser/issues/43170#issuecomment-2584110912) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. 🔒 Closed issue [#43170](https://github.com/brave/brave-browser/issues/43170) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. 🔒 Closed issue [#3065](https://github.com/the-advoid/ad-void/issues/3065) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3065](https://github.com/the-advoid/ad-void/issues/3065) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+5. ❗ Opened issue [#43170](https://github.com/brave/brave-browser/issues/43170) in [brave/brave-browser](https://github.com/brave/brave-browser)
 <!--END_SECTION:activity-->
 
 <br>
