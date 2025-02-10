@@ -79,7 +79,7 @@
   
   <blockquote>
     <br>
-    🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2023.md"><strong>GitHub Unwrapped</strong></a> for 2023 🎄
+    🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2024.md"><strong>GitHub Unwrapped</strong></a> for 2024 🎄
     <br>
     <br>
   </blockquote>
@@ -87,7 +87,7 @@
 
 <br>
 
-<p align="right"><em><sub>🗓️ 30 Sep 2024</sub></em></p>
+<p align="right"><em><sub>🗓️ 10 Feb 2025</sub></em></p>
 
 <br>
 <br>
@@ -247,7 +247,7 @@ Chrome extensions
 <ul data-no-restyle>
   <li>🐚&nbsp; <strong><code>9</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
   <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a></strong> so far</li>
-  <li>🦐 <strong><code>305K+</code></strong> of installs</li>
+  <li>🦐 <strong><code>310K+</code></strong> of installs</li>
   <li>✅ <strong><code>verified</code></strong> extension developer</li>
 </ul>
 <p>🧩 like assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>:</p>
