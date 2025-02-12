@@ -333,52 +333,7 @@ Chrome extensions
   <br>
   🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion)
   <br>
-  🎮 play games in my spare time:
-  <ul data-no-restyle>
-    <li><a href="https://mobilelegends.com/en"><strong>Mobile Legends: Bang Bang</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-    <ul data-no-restyle>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/5"><strong>Nana 🐱</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/2"><strong>Balmond 👹</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/39"><strong>Roger 🐺</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/90"><strong>Silvanna ⚔️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/33"><strong>Cyclops 🧙‍♂️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://mobilelegends.com/en/hero/11"><strong>Bane 🐙</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    <a href="https://www.arenaofvalor.com/"><strong>Arena of Valor</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-    <ul data-no-restyle>
-      <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Azzen%27Ka"><strong>Azzen'Ka 🏜️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Yorn"><strong>Yorn 🔫</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-         <a href="https://arenaofvalor.fandom.com/wiki/Annette"><strong>Annette 🕯️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Tel%27Annas"><strong>Tel'Annas 🏹</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-       <li>
-        <a href="https://arenaofvalor.fandom.com/wiki/Arthur"><strong>Arthur 🛡️</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
-      </li>
-      </ul>
-    </li>
-  </ul>
+  🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion)
   🐬 am a firm believer in <strong>autodidacticism</strong>
   <br>
   🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
