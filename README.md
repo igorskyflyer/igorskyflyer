@@ -383,10 +383,10 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42347](https://github.com/brave/brave-browser/issues/42347#issuecomment-2649279186) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🔒 Closed issue [#42347](https://github.com/brave/brave-browser/issues/42347) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 🔒 Closed issue [#3065](https://github.com/the-advoid/ad-void/issues/3065) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. ❗ Opened issue [#3065](https://github.com/the-advoid/ad-void/issues/3065) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🔒 Closed issue [#3066](https://github.com/the-advoid/ad-void/issues/3066) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+2. ❗ Opened issue [#3066](https://github.com/the-advoid/ad-void/issues/3066) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+3. 🗣 Commented on [#42347](https://github.com/brave/brave-browser/issues/42347#issuecomment-2649279186) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. 🔒 Closed issue [#42347](https://github.com/brave/brave-browser/issues/42347) in [brave/brave-browser](https://github.com/brave/brave-browser)
 5. ❗ Opened issue [#43170](https://github.com/brave/brave-browser/issues/43170) in [brave/brave-browser](https://github.com/brave/brave-browser)
 <!--END_SECTION:activity-->
 
