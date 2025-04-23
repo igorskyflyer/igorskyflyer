@@ -29,19 +29,20 @@
 <details>
   <summary>&nbsp;<strong>Show</strong></summary>
   <br>
-  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language) at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His interest and fascination with technology started with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language which he continued improving through formal education. Having neither a family background of anything remotely related to IT nor the English language, he was left to his own devices which further sparked his curiosity.
+  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language) at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge the English language, he was left to his own devices, which further sparked his curiosity.
   <br>
   <br>
-  Fast forward a few years, at the age of 15, he started learning how to code, first in <strong>HTML</strong>, <strong>CSS</strong> and finally <strong>JavaScript</strong> on a 1.5 inches screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer, spending <strong>8h+/day</strong> reading and trying out new things. Once he had learnt the basics he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that he proceeded with learning <strong>JavaScript</strong> in depth and made a new website on <em>XTgem</em> with which he submitted to a contest for the best website (multiple categories) that the <em>XTgem</em> team organized and his site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
+  Fast forward a few years: at the age of 15, he started learning how to code, beginning with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
   <br>
   <br>
-  Igor was the <strong>exemplary</strong> student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors at the time. After <strong>HTML</strong> and <strong>CSS</strong> he continued learning; next was <strong>PHP</strong> which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without having a computer and practising at home like the rest of his classmates.
+  Igor was an <strong>exemplary</strong> student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without having a computer and practising at home like the rest of his classmates.
   <br>
   <br>
-  After finishing high school he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough of it he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
+  After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
   <br>
   <br>
-  <strong>Software engineering</strong> was his main field of study while attending it; while there he was taught various things, from <strong>UML</strong> to <strong>C</strong> and <strong>C#</strong>, to ethics, mathematics, marketing and psychology, etc. He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
+  <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, and psychology.
+  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
   <br>
   <br>
   During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software which solves equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
@@ -60,12 +61,12 @@
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
   <br>
   <br>
-	Released <a href="https://github.com/igorskyflyer/vscode-git-home">Git Home</a>, a Visual Studio extension that launches the local Git repository's URL in the default browser.
+  Released <a href="https://github.com/igorskyflyer/vscode-git-home">Git Home</a>, a Visual Studio extension that launches the local Git repository's URL in the default browser.
   <br>
   <br>
-	Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> Event in browser, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
-	<br>
-	<br>
+  Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> Event in browser, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
+  <br>
+  <br>
   Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> 🌊
   <br>
   <br>
@@ -329,7 +330,7 @@ Chrome extensions
 <p>
   🌱 adore being in touch with nature
   <br>
-	🐒 adhere to the metaphysical naturalism
+  🐒 adhere to the metaphysical naturalism
   <br>
   ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
   <br>
