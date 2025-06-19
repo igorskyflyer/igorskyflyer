@@ -26,30 +26,26 @@
 <br>
 
 <h2>👶🏼 Early life</h2>
-<details>
-  <summary>&nbsp;<strong>Show</strong></summary>
-  <br>
-  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language) at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge the English language, he was left to his own devices, which further sparked his curiosity.
-  <br>
-  <br>
-  Fast forward a few years: at the age of 15, he started learning how to code, beginning with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
-  <br>
-  <br>
-  Igor was an <strong>exemplary</strong> student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without having a computer and practising at home like the rest of his classmates.
-  <br>
-  <br>
-  After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
-  <br>
-  <br>
-  <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, and psychology.
-  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
-  <br>
-  <br>
-  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software which solves equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
-  <br>
-  <br>
-  Noticing the necessity of creating and contributing to open-source world, he created many <strong>FOSS</strong> libraries and utilities used by many developers/companies and started <strong>contributing</strong> to a vast number of open-source projects.
-  </details>
+ Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language) at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge the English language, he was left to his own devices, which further sparked his curiosity.
+ <br>
+ <br>
+ Fast forward a few years: at the age of 15, he started learning how to code, beginning with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't have a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>.
+ <br>
+ <br>
+ Igor was an <strong>exemplary</strong> student of his generation in IT (in high school, 4 years) and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without having a computer and practising at home like the rest of his classmates.
+ <br>
+ <br>
+ After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
+ <br>
+ <br>
+ <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, and psychology.
+ He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
+ <br>
+ <br>
+ During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software which solves equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
+ <br>
+ <br>
+ Noticing the necessity of creating and contributing to open-source world, he created many <strong>FOSS</strong> libraries and utilities used by many developers/companies and started <strong>contributing</strong> to a vast number of open-source projects.
 
 <br>
 <br>
