@@ -321,7 +321,7 @@ Chrome extensions
   👟 love taking long walks &amp; runs:
 </p>
 <ul data-no-restyle>
-  <li>🏆 PR: <strong><code>~29km/18mi</code></strong>; <code>1200 kcal</code> <em>(May 8, 2018)</em>🥇</li>
+  <li>🏆 PR: <strong><code>~26.17km/16.26mi</code></strong>; <code>32855</code>; <code>1091 kcal</code> <em>(May 8, 2018)</em>🥇</li>
 </ul>
 <p>
   🌱 adore being in touch with nature
