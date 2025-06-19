@@ -342,6 +342,7 @@ Chrome extensions
   🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion)
   <br>
   🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a> (on Notion)
+ <br>
   🐬 am a firm believer in <strong>autodidacticism</strong>
   <br>
   🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong> <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/external.svg" alt="An external link" width="12" height="12"></a>
