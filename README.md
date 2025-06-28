@@ -92,7 +92,8 @@
 
 <p align="right"><em><sub>🗓️ 17 Mar 2025</sub></em></p>
 
-<br>
+---
+
 <br>
 
 <h3 align="center">⚡ MY TECH STACK ⚡</h3>
