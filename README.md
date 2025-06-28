@@ -48,9 +48,6 @@
  Noticing the necessity of creating and contributing to open-source world, he created many <strong>FOSS</strong> libraries and utilities used by many developers/companies and started <strong>contributing</strong> to a vast number of open-source projects.
 
 <br>
-<br>
-
----
 
 <h3 align="center">七転び八起き</h3>
 
