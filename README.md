@@ -52,9 +52,6 @@
 
 <h3 align="center">七転び八起き</h3>
 
-<br>
-<br>
-
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
   <h4>📢 Announcement</h4>
