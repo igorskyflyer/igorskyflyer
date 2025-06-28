@@ -56,7 +56,7 @@
 
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
-  <h4>📢 Announcement <code>// 🗓️ 28 Jun 2025</code></h4>
+  <h4>📢 Announcement / <code>🗓️ 28 Jun 2025</code></h4>
 
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
   <br>
