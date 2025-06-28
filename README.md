@@ -50,6 +50,11 @@
 <br>
 <br>
 
+<h3 align="center">七転び八起き</h3>
+
+<br>
+<br>
+
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
   <h4>📢 Announcement</h4>
@@ -85,11 +90,6 @@
 <br>
 
 <p align="right"><em><sub>🗓️ 17 Mar 2025</sub></em></p>
-
-<br>
-<br>
-
-<h3 align="center">七転び八起き</h3>
 
 <br>
 <br>
