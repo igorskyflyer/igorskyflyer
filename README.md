@@ -50,7 +50,11 @@
 <br>
 <br>
 
+---
+
 <h3 align="center">七転び八起き</h3>
+
+---
 
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
