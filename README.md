@@ -386,7 +386,7 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3071](https://github.com/the-advoid/ad-void/issues/3071#issuecomment-2920196724) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🔒 Closed issue [#3073](https://github.com/the-advoid/ad-void/issues/3073) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 2. 🗣 Commented on [#3070](https://github.com/the-advoid/ad-void/issues/3070#issuecomment-2912139177) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 3. ❗ Opened issue [#3071](https://github.com/the-advoid/ad-void/issues/3071) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. 🗣 Commented on [#3070](https://github.com/the-advoid/ad-void/issues/3070#issuecomment-2911074586) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
