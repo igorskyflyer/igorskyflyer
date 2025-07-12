@@ -384,10 +384,10 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3077](https://github.com/the-advoid/ad-void/issues/3077) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3077](https://github.com/the-advoid/ad-void/issues/3077) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🔒 Closed issue [#3076](https://github.com/the-advoid/ad-void/issues/3076) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. ❗ Opened issue [#3076](https://github.com/the-advoid/ad-void/issues/3076) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. 🔒 Closed issue [#3089](https://github.com/the-advoid/ad-void/issues/3089) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+2. ❗ Opened issue [#3089](https://github.com/the-advoid/ad-void/issues/3089) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+3. 🔒 Closed issue [#3088](https://github.com/the-advoid/ad-void/issues/3088) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+4. ❗ Opened issue [#3088](https://github.com/the-advoid/ad-void/issues/3088) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. 🗣 Commented on [#3071](https://github.com/the-advoid/ad-void/issues/3071#issuecomment-3017157265) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 
