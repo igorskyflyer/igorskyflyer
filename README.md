@@ -233,9 +233,14 @@ Chrome extensions
 <br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>63+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
+  <li>🦆 <strong><code>62+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
+<p>🔨 forging Visual Studio Code APIs:
+<ul data-no-restyle>
+  <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">API</a></strong> so far</li>
+</ul>
+</p>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>:</p>
 <ul data-no-restyle>
   <li>🐚&nbsp; <strong><code>10</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far</li>
