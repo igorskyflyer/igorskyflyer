@@ -238,7 +238,7 @@ Chrome extensions
 </ul>
 <p>🔨 forging Visual Studio Code APIs:
 <ul data-no-restyle>
-  <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">API</a></strong> so far</li>
+  <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
 </ul>
 </p>
 <p>🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>:</p>
