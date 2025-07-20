@@ -10,8 +10,8 @@ Whether you're exploring its features, troubleshooting, or suggesting improvemen
 
 For usage instructions, setup tips, and general inquiries see below:
 
-- Check the [`README`](./README.md) for documentation and setup guidance.
-- Search [`issues`](/issues) to see if your question has already been answered.
+- Check the [`README`](https://github.com/igorskyflyer/igorskyflyer/README.md) for documentation and setup guidance.
+- Search [`issues`](https://github.com/igorskyflyer/igorskyflyer/issues) to see if your question has already been answered.
 - Open a new issue with the `question` label or the appropriate issue template if you need help.
 
 ---
@@ -19,7 +19,7 @@ For usage instructions, setup tips, and general inquiries see below:
 ## 🐛 Bug Reports
 
 All of my projects are heavily tested but bugs can sneak through. If you do find one, please follow the steps:
-- Open a [`new issue`](/issues) using the appropriate issue template and with the label of `bug`
+- Open a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `bug`
 - Include details such as:
    - steps to reproduce
    - project version
@@ -33,7 +33,7 @@ All of my projects are heavily tested but bugs can sneak through. If you do find
 If you have an idea for a new feature or an enhancement for an existing feature, you're more than welcome to suggest it!  
 
 Do so by:
-- Opening a [`new issue`](/issues) using the appropriate issue template and with the label of `feature`
+- Opening a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `feature`
 - Explain your use case, the reasoning behind it and how it enhances the extension
 - **Bonus**: include examples, mockups, etc.
 
@@ -43,7 +43,7 @@ Do so by:
 
 Any kind of contributions are more than welcome!  
 
-- See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines
+- See [`CONTRIBUTING.md`](https://github.com/igorskyflyer/igorskyflyer/CONTRIBUTING.md) for guidelines
 - Submit an issue or a pull request
 - Ask relevant questions
 - Fund the project and help it stay active, see the [`sponsoring`](#-support-the-project) section below
