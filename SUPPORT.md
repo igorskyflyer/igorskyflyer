@@ -19,11 +19,11 @@ For usage instructions, setup tips, and general inquiries see below:
 ## 🐛 Bug Reports
 
 All of my projects are heavily tested but bugs can sneak through. If you do find one, please follow the steps:
-- Open a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `bug`
+- Open a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `bug`,
 - Include details such as:
    - steps to reproduce
    - project version
-   - device and OS details
+   - device and OS details,
 - Screenshots, error message are super helpful and appreciated!
 
 ---
@@ -33,8 +33,8 @@ All of my projects are heavily tested but bugs can sneak through. If you do find
 If you have an idea for a new feature or an enhancement for an existing feature, you're more than welcome to suggest it!  
 
 Do so by:
-- Opening a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `feature`
-- Explain your use case, the reasoning behind it and how it enhances the extension
+- Opening a [`new issue`](https://github.com/igorskyflyer/igorskyflyer/issues) using the appropriate issue template and with the label of `feature`,
+- Explain your use case, the reasoning behind it and how it enhances the extension,
 - **Bonus**: include examples, mockups, etc.
 
 ---
@@ -43,10 +43,10 @@ Do so by:
 
 Any kind of contributions are more than welcome!  
 
-- See [`CONTRIBUTING.md`](https://github.com/igorskyflyer/igorskyflyer/blob/main/CONTRIBUTING.md) for guidelines
-- Submit an issue or a pull request
-- Ask relevant questions
-- Fund the project and help it stay active, see the [`sponsoring`](#-support-the-project) section below
+- See [`CONTRIBUTING.md`](https://github.com/igorskyflyer/igorskyflyer/blob/main/CONTRIBUTING.md) for guidelines.
+- Submit an issue or a pull request.
+- Ask relevant questions.
+- Fund the project and help it stay active, see the [`Support the Project`](#-support-the-project) section below.
 
 ---
 
@@ -54,8 +54,8 @@ Any kind of contributions are more than welcome!
 
 Need to reach me directly or share your feedback?  
 
-- Head to [my profile](https://github.com/igorskyflyer#--%EF%B8%8F-lets-connect-) and check out the `Let's connect` section
-- Use this repository's discussion and/or issues
+- Head to [my profile](https://github.com/igorskyflyer#--%EF%B8%8F-lets-connect-) and check out the `Let's Connect` section.
+- Use this repository's discussion and/or issues.
 
 ---
 
