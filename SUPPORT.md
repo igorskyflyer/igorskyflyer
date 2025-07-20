@@ -10,7 +10,7 @@ Whether you're exploring its features, troubleshooting, or suggesting improvemen
 
 For usage instructions, setup tips, and general inquiries see below:
 
-- Check the [`README`](https://github.com/igorskyflyer/igorskyflyer/README.md) for documentation and setup guidance.
+- Check the [`README`](https://github.com/igorskyflyer/igorskyflyer/blob/main/README.md) for documentation and setup guidance.
 - Search [`issues`](https://github.com/igorskyflyer/igorskyflyer/issues) to see if your question has already been answered.
 - Open a new issue with the `question` label or the appropriate issue template if you need help.
 
@@ -43,7 +43,7 @@ Do so by:
 
 Any kind of contributions are more than welcome!  
 
-- See [`CONTRIBUTING.md`](https://github.com/igorskyflyer/igorskyflyer/CONTRIBUTING.md) for guidelines
+- See [`CONTRIBUTING.md`](https://github.com/igorskyflyer/igorskyflyer/blob/main/CONTRIBUTING.md) for guidelines
 - Submit an issue or a pull request
 - Ask relevant questions
 - Fund the project and help it stay active, see the [`sponsoring`](#-support-the-project) section below
