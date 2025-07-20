@@ -1,4 +1,4 @@
-## 🛠️ Support for {{project}}
+## 🛠️ Support
 
 Hello, thank you for using this project! 🙋🏻‍♂️  
 
