@@ -38,7 +38,7 @@
  After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
  <br>
  <br>
- <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, and psychology.
+ <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology – among many others.
  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
  <br>
  <br>
