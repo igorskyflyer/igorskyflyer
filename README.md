@@ -45,7 +45,7 @@
  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software <a href="https://github.com/igorskyflyer/calculus-ex"><code>CalculusEx</code></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
  <br>
  <br>
-Igor started making open-source stuff mostly out of need – tools, fixes, ideas that didn’t exist yet. Turns out, other people needed them too. Developers used them, some companies did as well. Eventually he got pulled into other projects, not just his own. Bug fixes, cleanups, suggestions. Nothing formal – just chipping in when he had something useful. It wasn't about credit; it was about making things work better.
+Igor began creating open-source (FOSS) projects primarily out of necessity – developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly – and if they did not, he would ensure that they would.
 
 <br>
 <br>
