@@ -389,9 +389,9 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3095](https://github.com/the-advoid/ad-void/issues/3095) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-2. ❗ Opened issue [#3095](https://github.com/the-advoid/ad-void/issues/3095) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. 🚀 Published release [v1.0.0](https://github.com/igorskyflyer/commoji/releases/tag/v1.0.0) in [igorskyflyer/commoji](https://github.com/igorskyflyer/commoji)
+1. 🚀 Published release [v1.1.0](https://github.com/igorskyflyer/commoji/releases/tag/v1.1.0) in [igorskyflyer/commoji](https://github.com/igorskyflyer/commoji)
+2. 🔒 Closed issue [#3096](https://github.com/the-advoid/ad-void/issues/3096) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+3. ❗ Opened issue [#3096](https://github.com/the-advoid/ad-void/issues/3096) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. ❗ Opened issue [#3092](https://github.com/the-advoid/ad-void/issues/3092) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. 🔒 Closed issue [#3091](https://github.com/the-advoid/ad-void/issues/3091) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
