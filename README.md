@@ -189,7 +189,7 @@ Chrome extensions
 <br>
 🪀 <strong>Tools</strong>:
 <a href="https://dbeaver.io"><strong>DBeaver</strong></a>,
-<a href="https://www.office.com"><strong>Microsoft Office (Word, Excel, PowerPoint, Access)</strong></a>,
+<a href="https://www.office.com"><strong>Microsoft Office</strong></a> (Word, Excel, PowerPoint, Access),
 <a href="https://notepad-plus-plus.org"><strong>Notepad++</strong></a>,
 <a href="https://poedit.net"><strong>Poedit</strong></a>,
 <a href="https://winmerge.org"><strong>WinMerge</strong></a>,
