@@ -111,6 +111,11 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <br>
 
+I work across over 18 programming languages, but the real story is how they interoperate to build resilient, elegant, and optimized systems, whether for the web, desktop, mobile, or the command line.
+
+<br>
+<br>
+
 🌎 <strong>Web</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>,
