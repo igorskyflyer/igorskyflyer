@@ -236,7 +236,7 @@ Chrome extensions
   <li>🦆 <strong><code>63+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
-<p>🔨 forging Visual Studio Code APIs:
+<p>🔨 like forging Visual Studio Code APIs:
 <ul data-no-restyle>
   <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
 </ul>
