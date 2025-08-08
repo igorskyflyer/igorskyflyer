@@ -48,6 +48,8 @@
  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software <a href="https://github.com/igorskyflyer/calculus-ex"><code>CalculusEx</code></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
  <br>
  <br>
+ Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
+ <br>
 Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity – developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly – and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem – tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
 
 <br>
@@ -109,11 +111,6 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
  <sub><strong>🌊 Or Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it – where applicable 🏄‍</strong></sub>
 </p>
 
-<br>
-
-I work across over 18 programming languages, but the real story is how they interoperate to build resilient, elegant, and optimized systems, whether for the web, desktop, mobile, or the command line.
-
-<br>
 <br>
 
 🌎 <strong>Web</strong>:
