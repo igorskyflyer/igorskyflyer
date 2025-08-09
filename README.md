@@ -62,7 +62,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
-  <h4>📢 Announcement / <code>🗓️ 28 Jun 2025</code></h4>
+  <h4>📢 Announcement / <code>🗓️ 09 Aug 2025</code></h4>
 
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
   <br>
@@ -76,11 +76,12 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong></a> 🌊
   <br>
   <br>
-  Created a new Astro component ✨🎉<br>
-  EasyNav Button, an easy-to-add and use navigational button, available at <a href="https://github.com/igorskyflyer/astro-easynav-button"><strong>&lt;EasyNavButton /&gt;</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  Created a new Astro CLI tool ✨🎉<br>
+	allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
   <br>
   <br>
-  Updated my AdBlock filters, so it&#39;s very lightweight on your hardware&#39;s resources, available at <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> repository and is supported by the AdGuard team 🌷
+  Created a new Astro component renderer ✨🎉<br>
+	Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
   
   <br>
   
