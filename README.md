@@ -472,7 +472,7 @@ Chrome extensions
 <br>
 <br>
 
-<div data-hide align="center">
+<div align="center" data-hide>
   There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
 </div>
 
@@ -489,6 +489,6 @@ Chrome extensions
 <br>
 <br>
 
-<div align="center">
+<div align="center" data-hide>
   <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Igor Dimitrijević (igorskyflyer) profile - Self-update" width="140" height="20">
 </div>
