@@ -486,9 +486,8 @@ Chrome extensions
   <sub><em><strong>Metric that shows which languages are mostly used in my repositories</strong></em></sub>
 </div>
 
-<br>
-<br>
-
 <div align="center" data-hide>
+  <br>
+  <br>
   <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Igor Dimitrijević (igorskyflyer) profile - Self-update" width="140" height="20">
 </div>
