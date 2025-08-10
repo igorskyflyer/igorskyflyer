@@ -474,10 +474,9 @@ Chrome extensions
 
 <div align="center" data-hide>
   There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
+<br>
+<br>
 </div>
-
-<br>
-<br>
 
 <div align="center">
   <h3>🔥 STATISTICS 🔥</h3>
