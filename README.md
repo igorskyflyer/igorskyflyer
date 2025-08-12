@@ -389,14 +389,13 @@ Chrome extensions
 - [Hello world 👋🏼](https://igorskyflyer.me/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-<br data-hide>
-<br data-hide>
+<br>
+<br>
 
-<h3 align="center" data-hide>
+<h3 align="center">
   ⏰ RECENT ACTIVITY 🪁
 </h3>
 
-<div data-hide>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3100](https://github.com/the-advoid/ad-void/issues/3100#issuecomment-3168015485) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 2. 🔒 Closed issue [#3100](https://github.com/the-advoid/ad-void/issues/3100) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
@@ -404,7 +403,6 @@ Chrome extensions
 4. ❗ Opened issue [#3092](https://github.com/the-advoid/ad-void/issues/3092) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 5. 🔒 Closed issue [#3091](https://github.com/the-advoid/ad-void/issues/3091) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
-</div>
 
 <br>
 <br>
