@@ -488,5 +488,5 @@ Chrome extensions
 <div align="center" data-hide>
   <br>
   <br>
-  <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Igor Dimitrijević (igorskyflyer) profile - Self-update" width="140" height="20">
+  <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Igor Dimitrijević (igorskyflyer) profile - Self-update" width="140" height="20" loading="lazy">
 </div>
