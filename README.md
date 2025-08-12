@@ -405,6 +405,7 @@ Chrome extensions
 5. 🔒 Closed issue [#3091](https://github.com/the-advoid/ad-void/issues/3091) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 <!--END_SECTION:activity-->
 </div>
+
 <br>
 <br>
 
