@@ -397,7 +397,7 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3100](https://github.com/the-advoid/ad-void/issues/3100#issuecomment-3168015485) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. ❗ Opened issue [#1754](https://github.com/withastro/astro.build/issues/1754) in [withastro/astro.build](https://github.com/withastro/astro.build)
 2. 🔒 Closed issue [#3100](https://github.com/the-advoid/ad-void/issues/3100) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 3. ❗ Opened issue [#3096](https://github.com/the-advoid/ad-void/issues/3096) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
 4. ❗ Opened issue [#3092](https://github.com/the-advoid/ad-void/issues/3092) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
