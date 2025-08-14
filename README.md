@@ -262,7 +262,7 @@ Chrome extensions
 </ul>
 <p>📑 like translating projects – <em>pro bono</em>, on Crowdin:</p>
 <ul data-no-restyle>
-  <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">projects</a></strong> so far</li>
+  <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
 </ul>
 <p>🎠 like making <a href="https://packagist.org/users/igordvlpr/packages/"><strong>Packagist</strong></a> packages
 <br>
