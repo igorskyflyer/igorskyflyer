@@ -397,11 +397,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1754](https://github.com/withastro/astro.build/issues/1754) in [withastro/astro.build](https://github.com/withastro/astro.build)
-2. 🔒 Closed issue [#3100](https://github.com/the-advoid/ad-void/issues/3100) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-3. ❗ Opened issue [#3096](https://github.com/the-advoid/ad-void/issues/3096) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-4. ❗ Opened issue [#3092](https://github.com/the-advoid/ad-void/issues/3092) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
-5. 🔒 Closed issue [#3091](https://github.com/the-advoid/ad-void/issues/3091) in [the-advoid/ad-void](https://github.com/the-advoid/ad-void)
+1. ❗ Opened issue [#1762](https://github.com/withastro/astro.build/issues/1762) in [withastro/astro.build](https://github.com/withastro/astro.build)
+2. ❗ Opened issue [#1760](https://github.com/withastro/astro.build/issues/1760) in [withastro/astro.build](https://github.com/withastro/astro.build)
+3. ❗ Opened issue [#1759](https://github.com/withastro/astro.build/issues/1759) in [withastro/astro.build](https://github.com/withastro/astro.build)
+4. ❗ Opened issue [#1758](https://github.com/withastro/astro.build/issues/1758) in [withastro/astro.build](https://github.com/withastro/astro.build)
+5. ❗ Opened issue [#283890](https://github.com/microsoft/winget-pkgs/issues/283890) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 <br>
