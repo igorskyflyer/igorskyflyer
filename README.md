@@ -397,11 +397,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1762](https://github.com/withastro/astro.build/issues/1762) in [withastro/astro.build](https://github.com/withastro/astro.build)
-2. ❗ Opened issue [#1760](https://github.com/withastro/astro.build/issues/1760) in [withastro/astro.build](https://github.com/withastro/astro.build)
-3. ❗ Opened issue [#1759](https://github.com/withastro/astro.build/issues/1759) in [withastro/astro.build](https://github.com/withastro/astro.build)
-4. ❗ Opened issue [#1758](https://github.com/withastro/astro.build/issues/1758) in [withastro/astro.build](https://github.com/withastro/astro.build)
-5. ❗ Opened issue [#283890](https://github.com/microsoft/winget-pkgs/issues/283890) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. ❗ Opened issue [#4009](https://github.com/marticliment/UniGetUI/issues/4009) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+2. 💪 Opened PR [#4008](https://github.com/marticliment/UniGetUI/pull/4008) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+3. ❗ Opened issue [#4007](https://github.com/marticliment/UniGetUI/issues/4007) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+4. ❗ Opened issue [#1762](https://github.com/withastro/astro.build/issues/1762) in [withastro/astro.build](https://github.com/withastro/astro.build)
+5. ❗ Opened issue [#1760](https://github.com/withastro/astro.build/issues/1760) in [withastro/astro.build](https://github.com/withastro/astro.build)
 <!--END_SECTION:activity-->
 
 <br>
