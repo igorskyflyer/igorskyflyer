@@ -397,11 +397,11 @@ Chrome extensions
 </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4009](https://github.com/marticliment/UniGetUI/issues/4009) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-2. 💪 Opened PR [#4008](https://github.com/marticliment/UniGetUI/pull/4008) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-3. ❗ Opened issue [#4007](https://github.com/marticliment/UniGetUI/issues/4007) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-4. ❗ Opened issue [#1762](https://github.com/withastro/astro.build/issues/1762) in [withastro/astro.build](https://github.com/withastro/astro.build)
-5. ❗ Opened issue [#1760](https://github.com/withastro/astro.build/issues/1760) in [withastro/astro.build](https://github.com/withastro/astro.build)
+1. 🗣 Commented on [#1767](https://github.com/withastro/astro.build/issues/1767#issuecomment-3194539741) in [withastro/astro.build](https://github.com/withastro/astro.build)
+2. 💪 Opened PR [#1768](https://github.com/withastro/astro.build/pull/1768) in [withastro/astro.build](https://github.com/withastro/astro.build)
+3. ❗ Opened issue [#1767](https://github.com/withastro/astro.build/issues/1767) in [withastro/astro.build](https://github.com/withastro/astro.build)
+4. 🗣 Commented on [#4009](https://github.com/marticliment/UniGetUI/issues/4009#issuecomment-3194011795) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+5. ❗ Opened issue [#4009](https://github.com/marticliment/UniGetUI/issues/4009) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
 <!--END_SECTION:activity-->
 
 <br>
