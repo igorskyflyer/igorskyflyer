@@ -276,6 +276,7 @@ Chrome extensions
 💫 am currently working on building my portfolio website
 <br>
 🌱 am currently learning
+AI,
 <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
 <a href="https://react.dev/"><strong>React</strong></a>
 <br>
