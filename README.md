@@ -382,7 +382,7 @@ Chrome extensions
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [npm valid scopes not working on Windows](https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/)
+- [npm valid scopes not working on Windows ✋🏼](https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/)
 - [Chrome flags to enable or not 🚩](https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/)
 - [Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀](https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/)
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
