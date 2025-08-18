@@ -3,7 +3,7 @@
 </h3>
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> – an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> – Adblock template language and file format, <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> – a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> – a popular (<strong><code>305K+</code></strong> of downloads) Visual Studio Code extension, <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a> – a JavaScript polyfill for the <code>scrollend</code> event (<strong><code>+86K hits/month</code></strong>), <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – a compact and expressive commit-tagging system and many other endearing projects.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format, <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>305K+</code></strong> of downloads) Visual Studio Code extension, <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a> - a JavaScript polyfill for the <code>scrollend</code> event (<strong><code>+86K hits/month</code></strong>), <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> - a compact and expressive commit-tagging system and many other endearing projects.
   <br>
   <br>
 	He has built numerous projects from the ground up, applying dedication and precision at every stage. His contributions consistently support and elevate the developer community through thoughtfully engineered libraries, modules, extensions, add-ons, and most recently, Visual Studio Code themes designed to enhance developer experience.
@@ -35,13 +35,13 @@
  After elementary school, he started learning how to code, beginning with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Lacking a modern setup, Igor’s curiosity became his most powerful resource.
  <br>
  <br>
- Igor was an <strong>exemplary</strong> student of his generation in IT (in high school – gymnasium, 4 years) and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
+ Igor was an <strong>exemplary</strong> student of his generation in IT (in high school - gymnasium, 4 years) and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
  <br>
  <br>
  After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
  <br>
  <br>
- <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology – among many others.
+ <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology - among many others.
  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
  <br>
  <br>
@@ -51,7 +51,7 @@
  Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
  <br>
  <br>
-Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity – developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly – and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem – tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
+Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
 
 <br>
 <br>
@@ -107,7 +107,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 <br>
 
 <p align="center">
- <sub><strong>🌊 Or Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it – where applicable 🏄‍</strong></sub>
+ <sub><strong>🌊 Or Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it - where applicable 🏄‍</strong></sub>
 </p>
 
 <br>
@@ -260,7 +260,7 @@ Chrome extensions
 <ul data-no-restyle>
   <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module</a></strong> so far</li>
 </ul>
-<p>📑 like translating projects – <em>pro bono</em>, on Crowdin:</p>
+<p>📑 like translating projects - <em>pro bono</em>, on Crowdin:</p>
 <ul data-no-restyle>
   <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
 </ul>
@@ -359,7 +359,7 @@ AI,
   <strong>Игор Димитријевић</strong>,
   <strong>igor.dvlpr</strong>,
   <br>
-  🤭 fun fact — call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+  🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 </p>
 
 <!-- <br>
