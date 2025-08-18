@@ -382,11 +382,11 @@ Chrome extensions
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [npm valid scopes not working on Windows](https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/)
+- [Chrome flags to enable or not 🚩](https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/)
+- [Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀](https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/)
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
 - [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
-- [Stop using &#39;all&#39; in CSS transitions 🙅🏻‍♂️](https://igorskyflyer.me/blog/stop-using-all-in-css-transitions/)
-- [Build an HTML element creation utility ⚡](https://igorskyflyer.me/blog/build-html-create-utility-zeus/)
-- [Hello world 👋🏼](https://igorskyflyer.me/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
