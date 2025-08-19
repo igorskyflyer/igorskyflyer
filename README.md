@@ -149,12 +149,12 @@ Kotlin,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go"><strong>Go/Golang</strong></a>
 <br>
 🦄 <strong>UI/UX</strong>:
-<a href="https://dribbble.com/igordvlpr"><strong>Affinity Designer</strong></a>,
-<a href="https://dribbble.com/igordvlpr"><strong>Figma</strong></a>,
-<a href="https://dribbble.com/igordvlpr"><strong>Adobe XD</strong></a>,
-<a href="https://dribbble.com/igordvlpr"><strong>Adobe Illustrator</strong></a>,
-<a href="https://dribbble.com/igordvlpr"><strong>Adobe Photoshop</strong></a>,
-<a href="https://dribbble.com/igordvlpr"><strong>Affinity Photo</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Affinity Designer</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Figma</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Adobe XD</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Adobe Illustrator</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Adobe Photoshop</strong></a>,
+<a href="https://dribbble.com/igorskyflyer"><strong>Affinity Photo</strong></a>,
 <a href="https://www.getpaint.net/"><strong>paint.net</strong></a>
 <br>
 🕹 <strong>Game</strong>:
@@ -264,7 +264,7 @@ Chrome extensions
 <ul data-no-restyle>
   <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
 </ul>
-<p>🎠 like making <a href="https://packagist.org/users/igordvlpr/packages/"><strong>Packagist</strong></a> packages
+<p>🎠 like making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
 <br>
 🐣 am excited about these upcoming technologies:
 <a href="https://pyscript.net"><strong>PyScript</strong></a>,
@@ -308,7 +308,7 @@ AI,
   </p>
 </blockquote>
 <p>
-  🏀 dribble on <a href="https://dribbble.com/igordvlpr"><strong>Dribbble</strong></a>
+  🏀 dribble on <a href="https://dribbble.com/igorskyflyer"><strong>Dribbble</strong></a>
   <br>
   📝 post snippets on my <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
 </p>
@@ -416,12 +416,12 @@ AI,
   <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Codepen page" loading="lazy"></a>
   <a href="https://g.dev/igor-dev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
   <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page" loading="lazy"></a>
-  <a href="https://leetcode.com/igordvlpr/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
+  <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
 </div>
 
 <div align="center">
   <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Polywork page" loading="lazy"></a>
-  <a href="https://app.pluralsight.com/profile/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page" loading="lazy"></a>
+  <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page" loading="lazy"></a>
   <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow page" loading="lazy"></a>
   <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Instagram page" loading="lazy"></a>
   <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - TikTok page" loading="lazy"></a>
@@ -429,10 +429,10 @@ AI,
 </div>
 
 <div align="center">
-  <a href="https://dribbble.com/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Dribbble page" loading="lazy"></a>
+  <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Dribbble page" loading="lazy"></a>
   <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Threads page" loading="lazy"></a>
   <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Beacons page" loading="lazy"></a>
-  <a href="https://www.linkedin.com/in/igor-dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page" loading="lazy"></a>
+  <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page" loading="lazy"></a>
   <a href="https://twitter.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Twitter page" loading="lazy"></a>
   <a href="https://orcid.org/0009-0002-6906-1621"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ORCID.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - ORCID page" loading="lazy"></a>
 </div>
@@ -443,7 +443,7 @@ AI,
 <div align="center">
   <h3>📬 CONTACT 📬</h3>
   <p>
-   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igor-dvlpr"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
+   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
   </p>
 </div>
 
