@@ -420,7 +420,7 @@ AI,
 </div>
 
 <div align="center">
-  <a href="https://www.polywork.com/igor_dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/polywork.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Polywork page" loading="lazy"></a>
+  <a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Gravatar page" loading="lazy"></a>
   <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page" loading="lazy"></a>
   <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow page" loading="lazy"></a>
   <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="36" height="36" alt="Igor Dimitrijević (igorskyflyer) - Instagram page" loading="lazy"></a>
