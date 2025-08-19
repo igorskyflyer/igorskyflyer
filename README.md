@@ -414,7 +414,7 @@ AI,
   <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
   <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page" loading="lazy"></a>
   <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - Codepen page" loading="lazy"></a>
-  <a href="https://g.dev/igor-dev"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
+  <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
   <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page" loading="lazy"></a>
   <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="48" height="48" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
 </div>
