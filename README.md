@@ -396,11 +396,11 @@ AI,
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1767](https://github.com/withastro/astro.build/issues/1767#issuecomment-3194539741) in [withastro/astro.build](https://github.com/withastro/astro.build)
-2. 💪 Opened PR [#1768](https://github.com/withastro/astro.build/pull/1768) in [withastro/astro.build](https://github.com/withastro/astro.build)
-3. ❗ Opened issue [#1767](https://github.com/withastro/astro.build/issues/1767) in [withastro/astro.build](https://github.com/withastro/astro.build)
-4. 🗣 Commented on [#4009](https://github.com/marticliment/UniGetUI/issues/4009#issuecomment-3194011795) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-5. ❗ Opened issue [#4009](https://github.com/marticliment/UniGetUI/issues/4009) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+1. 💪 Opened PR [#1772](https://github.com/withastro/astro.build/pull/1772) in [withastro/astro.build](https://github.com/withastro/astro.build)
+2. ❗ Opened issue [#1771](https://github.com/withastro/astro.build/issues/1771) in [withastro/astro.build](https://github.com/withastro/astro.build)
+3. 🗣 Commented on [#1767](https://github.com/withastro/astro.build/issues/1767#issuecomment-3194539741) in [withastro/astro.build](https://github.com/withastro/astro.build)
+4. 💪 Opened PR [#1768](https://github.com/withastro/astro.build/pull/1768) in [withastro/astro.build](https://github.com/withastro/astro.build)
+5. ❗ Opened issue [#1767](https://github.com/withastro/astro.build/issues/1767) in [withastro/astro.build](https://github.com/withastro/astro.build)
 <!--END_SECTION:activity-->
 
 <br>
