@@ -120,7 +120,6 @@ jQuery,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=php"><strong>PHP</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node</strong></a>,
-Express.js,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=scss"><strong>Sass</strong></a>,
 SQLite,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap"><strong>Bootstrap</strong></a>,
@@ -159,7 +158,7 @@ Kotlin,
 <br>
 🕹 <strong>Game</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=godot"><strong>Godot</strong></a>,
-<a href="https://unity.com"><strong>Unity</strong></a>
+<a href="https://github.com/igorskyflyer?tab=repositories&q=unity"><strong>Unity</strong></a>
 <br>
 🦂 <strong>Scripting</strong>:
 <a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell"><strong>PowerShell</strong></a>,
@@ -169,7 +168,6 @@ Kotlin,
 🛠️ <strong>Tooling</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild"><strong>esbuild</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=vitest"><strong>Vitest</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=tsx"><strong>tsx</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=webpack"><strong>webpack</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=gulp"><strong>Gulp</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=rollup"><strong>Rollup</strong></a>,
@@ -177,7 +175,6 @@ Kotlin,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=babel"><strong>Babel</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=vite"><strong>Vite</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=npm"><strong>npm</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=npx"><strong>npx</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig"><strong>EditorConfig</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=eslint"><strong>ESLint</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=biome"><strong>Biome</strong></a>,
@@ -217,6 +214,7 @@ Chrome extensions
 <a href="https://developer.android.com/studio"><strong>Android Studio</strong></a>
 <br>
 ❄️ <strong>Platforms</strong>:
+<a href="https://cloudflare.com"><strong>Cloudflare</strong></a>,
 <a href="https://www.cyclic.sh"><strong>Cyclic</strong></a>,
 <a href="https://vercel.com"><strong>Vercel</strong></a>,
 <a href="https://www.netlify.com"><strong>Netlify</strong></a>,
