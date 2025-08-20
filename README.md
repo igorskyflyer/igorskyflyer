@@ -127,7 +127,7 @@ SQLite,
 MySQL,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>Wordpress</strong></a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>,
-PWA
+<a href="https://github.com/igorskyflyer?tab=repositories&q=PWA"><strong>PWA</strong></a>
 <br>
 🖥️ <strong>Desktop</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=c%23"><strong>C#</strong></a>,
