@@ -218,7 +218,6 @@ Chrome extensions
 <a href="https://www.cyclic.sh"><strong>Cyclic</strong></a>,
 <a href="https://vercel.com"><strong>Vercel</strong></a>,
 <a href="https://www.netlify.com"><strong>Netlify</strong></a>,
-<a href="https://www.cloudflare.com/"><strong>Cloudflare</strong></a>,
 <a href="https://github.com"><strong>GitHub Pages</strong></a>,
 <a href="https://replit.com"><strong>Replit</strong></a>
 
