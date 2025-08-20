@@ -234,7 +234,7 @@ Chrome extensions
 <br>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong></a>:</p>
 <ul data-no-restyle>
-  <li>🦆 <strong><code>65+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
+  <li>🦆 <strong><code>56+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 <p>🔨 like forging Visual Studio Code APIs:
