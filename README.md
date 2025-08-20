@@ -349,12 +349,10 @@ AI,
   🐬 am a firm believer in <strong>autodidacticism</strong>
   <br>
   🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
-  <br>🎭 am known as:
+  <br>🎭 am also known as:
   <strong>Igor Dimitrijević</strong>,
   <strong>igorskyflyer</strong>,
-  <strong>igordvlpr</strong>,
-  <strong>Игор Димитријевић</strong>,
-  <strong>igor.dvlpr</strong>,
+  <strong>Игор Димитријевић</strong>
   <br>
   🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
 </p>
