@@ -391,11 +391,11 @@ AI,
 </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1772](https://github.com/withastro/astro.build/pull/1772) in [withastro/astro.build](https://github.com/withastro/astro.build)
-2. ❗ Opened issue [#1771](https://github.com/withastro/astro.build/issues/1771) in [withastro/astro.build](https://github.com/withastro/astro.build)
-3. 🗣 Commented on [#1767](https://github.com/withastro/astro.build/issues/1767#issuecomment-3194539741) in [withastro/astro.build](https://github.com/withastro/astro.build)
-4. 💪 Opened PR [#1768](https://github.com/withastro/astro.build/pull/1768) in [withastro/astro.build](https://github.com/withastro/astro.build)
-5. ❗ Opened issue [#1767](https://github.com/withastro/astro.build/issues/1767) in [withastro/astro.build](https://github.com/withastro/astro.build)
+1. 🔒 Closed issue [#38](https://github.com/igorskyflyer/project-nextwave/issues/38) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+2. 🔒 Closed issue [#35](https://github.com/igorskyflyer/project-nextwave/issues/35) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+3. 🔒 Closed issue [#34](https://github.com/igorskyflyer/project-nextwave/issues/34) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+4. ❗ Opened issue [#58](https://github.com/igorskyflyer/project-nextwave/issues/58) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+5. ❗ Opened issue [#57](https://github.com/igorskyflyer/project-nextwave/issues/57) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
 <!--END_SECTION:activity-->
 
 <br>
