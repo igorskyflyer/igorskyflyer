@@ -305,6 +305,8 @@ AI,
   </p>
 </blockquote>
 <p>
+  ⚔️ battle on <a href="https://cssbattle.dev/player/igorskyflyer"><strong>CSS Battles</strong></a>
+  <br>
   🏀 dribble on <a href="https://dribbble.com/igorskyflyer"><strong>Dribbble</strong></a>
   <br>
   📝 post snippets on my <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
