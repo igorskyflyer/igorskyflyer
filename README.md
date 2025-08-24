@@ -198,7 +198,7 @@ Chrome extensions
 <a href="https://filezilla-project.org"><strong>FileZilla</strong></a>,
 <a href="https://www.postman.com"><strong>Postman</strong></a>
 <br>
-⚔ <strong>Productivity</strong>:
+📈 <strong>Productivity</strong>:
 <a href="https://notion.so"><strong>Notion</strong></a>,
 <a href="https://slack.com"><strong>Slack</strong></a>,
 <a href="https://trello.com"><strong>Trello</strong></a>
