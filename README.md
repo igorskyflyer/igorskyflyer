@@ -231,7 +231,12 @@ Chrome extensions
 🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
 <br>
 🐛 squash bugs for cash on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
+<ul data-no-restyle>
+  <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
+</ul>
+</p>
 <br>
+<p>
 🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong></a>:</p>
 <ul data-no-restyle>
   <li>🦆 <strong><code>56+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
