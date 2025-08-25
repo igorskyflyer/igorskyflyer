@@ -6,7 +6,7 @@
   <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format, <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>305K+</code></strong> of downloads) Visual Studio Code extension, <a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats"><strong>scrollend polyfill</strong></a> - a JavaScript polyfill for the <code>scrollend</code> event (<strong><code>+107K hits/month</code></strong>), <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> - a compact and expressive commit-tagging system and many other endearing projects.
   <br>
   <br>
-	He has built numerous projects from the ground up, applying dedication and precision at every stage. His contributions consistently support and elevate the developer community through thoughtfully engineered libraries, modules, extensions, add-ons, and most recently, Visual Studio Code themes designed to enhance developer experience.
+  He has built numerous projects from the ground up, applying dedication and precision at every stage. His contributions consistently support and elevate the developer community through thoughtfully engineered libraries, modules, extensions, add-ons, and most recently, Visual Studio Code themes designed to enhance developer experience.
   <br>
   <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
   <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
@@ -74,11 +74,11 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   <br>
   <br>
   Created a new Astro CLI tool ✨🎉<br>
-	Allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  Allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
   <br>
   <br>
   Created a new Astro component renderer ✨🎉<br>
-	Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Render Component</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Render Component</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
   
   <br>
   
@@ -344,6 +344,8 @@ AI,
   <br>
   ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
   <br>
+  😽 rescue and foster animals: mostly cats, some dogs, and the occasional sparrow or goldfish
+  <br>
   🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a> (on Notion)
   <br>
   🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a> (on Notion)
@@ -413,7 +415,7 @@ AI,
   <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Codepen page" loading="lazy"></a>
   <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
   <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page" loading="lazy"></a>
-	 <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle page" loading="lazy"></a>
+   <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle page" loading="lazy"></a>
 </div>
 
 <div align="center">
