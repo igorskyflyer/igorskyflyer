@@ -270,6 +270,8 @@ Chrome extensions
 <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
 <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
 <br>
+🏅 have completed Google’s Foobar challenge
+<br>
 🌱 am currently learning
 AI,
 <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
