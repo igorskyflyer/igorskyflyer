@@ -226,7 +226,9 @@ Chrome extensions
 🤗 Don&#39;t go yet because I:
 
 🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
+<br>
 🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
+<br>
 🐛 squash bugs for cash on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
 <ul data-no-restyle>
@@ -270,15 +272,22 @@ Chrome extensions
 <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
 
 🏅 have completed Google’s Foobar challenge
+<br>
 🌱 am currently learning
 AI,
 <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
 <a href="https://react.dev/"><strong>React</strong></a>
+<br>
 🙌 am constantly creating open-source projects that help the dev-community
+<br>
 📜 own more than <strong><code>30</code></strong> programming certificates
+<br>
 👯 am looking to collaborate on exciting and challenging projects
+<br>
 🤝 am looking for help with my <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>FOSS</strong></a> projects
+<br>
 🤼 like exchanging opinions with my people at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
+<br>
 🧪 do front-end experiments on my <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> like:
 
 <blockquote>
