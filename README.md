@@ -269,6 +269,7 @@ Chrome extensions
 <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
 <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
 <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
+<br>
 🏅 have completed Google’s Foobar challenge
 <br>
 🌱 am currently learning
