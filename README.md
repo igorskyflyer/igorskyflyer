@@ -439,6 +439,7 @@ AI,
 <div align="center">
   <h3>💝 SUPPORT 💝</h3>
   If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+  <br>
   <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
 
   <br>
