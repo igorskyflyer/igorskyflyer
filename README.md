@@ -64,21 +64,21 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 <!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
   <h4>📢 Announcement / <code>🗓️ 09 Aug 2025</code></h4>
-	Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
-	<br>
-	<br>
-	Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> event, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
-	<br>
-	<br>
-	Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong></a> 🌊
-	<br>
-	<br>
-	Created a new Astro CLI tool ✨🎉<br>
-	Allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
-	<br>
-	<br>
-	Created a new Astro component renderer ✨🎉<br>
-	Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Render Component</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
+  <br>
+  <br>
+  Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> event, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
+  <br>
+  <br>
+  Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong></a> 🌊
+  <br>
+  <br>
+  Created a new Astro CLI tool ✨🎉<br>
+  Allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  <br>
+  <br>
+  Created a new Astro component renderer ✨🎉<br>
+  Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Render Component</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
   <br>
   <br>
   <blockquote>
@@ -94,7 +94,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 <br>
 
 <div align="center">
-	<h3>⚡ MY TECH STACK ⚡</h3>
+  <h3>⚡ MY TECH STACK ⚡</h3>
   <em><strong>Browse by development aspect:</strong></em>
   <br>
   <br>
@@ -293,7 +293,7 @@ AI,
 <blockquote>
   🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong></a>
   <br>
-	💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong></a>
+  💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong></a>
   <br>
   🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz"><strong>CSS Road</strong></a>
   <br>
@@ -323,7 +323,7 @@ AI,
 👟 love taking long walks &amp; runs:
 <strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
 <ul data-no-restyle>
-	<li>
+  <li>
    <code>26.17km/16.26mi</code>
   </li>
   <li>
@@ -360,10 +360,20 @@ AI,
 
 <div align="center">
   <h3>💻 LATEST BLOG POSTS ✍🏼</h3>
-	Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+  Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
 
-<!-- BLOG-POST-LIST:START --><a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/">npm valid scopes not working on Windows ✋🏼]</a><br><a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/">Chrome flags to enable or not 🚩]</a><br><a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/">Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀]</a><br><a href="https://igorskyflyer.me/blog/vscode-npm-bin/">Fix Node binaries in VS Code Terminal 🐢]</a><br><a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/">How to write low performance CSS animations 🐌]</a><br><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->
 
+  <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/">npm valid scopes not working on Windows ✋🏼</a><br><a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/">Chrome flags to enable or not 🚩</a>
+  <br>
+  <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/">Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</a>
+  <br>
+  <a href="https://igorskyflyer.me/blog/vscode-npm-bin/">Fix Node binaries in VS Code Terminal 🐢</a>
+  <br>
+  <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/">How to write low performance CSS animations 🐌</a>
+  <br>
+
+  <!-- BLOG-POST-LIST:END -->
 </div>
 
 <br>
@@ -386,24 +396,24 @@ AI,
 <br>
 
 <div align="center">
-	<h3>🙆🏻‍♂️ LET&#39;S CONNECT 🥳</h3>
-	<!-- 1st row -->
+  <h3>🙆🏻‍♂️ LET&#39;S CONNECT 🥳</h3>
+  <!-- 1st row -->
   <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
   <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page" loading="lazy"></a>
   <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Codepen page" loading="lazy"></a>
   <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
   <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Ko-Fi page" loading="lazy"></a>
    <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle page" loading="lazy"></a>
-	 <br>
-	<!-- 2nd row -->
+   <br>
+  <!-- 2nd row -->
   <a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Gravatar page" loading="lazy"></a>
   <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight page" loading="lazy"></a>
   <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow page" loading="lazy"></a>
   <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Instagram page" loading="lazy"></a>
   <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok page" loading="lazy"></a>
   <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - YouTube page" loading="lazy"></a>
-	<br>
-	<!-- 3rd row -->
+  <br>
+  <!-- 3rd row -->
   <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Dribbble page" loading="lazy"></a>
   <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Threads page" loading="lazy"></a>
   <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons page" loading="lazy"></a>
@@ -426,7 +436,7 @@ AI,
 <div align="center">
   <h3>💝 SUPPORT 💝</h3>
   If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
-	<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
+  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
 
   <br>
 
@@ -443,8 +453,8 @@ AI,
 
 <div align="center" data-hide>
   There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
-	<br>
-	<br>
+  <br>
+  <br>
 </div>
 
 <div align="center">
