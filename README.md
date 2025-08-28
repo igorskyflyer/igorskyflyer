@@ -364,13 +364,11 @@ AI,
 
 Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
 
-<!-- BLOG-POST-LIST:START -->
-
-- [npm valid scopes not working on Windows ✋🏼](https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/)
-- [Chrome flags to enable or not 🚩](https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/)
-- [Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀](https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/)
-- [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
-- [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
+<!-- BLOG-POST-LIST:START -->[npm valid scopes not working on Windows ✋🏼](https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/)
+[Chrome flags to enable or not 🚩](https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/)
+[Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀](https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/)
+[Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
+[How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
