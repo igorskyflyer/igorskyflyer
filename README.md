@@ -262,6 +262,7 @@ Chrome extensions
   <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
 </ul>
 🎠 like making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
+<br>
 🐣 am excited about these upcoming technologies:
 <a href="https://pyscript.net"><strong>PyScript</strong></a>,
 <a href="https://formkit.com"><strong>FormKit</strong></a>,
