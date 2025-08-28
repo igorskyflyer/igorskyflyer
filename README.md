@@ -364,6 +364,7 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
+
 <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 <br>
 <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
@@ -374,14 +375,14 @@ AI,
 <br>
 <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
 <br><!-- BLOG-POST-LIST:END -->
+
 </div>
 
 <br>
 <br>
 
-<h3 align="center">
-  ⏰ RECENT ACTIVITY 🪁
-</h3>
+<div align="center">
+  <h3>⏰ RECENT ACTIVITY 🪁</h3>
 
 <!--START_SECTION:activity-->
 
@@ -390,7 +391,9 @@ AI,
 3. 🔒 Closed issue [#38](https://github.com/igorskyflyer/project-nextwave/issues/38) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
 4. 🔒 Closed issue [#35](https://github.com/igorskyflyer/project-nextwave/issues/35) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
 5. 🔒 Closed issue [#34](https://github.com/igorskyflyer/project-nextwave/issues/34) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+
 <!--END_SECTION:activity-->
+</div>
 
 <br>
 <br>
