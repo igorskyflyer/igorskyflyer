@@ -363,9 +363,9 @@ AI,
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <br>
 
-  <!-- BLOG-POST-LIST:START -->
-
-<a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/">npm valid scopes not working on Windows ✋🏼</a><br><a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/">Chrome flags to enable or not 🚩</a>
+  <!-- BLOG-POST-LIST:START --><a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/">npm valid scopes not working on Windows ✋🏼</a>
+<br>
+<a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/">Chrome flags to enable or not 🚩</a>
 <br>
 <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/">Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</a>
 <br>
@@ -373,8 +373,7 @@ AI,
 <br>
 <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/">How to write low performance CSS animations 🐌</a>
 <br>
-
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <br>
