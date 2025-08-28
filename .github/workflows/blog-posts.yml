@@ -1,4 +1,4 @@
-name: Update README with latest blog posts
+name: Get latest blog posts
 
 on:
   schedule:
@@ -19,4 +19,4 @@ jobs:
         with:
           commit_message: "Add latest blog posts"
           feed_list: "https://igorskyflyer.me/rss.xml"
-          template: "[$title]($url)$newline"
+          template: "<a href=\"$url\">$title]</a><br>"
