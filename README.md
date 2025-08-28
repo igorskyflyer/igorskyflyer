@@ -358,11 +358,9 @@ AI,
 <br>
 <br>
 
-<h3 align="center">
-  💻 LATEST BLOG POSTS ✍🏼
-</h3>
-
-Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+<div align="center">
+  <h3>💻 LATEST BLOG POSTS ✍🏼</h3>
+	Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -372,6 +370,8 @@ Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me<
 - [Fix Node binaries in VS Code Terminal 🐢](https://igorskyflyer.me/blog/vscode-npm-bin/)
 - [How to write low performance CSS animations 🐌](https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 <br>
 <br>
