@@ -471,6 +471,9 @@ AI,
 
 <br>
 
-<h4 align="center">
-  <em>“Built for elegance. Shaped for endurance.”</em> - Igor Dimitrijević (igorskyflyer)
-</h4>
+<div align="center">
+  <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
+
+  Igor Dimitrijević (igorskyflyer)
+
+</div>
