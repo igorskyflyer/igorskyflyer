@@ -1,4 +1,4 @@
-name: Get latest blog posts
+name: Update latest blog posts
 
 on:
   schedule:
