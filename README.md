@@ -364,15 +364,15 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
-<a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on...</a>
+<a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working o...</a>
 <br>
-<a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
+<a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not...</a>
 <br>
-<a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank">Why I moved from Netlify to Clou...</a>
+<a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank">Why I moved from Netlify to Cl...</a>
 <br>
-<a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code Ter...</a>
+<a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code T...</a>
 <br>
-<a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS...</a>
+<a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance C...</a>
 <br><!-- BLOG-POST-LIST:END -->
 
 </div>
