@@ -16,7 +16,9 @@
 <br>
 
 <h2 id="-work">💼 Work</h2>
-<p>Currently working as a:</p>
+
+Currently working as a:
+
 <ul data-no-restyle>
   <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> [part-time]</li>
   <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> [part-time]</li>
@@ -63,7 +65,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <div align="center">
   <h4>📢 Announcement / <code>🗓️ 09 Aug 2025</code></h4>
-  Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
+  Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</strong></a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
   <br>
   <br>
   Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> event, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
@@ -364,6 +366,7 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
+
 <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working o...</a>
 <br>
 <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not...</a>
@@ -473,6 +476,6 @@ AI,
 <div align="center">
   <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
 
-  Igor Dimitrijević (igorskyflyer)
+Igor Dimitrijević (igorskyflyer)
 
 </div>
