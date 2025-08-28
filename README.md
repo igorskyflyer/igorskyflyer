@@ -402,11 +402,11 @@ AI,
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/igorskyflyer/project-nextwave/issues/5) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-2. 🔒 Closed issue [#38](https://github.com/igorskyflyer/project-nextwave/issues/38) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-3. 🔒 Closed issue [#35](https://github.com/igorskyflyer/project-nextwave/issues/35) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-4. 🔒 Closed issue [#34](https://github.com/igorskyflyer/project-nextwave/issues/34) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-5. ❗ Opened issue [#57](https://github.com/igorskyflyer/project-nextwave/issues/57) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+1. ❗ Opened issue [#1404](https://github.com/microsoft/vsmarketplace/issues/1404) in [microsoft/vsmarketplace](https://github.com/microsoft/vsmarketplace)
+2. 🔒 Closed issue [#5](https://github.com/igorskyflyer/project-nextwave/issues/5) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+3. 🔒 Closed issue [#38](https://github.com/igorskyflyer/project-nextwave/issues/38) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+4. 🔒 Closed issue [#35](https://github.com/igorskyflyer/project-nextwave/issues/35) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+5. 🔒 Closed issue [#34](https://github.com/igorskyflyer/project-nextwave/issues/34) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
 <!--END_SECTION:activity-->
 
 <br>
