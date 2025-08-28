@@ -61,7 +61,6 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 ---
 
-<!-- 🎉 new stuff that's out 🤩 -->
 <div align="center">
   <h4>📢 Announcement / <code>🗓️ 09 Aug 2025</code></h4>
   Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</a></strong></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
@@ -467,10 +466,4 @@ AI,
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
   <br>
   <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
-</div>
-
-<div align="center" data-hide>
-  <br>
-  <br>
-  <img src="https://github.com/igorskyflyer/igorskyflyer/actions/workflows/self-update.yml/badge.svg" alt="Igor Dimitrijević (igorskyflyer) profile - Self-update" width="140" height="20" loading="lazy">
 </div>
