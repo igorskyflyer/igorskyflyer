@@ -262,14 +262,12 @@ Chrome extensions
   <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
 </ul>
 🎠 like making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
-
 🐣 am excited about these upcoming technologies:
 <a href="https://pyscript.net"><strong>PyScript</strong></a>,
 <a href="https://formkit.com"><strong>FormKit</strong></a>,
 <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
 <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
 <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
-
 🏅 have completed Google’s Foobar challenge
 <br>
 🌱 am currently learning
