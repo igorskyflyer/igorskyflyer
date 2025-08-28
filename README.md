@@ -403,7 +403,7 @@ AI,
 <div align="center">
   <h3>🙆🏻‍♂️ LET&#39;S CONNECT 🥳</h3>
   <!-- 1st row -->
-  <a href="https://www.npmjs.com/~igor.dvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
+  <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
   <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page" loading="lazy"></a>
   <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Codepen page" loading="lazy"></a>
   <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - PlayStore page" loading="lazy"></a>
