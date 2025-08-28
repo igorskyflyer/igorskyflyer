@@ -468,6 +468,8 @@ AI,
   <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
 </div>
 
+<br>
+
 <h4 align="center">
   <em>“Built for elegance. Shaped for endurance.”</em> - Igor Dimitrijević (igorskyflyer)
 </h4>
