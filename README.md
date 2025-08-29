@@ -63,7 +63,8 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 <br>
 
 <div align="center">
-  <h4>📢 Announcement / <code>🗓️ 29 Aug 2025</code></h4>
+  <h3>📢 Announcement</h3>
+	<h4>🗓️ 29 Aug 2025</h4>
   <br>
   <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
   <br>
