@@ -92,9 +92,9 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   <em><strong>Browse by development aspect:</strong></em>
   <br>
   <br>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.svg" alt="See my front-end development projects" width="120" height="33" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.svg" alt="See my back-end development projects" width="120" height="33" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.svg" alt="See my full-stack development projects" width="120" height="33" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.svg" alt="See my front-end development projects" width="90" height="25" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.svg" alt="See my back-end development projects" width="90" height="25" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.svg" alt="See my full-stack development projects" width="90" height="25" loading="lazy"></a>
 </div>
 
 <br>
