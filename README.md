@@ -61,7 +61,8 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <h3 align="center">七転び八起き</h3>
 
----
+<br>
+<br>
 
 <div align="center">
   <h4>📢 Announcement / <code>🗓️ 29 Aug 2025</code></h4>
@@ -83,7 +84,8 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   </blockquote> -->
 </div>
 
----
+<br>
+<br>
 
 <br>
 
