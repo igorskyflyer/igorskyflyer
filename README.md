@@ -57,6 +57,7 @@ Currently working as a:
 Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
 
 <br>
+<br>
 
 <h3 align="center">七転び八起き</h3>
 
@@ -64,7 +65,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <div align="center">
   <h3>📢 Announcement</h3>
-	<h4>🗓️ 29 Aug 2025</h4>
+	<h4>🗓️ 29 Aug 2025 🗓️</h4>
   <br>
   <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
   <br>
