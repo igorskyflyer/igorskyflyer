@@ -235,9 +235,9 @@ Chrome extensions
 <ul data-no-restyle>
   <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
 </ul>
-🎀 like crafting <a href="https://www.npmjs.com/~igor.dvlpr"><strong>npm packages</strong></a>:
+🎀 like crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>:
 <ul data-no-restyle>
-  <li>🦆 <strong><code>56+</code></strong> <a href="https://www.npmjs.com/~igor.dvlpr"><strong>packages</strong></a> built already</li>
+  <li>🦆 <strong><code>56+</code></strong> <a href="https://www.npmjs.com/~igorskyflyer"><strong>packages</strong></a> built already</li>
   <li>🦀 <strong><code>100K+</code></strong> of installs</li>
 </ul>
 🔨 like forging Visual Studio Code APIs:
@@ -366,6 +366,7 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
+
 <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 <br>
 <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
