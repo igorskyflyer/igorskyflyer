@@ -92,9 +92,9 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   <em><strong>Browse by development aspect:</strong></em>
   <br>
   <br>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://img.shields.io/badge/front-end-09f?style=for-the-badge&cacheSeconds=31536000" alt="See my front-end development projects" width="85" height="20" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://img.shields.io/badge/back-end-2e6f40?style=for-the-badge&cacheSeconds=31536000" alt="See my back-end development projects" width="83" height="20" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://img.shields.io/badge/full-stack-6200ea?style=for-the-badge&cacheSeconds=31536000" alt="See my full-stack development projects" width="83" height="20" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://img.shields.io/badge/front-end-09f?style=flat-square&cacheSeconds=31536000" alt="See my front-end development projects" width="66" height="20" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://img.shields.io/badge/back-end-2e6f40?style=flat-square&cacheSeconds=31536000" alt="See my back-end development projects" width="66" height="20" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://img.shields.io/badge/full-stack-6200ea?style=flat-square&cacheSeconds=31536000" alt="See my full-stack development projects" width="66" height="20" loading="lazy"></a>
 </div>
 
 <br>
