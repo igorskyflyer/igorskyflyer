@@ -64,22 +64,15 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 ---
 
 <div align="center">
-  <h4>📢 Announcement / <code>🗓️ 09 Aug 2025</code></h4>
-  Created a custom templating language <code>ADBT</code>, for writing Adblock templates (<code><em>.adbt</em></code>), its complementary files <code>ADBM</code> (<code><em>.adbm</em></code>), its parser, compiler (<code><a href="https://github.com/igorskyflyer/npm-adblock-aria-compiler"><strong>Aria</strong></a></code>), and a Visual Studio Code extension (<code><a href="https://github.com/igorskyflyer/vscode-adbt"><strong>ADBT</strong></a></code>), more information available in the <a href="https://github.com/igorskyflyer/file-format-adbt/releases/latest"><strong>official file specification</strong></a> 🍭
+  <h4>📢 Announcement / <code>🗓️ 29 Aug 2025</code></h4>
+	<br>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
   <br>
   <br>
-  Created a performant and light (<strong>&lt; 1.5KB</strong>) JavaScript polyfill for the <code>scrollend</code> event, check it out at <a href="https://github.com/igorskyflyer/npm-scrollend-polyfill"><strong>scrollend polyfill</strong></a>
+	I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
   <br>
   <br>
-  Released my first VS Code theme, <a href="https://github.com/igorskyflyer/vscode-theme-kai"><strong>Kai</strong></a>, available at the <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme" target="_blank"><strong>VS Code Marketplace</strong></a> 🌊
-  <br>
-  <br>
-  Created a new Astro CLI tool ✨🎉<br>
-  Allows bootstrapping Astro components with test-ready scaffolding, render logic, props, slots, and Vitest setup included, available at <a href="https://github.com/igorskyflyer/npm-astro-component"><strong>Astro Component CLI</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
-  <br>
-  <br>
-  Created a new Astro component renderer ✨🎉<br>
-  Spins up an AstroContainer and renders your components to a DocumentFragment for fast, zero-config unit and integration testing with any JS/TS test runner, available at <a href="https://github.com/igorskyflyer/npm-astro-render-component"><strong>Astro Render Component</strong></a> and featured on Astro&#39;s official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Integrations library</strong></a> 😍
+  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave"><strong>official tracker</strong></a>.
   <br>
   <br>
   <blockquote>
