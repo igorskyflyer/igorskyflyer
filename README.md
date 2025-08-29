@@ -72,7 +72,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 	I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
   <br>
   <br>
-  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave"><strong>official tracker</strong></a>.
+  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
   <br>
   <br>
   <blockquote>
