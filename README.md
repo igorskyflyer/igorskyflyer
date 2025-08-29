@@ -73,14 +73,14 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
   <br>
   <br>
   Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
-  <br>
+  <!-- <br>
   <br>
   <blockquote>
     <br>
     🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2024.md"><strong>GitHub Unwrapped</strong></a> for 2024 🎄
     <br>
     <br>
-  </blockquote>
+  </blockquote> -->
 </div>
 
 ---
