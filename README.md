@@ -101,12 +101,6 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <br>
 
-<p align="center">
- <sub><strong>🌊 Or Ctrl / ⌘ key + click on the technology links 👇 to see repositories built with it - where applicable 🏄‍</strong></sub>
-</p>
-
-<br>
-
 🌎 <strong>Web</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>,
