@@ -342,9 +342,9 @@ AI,
 <br>
 😽 rescue and foster animals: mostly cats, some dogs, and the occasional sparrow or goldfish
 <br>
-🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a> (on Notion)
+🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
 <br>
-🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a> (on Notion)
+🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
 <br>
 🐬 am a firm believer in <strong>autodidacticism</strong>
 <br>
