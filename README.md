@@ -356,7 +356,6 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
-
 <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 <br>
 <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
