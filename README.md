@@ -376,23 +376,6 @@ Chrome extensions
 <br>
 
 <div align="center">
-  <h3>⏰ RECENT ACTIVITY 🪁</h3>
-
-<!--START_SECTION:activity-->
-
-1. ❗ Opened issue [#427](https://github.com/cssbattle/forum/issues/427) in [cssbattle/forum](https://github.com/cssbattle/forum)
-2. 🔒 Closed issue [#48](https://github.com/igorskyflyer/project-nextwave/issues/48) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-3. 🔒 Closed issue [#43](https://github.com/igorskyflyer/project-nextwave/issues/43) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-4. 🔒 Closed issue [#13](https://github.com/igorskyflyer/project-nextwave/issues/13) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-5. 🔒 Closed issue [#24](https://github.com/igorskyflyer/project-nextwave/issues/24) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-
-<!--END_SECTION:activity-->
-</div>
-
-<br>
-<br>
-
-<div align="center">
   <h3>🙆🏻‍♂️ LET&#39;S CONNECT 🥳</h3>
   <!-- 1st row -->
   <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
