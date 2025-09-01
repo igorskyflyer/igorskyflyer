@@ -346,8 +346,8 @@ Chrome extensions
 
 <br>
 
-<div align="center">
-  <h3>💻 LATEST BLOG POSTS ✍🏼</h3>
+<details align="center">
+  <summary><strong>✍🏼 Latest blog posts</strong></summary>
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <br>
 
@@ -362,15 +362,17 @@ Chrome extensions
 <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code Terminal 🐢</a>
 <br>
 <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
-<br><!-- BLOG-POST-LIST:END -->
+<br>
 
-</div>
+<!-- BLOG-POST-LIST:END -->
+
+</details>
 
 <br>
 <br>
 
-<div align="center">
-  <h3>🙆🏻‍♂️ LET&#39;S CONNECT 🥳</h3>
+<details align="center">
+  <summary><strong>🙆🏻‍♂️ Let&#39;s connect</strong></summary>
   <!-- 1st row -->
   <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
   <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Microsoft Developer page" loading="lazy"></a>
@@ -399,16 +401,16 @@ Chrome extensions
 <br>
 <br>
 
-<div align="center">
-  <h3>📬 CONTACT 📬</h3>
+<details align="center">
+  <summary><strong>📬 Contact</strong></summary>
   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
-</div>
+</details>
 
 <br>
 <br>
 
-<div align="center">
-  <h3>💝 SUPPORT 💝</h3>
+<details align="center">
+  <summary>💝 Support</summary>
   If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
   <br>
   <br>
@@ -422,7 +424,7 @@ Chrome extensions
     <br>
     <br>
   </blockquote>
-</div>
+</details>
 
 <br>
 <br>
