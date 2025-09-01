@@ -55,7 +55,7 @@ He is also a:
 </details>
 
 <details>
-  <summary><strong>👶🏼 Early life</strong></summary>
+  <summary><strong>👶🏼 Early Life</strong></summary>
   <br>
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
   <br>
@@ -86,7 +86,7 @@ He is also a:
 </details>
 
 <details>
-  <summary><strong>⚡ Tech stack</strong></summary>
+  <summary><strong>⚡ Tech Stack</strong></summary>
   <br>
   <div align="center">
     <em><strong>Browse by development aspect:</strong></em>
@@ -210,7 +210,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary><strong>🤗 Additional activities</strong></summary>
+  <summary><strong>🤗 Additional Activities</strong></summary>
   <br>
   🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
   <br>
@@ -344,7 +344,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary><strong>✍🏼 Latest blog posts</strong></summary>
+  <summary><strong>✍🏼 Latest Blog Posts</strong></summary>
   <br>
   <div align="center">
     Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
@@ -364,7 +364,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary><strong>🙆🏻‍♂️ Let&#39;s connect</strong></summary>
+  <summary><strong>🙆🏻‍♂️ Let&#39;s Connect</strong></summary>
   <br>
   <!-- 1st row -->
   <div align="center">
