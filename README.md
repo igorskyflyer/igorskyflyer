@@ -27,9 +27,7 @@ He is also a:
 
 </div>
 
-<br>
-
-<h2 id="-work">💼 Work</h2>
+<h2>💼 Work</h2>
 
 Currently working as a:
 
