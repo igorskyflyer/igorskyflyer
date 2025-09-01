@@ -441,7 +441,7 @@ Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></
 
 <div align="center">
   <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
-  Igor Dimitrijević (igorskyflyer)
+  <strong>Igor Dimitrijević (<em>igorskyflyer</em>)</strong>
 </div>
 
 <br>
