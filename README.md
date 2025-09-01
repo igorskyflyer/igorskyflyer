@@ -377,11 +377,11 @@ AI,
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#57](https://github.com/igorskyflyer/project-nextwave/issues/57) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-2. 🔒 Closed issue [#21](https://github.com/igorskyflyer/project-nextwave/issues/21) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-3. 🔒 Closed issue [#9](https://github.com/igorskyflyer/project-nextwave/issues/9) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-4. 🔒 Closed issue [#58](https://github.com/igorskyflyer/project-nextwave/issues/58) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
-5. 🔒 Closed issue [#4](https://github.com/igorskyflyer/project-nextwave/issues/4) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+1. ❗ Opened issue [#427](https://github.com/cssbattle/forum/issues/427) in [cssbattle/forum](https://github.com/cssbattle/forum)
+2. 🔒 Closed issue [#48](https://github.com/igorskyflyer/project-nextwave/issues/48) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+3. 🔒 Closed issue [#43](https://github.com/igorskyflyer/project-nextwave/issues/43) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+4. 🔒 Closed issue [#13](https://github.com/igorskyflyer/project-nextwave/issues/13) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
+5. 🔒 Closed issue [#24](https://github.com/igorskyflyer/project-nextwave/issues/24) in [igorskyflyer/project-nextwave](https://github.com/igorskyflyer/project-nextwave)
 
 <!--END_SECTION:activity-->
 </div>
