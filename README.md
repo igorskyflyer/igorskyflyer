@@ -344,8 +344,6 @@ Chrome extensions
   <br>
 </details>
 
-<br>
-
 <details>
   <summary><strong>✍🏼 Latest blog posts</strong></summary>
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
@@ -367,9 +365,6 @@ Chrome extensions
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
-<br>
-<br>
 
 <details>
   <summary><strong>🙆🏻‍♂️ Let&#39;s connect</strong></summary>
@@ -396,18 +391,12 @@ Chrome extensions
   <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page" loading="lazy"></a>
   <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
   <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X page" loading="lazy"></a>
-</div>
-
-<br>
-<br>
+</details>
 
 <details>
   <summary><strong>📬 Contact</strong></summary>
   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
 </details>
-
-<br>
-<br>
 
 <details>
   <summary>💝 Support</summary>
@@ -415,9 +404,7 @@ Chrome extensions
   <br>
   <br>
   <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
-
   <br>
-
   <blockquote>
     <br>
     Any type of support is very much appreciated. 🙂
