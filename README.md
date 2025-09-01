@@ -31,6 +31,7 @@ and many other endearing projects.
 
 <details>
   <summary><strong>💼 Work</strong></summary>
+  <br>
   Currently working as a:
 
   <ul data-no-restyle>
@@ -57,6 +58,7 @@ He is also a:
 
 <details>
   <summary><strong>👶🏼 Early life</strong></summary>
+  <br>
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
   <br>
   <br>
@@ -89,6 +91,7 @@ He is also a:
 
 <details>
   <summary><strong>⚡ Tech stack</strong></summary>
+  <br>
   <div align="center">
     <em><strong>Browse by development aspect:</strong></em>
     <br>
@@ -214,6 +217,7 @@ Chrome extensions
 
 <details>
   <summary><strong>🤗 Additional activities</strong></summary>
+  <br>
   🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
   <br>
   🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
@@ -349,6 +353,7 @@ Chrome extensions
 
 <details>
   <summary><strong>✍🏼 Latest blog posts</strong></summary>
+  <br>
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <br>
   <div align="center">
@@ -370,6 +375,7 @@ Chrome extensions
 
 <details>
   <summary><strong>🙆🏻‍♂️ Let&#39;s connect</strong></summary>
+  <br>
   <!-- 1st row -->
   <div align="center">
     <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
@@ -401,6 +407,7 @@ Chrome extensions
 
 <details>
   <summary><strong>📬 Contact</strong></summary>
+  <br>
   <div align="center">
     Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
   </div>
@@ -410,6 +417,7 @@ Chrome extensions
 
 <details>
   <summary><strong>💝 Support</strong></summary>
+  <br>
   <div align="center">
     If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
     <br>
@@ -429,6 +437,7 @@ Chrome extensions
 
 <details>
   <summary><strong>🔥 Statistics</strong></summary>
+  <br>
   <div align="center">
     <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
     <br>
