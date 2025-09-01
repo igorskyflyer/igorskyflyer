@@ -368,7 +368,6 @@ Chrome extensions
 <br><br>
 - <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
 <br><br><!-- BLOG-POST-LIST:END -->
-  <br>
 </details>
 
 <details>
