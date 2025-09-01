@@ -346,7 +346,7 @@ Chrome extensions
 
 <br>
 
-<details align="center">
+<details>
   <summary><strong>✍🏼 Latest blog posts</strong></summary>
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <br>
@@ -371,7 +371,7 @@ Chrome extensions
 <br>
 <br>
 
-<details align="center">
+<details>
   <summary><strong>🙆🏻‍♂️ Let&#39;s connect</strong></summary>
   <!-- 1st row -->
   <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - npm page" loading="lazy"></a>
@@ -401,7 +401,7 @@ Chrome extensions
 <br>
 <br>
 
-<details align="center">
+<details>
   <summary><strong>📬 Contact</strong></summary>
   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
 </details>
@@ -409,7 +409,7 @@ Chrome extensions
 <br>
 <br>
 
-<details align="center">
+<details>
   <summary>💝 Support</summary>
   If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
   <br>
