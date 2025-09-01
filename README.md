@@ -444,10 +444,9 @@ Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></
   <strong>Igor Dimitrijević (<em>igorskyflyer</em>)</strong>
 </div>
 
-<br>
-<br>
-
 <blockquote align="center" data-hide>
+  <br>
+  <br>
   ✨ There is also a <strong>magical</strong> self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>. ✨
   <br>
   <br>
