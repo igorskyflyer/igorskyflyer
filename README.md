@@ -40,6 +40,29 @@ Currently working as a:
 
 <br>
 
+<h3 align="center">七転び八起き</h3>
+
+<br>
+
+<div align="center">
+  <h3>📢 Announcement 📢</h3>
+  <h4>29 Aug 2025</h4>
+  <br>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
+  <br>
+  <br>
+  I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
+  <br>
+  <br>
+  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
+</div>
+
+<br>
+
+<h3 align="center">日々進歩</h3>
+
+<br>
+
 <details>
   <summary>👶🏼 Early life</summary>
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
