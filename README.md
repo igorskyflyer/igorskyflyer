@@ -51,8 +51,6 @@ He is also a:
 <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
 <br>🎯 <strong>Challenge‑driven</strong> problem solver.
-<br>
-<br>
 
 </details>
 
@@ -85,8 +83,6 @@ He is also a:
   <br>
   <br>
   Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
-  <br>
-  <br>
 </details>
 
 <details>
@@ -210,8 +206,6 @@ Chrome extensions
 <a href="https://www.netlify.com"><strong>Netlify</strong></a>,
 <a href="https://github.com"><strong>GitHub Pages</strong></a>,
 <a href="https://replit.com"><strong>Replit</strong></a>
-<br>
-<br>
 
 </details>
 
@@ -347,16 +341,14 @@ Chrome extensions
   <strong>Игор Димитријевић</strong>
   <br>
   🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
-  <br>
-  <br>
 </details>
 
 <details>
   <summary><strong>✍🏼 Latest blog posts</strong></summary>
   <br>
-  Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
-  <br>
   <div align="center">
+    Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+    <br>
     <!-- BLOG-POST-LIST:START -->
     <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
     <br>
@@ -369,8 +361,6 @@ Chrome extensions
     <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
     <!-- BLOG-POST-LIST:END -->
   </div>
-  <br>
-  <br>
 </details>
 
 <details>
@@ -401,8 +391,6 @@ Chrome extensions
     <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
     <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X page" loading="lazy"></a>
   </div>
-  <br>
-  <br>
 </details>
 
 <details>
@@ -411,8 +399,6 @@ Chrome extensions
   <div align="center">
     Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
   </div>
-  <br>
-  <br>
 </details>
 
 <details>
@@ -431,8 +417,6 @@ Chrome extensions
       <br>
     </blockquote>
   </div>
-  <br>
-  <br>
 </details>
 
 <details>
