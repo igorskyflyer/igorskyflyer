@@ -29,6 +29,7 @@ and many other endearing projects.
 > Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1).
 
 <br>
+<br>
 
 <details>
   <summary><strong>💼 Work</strong></summary>
