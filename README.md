@@ -15,11 +15,6 @@ Creator of flagship tools including:
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `305K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - `112K+` monthly CDN hits
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
-
-<br>
-
-As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
-
 </div>
 
 <h2>💼 Work</h2>
@@ -32,6 +27,10 @@ Currently working as a:
   <li>🐆 freelance <strong>full-stack developer</strong></li>
   <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
+
+<br>
+
+As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
 
 <br>
 
