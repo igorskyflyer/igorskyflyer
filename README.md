@@ -43,85 +43,50 @@ Currently working as a:
 <br>
 
 <details>
-  <summary>
-    <h2>👶🏼 Early life</h2>
-  </summary>
- Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
- <br>
- <br>
- Beyond the tech world, he also learned Spanish <strong>on his own</strong>, immersing himself daily despite having no formal instruction. Later, he studied <strong>French in school</strong>, expanding his linguistic toolbox and deepening his appreciation for communication across cultures. Growing up speaking <strong>Serbian</strong>, gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
-<br>
-<br>
- At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Lacking a modern setup, Igor’s curiosity became his most powerful resource.
- <br>
- <br>
- In high school (gymnasium, 4 years), Igor was an <strong>exemplary</strong> student of his generation in IT and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
- <br>
- <br>
- After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
- <br>
- <br>
- <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology - among many others.
- He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
- <br>
- <br>
- During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><code>CalculusEx</code></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
- <br>
- <br>
- Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
- <br>
- <br>
-Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
+  <summary>👶🏼 Early life</summary>
+  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
+  <br>
+  <br>
+  Beyond the tech world, he also learned Spanish <strong>on his own</strong>, immersing himself daily despite having no formal instruction. Later, he studied <strong>French in school</strong>, expanding his linguistic toolbox and deepening his appreciation for communication across cultures. Growing up speaking <strong>Serbian</strong>, gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
+  <br>
+  <br>
+  At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Lacking a modern setup, Igor’s curiosity became his most powerful resource.
+  <br>
+  <br>
+  In high school (gymnasium, 4 years), Igor was an <strong>exemplary</strong> student of his generation in IT and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
+  <br>
+  <br>
+  After finishing high school, he created his next website named NeoVisio that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia.
+  <br>
+  <br>
+  <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology - among many others.
+  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
+  <br>
+  <br>
+  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><code>CalculusEx</code></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
+  <br>
+  <br>
+  Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
+  <br>
+  <br>
+  Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
 </details>
 
 <br>
 <br>
 
-<h3 align="center">七転び八起き</h3>
-
-<br>
-
-<div align="center">
-  <h3>📢 Announcement 📢</h3>
-  <h4>29 Aug 2025</h4>
-  <br>
-  <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
-  <br>
-  <br>
-  I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
-  <br>
-  <br>
-  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
-  <!-- <br>
-  <br>
-  <blockquote>
-    <br>
-    🤗 See my <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/events/github-unwrapped-2024.md"><strong>GitHub Unwrapped</strong></a> for 2024 🎄
-    <br>
-    <br>
-  </blockquote> -->
-</div>
-
-<br>
-
-<h3 align="center">日々進歩</h3>
-
-<br>
-
 <details>
-  <summary>
-    <h3>⚡ MY TECH STACK ⚡</h3>
-  </summary>
-<div align="center">
-  <em><strong>Browse by development aspect:</strong></em>
-  <br>
-  <br>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="See my front-end development projects" width="90" height="25" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="See my back-end development projects" width="90" height="25" loading="lazy"></a>
-  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="See my full-stack development projects" width="90" height="25" loading="lazy"></a>
-</div>
+  <summary>⚡ Tech stack ⚡</summary>
+  <div align="center">
+    <em><strong>Browse by development aspect:</strong></em>
+    <br>
+    <br>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="See my front-end development projects" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="See my back-end development projects" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="See my full-stack development projects" width="90" height="25" loading="lazy"></a>
+  </div>
 
-<br>
+  <br>
 
 🌎 <strong>Web</strong>:
 <a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>,
