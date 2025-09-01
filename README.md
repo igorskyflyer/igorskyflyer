@@ -392,6 +392,7 @@ Chrome extensions
     <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X page" loading="lazy"></a>
 
   <br>
+  <br>
 
 Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc.
 
