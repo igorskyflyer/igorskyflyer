@@ -33,6 +33,8 @@ Currently working as a:
   <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
 
+<br>
+
 He is also a:
 <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
