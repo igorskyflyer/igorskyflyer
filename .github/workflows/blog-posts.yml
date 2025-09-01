@@ -19,4 +19,4 @@ jobs:
         with:
           commit_message: 'Add latest blog posts'
           feed_list: 'https://igorskyflyer.me/rss.xml'
-          template: '$newline<a href="$url" target="_blank">$title</a>$newline<br>'
+          template: '$newline- <a href="$url" target="_blank">$title</a>$newline<br><br>'
