@@ -16,7 +16,8 @@ Creator of flagship tools including:
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `305K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - powering `112K+` monthly CDN hits
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
-and many other endearing projects.
+<br>
+and a variety of other impactful projects.
 </div>
 
 <br>
