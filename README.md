@@ -416,12 +416,12 @@ Chrome extensions
 <br>
 <br>
 
-<div align="center">
-  <h3>🔥 STATISTICS 🔥</h3>
+<details>
+  <summary>🔥 Statistics</summary>
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
   <br>
   <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
-</div>
+</details>
 
 <br>
 
