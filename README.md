@@ -432,8 +432,6 @@ Chrome extensions
     <br>
     <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
   </div>
-  <br>
-  <br>
 </details>
 
 <br>
