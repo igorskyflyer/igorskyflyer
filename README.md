@@ -3,14 +3,27 @@
 </h3>
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian software engineer, a graduate <strong>BSc in Software engineering</strong> <em>(with Honors, 4 years)</em> specializing in full-stack Web, desktop and mobile development with a strong passion for everything tech related. Creator of <a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> - an Adblock templates compiler, <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> - Adblock template language and file format, <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> - a set of multiple efficient Adblock filter lists, <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> - a popular (<strong><code>305K+</code></strong> of downloads) Visual Studio Code extension, <a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats"><strong>scrollend polyfill</strong></a> - a JavaScript polyfill for the <code>scrollend</code> event (<strong><code>+112K hits/month</code></strong>), <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> - a compact and expressive commit-tagging system and many other endearing projects.
-  <br>
-  <br>
-  He has built numerous projects from the ground up, applying dedication and precision at every stage. His contributions consistently support and elevate the developer community through thoughtfully engineered libraries, modules, extensions, add-ons, and most recently, Visual Studio Code themes designed to enhance developer experience.
-  <br>
-  <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
-  <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
-  <br>🎯 Always looking for <strong>challenges</strong>.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full‑stack engineer & developer experience architect, who builds high‑impact, open‑source ecosystems that blend technical precision with user‑friendly design. With a BSc in Software Engineering (with Honors) and 15+ years of hands‑on coding, he has delivered everything from custom compilers, AST engines, Visual Studio Code extensions and themes, to end‑to‑end e‑commerce platforms.
+
+<br>
+
+Creator of flagship tools including:
+
+- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler and DSL
+- [**ADBT**](https://github.com/adbt-lang) - a domain‑specific language and file format for reusable adblock filters
+- [**AdVoid**](https://github.com/the-advoid/ad-void) - high‑performance adblock filter lists
+- [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with 305K+ installs
+- [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - powering 112K+ hits/month
+- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
+
+<br>
+
+As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
+
+<br>
+<br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
+<br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
+<br>🎯 Always looking for <strong>challenges</strong>.
 </div>
 
 <br>
@@ -356,6 +369,7 @@ AI,
   <br>
 
   <!-- BLOG-POST-LIST:START -->
+
 <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 <br>
 <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
