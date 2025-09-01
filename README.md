@@ -72,7 +72,7 @@ Currently working as a:
  <br>
  <br>
 Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
-<details>
+</details>
 
 <br>
 <br>
@@ -108,8 +108,11 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <br>
 
+<details>
+  <summary>
+    <h3>⚡ MY TECH STACK ⚡</h3>
+  </summary>
 <div align="center">
-  <h3>⚡ MY TECH STACK ⚡</h3>
   <em><strong>Browse by development aspect:</strong></em>
   <br>
   <br>
@@ -228,6 +231,8 @@ Chrome extensions
 <a href="https://www.netlify.com"><strong>Netlify</strong></a>,
 <a href="https://github.com"><strong>GitHub Pages</strong></a>,
 <a href="https://replit.com"><strong>Replit</strong></a>
+
+</details>
 
 <br>
 <br>
