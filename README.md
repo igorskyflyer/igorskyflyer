@@ -422,15 +422,15 @@ Chrome extensions
 
 <br>
 
-<div align="center" data-hide>
-  There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
-  <br>
-  <br>
-</div>
-
-<br>
-
 <div align="center">
   <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
   Igor Dimitrijević (igorskyflyer)
 </div>
+
+<br>
+
+<blockquote align="center" data-hide>
+  There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
+  <br>
+  <br>
+</blockquote>
