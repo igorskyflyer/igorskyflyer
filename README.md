@@ -9,8 +9,8 @@
 
 Creator of flagship tools including:
 
-- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler and DSL
-- [**ADBT**](https://github.com/adbt-lang) - a DSL and file format for reusable adblock filters
+- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his custom DSL
+- [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - high‑performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `305K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - `112K+` monthly CDN hits
