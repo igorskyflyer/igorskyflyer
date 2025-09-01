@@ -446,7 +446,5 @@ Chrome extensions
 
 <div align="center">
   <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
-
-Igor Dimitrijević (igorskyflyer)
-
+  Igor Dimitrijević (igorskyflyer)
 </div>
