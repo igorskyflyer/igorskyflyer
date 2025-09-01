@@ -6,6 +6,7 @@
   <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full‑stack engineer, open‑source maintainer, and developer experience architect, who builds high‑impact, open‑source ecosystems that blend technical precision with user‑friendly design. With a BSc in Software Engineering (with Honors) and 15+ years of hands‑on coding, he has delivered everything from custom compilers, AST engines, Visual Studio Code extensions and themes, to end‑to‑end e‑commerce platforms.
 
 <br>
+<br>
 
 Creator of flagship tools including:
 
@@ -15,6 +16,7 @@ Creator of flagship tools including:
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `305K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - powering `112K+` monthly CDN hits
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
+and many other endearing projects.
 </div>
 
 <br>
