@@ -1,4 +1,4 @@
-name: Update latest blog posts
+name: Update blog ✍🏼
 
 on:
   schedule:
