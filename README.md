@@ -20,10 +20,11 @@ Creator of flagship tools including:
 
 As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
 
-<br>
+He is also a:
 <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
-<br>🎯 Always looking for <strong>challenges</strong>.
+<br>🎯 <strong>Challenge‑driven</strong> problem solver.
+
 </div>
 
 <br>
