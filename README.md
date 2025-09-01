@@ -213,7 +213,6 @@ Chrome extensions
 </details>
 
 <br>
-<br>
 
 <details>
   <summary><strong>🤗 Don’t leave yet - you might like this</strong></summary>
