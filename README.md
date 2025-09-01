@@ -216,7 +216,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary><strong>🤗 Don’t leave yet - you might like this</strong></summary>
+  <summary><strong>🤗 Additional activities</strong></summary>
   🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
   <br>
   🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
