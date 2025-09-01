@@ -215,137 +215,138 @@ Chrome extensions
 <br>
 <br>
 
-🤗 Don&#39;t go yet because I:
+<details>
+  <summary><strong>🤗 Don’t leave yet - you might like this</strong></summary>
+  🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
+  <br>
+  🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
+  <br>
+  🐛 squash bugs for cash on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
-🌹 can help you block pesky ads &amp; trackers using an AdBlock filter I am maintaining <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
-<br>
-🗣️ created my own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
-<br>
-🐛 squash bugs for cash on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
+  <ul data-no-restyle>
+    <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
+  </ul>
+  🎀 like crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>:
+  <ul data-no-restyle>
+    <li>🦆 <strong><code>55+</code></strong> <a href="https://www.npmjs.com/~igorskyflyer"><strong>packages</strong></a> built already</li>
+    <li>🦀 <strong><code>100K+</code></strong> of installs</li>
+  </ul>
+  🔨 like forging Visual Studio Code APIs:
+  <ul data-no-restyle>
+    <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
+  </ul>
+  🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>:
+  <ul data-no-restyle>
+    <li>🐚&nbsp; <strong><code>11</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far</li>
+    <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme</a></strong> so far</li>
+    <li>🦐 <strong><code>330K+</code></strong> of installs</li>
+    <li>✅ <strong><code>verified</code></strong> extension developer</li>
+  </ul>
+  🧩 like assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
+  <ul data-no-restyle>
+    <li>🛸 <strong><code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer">action</a></strong> so far</li>
+  </ul>
+  🦦 like producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
+  <ul data-no-restyle>
+    <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module</a></strong> so far</li>
+  </ul>
+  📑 like translating projects - <em>pro bono</em>, on Crowdin:
+  <ul data-no-restyle>
+    <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
+  </ul>
+  🎠 like making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
+  <br>
+  🐣 am excited about these upcoming technologies:
+  <a href="https://pyscript.net"><strong>PyScript</strong></a>,
+  <a href="https://formkit.com"><strong>FormKit</strong></a>,
+  <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
+  <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
+  <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
+  <br>
+  🏅 have completed Google’s Foobar challenge
+  <br>
+  🌱 am currently learning
+  AI,
+  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
+  <a href="https://react.dev/"><strong>React</strong></a>
+  <br>
+  🙌 am constantly creating open-source projects that help the dev-community
+  <br>
+  📜 own more than <strong><code>30</code></strong> programming certificates
+  <br>
+  👯 am looking to collaborate on exciting and challenging projects
+  <br>
+  🤝 am looking for help with my <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>FOSS</strong></a> projects
+  <br>
+  🤼 like exchanging opinions with my people at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
+  <br>
+  🧪 do front-end experiments on my <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> like:
 
-<ul data-no-restyle>
-  <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
-</ul>
-🎀 like crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>:
-<ul data-no-restyle>
-  <li>🦆 <strong><code>55+</code></strong> <a href="https://www.npmjs.com/~igorskyflyer"><strong>packages</strong></a> built already</li>
-  <li>🦀 <strong><code>100K+</code></strong> of installs</li>
-</ul>
-🔨 like forging Visual Studio Code APIs:
-<ul data-no-restyle>
-  <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
-</ul>
-🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>:
-<ul data-no-restyle>
-  <li>🐚&nbsp; <strong><code>11</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far</li>
-  <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme</a></strong> so far</li>
-  <li>🦐 <strong><code>330K+</code></strong> of installs</li>
-  <li>✅ <strong><code>verified</code></strong> extension developer</li>
-</ul>
-🧩 like assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
-<ul data-no-restyle>
-  <li>🛸 <strong><code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer">action</a></strong> so far</li>
-</ul>
-🦦 like producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
-<ul data-no-restyle>
-  <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module</a></strong> so far</li>
-</ul>
-📑 like translating projects - <em>pro bono</em>, on Crowdin:
-<ul data-no-restyle>
-  <li>💬 <strong><code>2</code> <a href="http://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
-</ul>
-🎠 like making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
-<br>
-🐣 am excited about these upcoming technologies:
-<a href="https://pyscript.net"><strong>PyScript</strong></a>,
-<a href="https://formkit.com"><strong>FormKit</strong></a>,
-<a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
-<a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
-<a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
-<br>
-🏅 have completed Google’s Foobar challenge
-<br>
-🌱 am currently learning
-AI,
-<a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
-<a href="https://react.dev/"><strong>React</strong></a>
-<br>
-🙌 am constantly creating open-source projects that help the dev-community
-<br>
-📜 own more than <strong><code>30</code></strong> programming certificates
-<br>
-👯 am looking to collaborate on exciting and challenging projects
-<br>
-🤝 am looking for help with my <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>FOSS</strong></a> projects
-<br>
-🤼 like exchanging opinions with my people at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
-<br>
-🧪 do front-end experiments on my <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> like:
-
-<blockquote>
-  🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong></a>
+  <blockquote>
+    🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong></a>
+    <br>
+    💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong></a>
+    <br>
+    🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz"><strong>CSS Road</strong></a>
+    <br>
+    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo"><strong>CSS Laptop</strong></a>
+    <br>
+    🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ"><strong>CSS Ice-Cream</strong></a>
+    <br>
+    📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR"><strong>CSS Mobile Phone</strong></a>
+    <br>
+    🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb"><strong>Audio Player</strong></a> and
+    <br>
+    ♾️ &nbsp;still to come.
+  </blockquote>
+  ⚔️ battle on <a href="https://cssbattle.dev?via=igorskyflyer"><strong>CSS Battles</strong></a>
   <br>
-  💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong></a>
+  🏀 dribble on <a href="https://dribbble.com/igorskyflyer"><strong>Dribbble</strong></a>
   <br>
-  🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz"><strong>CSS Road</strong></a>
+  📝 post snippets on my <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
   <br>
-  💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo"><strong>CSS Laptop</strong></a>
+  <span id="recursion"></span>
+  🦘 love adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
+  <ul data-no-restyle>
+    <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong></a> so far</li>
+  </ul>
+  🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
-  🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ"><strong>CSS Ice-Cream</strong></a>
+  👟 love taking long walks &amp; runs:
+  <strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
+  <ul data-no-restyle>
+    <li>
+    <code>26.17km/16.26mi</code>
+    </li>
+    <li>
+      <code>32855 steps</code>
+    </li>
+    <li>
+    <code>1091 kcal</code>
+    </li>
+  </ul>
+  🌱 adore being in touch with nature
   <br>
-  📱 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/pmGyGR"><strong>CSS Mobile Phone</strong></a>
+  🐒 adhere to the metaphysical naturalism
   <br>
-  🎷 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/OYaLrb"><strong>Audio Player</strong></a> and
+  ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
   <br>
-  ♾️ &nbsp;still to come.
-</blockquote>
-⚔️ battle on <a href="https://cssbattle.dev?via=igorskyflyer"><strong>CSS Battles</strong></a>
-<br>
-🏀 dribble on <a href="https://dribbble.com/igorskyflyer"><strong>Dribbble</strong></a>
-<br>
-📝 post snippets on my <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
-<br>
-<span id="recursion"></span>
-🦘 love adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
-<ul data-no-restyle>
-  <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong></a> so far</li>
-</ul>
-🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
-<br>
-👟 love taking long walks &amp; runs:
-<strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
-<ul data-no-restyle>
-  <li>
-   <code>26.17km/16.26mi</code>
-  </li>
-  <li>
-    <code>32855 steps</code>
-  </li>
-  <li>
-   <code>1091 kcal</code>
-  </li>
-</ul>
-🌱 adore being in touch with nature
-<br>
-🐒 adhere to the metaphysical naturalism
-<br>
-⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
-<br>
-😽 rescue and foster animals: mostly cats, some dogs, and the occasional sparrow or goldfish
-<br>
-🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
-<br>
-🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
-<br>
-🐬 am a firm believer in <strong>autodidacticism</strong>
-<br>
-🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
-<br>🎭 am also known as:
-<strong>Igor Dimitrijević</strong>,
-<strong>igorskyflyer</strong>,
-<strong>Игор Димитријевић</strong>
-<br>
-🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+  😽 rescue and foster animals: mostly cats, some dogs, and the occasional sparrow or goldfish
+  <br>
+  🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
+  <br>
+  🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
+  <br>
+  🐬 am a firm believer in <strong>autodidacticism</strong>
+  <br>
+  🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
+  <br>🎭 am also known as:
+  <strong>Igor Dimitrijević</strong>,
+  <strong>igorskyflyer</strong>,
+  <strong>Игор Димитријевић</strong>
+  <br>
+  🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+</details>
 
 <br>
 <br>
