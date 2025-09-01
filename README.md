@@ -29,25 +29,26 @@ Creator of flagship tools including:
 
 <details>
   <summary><strong>💼 Work</strong></summary>
-Currently working as a:
+  Currently working as a:
 
-<ul data-no-restyle>
-  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> [part-time]</li>
-  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> [part-time]</li>
-  <li>🐆 freelance <strong>full-stack developer</strong></li>
-  <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
-</ul>
+  <ul data-no-restyle>
+    <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> [part-time]</li>
+    <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> [part-time]</li>
+    <li>🐆 freelance <strong>full-stack developer</strong></li>
+    <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
+  </ul>
 
-<br>
+  <br>
 
 As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
 
-<br>
+  <br>
 
 He is also a:
 <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
 <br>🎯 <strong>Challenge‑driven</strong> problem solver.
+<br>
 <br>
 
 </details>
@@ -360,10 +361,10 @@ Chrome extensions
 <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code Terminal 🐢</a>
 <br>
 <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
-<br>
 
-<!-- BLOG-POST-LIST:END -->
-
+  <!-- BLOG-POST-LIST:END -->
+  <br>
+  <br>
 </details>
 
 <details>
@@ -391,11 +392,15 @@ Chrome extensions
   <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn page" loading="lazy"></a>
   <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Leetcode page" loading="lazy"></a>
   <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X page" loading="lazy"></a>
+  <br>
+  <br>
 </details>
 
 <details>
   <summary><strong>📬 Contact</strong></summary>
   Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc. or if you prefer stalking, you can 👉🏼 <a href="https://gitstalk.netlify.app/igorskyflyer"><strong>stalk me here</strong></a> 😂 🦜
+  <br>
+  <br>
 </details>
 
 <details>
@@ -411,6 +416,8 @@ Chrome extensions
     <br>
     <br>
   </blockquote>
+  <br>
+  <br>
 </details>
 
 <details>
@@ -418,6 +425,8 @@ Chrome extensions
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
   <br>
   <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
+  <br>
+  <br>
 </details>
 
 <br>
