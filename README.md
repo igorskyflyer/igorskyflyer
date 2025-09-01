@@ -55,10 +55,9 @@ He is also a:
 <br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
 <br>🎯 <strong>Challenge‑driven</strong> problem solver.
+<br>
 
 </details>
-
-<br>
 
 <details>
   <summary><strong>👶🏼 Early life</strong></summary>
