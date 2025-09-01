@@ -42,7 +42,10 @@ Currently working as a:
 
 <br>
 
-<h2>👶🏼 Early life</h2>
+<details>
+  <summary>
+    <h2>👶🏼 Early life</h2>
+  </summary>
  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
  <br>
  <br>
@@ -69,6 +72,7 @@ Currently working as a:
  <br>
  <br>
 Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
+<details>
 
 <br>
 <br>
@@ -79,7 +83,7 @@ Igor began creating open-source (<strong>FOSS</strong>) projects primarily out o
 
 <div align="center">
   <h3>📢 Announcement 📢</h3>
-	<h4>29 Aug 2025</h4>
+  <h4>29 Aug 2025</h4>
   <br>
   <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="96" height="96">
   <br>
