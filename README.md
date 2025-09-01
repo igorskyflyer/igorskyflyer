@@ -40,10 +40,6 @@ Currently working as a:
 
 <br>
 
-<h3 align="center">七転び八起き</h3>
-
-<br>
-
 <div align="center">
   <h3>📢 Announcement 📢</h3>
   <h4>29 Aug 2025</h4>
@@ -56,10 +52,6 @@ Currently working as a:
   <br>
   Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
 </div>
-
-<br>
-
-<h3 align="center">日々進歩</h3>
 
 <br>
 
