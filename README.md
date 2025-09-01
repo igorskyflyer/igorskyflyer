@@ -405,7 +405,7 @@ Chrome extensions
   <summary><strong>💝 Support</strong></summary>
   <br>
   <div align="center">
-    If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
+    Enjoy my projects? You can support them on my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
     <br>
     <br>
     <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
