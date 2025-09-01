@@ -1,6 +1,6 @@
-<h2>
+<h3>
   <code>igorskyflyer@github:~$</code> 🤖
-</h2>
+</h3>
 
 <div data-no-restyle>
   <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full‑stack engineer, open‑source maintainer, and developer experience architect, who builds high‑impact, open‑source ecosystems that blend technical precision with user‑friendly design. With a BSc in Software Engineering (with Honors) and 15+ years of hands‑on coding, he has delivered everything from custom compilers, AST engines, Visual Studio Code extensions and themes, to end‑to‑end e‑commerce platforms.
