@@ -54,6 +54,8 @@ Currently working as a:
 </div>
 
 <br>
+<br>
+<br>
 
 <details>
   <summary><strong>👶🏼 Early life</strong></summary>
