@@ -399,7 +399,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary>💝 Support</summary>
+  <summary><strong>💝 Support</strong></summary>
   If you in any case want to support my open-source work which takes my dedication and time, you can do so using my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> page.
   <br>
   <br>
@@ -414,7 +414,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary>🔥 Statistics</summary>
+  <summary><strong>🔥 Statistics</strong></summary>
   <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
   <br>
   <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
