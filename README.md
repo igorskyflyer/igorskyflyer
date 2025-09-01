@@ -90,7 +90,7 @@ Currently working as a:
 </details>
 
 <details>
-  <summary><strong>⚡ Tech stack ⚡</strong></summary>
+  <summary><strong>⚡ Tech stack</strong></summary>
   <div align="center">
     <em><strong>Browse by development aspect:</strong></em>
     <br>
