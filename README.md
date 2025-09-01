@@ -22,15 +22,12 @@ and a variety of other impactful projects.
 </div>
 
 <br>
-<br>
 
-> ### 📢 Announcement 📢
->
-> I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, caused by technical issues with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
->
-> Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1).
+### 📢 Announcement 📢
 
-<br>
+I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, caused by technical issues with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
+Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1).
+
 <br>
 
 <details>
