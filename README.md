@@ -17,8 +17,25 @@ Creator of flagship tools including:
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
 </div>
 
-<h2>💼 Work</h2>
+<br>
 
+<div align="center">
+  <h3>📢 Announcement 📢</h3>
+  <h4>29 Aug 2025</h4>
+  <br>
+  <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="128" height="128">
+  <br>
+  <br>
+  I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
+  <br>
+  <br>
+  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
+</div>
+
+<br>
+
+<details>
+  <summary><strong>💼 Work</strong></summary>
 Currently working as a:
 
 <ul data-no-restyle>
@@ -39,23 +56,8 @@ He is also a:
 <br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
 <br>🎯 <strong>Challenge‑driven</strong> problem solver.
 
-<br>
+</details>
 
-<div align="center">
-  <h3>📢 Announcement 📢</h3>
-  <h4>29 Aug 2025</h4>
-  <br>
-  <img src="https://raw.githubusercontent.com/igorskyflyer/project-nextwave/main/media/nextwave.png" alt="Project NextWave" width="128" height="128">
-  <br>
-  <br>
-  I am in the process of migrating all of my npm packages from <a href="https://www.npmjs.com/~igor.dvlpr">@igor.dvlpr</a> to <a href="https://www.npmjs.com/~igorskyflyer">@igorskyflyer</a> username and scope, caused by technical issues with the previous scope (<a href="https://github.com/orgs/community/discussions/169922">official discussion</a>).
-  <br>
-  <br>
-  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a>.
-</div>
-
-<br>
-<br>
 <br>
 
 <details>
