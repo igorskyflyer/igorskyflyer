@@ -437,8 +437,7 @@ Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></
   <br>
 </details>
 
-<br>
-<br>
+---
 
 <div align="center">
   <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
