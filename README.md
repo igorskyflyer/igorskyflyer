@@ -28,7 +28,7 @@ Creator of flagship tools including:
 <br>
 
 <details>
-  <summary><div><strong>💼 Work</strong></div></summary>
+  <summary><strong>💼 Work</strong></summary>
   Currently working as a:
 
   <ul data-no-restyle>
