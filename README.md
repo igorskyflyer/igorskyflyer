@@ -448,7 +448,7 @@ Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></
 <br>
 
 <blockquote align="center" data-hide>
-  There is also a 🔮 <strong>magical</strong> 🌟 self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>.
+  ✨ There is also a <strong>magical</strong> self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>. ✨
   <br>
   <br>
 </blockquote>
