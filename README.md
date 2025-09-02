@@ -18,7 +18,6 @@ Creator of flagship projects including:
 …alongside a variety of other impactful projects.
 
 <br>
-<br>
 
 **Highlights:**
 
