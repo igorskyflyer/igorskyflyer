@@ -1,12 +1,7 @@
 # Igor Dimitrijević (igorskyflyer)
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian senior full-stack engineer, prolific open-source maintainer, and developer experience architect. He builds high-impact open-source ecosystems where technical precision meets user-friendly design. With a BSc in Software Engineering (with Honors) and over 12 years of hands-on coding, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
-
-<br>
-<br>
-
-<em><strong>Highlights:</strong> 55+ published npm packages with 100K+ of installs • 11 VS Code extensions + 1 theme (330K+ installs) • Verified VS Code publisher • scrollend polyfill with 113K+/mo CDN hits</em>
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian senior full‑stack engineer and award‑winning open‑source maintainer, known for building developer tools and compilers used by hundreds of thousands worldwide. With a BSc in Software Engineering (with Honors) and over 12 years of hands-on coding, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
 
 <br>
 <br>
@@ -21,6 +16,16 @@ Creator of flagship projects including:
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
 …alongside a variety of other impactful projects.
+
+<br>
+<br>
+
+**Highlights:**
+
+- 330K+ installs across 11 VS Code extensions + 1 theme
+- Top CDN‑served packages with 100K+/mo hits
+- 100K+ installs across 55 published npm packages
+- Verified VS Code publisher
 
 </div>
 
