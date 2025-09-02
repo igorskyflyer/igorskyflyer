@@ -21,11 +21,11 @@ Creator of flagship projects including:
 
 **Highlights:**
 
-- 330K+ installs across 11 VS Code extensions + 1 theme
-- Top CDN‑served packages with 100K+/mo hits
-- 100K+ installs across 55 published npm packages
-- Verified VS Code publisher
-- Won an award for the best site
+- `330K+` installs across 11 VS Code extensions and 1 theme
+- `115K+` monthly hits for top CDN‑served packages
+- `100K+` installs across 55 published npm packages
+- Verified Visual Studio Code publisher
+- Recipient of Best Site award
 
 </div>
 
