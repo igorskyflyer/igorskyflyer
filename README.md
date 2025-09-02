@@ -41,31 +41,30 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 
 ---
 
-<details>
-  <summary><strong>💼 Work</strong></summary>
-  <br>
-  Currently working as a:
+### 💼 Work
 
-  <ul data-no-restyle>
-    <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> [part-time]</li>
-    <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> [part-time]</li>
-    <li>🐆 freelance <strong>full-stack developer</strong></li>
-    <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
-  </ul>
+Currently working as a:
 
-  <br>
+<ul data-no-restyle>
+  <li>🦶🏼 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> [part-time]</li>
+  <li>🍸 <strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> [part-time]</li>
+  <li>🐆 freelance <strong>full-stack developer</strong></li>
+  <li>🧙🏻‍♂️ <em>free-will</em> <strong>open sourcerer</strong></li>
+</ul>
+
+<br>
 
 As a freelance solutions engineer, Igor has architected and delivered complete WordPress/WooCommerce platforms - from hosting and database setup to custom themes, advanced admin features, automated fulfillment integrations, SEO optimization, and server security hardening.
 
-  <br>
-
-He is also a:
-<br>✍🏼 Tech <strong>book author</strong> <em>in the making</em>.
-<br>👨🏻‍💻 Huge <strong>DX</strong> (<em>developer experience</em>) advocate.
-<br>🎯 <strong>Challenge‑driven</strong> problem solver.
 <br>
 
-</details>
+He is also a:
+
+- ✍🏼 Tech **book author** _in the making_.
+- 👨🏻‍💻 Huge **DX** (_developer experience_) advocate.
+- 🎯 **Challenge‑driven** problem solver.
+
+<br>
 
 <details>
   <summary><strong>⚡ Tech Stack</strong></summary>
