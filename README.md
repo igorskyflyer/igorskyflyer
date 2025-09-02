@@ -355,8 +355,6 @@ Chrome extensions
   <summary><strong>✍🏼 Latest Blog Posts</strong></summary>
   <br>
   Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
-  <br>
-  <br>
   <!-- BLOG-POST-LIST:START -->
 <br><br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 
@@ -367,6 +365,7 @@ Chrome extensions
 <br><br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code Terminal 🐢</a>
 
 <br><br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a>
+
 <!-- BLOG-POST-LIST:END -->
 <br>
 </details>
