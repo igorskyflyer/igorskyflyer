@@ -29,6 +29,8 @@ Creator of flagship projects including:
 
 </div>
 
+<br>
+
 ## 💼 Work
 
 Currently working as a:
