@@ -87,7 +87,7 @@ jQuery,
 SQLite,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap"><strong>Bootstrap</strong></a>,
 MySQL,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>Wordpress</strong></a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>,
+<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>WordPress</strong></a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>,
 <a href="https://github.com/igorskyflyer?tab=repositories&q=PWA"><strong>PWA</strong></a>
 <br>
@@ -236,10 +236,6 @@ Chrome extensions
   AI,
   <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <a href="https://react.dev/"><strong>React</strong></a>
-  <br>
-  🙌 am constantly creating open-source projects that help the dev-community
-  <br>
-  📜 own more than <strong><code>30</code></strong> programming certificates
   <br>
   👯 am looking to collaborate on exciting and challenging projects
   <br>
