@@ -17,6 +17,6 @@ jobs:
       - name: Update latest blog posts from website
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          commit_message: '🤖 action: add blog posts'
+          commit_message: '🤖 action: fetch blog posts'
           feed_list: 'https://igorskyflyer.me/rss.xml'
           template: '$newline<br>- <a href="$url" target="_blank">$title</a>'
