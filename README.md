@@ -7,6 +7,7 @@
 <br>
 
 Creator of flagship projects including:
+
 - [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - high-performance adblock filter lists
@@ -21,7 +22,8 @@ Creator of flagship projects including:
 ---
 
 ## 📢 Announcement
-*02 Sep 2025*
+
+_02 Sep 2025_
 
 I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, caused by technical difficulties with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
 
@@ -213,7 +215,7 @@ Chrome extensions
 </details>
 
 <details>
-  <summary><strong>🤗 Additional Activities</strong></summary>
+  <summary><strong>🤖 Tech Activities</strong></summary>
   <br>
   Also I:
   <br>
@@ -311,6 +313,11 @@ Chrome extensions
     <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong></a> so far</li>
   </ul>
   🔃 can teach you about recursion, read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
+  <br>
+  </details>
+
+  <details>
+  <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
   👟 love taking long walks &amp; runs:
   <strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
