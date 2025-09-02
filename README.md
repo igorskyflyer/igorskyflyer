@@ -21,9 +21,10 @@ and a variety of other impactful projects.
 
 ---
 
-## 📢 Announcement (_02-Sep-2025_)
+## 📢 Announcement
+### 02-Sep-2025
 
-### `igorskyflyer@github:~$` 🤖
+#### `igorskyflyer@github:~$` 🤖
 
 I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, caused by technical issues with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
 
