@@ -1,19 +1,18 @@
 # Igor Dimitrijević (igorskyflyer)
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full‑stack engineer, open‑source maintainer, and developer experience architect, who builds high‑impact, open‑source ecosystems that blend technical precision with user‑friendly design. With a BSc in Software Engineering (with Honors) and 15+ years of hands‑on coding, he has delivered everything from custom compilers, AST engines, Visual Studio Code extensions and themes, to end‑to‑end e‑commerce platforms.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, commonly known as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full-stack engineer, open-source maintainer, and developer experience architect, who builds high-impact, open-source ecosystems that blend technical precision with user-friendly design. With a BSc in Software Engineering (with Honors) and 15+ years of hands-on coding, he has delivered everything from custom compilers, AST engines, Visual Studio Code extensions and themes, to end-to-end e-commerce platforms.
 
 <br>
 <br>
 
 Creator of flagship projects including:
-
 - [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his custom DSL
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
-- [**AdVoid**](https://github.com/the-advoid/ad-void) - high‑performance adblock filter lists
+- [**AdVoid**](https://github.com/the-advoid/ad-void) - high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `307K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - `110K+` monthly CDN hits
-- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit‑tagging system
+- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
 and a variety of other impactful projects.
 
@@ -432,7 +431,7 @@ Reach me via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></
 ---
 
 <div align="center">
-  <h4><em>“Built for elegance. Shaped for endurance.”</em></h4>
+  <h3><em>“Built for elegance. Shaped for endurance.”</em></h3>
   <strong>Igor Dimitrijević (<em>igorskyflyer</em>)</strong>
 </div>
 
