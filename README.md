@@ -41,7 +41,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 
 ---
 
-### 💼 Work
+## 💼 Work
 
 Currently working as a:
 
