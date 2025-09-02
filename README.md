@@ -21,9 +21,9 @@ Creator of flagship projects including:
 
 **Highlights:**
 
-- `330K+` installs across 11 VS Code [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and 1 [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `330K+` installs across `11` VS Code [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `115K+` monthly hits for top CDN‑served packages
-- `100K+` installs across 55 published [npm packages](https://www.npmjs.com/~igorskyflyer)
+- `100K+` installs across `55` published [npm packages](https://www.npmjs.com/~igorskyflyer)
 - Verified Visual Studio Code publisher
 - Recipient of a Best Site award
 
