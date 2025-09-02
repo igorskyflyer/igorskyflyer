@@ -21,11 +21,11 @@ Creator of flagship projects including:
 
 **Highlights:**
 
-- `330K+` installs across 11 VS Code extensions and 1 theme
+- `330K+` installs across 11 VS Code [extensions](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and 1 [theme](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `115K+` monthly hits for top CDN‑served packages
-- `100K+` installs across 55 published npm packages
+- `100K+` installs across 55 published [npm packages](https://www.npmjs.com/~igorskyflyer)
 - Verified Visual Studio Code publisher
-- Recipient of Best Site award
+- Recipient of a Best Site award
 
 </div>
 
@@ -199,22 +199,14 @@ Chrome extensions
   <ul data-no-restyle>
     <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
   </ul>
-  🎀 like crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>:
-  <ul data-no-restyle>
-    <li>🦆 <strong><code>55+</code></strong> <a href="https://www.npmjs.com/~igorskyflyer"><strong>packages</strong></a> built already</li>
-    <li>🦀 <strong><code>100K+</code></strong> of installs</li>
-  </ul>
+  🎀 like crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>
+  <br>
   🔨 like forging Visual Studio Code APIs:
   <ul data-no-restyle>
     <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
   </ul>
-  🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>:
-  <ul data-no-restyle>
-    <li>🐚&nbsp; <strong><code>11</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance">extensions</a></strong> so far</li>
-    <li>💄&nbsp; <strong><code>1</code> <a href="https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance">theme</a></strong> so far</li>
-    <li>🦐 <strong><code>330K+</code></strong> of installs</li>
-    <li>✅ <strong><code>verified</code></strong> extension developer</li>
-  </ul>
+  🧃 like building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>
+  <br>
   🧩 like assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
   <ul data-no-restyle>
     <li>🛸 <strong><code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer">action</a></strong> so far</li>
