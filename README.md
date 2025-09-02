@@ -50,7 +50,7 @@ He is also a tech **book author** _in the making_, huge **DX** (_developer exper
 
 ## 📢 Announcement
 
-_02 Sep 2025_
+_02-Sep-2025_
 
 I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, caused by technical difficulties with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
 
