@@ -58,11 +58,7 @@ As a freelance solutions engineer, Igor has architected and delivered complete W
 
 <br>
 
-He is also a:
-
-- ✍🏼 Tech **book author** _in the making_.
-- 👨🏻‍💻 Huge **DX** (_developer experience_) advocate.
-- 🎯 **Challenge‑driven** problem solver.
+He is also a tech **book author** _in the making_, huge **DX** (_developer experience_) advocate, **challenge‑driven** problem solver.
 
 <br>
 
