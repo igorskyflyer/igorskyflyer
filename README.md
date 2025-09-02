@@ -6,6 +6,11 @@
 <br>
 <br>
 
+<em><strong>Highlights:</strong> 55+ published npm packages with 100K+ of installs • 11 VS Code extensions + 1 theme (330K+ installs) • Verified VS Code publisher • scrollend polyfill with 113K+/mo CDN hits</em>
+
+<br>
+<br>
+
 Creator of flagship projects including:
 
 - [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
