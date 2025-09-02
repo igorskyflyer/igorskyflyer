@@ -12,7 +12,7 @@ Creator of flagship projects including:
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro integrations**](https://astro.build/integrations?search=igor.dvlpr) - a collection of official components in Astro's integration library, including post‑excerpt rendering, component bootstrapping, and CSP‑safe resource handling and more
+- [**Astro integrations**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post‑excerpt rendering, component bootstrapping, and CSP‑safe resource handling
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - widely used polyfill for the `scrollend` event (served via CDN)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
@@ -230,7 +230,7 @@ Chrome extensions
   <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
   <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
   <br>
-  🏅 have completed Google’s Foobar challenge
+  🏅 have completed Google's Foobar challenge
   <br>
   🌱 am currently learning
   AI,
@@ -290,7 +290,7 @@ Chrome extensions
   Beyond the tech world, he also learned Spanish <strong>on his own</strong>, immersing himself daily despite having no formal instruction. Later, he studied <strong>French in school</strong>, expanding his linguistic toolbox and deepening his appreciation for communication across cultures. Growing up speaking <strong>Serbian</strong>, gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
   <br>
   <br>
-  At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Lacking a modern setup, Igor’s curiosity became his most powerful resource.
+  At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and finally <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and trying out new things. Once he had learnt the basics, he built a few websites on <em>Peperonity</em> which were some of the most popular sites at the time. After that, he proceeded to learn <strong>JavaScript</strong> in depth and created a new website on <em>XTgem</em> that he submitted to a contest for the best website (multiple categories) organized by the XTgem team. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Lacking a modern setup, Igor's curiosity became his most powerful resource.
   <br>
   <br>
   In high school (gymnasium, 4 years), Igor was an <strong>exemplary</strong> student of his generation in IT and was commended multiple times by his professors. After <strong>HTML</strong> and <strong>CSS</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
@@ -309,7 +309,7 @@ Chrome extensions
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
   <br>
   <br>
-  Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn’t just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
+  Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
   <br>
 </details>
 
