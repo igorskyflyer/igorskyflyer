@@ -12,7 +12,7 @@ Creator of flagship projects including:
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `308K+` installs
-- [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - `115K+` monthly CDN hits
+- [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - widely used polyfill for the `scrollend` event (served via CDN)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
 …alongside a variety of other impactful projects.
