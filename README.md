@@ -25,6 +25,7 @@ Creator of flagship projects including:
 - Top CDN‑served packages with 100K+/mo hits
 - 100K+ installs across 55 published npm packages
 - Verified VS Code publisher
+- Won an award for the best site
 
 </div>
 
