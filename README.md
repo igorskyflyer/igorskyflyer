@@ -45,6 +45,10 @@ Currently working as a:
 
 <br>
 
+More about Igor's past work can be found [here](./PAST_WORK.md).
+
+<br>
+
 He is also a tech **book author** _in the making_, huge **DX** (_developer experience_) advocate, **challenge‑driven** problem solver.
 
 ---
