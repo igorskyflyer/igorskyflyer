@@ -1,20 +1,20 @@
 # Igor Dimitrijević (igorskyflyer)
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић) born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong> is a Serbian senior full-stack engineer, prolific open-source maintainer, and developer experience architect. He builds high-impact, open-source ecosystems where technical precision meets user-friendly design. With a BSc in Software Engineering (with Honors) and over 12 years of hands-on coding, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian senior full-stack engineer, prolific open-source maintainer, and developer experience architect. He builds high-impact open-source ecosystems where technical precision meets user-friendly design. With a BSc in Software Engineering (with Honors) and over 12 years of hands-on coding, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
 
 <br>
 <br>
 
 Creator of flagship projects including:
-- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his custom DSL
+- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a Visual Studio Code extension with `307K+` installs
 - [**scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - `110K+` monthly CDN hits
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
-and a variety of other impactful projects.
+…alongside a variety of other impactful projects.
 
 </div>
 
