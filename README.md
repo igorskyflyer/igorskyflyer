@@ -406,7 +406,7 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <summary><strong>💝 Support</strong></summary>
   <br>
   <div align="center">
-    If his open‑source projects have improved your workflow or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
+    If his open‑source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
     <br>
     <br>
     <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open‑Source Projects" width="180" height="46" loading="lazy"></a>
