@@ -31,7 +31,7 @@ Creator of flagship projects including:
 - `30+` programming certificates
 - Trusted by [**recurring clients**](./PAST_WORK.md) to deliver high-impact projects
 - Verified Visual Studio Code publisher
-- Recipient of a `Best Site` award (2009, age 16, built entirely on a Sony Ericsson J300i)
+- Recipient of a `Best Site` award (2009 - age 16, built entirely on a Sony Ericsson J300i)
 
 </div>
 
