@@ -39,6 +39,8 @@ Creator of flagship projects including:
 
 > If his projects have improved your workflow, you can support their development via [**Ko-Fi**](https://ko-fi.com/igorskyflyer).
 
+<br>
+
 ## 💼 Work
 
 Currently working as a:
