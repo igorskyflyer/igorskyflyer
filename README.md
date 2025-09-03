@@ -33,6 +33,10 @@ Creator of flagship projects including:
 
 <br>
 
+If his open‑source projects have improved your workflow or productivity, you can support their ongoing development via [**Ko-Fi**](https://ko-fi.com/igorskyflyer).
+
+<br>
+
 ## 💼 Work
 
 Currently working as a:
