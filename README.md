@@ -12,7 +12,7 @@ Creator of flagship projects including:
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro components**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP‑safe resource handling
+- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP‑safe resource handling
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (served via CDN)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
@@ -69,9 +69,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <em><strong>Browse by development aspect:</strong></em>
     <br>
     <br>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="See my front-end development projects" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="See my back-end development projects" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="See my full-stack development projects" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="See igorskyflyer's front-end development projects" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="See igorskyflyer's back-end development projects" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="See igorskyflyer's full-stack development projects" width="90" height="25" loading="lazy"></a>
   </div>
   <br>
 
@@ -403,7 +403,7 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <summary><strong>💝 Support</strong></summary>
   <br>
   <div align="center">
-    Enjoy my projects? You can support them on my <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
+    If his projects have made your work easier or more enjoyable, you can support their future development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
     <br>
     <br>
     <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Igor Dimitrijević (igorskyflyer) profile - Donate to igorskyflyer" width="180" height="46" loading="lazy"></a>
@@ -424,7 +424,7 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <div align="center">
     <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) profile - Top Languages Used" width="500" height="525" loading="lazy">
     <br>
-    <sub><em><strong>Metric that shows which languages are used the most in my repositories</strong></em></sub>
+    <sub><em><strong>Most‑used languages in his open‑source work</strong></em></sub>
   </div>
   <br>
 </details>
@@ -440,5 +440,5 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
 <br data-hide>
 
 <blockquote align="center" data-hide>
-  ✨ There is also a <strong>magical</strong> self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>my official site</strong></a>. ✨
+  ✨ There is also a <strong>magical</strong> self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>his official site</strong></a>. ✨
 </blockquote>
