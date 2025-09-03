@@ -12,7 +12,7 @@ Creator of flagship projects including:
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro integrations**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post‑excerpt rendering, component bootstrapping, and CSP‑safe resource handling
+- [**Astro components**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP‑safe resource handling
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (served via CDN)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
@@ -56,7 +56,7 @@ More about Igor's past work can be found [here](./PAST_WORK.md).
 
 _02-Sep-2025_
 
-I am in the process of migrating all of my npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
+He is in the process of migrating all of his npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
 
 Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1).
 
@@ -312,7 +312,7 @@ Chrome extensions
   <details>
   <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
-  👟 love taking long walks &amp; runs:
+  👟 loves taking long walks &amp; runs:
   <strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
   <ul data-no-restyle>
     <li>
@@ -325,34 +325,34 @@ Chrome extensions
     <code>1091 kcal</code>
     </li>
   </ul>
-  🌱 adore being in touch with nature
+  🌱 adores being in touch with nature
   <br>
-  🐒 adhere to the metaphysical naturalism
+  🐒 adheres to the metaphysical naturalism
   <br>
-  ⚙️ cherish automatizing things, I have tons of dev-utils written in PowerShell, Node and Python
+  ⚙️ cherishes automatizing things, has tons of dev-utils written in PowerShell, Node and Python
   <br>
-  😽 rescue and foster animals: mostly cats, some dogs, and the occasional sparrow or goldfish
+  😽 rescues and fosters animals: mostly cats, some dogs, and the occasional sparrow or goldfish
   <br>
-  🎬 love watching movies, series &amp; anime, see my <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
+  🎬 loves watching movies, series &amp; anime, see his <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
   <br>
-  🎮 play games in my spare time, see my <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
+  🎮 plays games in his spare time, see his <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
   <br>
-  🐬 am a firm believer in <strong>autodidacticism</strong>
+  🐬 is a firm believer in <strong>autodidacticism</strong>
   <br>
-  🎧 am a huge audiophile, I even post EuroVision videos on my <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
-  <br>🎭 am also known as:
+  🎧 is a huge audiophile, even posts EuroVision videos on his <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
+  <br>🎭 is also known as:
   <strong>Igor Dimitrijević</strong>,
   <strong>igorskyflyer</strong>,
   <strong>Игор Димитријевић</strong>
   <br>
-  🤭 fun fact: call me if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
+  🤭 fun fact: call him if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
   <br>
 </details>
 
 <details>
   <summary><strong>✍🏼 Latest Blog Posts</strong></summary>
   <br>
-  Posts on my blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+  Posts on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <!-- BLOG-POST-LIST:START -->
 <br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
 <br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
