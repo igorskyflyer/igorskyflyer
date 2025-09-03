@@ -22,7 +22,7 @@ Creator of flagship projects including:
 
 <br>
 
-## ✨ Career Highlights & Open-Source Impact
+## ✨ Career Highlights & Impact
 
 - `330K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `115K+` monthly hits for top CDN-served packages
