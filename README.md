@@ -242,7 +242,7 @@ Chrome extensions
   <br>
   👯 is looking to collaborate on exciting and challenging projects
   <br>
-  🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>FOSS</strong></a> projects
+  🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
   <br>
   🤼 enjoys exchanging opinions with his peers at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
   <br>
@@ -308,7 +308,7 @@ Chrome extensions
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
   <br>
   <br>
-  Igor began creating open-source (<strong>FOSS</strong>) projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
+  Igor began creating open-source projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
   <br>
 </details>
 
