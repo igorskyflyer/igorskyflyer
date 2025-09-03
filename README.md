@@ -26,7 +26,7 @@ Creator of flagship projects including:
 - `115K+` monthly hits for top CDN‑served packages
 - `100K+` installs across `55` published [npm packages](https://www.npmjs.com/~igorskyflyer)
 - `30+` programming certificates
-- Trusted by `recurring` clients to deliver high‑impact projects
+- Trusted by [`recurring` clients](./PAST_WORK.md) to deliver high‑impact projects
 - Verified Visual Studio Code publisher
 - Recipient of a Best Site award
 
