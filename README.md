@@ -1,9 +1,9 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Award‑Winning Software Engineer • Full‑Stack Developer • Open‑Source Maintainer • Developer Tools Architect
+> Award-Winning Software Engineer • Full-Stack Developer • Open-Source Maintainer • Developer Tools Architect
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian senior full‑stack software engineer, award‑winning developer, and open‑source maintainer, creating developer tools and compilers used by hundreds of thousands worldwide. With a BSc in Software Engineering (with Honors) and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
+<strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong>, <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
 
 <br>
 <br>
@@ -14,7 +14,7 @@ Creator of flagship projects including:
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a high-performance adblock filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP‑safe resource handling
+- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a collection of components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (served via CDN)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
@@ -22,14 +22,14 @@ Creator of flagship projects including:
 
 <br>
 
-## ✨ Career Highlights & Open‑Source Impact
+## ✨ Career Highlights & Open-Source Impact
 
 - `330K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `115K+` monthly hits for top CDN‑served packages
+- `115K+` monthly hits for top CDN-served packages
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `~1.3K%` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
-- Trusted by [**recurring clients**](./PAST_WORK.md) to deliver high‑impact projects
+- Trusted by [**recurring clients**](./PAST_WORK.md) to deliver high-impact projects
 - Verified Visual Studio Code publisher
 - Recipient of a `Best Site` award (2009, age 16, built entirely on a Sony Ericsson J300i)
 
@@ -50,7 +50,7 @@ Currently working as a:
   <li><em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
 
-He is also a tech **book author** _in the making_, huge **DX** (_developer experience_) advocate, **challenge‑driven** problem solver.
+He is also a tech **book author** _in the making_, huge **DX** (_developer experience_) advocate, **challenge-driven** problem solver.
 
 <br>
 
@@ -75,9 +75,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <em><strong>Browse by development aspect:</strong></em>
     <br>
     <br>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="Igor Dimitrijević (igorskyflyer) - Front‑End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="Igor Dimitrijević (igorskyflyer) - Back‑End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="Igor Dimitrijević (igorskyflyer) - Full‑Stack Development Projects Showcase" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="Igor Dimitrijević (igorskyflyer) - Front-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="Igor Dimitrijević (igorskyflyer) - Back-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
+    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="Igor Dimitrijević (igorskyflyer) - Full-Stack Development Projects Showcase" width="90" height="25" loading="lazy"></a>
   </div>
   <br>
 
@@ -281,10 +281,10 @@ Chrome extensions
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. At the same time, through various video games and later TV shows (mostly crime shows), he was learning English, his first foreign language, which he continued improving through formal education. Having neither a family background in IT nor knowledge of the English language, he was left to his own devices, which further sparked his curiosity.
   <br>
   <br>
-  Beyond the tech world, he has conversational proficiency in Spanish, gained through <strong>self‑study</strong> and daily exposure, and a background in French from his school years, where he excelled academically. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
+  Beyond the tech world, he has conversational proficiency in Spanish, gained through <strong>self-study</strong> and daily exposure, and a background in French from his school years, where he excelled academically. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
   <br>
   <br>
-  At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and eventually <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> — while they gathered around, curious and amused, watching each line take shape. Once he had mastered the basics, he created several <em>Peperonity</em> sites that became some of the platform's most popular at the time. He then dove deeper into <strong>JavaScript</strong> and built a new site on <em>XTgem</em>, which he entered into a multi‑category <code>Best Website</code> contest organized by the XTgem team in 2009. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Without a modern setup, Igor's curiosity and persistence became his most powerful tools.
+  At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and eventually <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> — while they gathered around, curious and amused, watching each line take shape. Once he had mastered the basics, he created several <em>Peperonity</em> sites that became some of the platform's most popular at the time. He then dove deeper into <strong>JavaScript</strong> and built a new site on <em>XTgem</em>, which he entered into a multi-category <code>Best Website</code> contest organized by the XTgem team in 2009. His site (<em>skywap.xtgem.com</em>) <strong>won an award</strong>. Without a modern setup, Igor's curiosity and persistence became his most powerful tools.
   <br>
   <br>
   In high school (gymnasium, 4 years), Igor was an <strong>exemplary</strong> student of his generation in IT and was commended multiple times by his professors. After <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>, he continued learning. Next was <strong>PHP</strong>, which he started learning in conjunction with <strong>WordPress</strong>. In the meantime, in high school, he was learning about <strong>Pascal</strong> (console apps) and later <strong>Delphi</strong> (a variant of <strong><em>Object Pascal</em></strong>, GUI apps) where he once again <strong>excelled</strong> even without owning a computer and practising at home like the rest of his classmates. During high school, he developed a strong fascination with <strong>Latin</strong>, captivated by its structure and timeless elegance. This classical foundation deepened his appreciation for language and systems.
@@ -365,11 +365,11 @@ Chrome extensions
   <br>
   <div align="center">
   <!-- 1st row -->
-    <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open‑Source Profile" loading="lazy"></a>
+    <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open-Source Profile" loading="lazy"></a>
     <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Verified Microsoft Visual Studio Code Publisher" loading="lazy"></a>
-    <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front‑End Experiments & UI Demos" loading="lazy"></a>
+    <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front-End Experiments & UI Demos" loading="lazy"></a>
     <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Google Play Store Developer Profile" loading="lazy"></a>
-    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Support Igor Dimitrijević (igorskyflyer) - Ko‑Fi Open‑Source Funding Page" loading="lazy"></a>
+    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Support Igor Dimitrijević (igorskyflyer) - Ko-Fi Open-Source Funding Page" loading="lazy"></a>
     <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle Creative Coding Challenges" loading="lazy"></a>
     <br>
     <!-- 2nd row -->
@@ -377,13 +377,13 @@ Chrome extensions
     <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight Tech Skills & Learning Profile" loading="lazy"></a>
     <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow Developer Q&A Contributions" loading="lazy"></a>
     <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Instagram Visual Portfolio & Updates" loading="lazy"></a>
-    <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok Short‑Form Creative Content" loading="lazy"></a>
+    <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok Short-Form Creative Content" loading="lazy"></a>
     <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - YouTube EuroVision-related Content" loading="lazy"></a>
     <br>
     <!-- 3rd row -->
     <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Dribbble UI/UX Design Portfolio" loading="lazy"></a>
     <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Threads Developer Insights & Photography" loading="lazy"></a>
-    <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons All‑In‑One Link Hub" loading="lazy"></a>
+    <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons All-In-One Link Hub" loading="lazy"></a>
     <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn Professional Profile & Experience" loading="lazy"></a>
     <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LeetCode Algorithm Challenges & Solutions" loading="lazy"></a>
     <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X (Twitter) Developer Updates & Insights" loading="lazy"></a>
@@ -401,14 +401,14 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <summary><strong>💝 Support</strong></summary>
   <br>
   <div align="center">
-    If his open‑source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
+    If his open-source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
     <br>
     <br>
-    <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open‑Source Projects" width="180" height="46" loading="lazy"></a>
+    <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
     <br>
     <blockquote>
       <br>
-      Support helps fund new open‑source tools, maintenance, and documentation.
+      Support helps fund new open-source tools, maintenance, and documentation.
       <br>
       <br>
     </blockquote>
@@ -420,9 +420,9 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <summary><strong>🔥 Statistics</strong></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) - Most‑Used Programming Languages in Open‑Source Work" width="500" height="525" loading="lazy">
+    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) - Most-Used Programming Languages in Open-Source Work" width="500" height="525" loading="lazy">
     <br>
-    <sub><em><strong>Primary Languages in His Open‑Source Projects</strong></em></sub>
+    <sub><em><strong>Primary Languages in His Open-Source Projects</strong></em></sub>
   </div>
   <br>
 </details>
