@@ -196,11 +196,6 @@ Chrome extensions
   <summary><strong>🤖 Tech Activities</strong></summary>
   <br>
   In addition, Igor:
-  <br>
-  🌹 helps block pesky ads &amp; trackers using an AdBlock filter he maintains <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> 👈🏼
-  <br>
-  🗣️ created his own templating language for writing reusable Adblock filter lists, available at <a href="https://github.com/adbt-lang/adbt"><code>ADBT</code></a>
-  <br>
   🐛 squashes bugs for money on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
   <ul data-no-restyle>
@@ -232,17 +227,14 @@ Chrome extensions
   <a href="https://pyscript.net"><strong>PyScript</strong></a>,
   <a href="https://formkit.com"><strong>FormKit</strong></a>,
   <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
-  <a href="https://github.com/swc-project/swc"><strong>SWC</strong></a>,
   <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
   <br>
   🏅 has completed Google's Foobar challenge
   <br>
   🌱 is currently learning
   AI,
-  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <a href="https://react.dev/"><strong>React</strong></a>
-  <br>
-  👯 is looking to collaborate on exciting and challenging projects
+  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <br>
   🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
   <br>
@@ -253,11 +245,11 @@ Chrome extensions
   <blockquote>
     🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong></a>
     <br>
+    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo"><strong>CSS Laptop</strong></a>
+    <br>
     💠 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/PrdKej"><strong>Diamond Menu</strong></a>
     <br>
     🛣️ &nbsp;<a href="https://codepen.io/igorskyflyer/pen/QXBrXz"><strong>CSS Road</strong></a>
-    <br>
-    💻 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/orWEjo"><strong>CSS Laptop</strong></a>
     <br>
     🍦 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/ydaMYJ"><strong>CSS Ice-Cream</strong></a>
     <br>
@@ -314,7 +306,7 @@ Chrome extensions
   <br>
 </details>
 
-  <details>
+<details>
   <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
   👟 loves taking long walks &amp; runs:
