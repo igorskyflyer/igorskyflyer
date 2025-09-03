@@ -443,5 +443,5 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
 <br data-hide>
 
 <blockquote align="center" data-hide>
-  ✨ There is also a <strong>magical</strong> self-updating copy of this README on <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>his official site</strong></a>. ✨
+  ✨ There is also a <strong>magical</strong> self-updating copy of this README on his <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>official site</strong></a>. ✨
 </blockquote>
