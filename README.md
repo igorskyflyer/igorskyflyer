@@ -20,8 +20,6 @@ Creator of flagship projects including:
 
 …and many other impactful projects shaping the developer ecosystem.
 
-<br>
-
 ## ✨ Career Highlights & Open-Source Impact
 
 - `330K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
