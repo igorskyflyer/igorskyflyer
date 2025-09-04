@@ -89,7 +89,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 🦄 <strong>UI / UX:</strong> Figma, Affinity Designer, Adobe XD / Illustrator / Photoshop
 🛠️ <strong>Tooling:</strong> esbuild, Vite, Biome, Vitest, Composer
 🦖 <strong>Extensibility:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode"><strong>VS Code extensions / themes</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=userscript"><strong>UserScripts</strong></a>
-🌿 <strong>Environments:</strong> Windows, WSL (Ubuntu), Linux (Mint, Manjaro
+🌿 <strong>Environments:</strong> Windows, WSL (Ubuntu), Linux (Mint, Manjaro)
 ❄️ <strong>Platforms:</strong> Cloudflare, Vercel, Netlify
 <br>
 
