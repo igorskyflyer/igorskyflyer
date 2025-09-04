@@ -106,6 +106,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <summary><strong>🤖 Tech Activities</strong></summary>
   <br>
   In addition, Igor:
+	<br>
   🐛 squashes bugs for money on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
   <ul data-no-restyle>
