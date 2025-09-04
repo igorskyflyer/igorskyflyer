@@ -106,7 +106,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <summary><strong>🤖 Tech Activities</strong></summary>
   <br>
   In addition, Igor:
-	<br>
+  <br>
   🐛 squashes bugs for money on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
   <ul data-no-restyle>
@@ -221,8 +221,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
   👟 loves taking long walks &amp; runs:
-	<br>
-  <strong>🏆 PR - <em>May 8, 2018</em>🥇:</strong>
+  <br>
+  <br>
+  <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
   <ul data-no-restyle>
     <li>
     <code>26.17km/16.26mi</code>
