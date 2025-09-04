@@ -56,7 +56,7 @@ He is also a tech **book author** _in the making_, huge **DX** (_developer exper
 
 <br>
 
-More about Igor's past work can be found [here](./PAST_WORK.md).
+More about Igor's past work can be found on the [**Past Work**](./PAST_WORK.md) page.
 
 ---
 
@@ -64,7 +64,7 @@ More about Igor's past work can be found [here](./PAST_WORK.md).
 
 _02-Sep-2025_
 
-He is in the process of migrating all of his npm packages from [@igor.dvlpr](https://www.npmjs.com/~igor.dvlpr) to [@igorskyflyer](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope ([official discussion](https://github.com/orgs/community/discussions/169922)).
+He is in the process of migrating all of his npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope ([**official discussion**](https://github.com/orgs/community/discussions/169922)).
 
 Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1).
 
@@ -208,21 +208,21 @@ Chrome extensions
   <br>
   🔨 enjoys forging Visual Studio Code APIs:
   <ul data-no-restyle>
-    <li>⚖️&nbsp; <strong><code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker">custom API</a></strong> so far</li>
+    <li>⚖️&nbsp; <code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>custom API</strong></a> so far</li>
   </ul>
   🧃 enjoys building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>
   <br>
   🧩 enjoys assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
   <ul data-no-restyle>
-    <li>🛸 <strong><code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer">action</a></strong> so far</li>
+    <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a> so far</li>
   </ul>
   🦦 enjoys producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
   <ul data-no-restyle>
-    <li>🐢 <strong><code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package">module</a></strong> so far</li>
+    <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a> so far</li>
   </ul>
   📑 enjoys translating projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
-    <li>💬 <strong><code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/">translated projects</a></strong> so far</li>
+    <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a> so far</li>
   </ul>
   🎠 enjoys making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
   <br>
@@ -299,7 +299,7 @@ Chrome extensions
   He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
   <br>
   <br>
-  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><code>CalculusEx</code></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
+  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
   <br>
   <br>
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
