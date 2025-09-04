@@ -83,114 +83,14 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </div>
   <br>
 
-🌎 <strong>Web</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=javascript"><strong>JavaScript</strong></a>,
-jQuery,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=php"><strong>PHP</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=scss"><strong>Sass</strong></a>,
-SQLite,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=bootstrap"><strong>Bootstrap</strong></a>,
-MySQL,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>WordPress</strong></a> + <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=PWA"><strong>PWA</strong></a>
-<br>
-🖥️ <strong>Desktop</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=c%23"><strong>C#</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=c"><strong>C</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=pascal"><strong>Pascal</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=delphi"><strong>Delphi</strong></a>
-<br>
-📱 <strong>Mobile</strong>:
-Xamarin,
-Kotlin,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=flutter"><strong>Dart + Flutter</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=android"><strong>Java/Android</strong></a>
-<br>
-🕊️<strong>Cross-platform</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=electron"><strong>Electron</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=dart"><strong>Dart</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=java"><strong>Java</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=python"><strong>Python</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=&type=&q=go"><strong>Go/Golang</strong></a>
-<br>
-🦄 <strong>UI/UX</strong>:
-<a href="https://dribbble.com/igorskyflyer"><strong>Affinity Designer</strong></a>,
-<a href="https://dribbble.com/igorskyflyer"><strong>Figma</strong></a>,
-<a href="https://dribbble.com/igorskyflyer"><strong>Adobe XD</strong></a>,
-<a href="https://dribbble.com/igorskyflyer"><strong>Adobe Illustrator</strong></a>,
-<a href="https://dribbble.com/igorskyflyer"><strong>Adobe Photoshop</strong></a>,
-<a href="https://dribbble.com/igorskyflyer"><strong>Affinity Photo</strong></a>,
-<a href="https://www.getpaint.net/"><strong>paint.net</strong></a>
-<br>
-🕹 <strong>Game</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=godot"><strong>Godot</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=unity"><strong>Unity</strong></a>
-<br>
-🦂 <strong>Scripting</strong>:
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=powershell"><strong>PowerShell</strong></a>,
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=bash"><strong>Bash</strong></a>,
-<a href="https://github.com/igorskyflyer/?tab=repositories&q=batch"><strong>Batch</strong></a>
-<br>
-🛠️ <strong>Tooling</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild"><strong>esbuild</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vitest"><strong>Vitest</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=webpack"><strong>webpack</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=gulp"><strong>Gulp</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=rollup"><strong>Rollup</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=tsc"><strong>TypeScript Compiler</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=babel"><strong>Babel</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vite"><strong>Vite</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=npm"><strong>npm</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=editorconfig"><strong>EditorConfig</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=eslint"><strong>ESLint</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=biome"><strong>Biome</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=composer"><strong>Composer</strong></a>
-<br>
-🦖 <strong>Extensibility</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode"><strong>Visual Studio Code extensions/VSIX</strong></a>,
-<a href="https://github.com/igorskyflyer?tab=repositories&q=userscript"><strong>UserScript</strong></a>,
-Chrome extensions
-<br>
-🌈 <strong>Customizability</strong>:
-<a href="https://github.com/igorskyflyer?tab=repositories&q=vscode-theme"><strong>Visual Studio Code themes</strong></a>
-<br>
-🪀 <strong>Tools</strong>:
-<a href="https://dbeaver.io"><strong>DBeaver</strong></a>,
-<a href="https://www.office.com"><strong>Microsoft Office</strong></a>,
-<a href="https://notepad-plus-plus.org"><strong>Notepad++</strong></a>,
-<a href="https://poedit.net"><strong>Poedit</strong></a>,
-<a href="https://winmerge.org"><strong>WinMerge</strong></a>,
-<a href="https://www.apachefriends.org"><strong>XAMPP</strong></a>,
-<a href="https://filezilla-project.org"><strong>FileZilla</strong></a>,
-<a href="https://www.postman.com"><strong>Postman</strong></a>
-<br>
-📈 <strong>Productivity</strong>:
-<a href="https://notion.so"><strong>Notion</strong></a>,
-<a href="https://slack.com"><strong>Slack</strong></a>,
-<a href="https://trello.com"><strong>Trello</strong></a>
-<br>
-🌿 <strong>Environments</strong>:
-<a href="https://www.microsoft.com/en-us/windows"><strong>Windows</strong></a>,
-<a href="https://docs.microsoft.com/en-us/windows/wsl/"><strong>WSL</strong></a> (Ubuntu),
-<a href="https://kernel.org"><strong>Linux</strong></a> (Ubuntu, Mint &amp; Manjaro)
-<br>
-🥊 <strong>IDE</strong>:
-<a href="https://code.visualstudio.com"><strong>Visual Studio Code 💘</strong></a>,
-<a href="https://visualstudio.microsoft.com"><strong>Visual Studio</strong></a>,
-<a href="https://developer.android.com/studio"><strong>Android Studio</strong></a>
-<br>
-❄️ <strong>Platforms</strong>:
-<a href="https://cloudflare.com"><strong>Cloudflare</strong></a>,
-<a href="https://www.cyclic.sh"><strong>Cyclic</strong></a>,
-<a href="https://vercel.com"><strong>Vercel</strong></a>,
-<a href="https://www.netlify.com"><strong>Netlify</strong></a>,
-<a href="https://github.com"><strong>GitHub Pages</strong></a>,
-<a href="https://replit.com"><strong>Replit</strong></a>
+🌎 <strong>Web:</strong> HTML, CSS/Sass, JavaScript/TypeScript, Node.js, PHP, MySQL, Astro, PWA, WordPress/WooCommerce  
+🖥️ <strong>Desktop:</strong> C#, Pascal/Delphi  
+📱 <strong>Mobile:</strong> Kotlin/Java (Android), Flutter/Dart  
+🦄 <strong>UI/UX:</strong> Figma, Affinity Designer, Adobe XD/Illustrator/Photoshop  
+🛠️ <strong>Tooling:</strong> esbuild, Vite, Biome, Vitest, Composer  
+🦖 <strong>Extensibility:</strong> VS Code extensions/themes, UserScripts  
+🌿 <strong>Environments:</strong> Windows, WSL (Ubuntu), Linux (Mint, Manjaro)  
+❄️ <strong>Platforms:</strong> Cloudflare, Vercel, Netlify, GitHub Pages
 <br>
 
 </details>
