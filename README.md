@@ -221,7 +221,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
   <strong>🏃 Movement & Nature</strong><br>
-  👟 loves taking long walks & runs - <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
+  👟 loves taking long walks & runs (<strong>🏆 PR - <em>May 8, 2018</em> 🥇</strong>)
   <ul data-no-restyle>
     <li><code>26.17km/16.26mi</code></li>
     <li><code>32855 steps</code></li>
