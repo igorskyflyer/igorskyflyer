@@ -83,14 +83,14 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </div>
   <br>
 
-🌎 <strong>Web:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS/Sass</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=javascript">JavaScript</a>/<a href="https://github.com/igorskyflyer?tab=repositories&q=typescript">TypeScript</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>, MySQL, <a href="https://github.com/igorskyflyer?tab=repositories&q=astro">Astro</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pwa">PWA</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">WordPress</a>/<a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">WooCommerce</a>  
-🖥️ <strong>Desktop:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=c%23">C#</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pascal">Pascal</a>/<a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>  
-📱 <strong>Mobile:</strong> Kotlin/Java (Android), <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Flutter/Dart</a>  
+🌎 <strong>Web:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=html">HTML</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=css">CSS / Sass</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=javascript">JavaScript</a> / <a href="https://github.com/igorskyflyer?tab=repositories&q=typescript">TypeScript</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=node">Node.js</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=php">PHP</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=astro">Astro</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pwa">PWA</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress">WordPress</a> / <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce">WooCommerce</a>  
+🖥️ <strong>Desktop:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=c%23">C#</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pascal">Pascal</a> / <a href="https://github.com/igorskyflyer?tab=repositories&q=delphi">Delphi</a>  
+📱 <strong>Mobile:</strong> Kotlin/Java (Android), <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter">Flutter / Dart</a>  
 🦄 <strong>UI/UX:</strong> <a href="https://dribbble.com/igorskyflyer">Figma</a>, <a href="https://dribbble.com/igorskyflyer">Affinity Designer</a>, Adobe XD/Illustrator/Photoshop  
-🛠️ <strong>Tooling:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=esbuild">esbuild</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=vite">Vite</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=biome">Biome</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=vitest">Vitest</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=composer">Composer</a>  
+🛠️ <strong>Tooling:</strong> esbuild, Vite, Biome, Vitest, Composer  
 🦖 <strong>Extensibility:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode">VS Code extensions/themes</a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=userscript">UserScripts</a>  
-🌿 <strong>Environments:</strong> Windows, <a href="https://docs.microsoft.com/en-us/windows/wsl/">WSL (Ubuntu)</a>, Linux (Mint, Manjaro)  
-❄️ <strong>Platforms:</strong> <a href="https://cloudflare.com">Cloudflare</a>, <a href="https://vercel.com">Vercel</a>, <a href="https://www.netlify.com">Netlify</a>, <a href="https://github.com">GitHub Pages</a>  
+🌿 <strong>Environments:</strong> Windows, WSL (Ubuntu), Linux (Mint, Manjaro)  
+❄️ <strong>Platforms:</strong> Cloudflare, >Vercel, Netlify  
 <br>
 
 </details>
