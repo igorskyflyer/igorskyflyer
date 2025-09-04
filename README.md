@@ -220,44 +220,30 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 <details>
   <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
   <br>
-  👟 loves taking long walks &amp; runs:
-  <br>
-  <br>
-  <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
-  <br>
+  <strong>🏃 Movement & Nature</strong><br>
+  👟 loves taking long walks & runs - <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
   <ul data-no-restyle>
-    <li>
-    <code>26.17km/16.26mi</code>
-    </li>
-    <li>
-      <code>32855 steps</code>
-    </li>
-    <li>
-    <code>1091 kcal</code>
-    </li>
+    <li><code>26.17km/16.26mi</code></li>
+    <li><code>32855 steps</code></li>
+    <li><code>1091 kcal</code></li>
   </ul>
-  🌱 adores being in touch with nature
-  <br>
-  🐒 adheres to the metaphysical naturalism
-  <br>
-  ⚙️ cherishes automatizing things, has tons of dev-utils written in PowerShell, Node and Python
-  <br>
-  😽 rescues and fosters animals: mostly cats, some dogs, and the occasional sparrow or goldfish
-  <br>
-  🎬 loves watching movies, series &amp; anime, see his <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
-  <br>
-  🎮 plays games in his spare time, see his <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a>
-  <br>
-  🐬 is a firm believer in <strong>autodidacticism</strong>
-  <br>
-  🎧 is a huge audiophile, even posts EuroVision videos on his <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
-  <br>🎭 is also known as:
-  <strong>Igor Dimitrijević</strong>,
-  <strong>igorskyflyer</strong>,
-  <strong>Игор Димитријевић</strong>
-  <br>
-  🤭 fun fact: call him if you need to &quot;<em>clean up</em>&quot; your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧
-  <br>
+  🌱 adores being in touch with nature<br>
+  🐒 adheres to the metaphysical naturalism<br>
+
+<br><strong>🛠 Maker & Learner</strong><br>
+⚙️ cherishes automatizing things - has tons of dev-utils written in PowerShell, Node and Python<br>
+🐬 is a firm believer in <strong>autodidacticism</strong><br>
+
+<br><strong>🎭 Media & Play</strong><br>
+🎬 loves watching movies, series & anime - see his <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a><br>
+🎮 plays games in his spare time - see his <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a><br>
+🎧 is a huge audiophile - even posts EuroVision videos on his <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a><br>
+
+<br><strong>💙 Community & Identity</strong><br>
+😽 rescues and fosters animals - mostly cats, some dogs, and the occasional sparrow or goldfish<br>
+🎭 is also known as: <strong>Igor Dimitrijević</strong>, <strong>igorskyflyer</strong>, <strong>Игор Димитријевић</strong><br>
+🤭 fun fact: call him if you need to "clean up" your buffet 🍖🥩🍟🍕🌮🌯🍔🍩🥧<br>
+
 </details>
 
 <details>
