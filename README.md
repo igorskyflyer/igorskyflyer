@@ -24,8 +24,8 @@ Creator of flagship projects including:
 
 ## ✨ Career Highlights & Impact
 
-- `330K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `115K+` monthly hits for top CDN-served packages
+- `332K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `117K+` monthly hits for top CDN-served packages
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
