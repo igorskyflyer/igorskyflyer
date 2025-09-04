@@ -1,6 +1,6 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Award-Winning Software Engineer • Full-Stack Developer (Web-First, Desktop-Ready, Mobile-Capable) • Open-Source Maintainer • Developer Tools Architect
+> Full-Stack Software Engineer • Award-Winning Developer • Web, Desktop & Mobile • Open-Source Maintainer • Dev Tools Architect
 
 <div data-no-restyle>
 <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong> specializing in modern web applications, with strong experience in cross-platform desktop software and selective mobile projects. An <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
@@ -27,7 +27,7 @@ Creator of flagship projects including:
 - `330K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `115K+` monthly hits for top CDN-served packages
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
-- `~1.3K%` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
+- `13×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
 - Trusted by [**recurring clients**](./PAST_WORK.md) to deliver high-impact projects
 - Verified Visual Studio Code publisher
