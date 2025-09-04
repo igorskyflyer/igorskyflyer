@@ -62,9 +62,9 @@ More about Igor's past work can be found on the [**Past Work**](./PAST_WORK.md) 
 
 ## 📢 Announcement
 
-_02-Sep-2025_
+_04-Sep-2025_
 
-He is in the process of migrating all of his npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
+In the process of migrating all of npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
 
 Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1) and the [**official discussion**](https://github.com/orgs/community/discussions/169922).
 
