@@ -1,9 +1,9 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Award-Winning Software Engineer • Full-Stack Developer • Open-Source Maintainer • Developer Tools Architect
+> Award-Winning Software Engineer • Full-Stack Developer (Web-First, Desktop-Ready, Mobile-Capable) • Open-Source Maintainer • Developer Tools Architect
 
 <div data-no-restyle>
-<strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong>, <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
+<strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong> specializing in modern web applications, with strong experience in cross-platform desktop software and selective mobile projects. An <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom compilers and AST engines to Visual Studio Code extensions, themes, and full-scale e-commerce platforms.
 
 <br>
 <br>
