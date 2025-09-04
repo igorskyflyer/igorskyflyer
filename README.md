@@ -222,8 +222,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   👟 loves taking long walks &amp; runs:
   <br>
-  <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
   <br>
+  <strong>🏆 PR - <em>May 8, 2018</em>🥇</strong>
   <br>
   <ul data-no-restyle>
     <li>
