@@ -25,7 +25,7 @@ Creator of flagship projects including:
 ## ✨ Career Highlights & Impact
 
 - `332K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `117K+` monthly hits for top CDN-served packages
+- `115K+` monthly hits for top CDN-served packages
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
@@ -176,6 +176,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   📝 posts snippets on his <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
   <br>
+  ⚙️ cherishes automatizing things, has tons of dev-utils written in PowerShell, Node and Python
+  <br>
   <span id="recursion"></span>
   🦘 loves adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
   <ul data-no-restyle>
@@ -239,8 +241,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   🌱 adores being in touch with nature
   <br>
   🐒 adheres to the metaphysical naturalism
-  <br>
-  ⚙️ cherishes automatizing things, has tons of dev-utils written in PowerShell, Node and Python
   <br>
   😽 rescues and fosters animals: mostly cats, some dogs, and the occasional sparrow or goldfish
   <br>
