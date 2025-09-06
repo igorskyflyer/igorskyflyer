@@ -29,7 +29,7 @@ Creator of flagship projects including:
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
-- Trusted by [**recurring clients**](./PAST_WORK.md) to deliver high-impact projects ([**their testimonials**](./TESTIMONIALS.md))
+- Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
 - Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
 - Recipient of a `Best Site` award (2009 - age 16, built entirely on a Sony Ericsson J300i)
 
@@ -55,7 +55,7 @@ He is also a tech **book author** _in the making_, huge **DX** (_developer exper
 
 <br>
 
-More about Igor's past work can be found on the [**Past Work**](./PAST_WORK.md) page.
+More about Igor's past work can be found on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) page.
 
 ---
 
