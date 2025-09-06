@@ -128,6 +128,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a> so far</li>
   </ul>
+  🐇 enjoys coding <strong>UserScripts</strong></a> on <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>GreasyFork</strong></a>
+  <br>
   📑 enjoys translating projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a> so far</li>
