@@ -6,6 +6,23 @@ Across nearly two decades of learning and writing code, Igor has consistently de
 
 <br>
 
+### 🌍 Global Reach
+
+Worked with clients from:
+
+- 🇩🇪 Germany
+- 🇵🇰 Pakistan
+- 🇦🇺 Australia
+- 🇷🇸 Serbia
+- 🇰🇷 South Korea
+- 🇭🇷 Croatia
+- 🇺🇸 United States
+- 🇯🇲 Jamaica
+- 🇳🇱 Netherlands
+- 🇬🇧 United Kingdom
+
+<br>
+
 ### 🔧 Selected Projects & Highlights
 
 #### 🛍️ SissiS: WordPress + WooCommerce (Web)
