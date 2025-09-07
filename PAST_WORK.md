@@ -4,6 +4,8 @@
 
 Across nearly two decades of learning and writing code, Igor has consistently delivered high-performance, user-centric solutions for global clients across industries, including healthcare, HR, media, and infrastructure. His work spans full-stack engineering, UI/UX refinement, API design, and systems architecture, with a reputation for solving complex problems under pressure and delivering elegant, maintainable results.
 
+<br>
+
 ### 🌍 Global Reach
 
 Worked with clients from:
