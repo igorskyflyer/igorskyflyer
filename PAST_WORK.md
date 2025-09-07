@@ -27,7 +27,7 @@ Worked with clients from:
 
 #### 🛍️ SissiS: WordPress + WooCommerce (Web)
 
-> Developed a custom multi-faceted solution for a WooCommerce storefront, handling automated order export, `FTP`-based tracking integration with a 3rd-party fulfillment provider, multilingual support, and dynamic invoice generation. All built from scratch with secure, maintainable backend logic. More about it in the [**detailed breakdown**](#️-sissis)
+> Developed a custom multi-faceted solution for a WooCommerce storefront, handling automated order export, `FTP`-based tracking integration with a 3rd-party fulfillment provider, multilingual support, and dynamic invoice generation. All built from scratch with secure, maintainable backend logic. More about it in the [**detailed breakdown**](#️-sissis).
 
 #### ⚰️ EZMM: Mortuary Management System (Desktop)
 
@@ -93,13 +93,22 @@ Delivered a deeply customized e-commerce solution for SissiS, combining WordPres
 
 #### 🔧 Plugin Architecture & Backend Engineering
 
-- 🔧 Installed and configured WordPress and WooCommerce with custom database setup
-- 🧠 Engineered a full-featured WooCommerce plugin for order export in XML and JSON formats
-- 📦 Built custom data models for customers, salutations, titles, and metadata
-- 📤 Developed CSV import/export pipelines with validation, tracking, and result logging
-- 🧾 Created dynamic invoice generation with editable templates, PayPal integration, and footer customization
-- 🧠 Implemented meta-boxes for custom post metadata and admin-side editing
-- 🧠 Designed reusable helpers for FTP, AJAX, email, caching, and debugging
-- 🧠 Built a scheduler for automated tasks and background operations
-- 🔐 Added secure HTTP headers and custom security logic for plugin endpoints
-- 🧠 Developed a hook system for extensibility and third-party integration
+- Installed and configured WordPress and WooCommerce with custom database setup
+- Engineered a full-featured WooCommerce plugin for order export in XML and JSON formats
+- Built custom data models for customers, salutations, titles, and metadata
+- Developed CSV import/export pipelines with validation, tracking, and result logging
+- Created dynamic invoice generation with editable templates, PayPal integration, and footer customization
+- Implemented meta-boxes for custom post metadata and admin-side editing
+- Designed reusable helpers for FTP, AJAX, email, caching, and debugging
+- Built a scheduler for automated tasks and background operations
+- Added secure HTTP headers and custom security logic for plugin endpoints
+- Developed a hook system for extensibility and third-party integration
+
+#### 🚚 Fulfillment & Tracking Integration
+
+- Exported WooCommerce orders to a third-party fulfillment provider via automated XML feed
+- Periodically connected to the provider's FTP server to retrieve processed order data via a Cron task
+- Parsed incoming CSV files to extract tracking numbers and carrier info
+- Updated WooCommerce orders with tracking numbers and carrier-specific tracking URLs
+- Displayed tracking info in the admin dashboard for staff visibility
+- Sent automated emails to customers with personalized tracking links based on carrier
