@@ -10,15 +10,15 @@ Across nearly two decades of learning and writing code, Igor has consistently de
 
 #### 🛍️ SissiS: WordPress + WooCommerce (Web)
 
-> Developed a custom multi-faceted solution for a WooCommerce storefront, handling automated order export, `FTP`-based tracking integration with a 3rd-party fulfillment provider, multilingual support, and dynamic invoice generation. All built from scratch with secure, maintainable backend logic. More about it in the [**detailed breakdown**](#️-sissis---custom-wordpress--woocommerce-plugin-suite).
+> Developed a custom multi-faceted solution for a WooCommerce storefront, handling automated order export, `FTP`-based tracking integration with a 3rd-party fulfillment provider, multilingual support, and dynamic invoice generation. All built from scratch with secure, maintainable backend logic. More about it in the [**detailed breakdown**](#️-sissis)
 
 #### ⚰️ EZMM: Mortuary Management System (Desktop)
 
-> Developed a full-featured desktop application for mortuary management, including custom scheduling, record management, and secure data handling. Extensive `UI` customization and domain-specific logic tailored to client workflows and input. More about it in the [**detailed breakdown**](#-ezmm---end-to-end-mortuary-management-system-c--wpf).
+> Developed a full-featured desktop application for mortuary management, including custom scheduling, record management, and secure data handling. Extensive `UI` customization and domain-specific logic tailored to client workflows and input. More about it in the [**detailed breakdown**](#-ezmm).
 
 #### 🏥 Sensomed: Healthcare E-Commerce Platform (Web)
 
-> Delivered a full-stack `WordPress` and `WooCommerce` site for a medical supplier, converting a static `Photoshop` design into a secure, multilingual storefront with custom `Bootstrap`-powered templates, `SEO` enhancements, and accessibility improvements. More about it in the [**detailed breakdown**](#-sensomed-healthcare-e-commerce-platform).
+> Delivered a full-stack `WordPress` and `WooCommerce` site for a medical supplier, converting a static `Photoshop` design into a secure, multilingual storefront with custom `Bootstrap`-powered templates, `SEO` enhancements, and accessibility improvements. More about it in the [**detailed breakdown**](#-sensomed).
 
 #### ✅ ASP.NET Site Recovery
 
@@ -53,3 +53,9 @@ Across nearly two decades of learning and writing code, Igor has consistently de
 > Designed a performant sorting algorithm (in `C#`) for large datasets (`1000s` of lines), praised by the client for its speed and adaptability.
 
 ---
+
+### 🛍️ SissiS
+
+#### Custom WordPress + WooCommerce Solution
+
+Delivered a deeply customized e-commerce solution for SissiS, combining WordPress and WooCommerce. The project focused on backend extensibility, data automation, multilingual support, and secure, SEO-optimized performance, all tailored to real-world operational and client needs.
