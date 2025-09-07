@@ -76,3 +76,17 @@ Worked with clients from:
 #### Custom WordPress + WooCommerce Solution
 
 Delivered a deeply customized e-commerce solution for SissiS, combining WordPress and WooCommerce. The project focused on backend extensibility, data automation, multilingual support, and secure, SEO-optimized performance, all tailored to real-world operational and client needs.
+
+#### Tech Stack
+
+- 🐘 `PHP` – core language powering WordPress and custom plugin logic
+- 🧩 `WordPress` – CMS foundation with custom post types and admin tooling
+- 🛒 `WooCommerce` – e-commerce engine with deep plugin integration
+- 🧠 `Custom Plugins` – built from scratch for export, tracking, invoicing, and automation
+- 📦 `CSV/XML/JSON` – data formats used for import/export and third-party integration
+- 🔐 `Security Headers` – custom HTTP headers and endpoint protection
+- 🌐 `Multilingual Support` – English and German translations with dynamic content handling
+- 🎨 `HTML/CSS` – frontend templates and styling for WooCommerce pages
+- ⚙️ `AJAX` – dynamic admin interactions and tracking updates
+- 🧭 `Visual Composer` – layout builder used in later platform evolution
+- 🧠 `Reusable Helpers` – FTP, email, caching, debugging, and scheduler logic
