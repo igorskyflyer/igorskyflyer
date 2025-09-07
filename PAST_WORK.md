@@ -4,8 +4,6 @@
 
 Across nearly two decades of learning and writing code, Igor has consistently delivered high-performance, user-centric solutions for global clients across industries, including healthcare, HR, media, and infrastructure. His work spans full-stack engineering, UI/UX refinement, API design, and systems architecture, with a reputation for solving complex problems under pressure and delivering elegant, maintainable results.
 
-<br>
-
 ### 🌍 Global Reach
 
 Worked with clients from:
@@ -89,4 +87,17 @@ Delivered a deeply customized e-commerce solution for SissiS, combining WordPres
 - 🎨 `HTML/CSS` – frontend templates and styling for WooCommerce pages
 - ⚙️ `AJAX` – dynamic admin interactions and tracking updates
 - 🧭 `Visual Composer` – layout builder used in later platform evolution
-- 🧠 `Reusable Helpers` – FTP, email, caching, debugging, and scheduler logic
+- 🪼 `Reusable Helpers` – FTP, email, caching, debugging, and scheduler logic
+
+#### 🔧 Plugin Architecture & Backend Engineering
+
+- 🔧 Installed and configured WordPress and WooCommerce with custom database setup
+- 🧠 Engineered a full-featured WooCommerce plugin for order export in XML and JSON formats
+- 📦 Built custom data models for customers, salutations, titles, and metadata
+- 📤 Developed CSV import/export pipelines with validation, tracking, and result logging
+- 🧾 Created dynamic invoice generation with editable templates, PayPal integration, and footer customization
+- 🧠 Implemented meta-boxes for custom post metadata and admin-side editing
+- 🧠 Designed reusable helpers for FTP, AJAX, email, caching, and debugging
+- 🧠 Built a scheduler for automated tasks and background operations
+- 🔐 Added secure HTTP headers and custom security logic for plugin endpoints
+- 🧠 Developed a hook system for extensibility and third-party integration
