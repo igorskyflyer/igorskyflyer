@@ -269,11 +269,11 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Posts on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <!-- BLOG-POST-LIST:START -->
-<br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank">npm valid scopes not working on Windows ✋🏼</a>
-<br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank">Chrome flags to enable or not 🚩</a>
-<br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank">Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</a>
-<br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank">Fix Node binaries in VS Code Terminal 🐢</a>
-<br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank">How to write low performance CSS animations 🐌</a><!-- BLOG-POST-LIST:END -->
+<br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank"><strong><em>npm valid scopes not working on Windows ✋🏼</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank"><strong><em>Chrome flags to enable or not 🚩</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank"><strong><em>Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
 <br>
 </details>
 
