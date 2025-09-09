@@ -151,3 +151,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 > ---
 >
 > **Mobile** • **Java**, **Android**, **Camera**, **API**, **Graphics**, **Image**, **Photo**, **Video**, **QR Scanner** • **Dušan M.** • **Serbia** 🇷🇸
+
+<br>
+
+> ✍🏼 Some of these reviews have been lightly edited for grammar and clarity, while preserving the factual truth and tone expressed by each client.
