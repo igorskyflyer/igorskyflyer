@@ -126,6 +126,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a> so far</li>
   </ul>
+  🪸 enjoys engineering packages on <a href="https://socket.dev/npm/user/igorskyflyer/packages"><strong>Socket</strong></a>
+  <br>
+  🐦 enjoys shaping packages on <a href="https://classic.yarnpkg.com/en/packages?q=%40igorskyflyer"><strong>YarnPkg</strong></a>
+  <br>
+  🪶 enjoys carving packages on <a href="https://packages.ecosyste.ms/registries/npmjs.org/maintainers/igorskyflyer"><strong>EcoSyste.ms</strong></a>
+  <br>
   🦦 enjoys producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
   <ul data-no-restyle>
     <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a> so far</li>
