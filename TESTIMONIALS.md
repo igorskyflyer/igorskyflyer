@@ -3,6 +3,28 @@
 These testimonials reflect a decade of Igor's freelance work and almost two decades of consistent learning across Web, desktop and mobile platforms. Igor specializes in lean, maintainable solutions, fixing legacy code, building custom systems or translating complex specs into clean deliverables.
 
 <br>
+<br>
+
+## 📃 Table of Contents
+
+- [Custom WordPress & WooCommerce Solution](#-custom-wordpress--woocommerce-solution)
+- [PHP, HTML and CSS Template Rework](#-php-html-and-css-template-rework)
+- [Pixel-Perfect Design from a Photoshop Template](#-pixel-perfect-design-from-a-photoshop-template)
+- [Custom Sorting Algorithm for Reading and Sorting Large Files](#️-custom-sorting-algorithm-for-reading-and-sorting-large-files)
+- [Custom WPF Management System](#-custom-wpf-management-system)
+- [Tech-Related Video Transcription](#-tech-related-video-transcription)
+- [Fix Layout and Clean Up a Custom ASP.NET & Bootstrap Template](#-fix-layout-and-clean-up-a-custom-aspnet--bootstrap-template)
+- [Fix Broken PHP Movie Website](#️-fix-broken-php-movie-website)
+- [Custom WPF Layout Storage File Format and Import/Export Features](#-custom-wpf-layout-storage-file-format-and-importexport-features)
+- [Custom WPF-based Management Solution](#-custom-wpf-based-management-solution)
+- [HR, Senior Developer Interview Quiz Creation and Testing](#️-hr-senior-developer-interview-quiz-creation-and-testing)
+- [Custom Drag-n-Drop WPF Components](#-custom-drag-n-drop-wpf-components)
+- [Debug and Improve Legacy jQuery-heavy Website](#-debug-and-improve-legacy-jquery-heavy-website)
+- [Fix a jQuery Error in a Windows Store (WWA) Application](#-fix-a-jquery-error-in-a-windows-store-wwa-application)
+- [Fix a Fatal Camera API Bug in an Android QR Scanner Application](#-fix-a-fatal-camera-api-bug-in-an-android-qr-scanner-application)
+
+<br>
+<br>
 
 ## 🍷 Custom WordPress & WooCommerce Solution
 
