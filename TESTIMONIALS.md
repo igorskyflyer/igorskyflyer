@@ -176,7 +176,9 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 
 <br>
 
-A detailed breakdown of the projects is available on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) page.
+> ### 💡 Projects in Detail
+>
+> A detailed breakdown of the projects is available on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) page.
 
 <br>
 <br>
