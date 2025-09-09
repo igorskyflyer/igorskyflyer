@@ -4,7 +4,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom WordPress & WooCommerce Solution
+## 🍷 Custom WordPress & WooCommerce Solution
 
 > “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of web development I can fully recommend Igor as a very competent and reliable professional._”
 >
@@ -14,7 +14,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## PHP, HTML and CSS Template Rework
+## 🍤 PHP, HTML and CSS Template Rework
 
 > “_Great as always :) Fixed my broken PHP, HTML and CSS template in a matter of minutes!_”
 >
@@ -24,7 +24,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Pixel-Perfect Design from a Photoshop Template
+## 🐾 Pixel-Perfect Design from a Photoshop Template
 
 > “_Igor translated a complex web-design to a perfect HTML and CSS template. It was a great experience to work with him again._”
 >
@@ -34,7 +34,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom Sorting Algorithm for Reading and Sorting Large Files
+## 🗒️ Custom Sorting Algorithm for Reading and Sorting Large Files
 
 > “_Saved the day with some really smart work. Delivered on time and that was most important for me. Thank you!_”
 >
@@ -44,7 +44,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom WPF Management System
+## 🐦‍🔥 Custom WPF Management System
 
 > “_Cooperation is top-notch, works extremely hard, delivers on-time, on budget and looks great! Thank you!_”
 >
@@ -54,7 +54,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Tech-Related Video Transcription
+## 🎥 Tech-Related Video Transcription
 
 > “_He is a great transcriber, especially in tech. Recommended!_”
 >
@@ -64,7 +64,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Fix Layout and Clean Up a Custom ASP.NET & Bootstrap Template
+## 🐦 Fix Layout and Clean Up a Custom ASP.NET & Bootstrap Template
 
 > “_Very quick and professional, knows what they're doing. Highly recommend, will hire again!_”
 >
@@ -74,7 +74,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Fix Broken PHP Movie Website
+## 🎞️ Fix Broken PHP Movie Website
 
 > “_Igor is a great guy, very patient, very reasonable and knowledgeable. I would advise you guys to take a chance with him :)_”
 >
@@ -84,7 +84,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom WPF Layout Storage File Format and Import/Export Features
+## 🪼 Custom WPF Layout Storage File Format and Import/Export Features
 
 > “_Igor and I continue a great working relationship. I will continue this relationship as long as he wishes._”
 >
@@ -94,7 +94,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom WPF-based Management Solution
+## 🐯 Custom WPF-based Management Solution
 
 > “_Igor is not only competent but is willing to work with you to get your project right. It is refreshing to find someone of Igor's caliber. Anytime I have another Windows project Igor will be my first choice. If you have a project and budget, Igor is the person you want._”
 >
@@ -104,7 +104,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## HR, Senior Developer Interview Quiz Creation and Testing
+## 🙋🏼‍♂️ HR, Senior Developer Interview Quiz Creation and Testing
 
 > “_Igor was extremely fast to pick up the task. He delivered high-quality work on time. Communication was excellent._”
 >
@@ -114,7 +114,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Custom Drag-n-Drop WPF Components
+## 🐉 Custom Drag-n-Drop WPF Components
 
 > “_If you want it done right, on budget and working, this is the developer for you. I'm very impressed with his professionalism and ability to communicate clearly the concept of the ideas that I listed._”
 >
@@ -124,7 +124,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Debug and Improve Legacy jQuery-heavy Website
+## 🦦 Debug and Improve Legacy jQuery-heavy Website
 
 > “_Igor is your man to go to if you have any problem related to coding. Hire him without any hesitation._”
 >
@@ -134,7 +134,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 <br>
 
-## Fix a jQuery Error in a Windows Store (WWA) Application
+## 🦚 Fix a jQuery Error in a Windows Store (WWA) Application
 
 > “_Carried out the work to a great standard. Also provided detailed instructions on how to skip the error to get the project moving._”
 >
