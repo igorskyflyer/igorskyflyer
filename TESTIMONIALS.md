@@ -22,6 +22,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 - [Debug and Improve Legacy jQuery-heavy Website](#-debug-and-improve-legacy-jquery-heavy-website)
 - [Fix a jQuery Error in a Windows Store (WWA) Application](#-fix-a-jquery-error-in-a-windows-store-wwa-application)
 - [Fix a Fatal Camera API Bug in an Android QR Scanner Application](#-fix-a-fatal-camera-api-bug-in-an-android-qr-scanner-application)
+- [Projects in Detail](#-projects-in-detail)
 
 <br>
 <br>
