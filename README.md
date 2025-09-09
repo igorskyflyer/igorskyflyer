@@ -72,14 +72,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 <details>
   <summary><strong>⚡ Tech Stack</strong></summary>
   <br>
-  <div align="center">
-    <em><strong>Browse by development aspect:</strong></em>
-    <br>
-    <br>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="Igor Dimitrijević (igorskyflyer) - Front-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="Igor Dimitrijević (igorskyflyer) - Back-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
-    <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="Igor Dimitrijević (igorskyflyer) - Full-Stack Development Projects Showcase" width="90" height="25" loading="lazy"></a>
-  </div>
+  <em><strong>Browse by development aspect:</strong></em>
+  <br>
+  <br>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="Igor Dimitrijević (igorskyflyer) - Front-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="Igor Dimitrijević (igorskyflyer) - Back-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
+  <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="Igor Dimitrijević (igorskyflyer) - Full-Stack Development Projects Showcase" width="90" height="25" loading="lazy"></a>
   <br>
 
 🌎 <strong>Web:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=sass"><strong>Sass</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=javascript"><strong>JavaScript</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node.js</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=php"><strong>PHP</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pwa"><strong>PWA</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>WordPress</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>
