@@ -75,6 +75,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <em><strong>Browse by development role:</strong></em>
   <br>
   <br>
+  <em><strong>or by the development technology used:</strong></em>
   <a href="https://github.com/igorskyflyer?tab=repositories&q=front-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/front-end.png" alt="Igor Dimitrijević (igorskyflyer) - Front-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
   <a href="https://github.com/igorskyflyer?tab=repositories&q=back-end"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/back-end.png" alt="Igor Dimitrijević (igorskyflyer) - Back-End Development Projects Portfolio" width="90" height="25" loading="lazy"></a>
   <a href="https://github.com/igorskyflyer?tab=repositories&q=full-stack"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/full-stack.png" alt="Igor Dimitrijević (igorskyflyer) - Full-Stack Development Projects Showcase" width="90" height="25" loading="lazy"></a>
