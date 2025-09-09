@@ -175,6 +175,10 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 > **Mobile** • **Java**, **Android**, **Camera**, **API**, **Graphics**, **Image**, **Photo**, **Video**, **QR Scanner** • **Dušan M.** • **Serbia** 🇷🇸
 
 <br>
+
+A detailed breakdown of the projects is available on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) page.
+
+<br>
 <br>
 
 > ✍🏼 Some of these reviews have been lightly edited for grammar corrections while preserving the factual truth and tone expressed by each client.
