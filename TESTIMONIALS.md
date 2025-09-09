@@ -12,7 +12,7 @@
 
 ## PHP, HTML and CSS Template Rework
 
-> “_Great as always :) Fixed my broken HTML and CSS template in a matter of minutes!_”
+> “_Great as always :) Fixed my broken PHP, HTML and CSS template in a matter of minutes!_”
 >
 > ---
 >
@@ -36,7 +36,7 @@
 >
 > ---
 >
-> **Desktop** • **C#** • **Algorithm** • **Shaunn D.** • **Australia** 🇦🇺
+> **Desktop** • **C#**, **Algorithm** • **Shaunn D.** • **Australia** 🇦🇺
 
 <br>
 
@@ -46,7 +46,7 @@
 >
 > ---
 >
-> **Desktop** • **C#** • **WPF** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -56,7 +56,7 @@
 >
 > ---
 >
-> **Transcription** • **English** • **Spanish** • **Gyutae C.** • **South Korea** 🇰🇷
+> **Transcription** • **English**, **Spanish** • **Gyutae C.** • **South Korea** 🇰🇷
 
 <br>
 
@@ -66,7 +66,7 @@
 >
 > ---
 >
-> **Web** • **Development** • **ASP.NET** • **Devin Y.** • **United States** 🇺🇸
+> **Web** • **ASP.NET**, **Bootstrap** • **Devin Y.** • **United States** 🇺🇸
 
 <br>
 
@@ -76,7 +76,7 @@
 >
 > ---
 >
-> **Web** • **Development** • **PHP** • **Devin Y.** • **Jamaica** 🇯🇲
+> **Web** • **PHP**, **CSS**, **HTML** • **Devin Y.** • **Jamaica** 🇯🇲
 
 <br>
 
@@ -86,7 +86,7 @@
 >
 > ---
 >
-> **Desktop** • **C#** • **WPF** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **File format** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -96,7 +96,7 @@
 >
 > ---
 >
-> **Desktop** • **C#** • **WPF** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **UI** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -106,7 +106,7 @@
 >
 > ---
 >
-> **HR** • **Resources** • **Development** • **Sergei S.** • **Netherlands** 🇳🇱
+> **HR** • **Resources**, **Quiz**, **Theory** • **Sergei S.** • **Netherlands** 🇳🇱
 
 <br>
 
@@ -116,7 +116,7 @@
 >
 > ---
 >
-> **Desktop** • **C#** • **WPF** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **Drag-n-Drop**, **UI** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -126,14 +126,14 @@
 >
 > ---
 >
-> **Web** • **HTML**, **CSS** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
+> **Web** • **HTML**, **CSS**, **JS**, **jQuery** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
 
 <br>
 
-## Fix a jQuery Error in an WWA Application
+## Fix a jQuery Error in a Windows Store (WWA) Application
 
 > “_Carried out the work to a great standard. Also provided detailed instructions on how to skip the error to get the project moving._”
 >
 > ---
 >
-> **Web** • **HTML**, **CSS** • **John H.** • **United Kingdom** 🇬🇧
+> **Web** • **HTML**, **CSS**, **jQuery**, • **John H.** • **United Kingdom** 🇬🇧
