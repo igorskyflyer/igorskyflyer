@@ -6,7 +6,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 
 ## 🍷 Custom WordPress & WooCommerce Solution
 
-> “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of web development I can fully recommend Igor as a very competent and reliable professional._”
+> “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of Web development, I can fully recommend Igor as a very competent and reliable professional._”
 >
 > ---
 >
@@ -26,7 +26,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 
 ## 🐾 Pixel-Perfect Design from a Photoshop Template
 
-> “_Igor translated a complex web-design to a perfect HTML and CSS template. It was a great experience to work with him again._”
+> “_Igor translated a complex Web-design to a perfect HTML and CSS template. It was a great experience to work with him again._”
 >
 > ---
 >
