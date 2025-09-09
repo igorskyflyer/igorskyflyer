@@ -12,7 +12,7 @@
 
 ## PHP, HTML and CSS Template Rework
 
-> “_Great as always :) Fixed my broken HTML and CSS template in matter of minutes!_”
+> “_Great as always :) Fixed my broken HTML and CSS template in a matter of minutes!_”
 >
 > ---
 >
@@ -22,7 +22,7 @@
 
 ## Pixel-Perfect Design from a Photoshop Template
 
-> “_Igor translated a complex web-design to a perfect HTML and CSS template. It was great a great experience to work with him again._”
+> “_Igor translated a complex web-design to a perfect HTML and CSS template. It was great experience to work with him again._”
 >
 > ---
 >
@@ -63,6 +63,8 @@
 ## Fix Layout and Clean Up a Custom ASP.NET & Bootstrap Template
 
 > “_Very quick and professional, knows what they're doing. Highly recommend, will hire again!_”
+>
+> ---
 >
 > **Web** • **Development** • **ASP.NET** • **Devin Y.** • **United States** 🇺🇸
 
