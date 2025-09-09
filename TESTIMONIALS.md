@@ -155,4 +155,4 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 <br>
 <br>
 
-> ✍🏼 Some of these reviews have been lightly edited for grammar and clarity, while preserving the factual truth and tone expressed by each client.
+> ✍🏼 Some of these reviews have been lightly edited for grammar corrections while preserving the factual truth and tone expressed by each client.
