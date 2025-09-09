@@ -1,6 +1,6 @@
 # 🫱🏼‍🫲🏾 Client Testimonials
 
-These testimonials reflect a decade of Igor's freelance work across Web, desktop, and editorial projects. Igor specializes in lean, maintainable solutions, whether it's fixing legacy code, building custom systems or translating complex specs into clean deliverables.
+These testimonials reflect a decade of Igor's freelance work across Web, desktop and editorial projects. Igor specializes in lean, maintainable solutions, fixing legacy code, building custom systems or translating complex specs into clean deliverables.
 
 <br>
 
