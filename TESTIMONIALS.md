@@ -50,7 +50,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **UI**, **Controls**, **Tabbed-Design**, **Management** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **UI**, **Controls**, **Tabbed-Design**, **Management** • **Michael B.** • **United States** 🇺🇸
 
 <br>
 
@@ -90,7 +90,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **File Format**, **Storage**, **Binary**, **Layout**, **UI** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **File Format**, **Storage**, **Binary**, **Layout**, **UI** • **Michael B.** • **United States** 🇺🇸
 
 <br>
 
@@ -100,7 +100,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **UI**, **Management**, **System**, **Tabbed-Design**, **External Integrations** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **UI**, **Management**, **System**, **Tabbed-Design**, **External Integrations** • **Michael B.** • **United States** 🇺🇸
 
 <br>
 
@@ -120,7 +120,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **Drag-n-Drop**, **UI**, **Components**, **Layout**, **Interactivity**, **Accessibility** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **Drag-n-Drop**, **UI**, **Components**, **Layout**, **Interactivity**, **Accessibility** • **Michael B.** • **United States** 🇺🇸
 
 <br>
 
@@ -141,3 +141,13 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 > ---
 >
 > **Web** • **HTML**, **CSS**, **jQuery**, **Windows Store**, **Visual Studio**, **Project**, **WWA**, **Support** • **John H.** • **United Kingdom** 🇬🇧
+
+<br>
+
+## 📷 Fix a Fatal Camera API Bug in an Android QR Scanner Application
+
+> “_Igor quickly fixed a long-standing issue in my Android application with the Camera API. Thank you so much, Igor!_”
+>
+> ---
+>
+> **Mobile** • **Java**, **Android**, **Camera**, **API**, **Graphics**, **Image**, **Photo**, **Video**, **QR Scanner** • **Dušan M.** • **Serbia** 🇷🇸
