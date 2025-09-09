@@ -1,12 +1,16 @@
 # 🫱🏼‍🫲🏾 Client Testimonials
 
+These testimonials reflect almost two decades of freelance work across Web, desktop, and editorial projects. Igor specializes in lean, maintainable solutions, whether it's fixing legacy code, building custom systems or translating complex specs into clean deliverables.
+
+<br>
+
 ## Custom WordPress & WooCommerce Solution
 
-> “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of web development I can fully recommend igor as a very competent and reliable professional._”
+> “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of web development I can fully recommend Igor as a very competent and reliable professional._”
 >
 > ---
 >
-> **Web** • **WordPress**, **WooCommerce**, **3rd-party integrations** • **Oliver B.** • **Germany** 🇩🇪
+> **Web** • **WordPress**, **WooCommerce**, **3rd-party integrations**, **FTP**, **Plugin**, **Theme**, **SEO**, **Security**, **Product Insight** • **Oliver B.** • **Germany** 🇩🇪
 
 <br>
 
@@ -16,17 +20,17 @@
 >
 > ---
 >
-> **Web** • **PHP**, **HTML**, **CSS** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
+> **Web** • **PHP**, **HTML**, **CSS**, **Template** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
 
 <br>
 
 ## Pixel-Perfect Design from a Photoshop Template
 
-> “_Igor translated a complex web-design to a perfect HTML and CSS template. It was great experience to work with him again._”
+> “_Igor translated a complex web-design to a perfect HTML and CSS template. It was a great experience to work with him again._”
 >
 > ---
 >
-> **Web** • **WordPress**, **WooCommerce**, **Photoshop** • **Oliver B.** • **Germany** 🇩🇪
+> **Web** • **WordPress**, **WooCommerce**, **Photoshop**, **Plugin**, **Template**, **Accessibility**, **Product Insight**, **SEO**, **Security** • **Oliver B.** • **Germany** 🇩🇪
 
 <br>
 
@@ -36,7 +40,7 @@
 >
 > ---
 >
-> **Desktop** • **C#**, **Algorithm** • **Shaunn D.** • **Australia** 🇦🇺
+> **Desktop** • **C#**, **Algorithm**, **Large Files** • **Shaunn D.** • **Australia** 🇦🇺
 
 <br>
 
@@ -46,7 +50,7 @@
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **UI**, **Controls**, **Tabbed-Design**, **Management** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -56,7 +60,7 @@
 >
 > ---
 >
-> **Transcription** • **English**, **Spanish** • **Gyutae C.** • **South Korea** 🇰🇷
+> **Transcription** • **Tech**, **Video**, **Audio**, **English**, **Spanish**, **Text** • **Gyutae C.** • **South Korea** 🇰🇷
 
 <br>
 
@@ -66,7 +70,7 @@
 >
 > ---
 >
-> **Web** • **ASP.NET**, **Bootstrap** • **Devin Y.** • **United States** 🇺🇸
+> **Web** • **ASP.NET**, **Bootstrap**, **Template**, **CSS**, **HTML**, **JavaScript** • **Devin Y.** • **United States** 🇺🇸
 
 <br>
 
@@ -76,7 +80,7 @@
 >
 > ---
 >
-> **Web** • **PHP**, **CSS**, **HTML** • **Devin Y.** • **Jamaica** 🇯🇲
+> **Web** • **PHP**, **CSS**, **HTML**, **JavaScript**, **Layout**, **Design**, **Responsive**, **Mobile** • **Devin Y.** • **Jamaica** 🇯🇲
 
 <br>
 
@@ -86,7 +90,7 @@
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **File format** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **File Format**, **Storage**, **Binary**, **Layout**, **UI** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -96,17 +100,17 @@
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **UI** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **UI**, **Management**, **System**, **Tabbed-Design**, **External Integrations** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
-## HR, Senior Developer Quiz Creation and Testing
+## HR, Senior Developer Interview Quiz Creation and Testing
 
 > “_Igor was extremely fast to pick up the task. He delivered high-quality work on time. Communication was excellent._”
 >
 > ---
 >
-> **HR** • **Resources**, **Quiz**, **Theory** • **Sergei S.** • **Netherlands** 🇳🇱
+> **HR** • **Resources**, **Quiz**, **Theory**, **Knowledge**, **Interview**, **Testing**, **Q&A** • **Sergei S.** • **Netherlands** 🇳🇱
 
 <br>
 
@@ -116,7 +120,7 @@
 >
 > ---
 >
-> **Desktop** • **C#**, **WPF**, **Drag-n-Drop**, **UI** • **Michael D.** • **United States** 🇺🇸
+> **Desktop** • **C#**, **WPF**, **Drag-n-Drop**, **UI**, **Components**, **Layout**, **Interactivity**, **Accessibility** • **Michael D.** • **United States** 🇺🇸
 
 <br>
 
@@ -126,7 +130,7 @@
 >
 > ---
 >
-> **Web** • **HTML**, **CSS**, **JS**, **jQuery** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
+> **Web** • **HTML**, **CSS**, **JS**, **jQuery**, **Template**, **Legacy**, **URL Shortener**, **Rebranding** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
 
 <br>
 
@@ -136,4 +140,4 @@
 >
 > ---
 >
-> **Web** • **HTML**, **CSS**, **jQuery**, • **John H.** • **United Kingdom** 🇬🇧
+> **Web** • **HTML**, **CSS**, **jQuery**, **Windows Store**, **Visual Studio**, **Project**, **WWA**, **Support** • **John H.** • **United Kingdom** 🇬🇧
