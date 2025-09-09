@@ -85,17 +85,17 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 🌎 <strong>Web:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=html"><strong>HTML</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=css"><strong>CSS</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=sass"><strong>Sass</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=javascript"><strong>JavaScript</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=typescript"><strong>TypeScript</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=node"><strong>Node.js</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=php"><strong>PHP</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=astro"><strong>Astro</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pwa"><strong>PWA</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=wordpress"><strong>WordPress</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=woocommerce"><strong>WooCommerce</strong></a>
 <br>
 🖥️ <strong>Desktop:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=c%23"><strong>C#</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=pascal"><strong>Pascal</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=delphi"><strong>Delphi</strong></a>
-
+<br>
 📱 <strong>Mobile:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&language=java"><strong>Java</strong></a> (Android), <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter"><strong>Flutter</strong></a>
-
+<br>
 🦄 <strong>UI / UX:</strong> Figma, Affinity Designer, Adobe XD / Illustrator / Photoshop
-
+<br>
 🛠️ <strong>Tooling:</strong> esbuild, Vite, Biome, Vitest, Composer
-
+<br>
 🦖 <strong>Extensibility:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&q=vscode"><strong>VS Code extensions / themes</strong></a>, <a href="https://github.com/igorskyflyer?tab=repositories&q=userscript"><strong>UserScripts</strong></a>
-
+<br>
 🌿 <strong>Environments:</strong> Windows, WSL (Ubuntu), Linux (Mint, Manjaro)
-
+<br>
 ❄️ <strong>Platforms:</strong> Cloudflare, Vercel, Netlify
 <br>
 <br>
