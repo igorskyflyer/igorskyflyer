@@ -10,19 +10,31 @@
 
 <br>
 
+## PHP, HTML and CSS Template Rework
+
 > “_Great as always :) Fixed my broken HTML and CSS template in matter of minutes!_”
 >
-> **Web** • **HTML**, **CSS** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
+> ---
+>
+> **Web** • **PHP**, **HTML**, **CSS** • **Kashif Ahmad K.** • **Pakistan** 🇵🇰
 
 <br>
 
+## Pixel-Perfect Design from a Photoshop Template
+
 > “_Igor translated a complex web-design to a perfect HTML and CSS template. It was great a great experience to work with him again._”
+>
+> ---
 >
 > **Web** • **WordPress**, **WooCommerce**, **Photoshop** • **Oliver B.** • **Germany** 🇩🇪
 
 <br>
 
+## Custom Sorting Algorithm for Reading and Sorting Large Files
+
 > “_Saved the day with some really smart work. Delivered on time and that was most important for me. Thank you!_”
+>
+> ---
 >
 > **Desktop** • **C#** • **Algorithm** • **Shaunn D.** • **Australia** 🇦🇺
 
