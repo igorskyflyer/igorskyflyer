@@ -24,14 +24,14 @@ Creator of flagship projects including:
 
 ## ✨ Career Highlights & Impact
 
-- `332K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `105K+` monthly hits for top CDN-served packages
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `30+` programming certificates
 - Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
 - Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
-- Recipient of a `Best Site` award (2009 - age 16, built entirely on a Sony Ericsson J300i)
+- Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
 
 </div>
 
