@@ -146,7 +146,7 @@ These testimonials reflect a decade of Igor's freelance work across Web, desktop
 
 ## 📷 Fix a Fatal Camera API Bug in an Android QR Scanner Application
 
-> “_Igor quickly fixed a long-standing issue in my Android application with the Camera API. Thank you so much, Igor!_”
+> “_Igor quickly fixed a long-standing issue in my Android application with the Camera API that rendered my application completely unusable. Thank you so much, Igor!_”
 >
 > ---
 >
