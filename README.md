@@ -112,6 +112,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
   </ul>
+  🐦‍🔥 enjoys manufacturing <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
+  <br>
   🎀 enjoys crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>
   <br>
   🔨 enjoys forging Visual Studio Code APIs:
