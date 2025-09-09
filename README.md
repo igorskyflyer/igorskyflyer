@@ -290,7 +290,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <summary><strong>🙆🏻‍♂️ Let&#39;s Connect</strong></summary>
   <br>
   <div align="center">
-  <!-- 1st row -->
+    <!-- 1st row -->
     <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open-Source Profile" loading="lazy"></a>
     <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Verified Microsoft Visual Studio Code Publisher" loading="lazy"></a>
     <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front-End Experiments & UI Demos" loading="lazy"></a>
