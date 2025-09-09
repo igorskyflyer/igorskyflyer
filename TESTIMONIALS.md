@@ -1,7 +1,7 @@
 # 🫱🏼‍🫲🏾 Client Testimonials
 
-> ## Custom WordPress & WooCommerce Solution
->
+## Custom WordPress & WooCommerce Solution
+
 > “_Igor made a great job again. He found the perfect solution for my task in a very short time. In all terms of web development I can fully recommend igor as a very competent and reliable professional._”
 >
 > ---
