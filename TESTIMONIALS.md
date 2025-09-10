@@ -9,7 +9,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 
 - [Custom WordPress & WooCommerce Solution](#-custom-wordpress--woocommerce-solution)
 - [PHP/CSS Template Rework](#-php-html-and-css-template-rework)
-- [Photoshop -> HTML Template](#-pixel-perfect-design-from-a-photoshop-template)
+- [Photoshop &rarr; HTML Template](#-pixel-perfect-design-from-a-photoshop-template)
 - [C# File-Lines Sorting Algorithm](#️-custom-sorting-algorithm-for-reading-and-sorting-large-files)
 - [Custom WPF Management System](#-custom-wpf-management-system)
 - [Tech Video Transcription](#-tech-related-video-transcription)
