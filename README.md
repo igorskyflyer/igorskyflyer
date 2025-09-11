@@ -3,35 +3,35 @@
 > Senior Full-Stack Software Engineer • Award-Winning Developer • Web, Desktop & Mobile • Open-Source Maintainer
 
 <div data-no-restyle>
-<strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes</strong> and <strong>full-scale e-commerce</strong> platforms.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes</strong> and <strong>full-scale e-commerce</strong> platforms.
 
-<br>
-<br>
+    <br>
+    <br>
 
-Creator of notable projects including:
+    Creator of notable projects including:
 
-- [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
-- [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
-- [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of high-performance adblock filter lists
-- [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
-- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
+    - [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
+    - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
+    - [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of high-performance adblock filter lists
+    - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
+    - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
+    - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
+    - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
-…and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
+    …and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
 
-<br>
+    <br>
 
-## ✨ Career Highlights & Impact
+    ## ✨ Career Highlights & Impact
 
-- `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `100K+` monthly hits for top CDN-served packages
-- `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
-- `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
-- `30+` programming certificates
-- Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
-- Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
-- Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
+    - `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+    - `100K+` monthly hits for top CDN-served packages
+    - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
+    - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
+    - `30+` programming certificates
+    - Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
+    - Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
+    - Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
 
 </div>
 
