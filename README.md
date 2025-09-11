@@ -18,7 +18,7 @@ Creator of notable projects including:
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
-…and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals, more details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
+…and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
 
 <br>
 
