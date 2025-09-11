@@ -8,7 +8,7 @@
 <br>
 <br>
 
-Creator of flagship projects including:
+Creator of notable projects including:
 
 - [**Aria**](https://github.com/aria-toolkit) - a custom adblock template compiler for his own DSL
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable adblock filters
