@@ -29,27 +29,27 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
 
 #### WordPress and WooCommerce Solution
 
-Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage retail. The solution handled automated orders export to a 3rd-party fulfillment provider, `FTP`-based tracking updates via `Cron`, dynamic invoice generation, tracking number fetching and customer notification. The solution was multilingual - `English`, `German`. All of the components were built from scratch and used modern `PHP` features and custom `HTTP security headers` to harden server security. Also, the client did not ask for a configuration page but one was provided to the client, to give them full control.
+Developed a custom **WordPress** and **WooCommerce** solution for a luxury beverage retail. The solution handled automated orders export to a 3rd-party fulfillment provider, **FTP**-based tracking updates via **Cron**, dynamic invoice generation, tracking number fetching and customer notification. The solution was multilingual - **English**, **German**. All of the components were built from scratch and used modern **PHP** features and custom **HTTP security headers** to harden server security. Also, the client did not ask for a configuration page but one was provided to the client, to give them full control.
 
 <br>
 
 #### 💻 Tech Stack
 
-This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client.  
+This solution was built from the ground up with no frameworks. The only external dependency was the **FTP** client.  
 The stack that was used was:
 
-- `PHP` - backend language
-- `WordPress` - CMS foundation
-- `WooCommerce` - e-commerce engine
-- `HTML` - markup for frontend templates and admin views
-- `CSS` - custom styles and layout refinements across themes
-- `JavaScript` - custom settings page for the plugin
-- `AJAX` - dynamic frontend/backend interactions
-- `FTP` - protocol for external data exchange
-- `Cron` - task scheduler for automation
-- `PayPal` - payment gateway
-- `KlickTipp` - email marketing platform
-- `Visual Composer` - page builder for admin layout
+- **PHP** - backend language
+- **WordPress** - CMS foundation
+- **WooCommerce** - e-commerce engine
+- **HTML** - markup for frontend templates and admin views
+- **CSS** - custom styles and layout refinements across themes
+- **JavaScript** - custom settings page for the plugin
+- **AJAX** - dynamic frontend/backend interactions
+- **FTP** - protocol for external data exchange
+- **Cron** - task scheduler for automation
+- **PayPal** - payment gateway
+- **KlickTipp** - email marketing platform
+- **Visual Composer** - page builder for admin layout
 
 <br>
 
@@ -57,75 +57,75 @@ The stack that was used was:
 
 These are implementation domains and architectural patterns built on top of the stack:
 
-- `Data Formats` - CSV, XML, JSON for import/export and integrations
-- `Security` - custom HTTP headers and logic to mitigate attacks
-- `Multilingual Support` - native English and German implementation
-- `Admin UX` - dynamic admin tables, AJAX-powered interactions
-- `Shared Logic` - reusable helpers for FTP, email, caching, debugging, scheduling
+- **Data Formats** - CSV, XML, JSON for import/export and integrations
+- **Security** - custom HTTP headers and logic to mitigate attacks
+- **Multilingual Support** - native English and German implementation
+- **Admin UX** - dynamic admin tables, AJAX-powered interactions
+- **Shared Logic** - reusable helpers for FTP, email, caching, debugging, scheduling
 
 <br>
 
 ## 🔧 Backend Architecture
 
-- Custom `database` schema for `WooCommerce`
+- Custom **database** schema for **WooCommerce**
 - Plugin suite for:
-  - Order `export` (`XML`/`JSON`)
-  - `CSV` migration with validation and logging
-  - Dynamic `invoice` generation
-  - Meta-boxes for post `metadata`
-- `Cron`-based automation:
-  - `Scheduled` imports/exports
-  - CSV `parsing`
-  - `Fulfillment` sync
-- `Secure` HTTP `headers` and custom logic for threat `mitigation`
+  - Order **export** (**XML**/**JSON**)
+  - **CSV** migration with validation and logging
+  - Dynamic **invoice** generation
+  - Meta-boxes for post **metadata**
+- **Cron**-based automation:
+  - **Scheduled** imports/exports
+  - CSV **parsing**
+  - **Fulfillment** sync
+- **Secure** HTTP **headers** and custom logic for threat **mitigation**
 
 <br>
 
 ## 🚚 Fulfillment & Tracking Integration
 
-- Automated `XML` feed export to 3rd-party fulfillment provider
-- Periodic `FTP` sync to retrieve shipped order data
-- `CSV` parsing to extract `tracking numbers` and carrier info
-- `WooCommerce` order `updates` with `tracking` URLs
-- Admin `dashboard` display for tracking visibility
-- `Automated` customer `emails` with `personalized` tracking links
+- Automated **XML** feed export to 3rd-party fulfillment provider
+- Periodic **FTP** sync to retrieve shipped order data
+- **CSV** parsing to extract **tracking numbers** and carrier info
+- **WooCommerce** order **updates** with **tracking** URLs
+- Admin **dashboard** display for tracking visibility
+- **Automated** customer **emails** with **personalized** tracking links
 
 <br>
 
 ## 🖥️ Frontend & Admin UX
 
-- Customized `WooCommerce` templates and styles
-- Dynamic admin tables with `pagination`, `sorting`, `filtering`
-- Custom `admin` bar entries and plugin `settings` pages
-- `AJAX`-powered tracking `uploads` and order status `management`
-- Native `multilingual` support (**EN**/**DE**) without external plugins
+- Customized **WooCommerce** templates and styles
+- Dynamic admin tables with **pagination**, **sorting**, **filtering**
+- Custom **admin** bar entries and plugin **settings** pages
+- **AJAX**-powered tracking **uploads** and order status **management**
+- Native **multilingual** support (**EN**/**DE**) without external plugins
 
 <br>
 
 ## 📈 SEO, Performance & Accessibility
 
-- `High-security` headers and input sanitization
-- Optimized `frontend` markup and `metadata` for `SEO`
-- `Accessibility` audit across templates and admin interfaces
+- **High-security** headers and input sanitization
+- Optimized **frontend** markup and **metadata** for **SEO**
+- **Accessibility** audit across templates and admin interfaces
 
 <br>
 
 ## 🌟 Highlights
 
-- `Plugin suite` built from scratch - no 3rd-party frameworks
-- `Modular architecture` with clean `separation` of concerns
-- Elegant solutions for complex `import`/export `challenges`
-- Native `multilingual` support - no `translation` plugins
-- Fully `automated fulfillment` and tracking - zero `missed` orders
+- **Plugin suite** built from scratch - no 3rd-party frameworks
+- **Modular architecture** with clean **separation** of concerns
+- Elegant solutions for complex **import**/export **challenges**
+- Native **multilingual** support - no **translation** plugins
+- Fully **automated fulfillment** and tracking - zero **missed** orders
 
 <br>
 
 ## 🧭 Ongoing Platform Evolution
 
-- Migrated admin layout workflows to `Visual Composer`
-- Adapted plugin output to align with `builder` logic
-- Added new content blocks with `multilingual` and `SEO` compatibility
-- Provided `support` and `refinements` during editorial transition
+- Migrated admin layout workflows to **Visual Composer**
+- Adapted plugin output to align with **builder** logic
+- Added new content blocks with **multilingual** and **SEO** compatibility
+- Provided **support** and **refinements** during editorial transition
 
 <br>
 
