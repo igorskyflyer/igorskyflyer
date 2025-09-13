@@ -190,6 +190,12 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 - Created a custom video page template and expandable search bar
 - Enabled selectable post templates for flexible content publishing
 
+#### 🖥️ Frontend & Admin UX
+
+- Created frontend templates and styles for WordPress pages from the provided Photoshop design
+- Added custom admin bar entries and plugin settings pages
+- Integrated multilingual support with English and German translations
+
 <br>
 
 > 🌍 URL: [**Sensomed.eu**](https://sensomed.eu)
