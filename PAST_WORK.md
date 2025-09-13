@@ -35,13 +35,15 @@ Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage 
 
 This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client. The stack that was used was:
 
-- `PHP`, a language that powers `WordPress`, `WooCommerce` and all custom plugin logic. `WordPress` is the `CMS` with tailored post types and admin tools
-- `WooCommerce` was chosen as the e-commerce engine, extended with client-requested features
-- `Custom order workflow plugin` - built for export, tracking, invoicing, and automation, using the following `data formats`: `CSV`, `XML`, and `JSON` for 3rd-party integrations
-- `Security` was increased with custom `HTTP` headers and other security measures
-- `Multilingual support` was a client's need, native English and German was implemented, with no external translation plugins
-- `Admin UX` was enhanced by implementing dynamic interactions via `AJAX`
-- `Email marketing` powered by `KlickTipp` (email marketing platform) was integrated in order to increase customer `conversions`
+- `PHP` – backend logic for WordPress and WooCommerce
+- `WordPress` – CMS foundation with custom theme and post templates
+- `WooCommerce` – e-commerce engine with pr
+- `Custom order workflow plugin` - export, tracking, invoicing, and automation
+- `Data formats` - `CSV`, `XML`, and `JSON` for 3rd-party integrations
+- `Security` - custom `HTTP` headers and other security measures
+- `Multilingual support` - native `English` and `German` implementation
+- `Admin UX` - enhanced by implementing dynamic interactions via `AJAX`
+- `Email marketing` - powered by `KlickTipp` (_email marketing platform_) was integrated in order to increase customer `conversions`
 - `Shared logic` - reusable helpers for `FTP`, `email`, `caching`, `debugging`, and `scheduling` were used for performance and non-repeating code.
 
 #### 🔧 Backend
