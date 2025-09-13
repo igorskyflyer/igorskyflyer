@@ -33,7 +33,8 @@ Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage 
 
 #### 💻 Tech Stack
 
-This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client. The stack that was used was:
+This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client.  
+The stack that was used was:
 
 - `PHP` - backend language
 - `WordPress` - CMS foundation
