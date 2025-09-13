@@ -8,20 +8,20 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
 
 ## 📃 Table of Contents
 
-- [`WordPress & WooCommerce Solution`](#-sissis)
-- [`End-to-End Mortuary Management System`](#-ezmm)
-- [`Healthcare E-Commerce Platform`](#-sensomed)
-- [`Other Projects`](#-other-projects)
-  - [`ASP.NET Site Recovery`](#-aspnet-site-recovery)
-  - [`Custom Front-End for URL Shortener`](#-custom-front-end-for-url-shortener)
-  - [`Drag-and-Drop WPF API`](#-drag-and-drop-wpf-api)
-  - [`HR Technical Quiz Authoring`](#-hr-technical-quiz-authoring)
-  - [`Responsive Redesign for Movie Website`](#-responsive-redesign-for-movie-website)
-  - [`Bootstrap Template Cleanup`](#-bootstrap-template-cleanup)
-  - [`Multilingual Video Transcription`](#-multilingual-video-transcription)
-  - [`Custom Sorting Algorithm`](#-custom-sorting-algorithm)
-- [`Work Principles`](#-work-principles)
-- [`Client Testimonials`](#-client-testimonials)
+- [**WordPress & WooCommerce Solution**](#-sissis)
+- [**End-to-End Mortuary Management System**](#-ezmm)
+- [**Healthcare E-Commerce Platform**](#-sensomed)
+- [**Other Projects**](#-other-projects)
+  - [**ASP.NET Site Recovery**](#-aspnet-site-recovery)
+  - [**Custom Front-End for URL Shortener**](#-custom-front-end-for-url-shortener)
+  - [**Drag-and-Drop WPF API**](#-drag-and-drop-wpf-api)
+  - [**HR Technical Quiz Authoring**](#-hr-technical-quiz-authoring)
+  - [**Responsive Redesign for Movie Website**](#-responsive-redesign-for-movie-website)
+  - [**Bootstrap Template Cleanup**](#-bootstrap-template-cleanup)
+  - [**Multilingual Video Transcription**](#-multilingual-video-transcription)
+  - [**Custom Sorting Algorithm**](#-custom-sorting-algorithm)
+- [**Work Principles**](#-work-principles)
+- [**Client Testimonials**](#-client-testimonials)
 
 <br>
 
@@ -125,11 +125,11 @@ These are implementation domains and architectural patterns built on top of the 
 - Migrated admin layout workflows to **Visual Composer**
 - Adapted plugin output to align with **builder** logic
 - Added new content blocks with **multilingual** and **SEO** compatibility
-- Provided **support** and **refinements** during the `Gutenberg` -> `Visual Composer` transition
+- Provided **support** and **refinements** during the **Gutenberg** &rarr; **Visual Composer** transition
 
 <br>
 
-> 🌍 URL: [`SissiS.com`](https://sissis.com)
+> 🌍 URL: [**SissiS.com**](https://sissis.com)
 
 ---
 
@@ -141,16 +141,16 @@ Designed and developed the entire EZMM application from scratch, delivering a ro
 
 #### 💻 Tech Stack
 
-- `C#` - core language for backend logic and data operations
-- `WPF` - desktop UI framework with custom controls and tabbed layouts
-- `MVVM` - architectural pattern for clean separation of logic and presentation
-- `DataGrid` - used for sortable, filterable record views
-- `Custom Forms` - dynamic input fields for deceased records, services, and billing
-- `Local Database` - structured storage for mortuary data and client records
-- `Validation Logic` - built-in rules for form integrity and data consistency
-- `Navigation System` - tabbed interface with contextual routing
-- `Modular Components` - reusable UI elements and backend utilities
-- `Role-Based Access` - permission layers for staff and admin workflows
+- **C#** - core language for backend logic and data operations
+- **WPF** - desktop UI framework with custom controls and tabbed layouts
+- **MVVM** - architectural pattern for clean separation of logic and presentation
+- **DataGrid** - used for sortable, filterable record views
+- **Custom Forms** - dynamic input fields for deceased records, services, and billing
+- **Local Database** - structured storage for mortuary data and client records
+- **Validation Logic** - built-in rules for form integrity and data consistency
+- **Navigation System** - tabbed interface with contextual routing
+- **Modular Components** - reusable UI elements and backend utilities
+- **Role-Based Access** - permission layers for staff and admin workflows
 
 #### 🔧 Backend
 
@@ -201,16 +201,16 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 #### 💻 Tech Stack
 
-- `PHP` - backend logic for WordPress and WooCommerce
-- `WordPress` - CMS foundation with custom theme and post templates
-- `WooCommerce` - e-commerce engine with product variations and filters
-- `HTML/CSS` - frontend styling and responsive layout from PSD
-- `JavaScript` - dynamic UI elements and expandable search bar
-- `Google Translate` - integrated multilingual support
-- `Gutenberg` - custom blocks for flexible content publishing
-- `Security Headers` - applied for enhanced protection and SEO
-- `Video Templates` - custom layout for embedded media
-- `Custom Theme` - built from scratch based on static design
+- **PHP** - backend logic for **WordPress** and WooCommerce
+- **WordPress** - CMS foundation with custom theme and post templates
+- **WooCommerce** - e-commerce engine with product variations and filters
+- **HTML/CSS** - frontend styling and responsive layout from PSD
+- **JavaScript** - dynamic UI elements and expandable search bar
+- **Google Translate** - integrated multilingual support
+- **Gutenberg** - custom blocks for flexible content publishing
+- **Security Headers** - applied for enhanced protection and SEO
+- **Video Templates** - custom layout for embedded media
+- **Custom Theme** - built from scratch based on static design
 
 #### 🔧 Backend
 
@@ -231,7 +231,7 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 <br>
 
-> 🌍 URL: [`Sensomed.eu`](https://sensomed.eu)
+> 🌍 URL: [**Sensomed.eu**](https://sensomed.eu)
 
 ---
 
@@ -291,14 +291,14 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 ## 🏆 Work Principles
 
-- `Resourcefulness` - solving unfamiliar problems with speed and precision
-- `Technical Depth` - from low-level APIs to high-level UI polish
-- `Cross-Platform Versatility` - web, desktop, mobile, and beyond
-- `Client-Centric Design` - every solution tailored to real-world and client's needs
-- `Security & Performance` - always optimized, always protected
+- **Resourcefulness** - solving unfamiliar problems with speed and precision
+- **Technical Depth** - from low-level APIs to high-level UI polish
+- **Cross-Platform Versatility** - web, desktop, mobile, and beyond
+- **Client-Centric Design** - every solution tailored to real-world and client's needs
+- **Security & Performance** - always optimized, always protected
 
 <br>
 
 #### 💡 Client Testimonials
 
-Client testimonials for these projects are available on the [`Testimonials`](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md) page.
+Client testimonials for these projects are available on the [**Testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md) page.
