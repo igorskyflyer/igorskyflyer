@@ -137,59 +137,77 @@ These are implementation domains and architectural patterns built on top of the 
 
 #### End-to-End Mortuary Management System
 
-Designed and developed the entire EZMM application from scratch, delivering a robust, modular, and user-friendly desktop solution tailored for mortuary operations. The system integrates data management, billing, scheduling, inventory, and multimedia handling - all wrapped in a custom tabbed UI.
+Designed and developed the entire **EZMM** application from scratch, delivering a robust, modular, and user-friendly **desktop** solution tailored for mortuary operations. The system integrates data **management**, **billing**, **scheduling**, **inventory**, and **multimedia** handling - all wrapped in a custom tabbed UI.
 
-#### 💻 Tech Stack
+<br>
 
-- **C#** - core language for backend logic and data operations
-- **WPF** - desktop UI framework with custom controls and tabbed layouts
-- **MVVM** - architectural pattern for clean separation of logic and presentation
-- **DataGrid** - used for sortable, filterable record views
-- **Custom Forms** - dynamic input fields for deceased records, services, and billing
-- **Local Database** - structured storage for mortuary data and client records
-- **Validation Logic** - built-in rules for form integrity and data consistency
-- **Navigation System** - tabbed interface with contextual routing
-- **Modular Components** - reusable UI elements and backend utilities
-- **Role-Based Access** - permission layers for staff and admin workflows
+## 💻 Tech Stack
 
-#### 🔧 Backend
+These are the core technologies and platforms used to build the system:
 
-- Built a modular control system with reusable components for staff, visitors, relatives, memberships, and organizations
-- Designed a custom drag-and-drop API for WPF controls with binary export/import support
-- Implemented dynamic dashboard sections, separators, and item containers with animated transitions
-- Created a flexible caching layer and global config system for runtime settings
-- Engineered migration utilities for database, filesystem, and config upgrades
-- Integrated network utilities for remote data sync and service communication
-- Built a centralized data fetcher and document retriever with fallback logic
-- Authored utility libraries for strings, forms, images, paths, and app-wide helpers
-- Built a robust storage system with safe read/write operations and fallback recovery
-- Engineered database utilities for query abstraction, migration, and schema evolution
-- Developed configuration management with runtime overrides and version tracking
-- Implemented app data handling with secure serialization and environment awareness
+- **C#** – core language for backend logic and data operations
+- **WPF** – desktop UI framework with custom controls and tabbed layouts
+- **MVVM** – architectural pattern for separation of logic and presentation
+- **Local Database** – structured storage for mortuary data and client records
 
-#### 🖥️ UI & UX Engineering
+<br>
 
-- Designed the entire tabbed UI from scratch using WPF - intuitive, responsive, and domain-specific
-- Created custom controls for caption bars, combo boxes, scrollers, and draggable elements
-- Developed document and image viewers with dynamic layout and metadata support
-- Built a music track component for multimedia handling
-- Implemented inventory and billing controls with expandable detail views
-- Added billing modules for informant and service details with export-ready formatting
-- Integrated status indicators, to-do tasks, and notification logic
-- Created profile and contact management interfaces with validation and role-based access
+## 🧩 Functional Capabilities
 
-#### 🧠 System Integration
+These are implementation domains and architectural patterns built on top of the stack:
 
-- Connected external Excel/Word viewers via custom launchers
-- Added support for dynamic tab switching and context-aware navigation
-- Designed expandable search bars and custom filtering logic across modules
+- **DataGrid** – **sortable**, filterable record **views**
+- **Custom Forms** – **dynamic** input fields for deceased records, services, billing
+- **Validation Logic** – built-in rules for form **integrity** and data **consistency**
+- **Navigation System** – tabbed **interface** with contextual routing
+- **Modular Components** – reusable **UI** elements and backend utilities
+- **Role-Based Access** – **permission** layers for staff and **admin** workflows
 
-#### 🌟 Highlights
+<br>
 
-- Built the entire system solo - from UI to backend
-- Delivered a fully operational, domain-specific desktop app with high maintainability
-- Solved complex problems with zero prior domain experience
-- Created a scalable architecture ready for future modules and integrations
+## 🔧 Backend
+
+- **Modular control** system for staff, visitors, relatives, memberships, organizations
+- Custom **drag-and-drop API** for WPF controls with binary **export**/**import**
+- **Dynamic** dashboard sections, separators, item containers with animated **transitions**
+- Flexible **caching** layer and global **config** system for **runtime** settings
+- **Migration** utilities for **database**, **filesystem**, and **config** upgrades
+- **Network** utilities for remote data **sync** and service communication
+- Centralized data **fetcher** and **document** retriever with fallback logic
+- Utility **libraries** for strings, forms, images, paths, and app-wide **helpers**
+- Robust **storage** system with safe read/write operations and fallback recovery
+- **Database** utilities for query abstraction, migration, schema evolution
+- **Configuration** management with runtime overrides and version **tracking**
+- App data handling with **secure** serialization and **environment** awareness
+
+<br>
+
+## 🖥️ UI & UX Engineering
+
+- **Tabbed** UI designed from scratch using **WPF**
+- **Custom controls** for caption bars, combo boxes, scrollers, draggable elements
+- **Document** and **image** **viewers** with dynamic layout and metadata support
+- **Inventory** and **billing** controls with expandable detail views
+- **Billing** modules for informant and service details with **export-ready** formatting
+- Status **indicators**, to-do **tasks**, and **notification** logic
+- **Profile** and contact management interfaces with validation and **role-based** access
+
+<br>
+
+## 🧠 System Integration
+
+- External **Excel**/**Word** viewers via custom launchers
+- Dynamic **tab switching** and context-aware **navigation**
+- Expandable **search** bars and custom **filtering** logic across modules
+
+<br>
+
+## 🌟 Highlights
+
+- Built the entire system solo – from **UI** to **backend**
+- Delivered a fully **operational**, domain-specific desktop app with high **maintainability**
+- Solved **complex** problems with zero prior domain experience
+- Created a **scalable** architecture ready for future modules and integrations
 
 ---
 
@@ -198,6 +216,8 @@ Designed and developed the entire EZMM application from scratch, delivering a ro
 #### Healthcare E-Commerce Platform
 
 Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, transforming a static Photoshop design into a dynamic, secure, and accessible online store.
+
+<br>
 
 #### 💻 Tech Stack
 
@@ -212,6 +232,8 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 - **Video Templates** - custom layout for embedded media
 - **Custom Theme** - built from scratch based on static design
 
+<br>
+
 #### 🔧 Backend
 
 - Installed and configured WordPress and WooCommerce with custom database setup
@@ -222,6 +244,8 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 - Added high-security HTTP headers and SEO enhancements
 - Created a custom video page template and expandable search bar
 - Enabled selectable post templates for flexible content publishing
+
+<br>
 
 #### 🖥️ Frontend & Admin UX
 
