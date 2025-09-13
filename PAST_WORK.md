@@ -35,25 +35,25 @@ Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage 
 
 This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client. The stack that was used was:
 
-- `PHP` – backend language
-- `WordPress` – CMS foundation
-- `WooCommerce` – e-commerce engine
-- `AJAX` – dynamic frontend/backend interactions
-- `FTP` – protocol for external data exchange
-- `Cron` – task scheduler for automation
-- `PayPal` – payment gateway
-- `KlickTipp` – email marketing platform
-- `Visual Composer` – page builder for admin layout
+- `PHP` - backend language
+- `WordPress` - CMS foundation
+- `WooCommerce` - e-commerce engine
+- `AJAX` - dynamic frontend/backend interactions
+- `FTP` - protocol for external data exchange
+- `Cron` - task scheduler for automation
+- `PayPal` - payment gateway
+- `KlickTipp` - email marketing platform
+- `Visual Composer` - page builder for admin layout
 
 ## 🧩 Functional Capabilities
 
 These are implementation domains and architectural patterns built on top of the stack:
 
-- `Data Formats` – CSV, XML, JSON for import/export and integrations
-- `Security` – custom HTTP headers and logic to mitigate attacks
-- `Multilingual Support` – native English and German implementation
-- `Admin UX` – dynamic admin tables, AJAX-powered interactions
-- `Shared Logic` – reusable helpers for FTP, email, caching, debugging, scheduling
+- `Data Formats` - CSV, XML, JSON for import/export and integrations
+- `Security` - custom HTTP headers and logic to mitigate attacks
+- `Multilingual Support` - native English and German implementation
+- `Admin UX` - dynamic admin tables, AJAX-powered interactions
+- `Shared Logic` - reusable helpers for FTP, email, caching, debugging, scheduling
 
 ---
 
@@ -123,16 +123,16 @@ Designed and developed the entire EZMM application from scratch, delivering a ro
 
 #### 💻 Tech Stack
 
-- `C#` – core language for backend logic and data operations
-- `WPF` – desktop UI framework with custom controls and tabbed layouts
-- `MVVM` – architectural pattern for clean separation of logic and presentation
-- `DataGrid` – used for sortable, filterable record views
-- `Custom Forms` – dynamic input fields for deceased records, services, and billing
-- `Local Database` – structured storage for mortuary data and client records
-- `Validation Logic` – built-in rules for form integrity and data consistency
-- `Navigation System` – tabbed interface with contextual routing
-- `Modular Components` – reusable UI elements and backend utilities
-- `Role-Based Access` – permission layers for staff and admin workflows
+- `C#` - core language for backend logic and data operations
+- `WPF` - desktop UI framework with custom controls and tabbed layouts
+- `MVVM` - architectural pattern for clean separation of logic and presentation
+- `DataGrid` - used for sortable, filterable record views
+- `Custom Forms` - dynamic input fields for deceased records, services, and billing
+- `Local Database` - structured storage for mortuary data and client records
+- `Validation Logic` - built-in rules for form integrity and data consistency
+- `Navigation System` - tabbed interface with contextual routing
+- `Modular Components` - reusable UI elements and backend utilities
+- `Role-Based Access` - permission layers for staff and admin workflows
 
 #### 🔧 Backend
 
@@ -183,16 +183,16 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 #### 💻 Tech Stack
 
-- `PHP` – backend logic for WordPress and WooCommerce
-- `WordPress` – CMS foundation with custom theme and post templates
-- `WooCommerce` – e-commerce engine with product variations and filters
-- `HTML/CSS` – frontend styling and responsive layout from PSD
-- `JavaScript` – dynamic UI elements and expandable search bar
-- `Google Translate` – integrated multilingual support
-- `Gutenberg` – custom blocks for flexible content publishing
-- `Security Headers` – applied for enhanced protection and SEO
-- `Video Templates` – custom layout for embedded media
-- `Custom Theme` – built from scratch based on static design
+- `PHP` - backend logic for WordPress and WooCommerce
+- `WordPress` - CMS foundation with custom theme and post templates
+- `WooCommerce` - e-commerce engine with product variations and filters
+- `HTML/CSS` - frontend styling and responsive layout from PSD
+- `JavaScript` - dynamic UI elements and expandable search bar
+- `Google Translate` - integrated multilingual support
+- `Gutenberg` - custom blocks for flexible content publishing
+- `Security Headers` - applied for enhanced protection and SEO
+- `Video Templates` - custom layout for embedded media
+- `Custom Theme` - built from scratch based on static design
 
 #### 🔧 Backend
 
