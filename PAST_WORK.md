@@ -38,6 +38,9 @@ This solution was built from the ground up with no frameworks. The only external
 - `PHP` - backend language
 - `WordPress` - CMS foundation
 - `WooCommerce` - e-commerce engine
+- `HTML` - markup for frontend templates and admin views
+- `CSS` - custom styles and layout refinements across themes
+- `JavaScript` - custom settings page for the plugin
 - `AJAX` - dynamic frontend/backend interactions
 - `FTP` - protocol for external data exchange
 - `Cron` - task scheduler for automation
