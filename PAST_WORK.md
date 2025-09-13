@@ -204,29 +204,43 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 > Diagnosed and resolved critical issues on a legacy ASP.NET platform - without prior ASP experience - restoring full functionality through rapid adaptation and reverse engineering.
 
+<br>
+
 #### 🎯 Custom Front-End for URL Shortener
 
 > Designed and implemented a lightweight jQuery + CSS interface for a URL shortening service, optimized for responsiveness and minimal load time.
+
+<br>
 
 #### 🧩 Drag-and-Drop WPF API
 
 > Engineered a custom API for dynamic WPF controls with drag-and-drop support, including binary export/import logic for persistent layout storage.
 
+<br>
+
 #### 🧠 HR Technical Quiz Authoring
 
 > Reviewed and authored a senior-level developer quiz for HR screening, ensuring technical accuracy, relevance, and challenge balance.
+
+<br>
 
 #### 🎬 Responsive Redesign for Movie Website
 
 > Refactored layout and styles to ensure mobile compatibility across devices, improving accessibility and user retention.
 
+<br>
+
 #### 🧼 Bootstrap Template Cleanup
 
 > Audited and corrected layout inconsistencies in a 3rd-party Bootstrap template, streamlining the DOM and improving maintainability.
 
+<br>
+
 #### 🎧 Multilingual Video Transcription
 
 > Transcribed and subtitled video content in English and Spanish, ensuring timing precision and linguistic clarity.
+
+<br>
 
 #### 🧮 Custom Sorting Algorithm
 
