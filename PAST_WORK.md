@@ -5,7 +5,6 @@
 With almost two decades of learning and coding, Igor's work spans full-stack freelance work and developer tools, each built with reliability and performance in mind. He has created solutions in various sectors such as healthcare, HR, media, automation and luxury beverage retail. From full-stack builds to SEO, from UI/UX enhancements to API development, from systems architecture to server security, Igor's work reflects breadth and attention to details.
 
 <br>
-<br>
 
 ## 📃 Table of Contents
 
@@ -23,9 +22,6 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
   - [**Custom Sorting Algorithm**](#-custom-sorting-algorithm)
 - [**Work Principles**](#-work-principles)
 - [**Client Testimonials**](#-client-testimonials)
-
-<br>
-<br>
 
 <br>
 
@@ -201,6 +197,8 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 ---
 
 ### ✨ Other Projects
+
+<br>
 
 #### ✅ ASP.NET Site Recovery
 
