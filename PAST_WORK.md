@@ -8,20 +8,20 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
 
 ## 📃 Table of Contents
 
-- [**WordPress & WooCommerce Solution**](#-sissis)
-- [**End-to-End Mortuary Management System**](#-ezmm)
-- [**Healthcare E-Commerce Platform**](#-sensomed)
-- [**Other Projects**](#-other-projects)
-  - [**ASP.NET Site Recovery**](#-aspnet-site-recovery)
-  - [**Custom Front-End for URL Shortener**](#-custom-front-end-for-url-shortener)
-  - [**Drag-and-Drop WPF API**](#-drag-and-drop-wpf-api)
-  - [**HR Technical Quiz Authoring**](#-hr-technical-quiz-authoring)
-  - [**Responsive Redesign for Movie Website**](#-responsive-redesign-for-movie-website)
-  - [**Bootstrap Template Cleanup**](#-bootstrap-template-cleanup)
-  - [**Multilingual Video Transcription**](#-multilingual-video-transcription)
-  - [**Custom Sorting Algorithm**](#-custom-sorting-algorithm)
-- [**Work Principles**](#-work-principles)
-- [**Client Testimonials**](#-client-testimonials)
+- [`WordPress & WooCommerce Solution`](#-sissis)
+- [`End-to-End Mortuary Management System`](#-ezmm)
+- [`Healthcare E-Commerce Platform`](#-sensomed)
+- [`Other Projects`](#-other-projects)
+  - [`ASP.NET Site Recovery`](#-aspnet-site-recovery)
+  - [`Custom Front-End for URL Shortener`](#-custom-front-end-for-url-shortener)
+  - [`Drag-and-Drop WPF API`](#-drag-and-drop-wpf-api)
+  - [`HR Technical Quiz Authoring`](#-hr-technical-quiz-authoring)
+  - [`Responsive Redesign for Movie Website`](#-responsive-redesign-for-movie-website)
+  - [`Bootstrap Template Cleanup`](#-bootstrap-template-cleanup)
+  - [`Multilingual Video Transcription`](#-multilingual-video-transcription)
+  - [`Custom Sorting Algorithm`](#-custom-sorting-algorithm)
+- [`Work Principles`](#-work-principles)
+- [`Client Testimonials`](#-client-testimonials)
 
 <br>
 
@@ -35,70 +35,83 @@ Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage 
 
 This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client. The stack that was used was:
 
-- `PHP` – backend logic for WordPress and WooCommerce
-- `WordPress` – CMS foundation with custom theme and post templates
-- `WooCommerce` – e-commerce engine with pr
-- `Custom order workflow plugin` - export, tracking, invoicing, and automation
-- `Data formats` - `CSV`, `XML`, and `JSON` for 3rd-party integrations
-- `Security` - custom `HTTP` headers and other security measures
-- `Multilingual support` - native `English` and `German` implementation
-- `Admin UX` - enhanced by implementing dynamic interactions via `AJAX`
-- `Email marketing` - powered by `KlickTipp` (_email marketing platform_) was integrated in order to increase customer `conversions`
-- `Shared logic` - reusable helpers for `FTP`, `email`, `caching`, `debugging`, and `scheduling` were used for performance and non-repeating code.
+- `PHP` – backend language
+- `WordPress` – CMS foundation
+- `WooCommerce` – e-commerce engine
+- `AJAX` – dynamic frontend/backend interactions
+- `FTP` – protocol for external data exchange
+- `Cron` – task scheduler for automation
+- `PayPal` – payment gateway
+- `KlickTipp` – email marketing platform
+- `Visual Composer` – page builder for admin layout
 
-#### 🔧 Backend
+## 🧩 Functional Capabilities
 
-- `Setup` - setup configuration of `WordPress` and `WooCommerce` with a custom database schema
-- `Plugin` for order export in `XML` and `JSON` formats was built to match the client's needs
-- `CSV` import/export pipelines with validation, tracking, and result logging were built for migration of previous customers on the legacy website
-- Dynamic invoice generation with editable templates
-- `PayPal` integration, and footer customization were created, per client needs
-- `Meta-boxes` were implemented for custom post metadata and admin-side editing
-- Reusable helpers for `FTP`, `AJAX`, `email`, `caching`, and `debugging` were used to avoid code-bloat and ensure atomic functioning
-- `Cron` was used as a `scheduler` for `automated` tasks and background operations, orders `import`/`export`, `CSV` importing and parsing
-- `Secure HTTP headers` and custom `security` logic was implemented to mitigate security attacks.
+These are implementation domains and architectural patterns built on top of the stack:
 
-##### 🚚 Fulfillment & Tracking Integration
+- `Data Formats` – CSV, XML, JSON for import/export and integrations
+- `Security` – custom HTTP headers and logic to mitigate attacks
+- `Multilingual Support` – native English and German implementation
+- `Admin UX` – dynamic admin tables, AJAX-powered interactions
+- `Shared Logic` – reusable helpers for FTP, email, caching, debugging, scheduling
 
-- `WooCommerce` orders are exported to a 3rd-party fulfillment provider via automated `XML` feed
-- Periodically connect to the provider's `FTP` server to retrieve shipped order data via a `Cron` task
-- Parse incoming `CSV` files to extract `tracking numbers` and deduct carrier info from the tracking numbers
-- Update `WooCommerce` orders with tracking numbers and carrier-specific tracking `URLs`
-- Display `tracking info` in the admin dashboard for staff visibility
-- Send automated emails to customers with personalized tracking links based on carrier
+---
 
-#### 🖥️ Frontend & Admin UX
+## 🔧 Backend Architecture
 
-- Customized frontend templates and styles for WooCommerce pages
-- Built dynamic admin tables with pagination, sorting, and filtering
-- Added custom admin bar entries and plugin settings pages
-- Enabled tracking uploads and order status management via AJAX
-- Integrated multilingual support with English and German translations
+- Custom `database` schema for `WooCommerce`
+- Plugin suite for:
+  - Order `export` (`XML`/`JSON`)
+  - `CSV` migration with validation and logging
+  - Dynamic `invoice` generation
+  - Meta-boxes for post `metadata`
+- `Cron`-based automation:
+  - `Scheduled` imports/exports
+  - CSV `parsing`
+  - `Fulfillment` sync
+- `Secure` HTTP `headers` and custom logic for threat `mitigation`
 
-#### 📈 SEO, Performance & Accessibility
+## 🚚 Fulfillment & Tracking Integration
 
-- Applied high-security headers and sanitized all plugin inputs
-- Optimized frontend markup and metadata for SEO visibility
-- Audited accessibility across templates and admin interfaces
+- Automated `XML` feed export to 3rd-party fulfillment provider
+- Periodic `FTP` sync to retrieve shipped order data
+- `CSV` parsing to extract `tracking numbers` and carrier info
+- `WooCommerce` order `updates` with `tracking` URLs
+- Admin `dashboard` display for tracking visibility
+- `Automated` customer `emails` with `personalized` tracking links
 
-#### 🌟 Highlights
+## 🖥️ Frontend & Admin UX
 
-- Built the plugin suite from scratch - no reliance on 3rd-party frameworks
-- Delivered production-grade code with modular architecture and clean separation of concerns with maintainable logic
-- Solved complex export and import challenges with elegant, maintainable solutions
-- No external translation plugins, native multilingual support
-- Automated fulfillment and tracking, no missed orders
+- Customized `WooCommerce` templates and styles
+- Dynamic admin tables with `pagination`, `sorting`, `filtering`
+- Custom `admin` bar entries and plugin `settings` pages
+- `AJAX`-powered tracking `uploads` and order status `management`
+- Native `multilingual` support (EN/DE) without external plugins
 
-#### 🧭 Ongoing Platform Evolution
+## 📈 SEO, Performance & Accessibility
 
-- Assisted in migrating admin layout workflows to Visual Composer
-- Adapted plugin output and content structure to align with new builder logic
-- Added new content blocks and ensured compatibility with multilingual and SEO requirements
-- Provided support and refinements during transition to ensure smooth editorial experience
+- `High-security` headers and input sanitization
+- Optimized `frontend` markup and `metadata` for `SEO`
+- `Accessibility` audit across templates and admin interfaces
+
+## 🌟 Highlights
+
+- `Plugin suite` built from scratch - no 3rd-party frameworks
+- `Modular architecture` with clean `separation` of concerns
+- Elegant solutions for complex `import`/export `challenges`
+- Native `multilingual` support - no `translation` plugins
+- Fully `automated fulfillment` and tracking — zero `missed` orders
+
+## 🧭 Ongoing Platform Evolution
+
+- Migrated admin layout workflows to `Visual Composer`
+- Adapted plugin output to align with `builder` logic
+- Added new content blocks with `multilingual` and `SEO` compatibility
+- Provided `support` and `refinements` during editorial transition
 
 <br>
 
-> 🌍 URL: [**SissiS.com**](https://sissis.com)
+> 🌍 URL: [`SissiS.com`](https://sissis.com)
 
 ---
 
@@ -200,7 +213,7 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 <br>
 
-> 🌍 URL: [**Sensomed.eu**](https://sensomed.eu)
+> 🌍 URL: [`Sensomed.eu`](https://sensomed.eu)
 
 ---
 
@@ -270,4 +283,4 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 #### 💡 Client Testimonials
 
-Client testimonials for these projects are available on the [**Testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md) page.
+Client testimonials for these projects are available on the [`Testimonials`](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md) page.
