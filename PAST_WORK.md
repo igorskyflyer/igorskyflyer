@@ -31,6 +31,8 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
 
 Developed a custom `WordPress` and `WooCommerce` solution for a luxury beverage retail. The solution handled automated orders export to a 3rd-party fulfillment provider, `FTP`-based tracking updates via `Cron`, dynamic invoice generation, tracking number fetching and customer notification. The solution was multilingual - `English`, `German`. All of the components were built from scratch and used modern `PHP` features and custom `HTTP security headers` to harden server security. Also, the client did not ask for a configuration page but one was provided to the client, to give them full control.
 
+<br>
+
 #### 💻 Tech Stack
 
 This solution was built from the ground up with no frameworks. The only external dependency was the `FTP` client.  
@@ -49,6 +51,8 @@ The stack that was used was:
 - `KlickTipp` - email marketing platform
 - `Visual Composer` - page builder for admin layout
 
+<br>
+
 ## 🧩 Functional Capabilities
 
 These are implementation domains and architectural patterns built on top of the stack:
@@ -59,7 +63,7 @@ These are implementation domains and architectural patterns built on top of the 
 - `Admin UX` - dynamic admin tables, AJAX-powered interactions
 - `Shared Logic` - reusable helpers for FTP, email, caching, debugging, scheduling
 
----
+<br>
 
 ## 🔧 Backend Architecture
 
@@ -75,6 +79,8 @@ These are implementation domains and architectural patterns built on top of the 
   - `Fulfillment` sync
 - `Secure` HTTP `headers` and custom logic for threat `mitigation`
 
+<br>
+
 ## 🚚 Fulfillment & Tracking Integration
 
 - Automated `XML` feed export to 3rd-party fulfillment provider
@@ -84,13 +90,17 @@ These are implementation domains and architectural patterns built on top of the 
 - Admin `dashboard` display for tracking visibility
 - `Automated` customer `emails` with `personalized` tracking links
 
+<br>
+
 ## 🖥️ Frontend & Admin UX
 
 - Customized `WooCommerce` templates and styles
 - Dynamic admin tables with `pagination`, `sorting`, `filtering`
 - Custom `admin` bar entries and plugin `settings` pages
 - `AJAX`-powered tracking `uploads` and order status `management`
-- Native `multilingual` support (EN/DE) without external plugins
+- Native `multilingual` support (**EN**/**DE**) without external plugins
+
+<br>
 
 ## 📈 SEO, Performance & Accessibility
 
@@ -98,13 +108,17 @@ These are implementation domains and architectural patterns built on top of the 
 - Optimized `frontend` markup and `metadata` for `SEO`
 - `Accessibility` audit across templates and admin interfaces
 
+<br>
+
 ## 🌟 Highlights
 
 - `Plugin suite` built from scratch - no 3rd-party frameworks
 - `Modular architecture` with clean `separation` of concerns
 - Elegant solutions for complex `import`/export `challenges`
 - Native `multilingual` support - no `translation` plugins
-- Fully `automated fulfillment` and tracking — zero `missed` orders
+- Fully `automated fulfillment` and tracking - zero `missed` orders
+
+<br>
 
 ## 🧭 Ongoing Platform Evolution
 
