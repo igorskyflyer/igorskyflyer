@@ -12,15 +12,16 @@ With almost two decades of learning and coding, Igor's work spans full-stack fre
 - [**WordPress & WooCommerce Solution**](#-sissis)
 - [**End-to-End Mortuary Management System**](#-ezmm)
 - [**Healthcare E-Commerce Platform**](#-sensomed)
-- [**ASP.NET Site Recovery**](#-aspnet-site-recovery)
-- [**Custom Front-End for URL Shortener**](#-custom-front-end-for-url-shortener)
-- [**Drag-and-Drop WPF API**](#-drag-and-drop-wpf-api)
-- [**HR Technical Quiz Authoring**](#-hr-technical-quiz-authoring)
-- [**Responsive Redesign for Movie Website**](#-responsive-redesign-for-movie-website)
-- [**Bootstrap Template Cleanup**](#-bootstrap-template-cleanup)
-- [**Multilingual Video Transcription**](#-multilingual-video-transcription)
-- [**Custom Sorting Algorithm**](#-custom-sorting-algorithm)
-- [**Freelance Work**](#-freelance-work-highlights)
+- [**Other Projects**](#-other-projects)
+  - [**ASP.NET Site Recovery**](#-aspnet-site-recovery)
+  - [**Custom Front-End for URL Shortener**](#-custom-front-end-for-url-shortener)
+  - [**Drag-and-Drop WPF API**](#-drag-and-drop-wpf-api)
+  - [**HR Technical Quiz Authoring**](#-hr-technical-quiz-authoring)
+  - [**Responsive Redesign for Movie Website**](#-responsive-redesign-for-movie-website)
+  - [**Bootstrap Template Cleanup**](#-bootstrap-template-cleanup)
+  - [**Multilingual Video Transcription**](#-multilingual-video-transcription)
+  - [**Custom Sorting Algorithm**](#-custom-sorting-algorithm)
+- [**Work Principles**](#-work-principles)
 - [**Client Testimonials**](#-client-testimonials)
 
 <br>
@@ -199,6 +200,8 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 ---
 
+### ✨ Other Projects
+
 #### ✅ ASP.NET Site Recovery
 
 > Diagnosed and resolved critical issues on a legacy ASP.NET platform - without prior ASP experience - restoring full functionality through rapid adaptation and reverse engineering.
@@ -235,7 +238,7 @@ Delivered a full-stack WordPress + WooCommerce solution for a medical supplier, 
 
 <br>
 
-## 🏆 Freelance Work Highlights
+## 🏆 Work Principles
 
 - `Resourcefulness` - solving unfamiliar problems with speed and precision
 - `Technical Depth` - from low-level APIs to high-level UI polish
