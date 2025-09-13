@@ -49,7 +49,7 @@ The stack that was used was:
 - **Cron** - task scheduler for automation
 - **PayPal** - payment gateway
 - **KlickTipp** - email marketing platform
-- **Visual Composer** - page builder for admin layout
+- **Visual Composer** - page builder for admin layout (later in the project, read below)
 
 <br>
 
@@ -57,11 +57,11 @@ The stack that was used was:
 
 These are implementation domains and architectural patterns built on top of the stack:
 
-- **Data Formats** - CSV, XML, JSON for import/export and integrations
-- **Security** - custom HTTP headers and logic to mitigate attacks
-- **Multilingual Support** - native English and German implementation
-- **Admin UX** - dynamic admin tables, AJAX-powered interactions
-- **Shared Logic** - reusable helpers for FTP, email, caching, debugging, scheduling
+- **Data Formats** - **CSV**, **XML**, **JSON** for **import**/**export** and integrations
+- **Security** - custom **HTTP** headers and logic to mitigate attacks
+- **Multilingual Support** - native **English** and **German** implementation
+- **Admin UX** - dynamic admin tables, **AJAX**-powered interactions
+- **Shared Logic** - reusable helpers for **FTP**, **email**, **caching**, **debugging**, **scheduling**
 
 <br>
 
@@ -125,7 +125,7 @@ These are implementation domains and architectural patterns built on top of the 
 - Migrated admin layout workflows to **Visual Composer**
 - Adapted plugin output to align with **builder** logic
 - Added new content blocks with **multilingual** and **SEO** compatibility
-- Provided **support** and **refinements** during editorial transition
+- Provided **support** and **refinements** during the `Gutenberg` -> `Visual Composer` transition
 
 <br>
 
