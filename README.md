@@ -65,6 +65,10 @@ _11-Sep-2025_
 
 In the process of migrating all of his npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
 
+<div align="center">
+    <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
+</div>
+
 Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1) and the [**official discussion**](https://github.com/orgs/community/discussions/169922).
 
 ---
