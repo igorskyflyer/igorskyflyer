@@ -145,8 +145,10 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   🪼 enjoys sharing his projects on <a href="https://www.jsdelivr.com/?query=igorskyflyer"><strong>jsDelivr</strong></a>
   <br>
-  🐇 enjoys coding <strong>UserScripts</strong></a> on <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>GreasyFork</strong></a>
-  <br>
+  🦭 enjoys coding <strong>UserScripts</strong> on GreasyFork:
+  <ul data-no-restyle>
+    <li>🪰 <code>2</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a> so far</li>
+  </ul>
   📑 enjoys translating projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a> so far</li>
