@@ -239,7 +239,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 </details>
 
 <details>
-  <summary><strong>🚶🏼‍♂️ Personal Activities</strong></summary>
+  <summary><strong>🚶🏼‍♂️ Personal Traits &amp; Activities</strong></summary>
   <br>
   👟 loves taking long walks &amp; runs:
   <br>
