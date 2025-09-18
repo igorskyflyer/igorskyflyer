@@ -259,6 +259,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   🌱 adores being in touch with nature
   <br>
+  ⚡ practices stoicism - acts on what's his, lets the rest pass
+  <br>
   🐒 adheres to the metaphysical naturalism
   <br>
   😽 rescues and fosters animals: mostly cats, some dogs, and the occasional sparrow or goldfish
