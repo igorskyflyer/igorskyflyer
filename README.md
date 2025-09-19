@@ -259,7 +259,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <code>1091 kcal</code>
     </li>
   </ul>
-  🌱 adores being in touch with nature
+  🌱 adores being in touch with <strong>nature</strong>
   <br>
   ⚡ practices <strong>stoicism</strong> - acts on what's his, lets the rest pass
   <br>
