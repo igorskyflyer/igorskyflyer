@@ -12,7 +12,7 @@ Creator of notable projects including:
 
 - [**Aria**](https://github.com/aria-toolkit) - a custom ad-block template compiler for his own DSL
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable ad-block filters
-- [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of high-performance ad-block filter lists
+- [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of modular and high-performance ad-block filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
