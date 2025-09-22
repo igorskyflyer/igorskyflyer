@@ -357,7 +357,7 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <summary><strong>🔥 Statistics</strong></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON" alt="Igor Dimitrijević (igorskyflyer) - Most-Used Programming Languages in Open-Source Work" width="500" height="525" loading="lazy">
+    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON&card_width=320" alt="Igor Dimitrijević (igorskyflyer) - Most-Used Programming Languages in Open-Source Work" width="500" height="525" loading="lazy">
     <br>
     <sub><em><strong>Primary Languages in His Open-Source Projects</strong></em></sub>
   </div>
