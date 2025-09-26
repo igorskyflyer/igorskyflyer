@@ -10,7 +10,7 @@
 
 Creator of notable projects including:
 
-- [**Aria**](https://github.com/aria-toolkit) - a custom ad-block template compiler for his own DSL
+- [**Aria**](https://github.com/aria-toolkit) - a custom ad-block template compiler for ADBT (own DSL)
 - [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable ad-block filters
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of modular and high-performance ad-block filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
@@ -26,7 +26,7 @@ Creator of notable projects including:
 
 - `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `198K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`11400%+` quarterly growth)
-- `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
+- `100K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `9K+` of installs across `6` Astro components
 - `30+` programming certificates
@@ -62,7 +62,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_25-Sep-2025_
+_27-Sep-2025_
 
 Released a new npm package, [**Zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto), a zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers.
 
