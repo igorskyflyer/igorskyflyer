@@ -15,7 +15,7 @@ Creator of notable projects including:
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of modular and high-performance ad-block filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
+- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 
 …and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
@@ -25,7 +25,7 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `198K+` quarterly requests for top CDN-served packages (`11400%+` quarterly growth)
+- `198K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`11400%+` quarterly growth)
 - `100K+` installs across `55` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `9K+` of installs across `6` Astro components
