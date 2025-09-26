@@ -177,7 +177,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 
 <br>
 
-> ✍🏼 Some of these reviews have been lightly edited for grammar corrections while preserving the factual truth and tone expressed by each client. Adapted from some of the [**original testimonials**](https://www.freelancer.com/u/IgorSkyFlyer93).
+> ✍🏼 Some of these reviews have been lightly edited for grammar corrections while preserving the factual truth and tone expressed by each client. Adapted from the [**original client reviews**](https://www.freelancer.com/u/IgorSkyFlyer93).
 
 <br>
 
