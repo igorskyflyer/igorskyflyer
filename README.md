@@ -24,9 +24,9 @@ Creator of notable projects including:
 
 ## ✨ Career Highlights & Impact
 
-- `334K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `200K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`11400%+` quarterly growth)
-- `100K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
+- `336K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `202K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`11156%+` quarterly growth)
+- `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `9K+` of installs across `6` Astro components
 - `30+` programming certificates
@@ -62,7 +62,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_27-Sep-2025_
+_29-Sep-2025_
 
 Released a new npm package, [**Zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto), a zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers.
 
