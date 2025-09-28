@@ -28,7 +28,7 @@ Creator of notable projects including:
 - `202K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`11156%+` quarterly growth)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
-- `9K+` of installs across `6` Astro components
+- `9K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
 - `30+` programming certificates
 - Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
 - Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
