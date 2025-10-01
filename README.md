@@ -338,35 +338,26 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   <br>
 </details>
 
-<details>
-  <summary><strong>💝 Support</strong></summary>
-  <br>
-  <div align="center">
-    If his open-source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
-    <br>
-    <br>
-    <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
-    <br>
-    <blockquote>
-      <br>
-      Support helps fund new open-source tools, maintenance, and documentation.
-      <br>
-      <br>
-    </blockquote>
-  </div>
-  <br>
-</details>
+<br>
 
-<details>
-  <summary><strong>🔥 Statistics</strong></summary>
+### 💝 Support
+
+<br>
+<div align="center">
+  If his open-source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
   <br>
-  <div align="center">
-    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=igorskyflyer&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=3600&custom_title=Top%20Languages&disable_animations=true&hide=XSLT,JSON&card_width=320" alt="Igor Dimitrijević (igorskyflyer) - Most-Used Programming Languages in Open-Source Work" width="500" height="531" loading="lazy">
+  <br>
+  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
+  <br>
+  <br>
+  <blockquote>
     <br>
-    <sub><em><strong>Primary Languages in His Open-Source Projects</strong></em></sub>
-  </div>
-  <br>
-</details>
+    Support helps fund new open-source tools, maintenance, and documentation.
+    <br>
+    <br>
+  </blockquote>
+</div>
+<br>
 
 ---
 
