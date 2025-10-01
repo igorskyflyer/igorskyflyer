@@ -351,7 +351,6 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
     Support helps fund new open-source tools, maintenance, and documentation.
   </blockquote>
 </div>
-<br>
 
 ---
 
