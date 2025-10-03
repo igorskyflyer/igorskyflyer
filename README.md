@@ -354,14 +354,14 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
 
 ---
 
+<blockquote align="center" data-hide>
+  ✨ There is also a <strong>magical</strong> self-updating copy of this README on his <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>official site</strong></a>. ✨
+</blockquote>
+
+<br data-hide>
+<br data-hide>
+
 <div align="center">
   <h3><em>“Built for elegance. Shaped for endurance.”</em></h3>
   <strong>Igor Dimitrijević (<em>igorskyflyer</em>)</strong>
 </div>
-
-<br data-hide>
-<br data-hide>
-
-<blockquote align="center" data-hide>
-  ✨ There is also a <strong>magical</strong> self-updating copy of this README on his <a href="https://igorskyflyer.me/igorskyflyer/" rel="canonical"><strong>official site</strong></a>. ✨
-</blockquote>
