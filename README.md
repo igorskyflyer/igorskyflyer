@@ -124,41 +124,41 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
   </ul>
-  🐦‍🔥 enjoys manufacturing <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
+  🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 enjoys crafting <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>
   <br>
-  🔨 enjoys forging Visual Studio Code APIs:
+  🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
     <li>⚖️&nbsp; <code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>custom API</strong></a> so far</li>
   </ul>
-  🧃 enjoys building <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>
+  🧃 builds <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>
   <br>
-  🧩 enjoys assembling <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
+  🧩 assembles <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
   <ul data-no-restyle>
     <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a> so far</li>
   </ul>
-  🪸 enjoys engineering packages on <a href="https://socket.dev/npm/user/igorskyflyer/packages"><strong>Socket</strong></a>
+  🪸 engineers packages on <a href="https://socket.dev/npm/user/igorskyflyer/packages"><strong>Socket</strong></a>
   <br>
-  🐦 enjoys shaping packages on <a href="https://classic.yarnpkg.com/en/packages?q=%40igorskyflyer"><strong>YarnPkg</strong></a>
+  🐦 shapes packages on <a href="https://classic.yarnpkg.com/en/packages?q=%40igorskyflyer"><strong>YarnPkg</strong></a>
   <br>
-  🪶 enjoys carving packages on <a href="https://packages.ecosyste.ms/registries/npmjs.org/maintainers/igorskyflyer"><strong>EcoSyste.ms</strong></a>
+  🪶 carves packages on <a href="https://packages.ecosyste.ms/registries/npmjs.org/maintainers/igorskyflyer"><strong>EcoSyste.ms</strong></a>
   <br>
-  🦦 enjoys producing <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
+  🦦 produces <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
   <ul data-no-restyle>
     <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a> so far</li>
   </ul>
-  🪼 enjoys sharing his projects on <a href="https://www.jsdelivr.com/?query=igorskyflyer"><strong>jsDelivr</strong></a>
+  🪼 shares his projects on <a href="https://www.jsdelivr.com/?query=igorskyflyer"><strong>jsDelivr</strong></a>
   <br>
-  🦭 enjoys coding <strong>UserScripts</strong> on GreasyFork:
+  🦭 codes <strong>UserScripts</strong> on GreasyFork:
   <ul data-no-restyle>
     <li>🪰 <code>2</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a> so far</li>
   </ul>
-  📑 enjoys translating projects - <em>pro bono</em>, on Crowdin:
+  📑 translates projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a> so far</li>
   </ul>
-  🎠 enjoys making <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
+  🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
   <br>
   🐣 is excited about these upcoming technologies:
   <a href="https://pyscript.net"><strong>PyScript</strong></a>,
@@ -175,7 +175,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
   <br>
-  🤼 enjoys exchanging opinions with his peers at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
+  🤼 exchanges opinions with his peers at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
   <br>
   🧪 does front-end experiments on his <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> such as:
 
