@@ -62,7 +62,11 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_14-Oct-2025_
+_22-Oct-2025_
+
+Adapting all npm packages to the latest npm security requirements.
+
+<br>
 
 Released a new npm package, [**Zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto), a zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers.
 
