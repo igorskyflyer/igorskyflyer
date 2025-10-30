@@ -25,7 +25,7 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - `339K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `290K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (+2057.7%
+- `290K+` quarterly requests for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) (`+2057.7%`
 quarterly growth)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
