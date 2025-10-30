@@ -47,7 +47,7 @@ Creator of notable projects including:
 Currently working as a:
 
 <ul data-no-restyle>
-  <li><strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com"><strong>SissiS.com</strong></a> and <a href="https://www.sensomed.eu"><strong>Sensomed.eu</strong></a> (part-time)</li>
+  <li><strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com/?ref=igorskyflyer"><strong>SissiS.com</strong></a> and <a href="https://www.sensomed.eu/?ref=igorskyflyer"><strong>Sensomed.eu</strong></a> (part-time)</li>
   <li>freelance <strong>full-stack developer</strong></li>
   <li><em>free-will</em> <strong>open sourcerer</strong></li>
 </ul>
