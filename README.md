@@ -62,7 +62,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_06-Nov-2025_
+_21-Nov-2025_
 
 Adapting all npm packages to the latest npm security requirements.
 
