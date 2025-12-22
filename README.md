@@ -27,12 +27,13 @@ Creator of notable projects including:
 - `350K+` monthly requests (`560K+` quarterly) for [**top CDN-served packages**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
 - `345K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
-- `1500%`/`15×` productivity increase in [**AdVoid**](https://github.com/the-advoid/ad-void#-productivity-gains) via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
+- `1565%`/`15.65×` productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
+- `8K+` monthly users of [**AdVoid**](https://github.com/the-advoid/ad-void) ad-block filter lists
 - `30+` programming certificates
 - Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
-- Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
 - Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
+- Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
 
 </div>
 
