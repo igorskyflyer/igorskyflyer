@@ -279,7 +279,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🎬 loves <strong>watching</strong> movies, series &amp; anime, see his <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=486691dde1c84c85ac07ec5bc11fa086"><strong>watchlist</strong></a>
   <br>
-  🎮 plays <strong>games</strong> in his spare time, see his <a href="https://bramble-mechanic-9d4.notion.site/196b7dc72eeb80a98843d6faff9cb896?v=196b7dc72eeb80d884e5000c8f32a4f5"><strong>game list</strong></a> and <a href="https://store.steampowered.com/wishlist/profiles/76561198859340857/"><strong>wishlist</strong></a>
+  🎮 plays <strong>games</strong> in his spare time, see his <a href="https://backloggd.com/u/igorskyflyer/"><strong>game list</strong></a> and <a href="https://store.steampowered.com/wishlist/profiles/76561198859340857/"><strong>wishlist</strong></a>
   <br>
   🐬 is a firm believer in <strong>autodidacticism</strong>
   <br>
