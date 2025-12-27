@@ -17,6 +17,7 @@ Creator of notable projects including:
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event (top `~0.5%` on jsDelivr)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
+- [**FindAgain**](https://github.com/find-again) - a communal Visual Studio extension built for saving and reusing workspace search queries
 
 …and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
 
