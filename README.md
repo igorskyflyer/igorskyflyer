@@ -30,7 +30,7 @@ Creator of notable projects including:
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `15.7×` (`1570%`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
-- `8K+` monthly users of [**AdVoid**](https://github.com/the-advoid/ad-void) ad-block filter lists
+- `9K+` monthly users of [**AdVoid**](https://github.com/the-advoid/ad-void) ad-block filter lists
 - `30+` programming certificates
 - Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
 - Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
