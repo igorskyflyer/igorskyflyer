@@ -25,7 +25,7 @@ Creator of notable projects including:
 
 ## ✨ Career Highlights & Impact
 
-- [**Highly adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
+- [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
   - `1.3M+` yearly requests (`+28,944%` growth),
   - `723K+` monthly requests (`1M+` quarterly),
   - currently ranked `Top 5K` on jsDelivr
