@@ -25,7 +25,10 @@ Creator of notable projects including:
 
 ## ✨ Career Highlights & Impact
 
-- `1.3M+` yearly requests (`+28,944%` growth) for [**highly adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats), `723K+` monthly requests (`1M+` quarterly), ranked `Top 5K` on jsDelivr
+- [**Highly adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
+  - `1.3M+` yearly requests (`+28,944%` growth),
+  - `723K+` monthly requests (`1M+` quarterly),
+  - ranked `Top 5K` on jsDelivr
 - `347K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1570%` (`15.7×`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
