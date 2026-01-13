@@ -26,8 +26,8 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
-  - `1.3M+` yearly requests (`+28,944%` growth)
-  - `723K+` monthly requests (`1M+` quarterly)
+  - `1.367M+` yearly requests (`+29,957%` growth)
+  - `755K+` monthly requests (`1.1M+` quarterly)
   - currently ranked `4995th` most popular package on jsDelivr
 - `347K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
