@@ -72,7 +72,7 @@ _29-Jan-2026_
 Released 2 new UserScripts for Twitch:
 
 - [**Twitch: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay)
-- [**Twitch: Mute Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
+- [**Twitch: Mute Homepage**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
 
 <br>
 
