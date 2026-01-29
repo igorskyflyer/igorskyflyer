@@ -67,7 +67,14 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_15-Jan-2026_
+_29-Jan-2026_
+
+Released 2 new UserScripts for Twitch:
+
+- [**Twitch: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay)
+- [**Twitch: Mute Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
+
+<br>
 
 Adapting all npm packages to the latest npm security requirements.
 
