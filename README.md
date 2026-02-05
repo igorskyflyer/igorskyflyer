@@ -266,7 +266,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🧠 personality type:
   <ul data-no-restyle>
-    <li><strong>INTJ‑T</strong> (<em>the architect</em>)</li>
+    <li><strong>INTJ</strong> (<em>the architect</em>)</li>
     <li><strong>SQ‑R</strong> <code>110</code> (<em>high systemizer</em>)</li>
   </ul>
   👟 loves taking long walks &amp; runs:
