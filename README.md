@@ -26,10 +26,10 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
-  - `1.8M+` yearly requests (`+37752%` growth)
-  - `920K+` monthly requests (`1.5M+` quarterly)
-  - currently ranked `4616th` most popular package on jsDelivr
-- `348K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+  - `2.1M+` yearly requests (`+42219%` growth)
+  - `870K+` monthly requests (`1.7M+` quarterly)
+  - currently ranked `4905th` most popular package on jsDelivr
+- `349K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1570%` (`15.7×`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
@@ -266,7 +266,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🧠 personality type:
   <ul data-no-restyle>
-    <li><strong>INTJ</strong> (<em>the architect</em>)</li>
+    <li><strong>INTJ</strong> / <strong>INTP</strong> (<em>The INTx Architect</em>)</li>
     <li><strong>SQ‑R</strong> <code>110</code> (<em>high systemizer</em>)</li>
   </ul>
   👟 loves taking long walks &amp; runs:
