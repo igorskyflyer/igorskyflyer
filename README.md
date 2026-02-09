@@ -266,8 +266,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🧠 personality:
   <ul data-no-restyle>
-    <li><strong>type:</strong> <code>INTJ / INTP</code> (<em>the INTx Architect</em>)</li>
-    <li><strong>ennegram:</strong> <code>5w6</code> (<em>the Troubleshooter</em>)</li>
+    <li><strong>type:</strong> <code>INTJ / INTP</code> (<em>the INTx architect</em>)</li>
+    <li><strong>ennegram:</strong> <code>5w6</code> (<em>the troubleshooter</em>)</li>
     <li><strong>SQ‑R:</strong> <code>110</code> (<em>high systemizer</em>)</li>
   </ul>
   👟 loves taking long walks &amp; runs:
