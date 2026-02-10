@@ -25,6 +25,8 @@
     </figcaption>
   </figure>
 
+  <br>
+
   <blockquote>Translated as <em>“Bravo! Good luck! Thank you! Vlada”</em> - <em>may, 2012.</em></blockquote>
 
   <br>
@@ -40,6 +42,8 @@
       <em>“Желим ти пуно среће у великим авантурама којима нећеш одолети.”</em> (Cyrillic Serbian).
     </figcaption>
   </figure>
+
+  <br>
 
   <blockquote>Translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em></blockquote>
 </div>
