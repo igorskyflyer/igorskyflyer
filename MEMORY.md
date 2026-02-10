@@ -1,7 +1,7 @@
 <div align="center">
   <figure>
     <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/book-cover.png" alt="A photo showing the cover of the book 'LILEBI II ŽELIM TI PUNO SREĆE'.">
-    <figcaption>
+    <figcaption align="center">
       <strong>Figure 1.</strong> <em>the cover of “Желим ти пуно среће” - Serbian children's book</em>
     </figcaption>
   </figure>
