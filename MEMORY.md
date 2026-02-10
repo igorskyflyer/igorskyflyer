@@ -8,11 +8,10 @@
   </figure>
 
   <br>
+  <br>
 
   <blockquote>Translated as <em>“I wish you lots of luck”</em>.</blockquote>
 
-  <br>
-  <br>
   <br>
   <br>
 
@@ -26,11 +25,10 @@
   </figure>
 
   <br>
+  <br>
 
   <blockquote>Translated as <em>“Bravo! Good luck! Thank you! Vlada”</em> - <em>may, 2012.</em></blockquote>
 
-  <br>
-  <br>
   <br>
   <br>
 
@@ -43,6 +41,7 @@
     </figcaption>
   </figure>
 
+  <br>
   <br>
 
   <blockquote>Translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em></blockquote>
