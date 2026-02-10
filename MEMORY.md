@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/book-cover.png" alt="A photo showing the cover of the book 'LILEBI II ŽELIM TI PUNO SREĆE'." width="600">
     <br>
     <figcaption>
-      <strong>Figure 1.</strong> <em>The cover of “Желим ти пуно среће” (Cyrillic Serbian), translated as <em>“I wish you lots of luck”</em> - Serbian children's book</em>
+      <strong>Figure 1.</strong> <em>The cover of “Желим ти пуно среће”</em> (Cyrillic Serbian), translated as <em>“I wish you lots of luck”</em>, Serbian children's book
     </figcaption>
   </figure>
 </div>
