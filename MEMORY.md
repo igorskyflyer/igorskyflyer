@@ -10,7 +10,7 @@
   <br>
   <br>
 
-  <blockquote>Translated as <em>“I wish you lots of luck”</em>.</blockquote>
+  <blockquote>Translated as: <em>“I wish you lots of luck”</em>.</blockquote>
 
   <br>
   <br>
@@ -20,14 +20,14 @@
     <br>
     <figcaption>
       <strong>Figure 2.</strong> Professor’s inscription: 
-      <em>“Bravo! Srećno! Hvala! Vlada” maj 2012.</em> (Latin Serbian).
+      <em>“Bravo! Srećno! Hvala! Vlada — maj 2012.”</em> (Latin Serbian).
     </figcaption>
   </figure>
 
   <br>
   <br>
 
-  <blockquote>Translated as <em>“Bravo! Good luck! Thank you! Vlada”</em> - <em>may, 2012.</em></blockquote>
+  <blockquote>Translated as: <em>“Bravo! Good luck! Thank you! Vlada — may, 2012.”</em></blockquote>
 
   <br>
   <br>
@@ -44,5 +44,5 @@
   <br>
   <br>
 
-  <blockquote>Translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em></blockquote>
+  <blockquote>Translated as: <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em></blockquote>
 </div>
