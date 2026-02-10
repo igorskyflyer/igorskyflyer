@@ -142,7 +142,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <strong>56</strong> so far
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>56</code> so far
   <br>
   🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
