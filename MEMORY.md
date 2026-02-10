@@ -19,7 +19,7 @@
     <br>
     <figcaption>
       <strong>Figure 2.</strong> Professor’s inscription: 
-      <em>“Bravo! Srećno! Hvala! Vlada”</em> (Latin Serbian) - translated as <em>“Bravo! Good luck! Thank you! Vlada” - may, 2012.</em>
+      <em>“Bravo! Srećno! Hvala! Vlada”</em> (Latin Serbian) <br> - translated as <em>“Bravo! Good luck! Thank you! Vlada” - may, 2012.</em>
     </figcaption>
   </figure>
 </div>
@@ -35,7 +35,7 @@
     <br>
     <figcaption>
       <strong>Figure 3.</strong> Book's paragraph: 
-      <em>“Желим ти пуно среће у великим авантурама којима нећеш одолети.”</em> (Cyrillic Serbian) - translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em>
+      <em>“Желим ти пуно среће у великим авантурама којима нећеш одолети.”</em> (Cyrillic Serbian) <br> - translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em>
     </figcaption>
   </figure>
 </div>
