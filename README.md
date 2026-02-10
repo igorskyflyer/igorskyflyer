@@ -67,10 +67,11 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_06-Feb-2026_
+_10-Feb-2026_
 
-Released 2 new UserScripts for Twitch:
+Released 3 new UserScripts:
 
+- [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
 - [**Twitch: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay)
 - [**Twitch: Mute Homepage**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
 
