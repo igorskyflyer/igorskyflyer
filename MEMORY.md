@@ -9,6 +9,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
   <figure>
@@ -22,6 +24,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
   <figure>
@@ -32,6 +36,3 @@
     </figcaption>
   </figure>
 </div>
-
-<br>
-<br>
