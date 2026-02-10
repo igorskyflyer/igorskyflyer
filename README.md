@@ -26,11 +26,11 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
-  - `2.1M+` yearly requests (`+42219%` growth)
-  - `870K+` monthly requests (`1.7M+` quarterly)
-  - currently ranked `4905th` most popular package on jsDelivr
-- `349K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `101K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
+  - `2.2M+` yearly requests (`+44298%` growth)
+  - `918K+` monthly requests (`1.8M+` quarterly)
+  - currently ranked `4768th` most popular package on jsDelivr
+- `350K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `102K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1570%` (`15.7×`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
 - `9K+` monthly users of [**AdVoid**](https://github.com/the-advoid/ad-void) ad-block filter lists
@@ -142,7 +142,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <strong>56</strong> so far
   <br>
   🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
