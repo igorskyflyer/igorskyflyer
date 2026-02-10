@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/book-cover.png" alt="A photo showing the cover of the book 'LILEBI II ŽELIM TI PUNO SREĆE'." width="600">
     <br>
     <figcaption>
-      <strong>Figure 1.</strong> <em>the cover of “Желим ти пуно среће” - Serbian children's book</em>
+      <strong>Figure 1.</strong> <em>The cover of “Желим ти пуно среће” (Cyrillic Serbian), translated as <em>“I wish you lots of luck”</em> - Serbian children's book</em>
     </figcaption>
   </figure>
 </div>
@@ -19,9 +19,7 @@
     <br>
     <figcaption>
       <strong>Figure 2.</strong> Professor’s inscription: 
-      <em>“Bravo! Srećno! Hvala! Vlada”</em> (Latin Serbian),
-      <br>
-      translated as <em>“Bravo! Good luck! Thank you! Vlada”</em> - <em>may, 2012.</em>
+      <em>“Bravo! Srećno! Hvala! Vlada”</em> (Latin Serbian), translated as <em>“Bravo! Good luck! Thank you! Vlada”</em> - <em>may, 2012.</em>
     </figcaption>
   </figure>
 </div>
@@ -37,9 +35,7 @@
     <br>
     <figcaption>
       <strong>Figure 3.</strong> Book's printed paragraph:
-      <em>“Желим ти пуно среће у великим авантурама којима нећеш одолети.”</em> (Cyrillic Serbian),
-      <br>
-      translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em>
+      <em>“Желим ти пуно среће у великим авантурама којима нећеш одолети.”</em> (Cyrillic Serbian), translated as <em>“I wish you lots of luck in all of the great adventures you won't resist.”</em>
     </figcaption>
   </figure>
 </div>
