@@ -1,3 +1,7 @@
+## 🏫 High School Memory
+
+This section preserves the symbolic gift Igor received from his IT professor at the close of high school. The children's book _“Желим ти пуно среће”_ (“I wish you lots of luck”) was presented to Igor with a handwritten dedication and inscription, alongside the professor's public praise of his curiosity and ingenuity. The book itself carried a printed message that echoed the sentiment, making the gift even more symbolic.
+
 <div align="center">
   <figure>
     <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/book-cover.png" alt="A photo showing the cover of the book 'LILEBI II ŽELIM TI PUNO SREĆE'." width="600">
@@ -19,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/book-gratitude.png" alt="Professor's handwritten inscription inside the book." width="600">
     <br>
     <figcaption>
-      <strong>Figure 2.</strong> Professor’s inscription: 
+      <strong>Figure 2.</strong> Professor's inscription: 
       <em>“Bravo! Srećno! Hvala! Vlada — maj 2012.”</em> (Latin Serbian).
     </figcaption>
   </figure>
