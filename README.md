@@ -101,8 +101,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 
 <details>
   <summary>
-   <h3>🗂️ Non-tech</h3>
+   <strong>🗂️ Non-tech</strong>
   </summary>
+  <br>
 
 Uploaded [**My Top 24 | DORA 2026**](https://www.youtube.com/watch?v=2QlV8xUasok) for Eurovision.
 </details>
