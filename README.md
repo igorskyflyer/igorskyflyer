@@ -106,7 +106,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
 
   <ul data-no-restyle>
-   <li>Uploaded [**My Top 24 | DORA 2026**](https://www.youtube.com/watch?v=2QlV8xUasok) for Eurovision.</li>
+   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok" target="_blank"><strong>My Top 24 | DORA 2026</strong></a> for Eurovision.</li>
   </ul>
 </details>
 
