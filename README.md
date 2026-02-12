@@ -69,6 +69,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 _10-Feb-2026_
 
+### 🤖 Tech
+
 Released 3 new UserScripts:
 
 - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
@@ -94,6 +96,16 @@ In the process of migrating all of the npm packages from [**@igor.dvlpr**](https
 <br>
 
 Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1) and the [**official discussion**](https://github.com/orgs/community/discussions/169922).
+
+<br>
+
+<details>
+  <summary>
+   <h3>🗂️ Non-tech</h3>
+  </summary>
+
+Uploaded [**My Top 24 | DORA 2026**](https://www.youtube.com/watch?v=2QlV8xUasok) for Eurovision.
+</details>
 
 ---
 
