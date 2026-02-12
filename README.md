@@ -67,7 +67,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-_10-Feb-2026_
+<div align="right"><em>12-Feb-2026</em></div>
 
 ### 🤖 Tech
 
