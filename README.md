@@ -10,14 +10,14 @@
 
 Creator of notable projects including:
 
-- [**Aria**](https://github.com/aria-toolkit) - a custom ad-block template compiler for ADBT (own DSL)
-- [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable ad-block filters
-- [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of modular and high-performance ad-block filter lists
-- [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
-- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event (top `~0.15%` on jsDelivr)
-- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
-- [**FindAgain!**](https://github.com/find-again) - a communal Visual Studio extension built for saving and reusing workspace search queries
+- [**Aria**](https://github.com/aria-toolkit) - a custom ad-block template compiler for ADBT (own DSL) that achieved a **1,570% productivity increase** in filter generation.
+- [**ADBT**](https://github.com/adbt-lang) - a custom DSL and file format for reusable ad-block filters, optimizing and automating filter maintenance.
+- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event, ranked in the **top 0.15% on jsDelivr** with **888K+ monthly requests**.
+- [**AdVoid**](https://github.com/the-advoid/ad-void) - a high-performance ad-blocking ecosystem of modular filter lists serving **9K+ monthly users**.
+- [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension; part of a **351K+ install** developer ecosystem.
+- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, specializing in **CSP-safe resource handling**, **post excerpt rendering** and automated bootstrapping.
+- [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive semantic commit-tagging system for standardized, readable version control.
+- [**Zep**](https://github.com/igorskyflyer/npm-zep) - a state-driven, single-timer debounce engine with **built-in telemetry** for managed execution lifecycle.
 
 …and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
 
