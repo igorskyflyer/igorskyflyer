@@ -15,7 +15,7 @@ Creator of notable projects including:
 - [**AdVoid**](https://github.com/the-advoid/ad-void) - a set of modular and high-performance ad-block filter lists
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) - a popular Visual Studio Code extension
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) - a set of standalone components featured on Astro's integrations site, including post excerpt rendering, component bootstrapping, and CSP-safe resource handling
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event (top `~0.2%` on jsDelivr)
+- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) - a widely used polyfill for the `scrollend` event (top `~0.15%` on jsDelivr)
 - [**Commoji**](https://github.com/igorskyflyer/commoji) - an expressive commit-tagging system
 - [**FindAgain!**](https://github.com/find-again) - a communal Visual Studio extension built for saving and reusing workspace search queries
 
