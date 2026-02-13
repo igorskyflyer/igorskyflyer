@@ -26,10 +26,10 @@ Creator of notable projects including:
 ## ✨ Career Highlights & Impact
 
 - [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
-  - `2.2M+` yearly requests (`+44753%` growth)
-  - `903K+` monthly requests (`1.86M+` quarterly)
+  - `2.3M+` yearly requests (`+45798%` growth)
+  - `888K+` monthly requests
   - currently ranked `4814th` most popular package on jsDelivr
-- `350K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
+- `351K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
 - `102K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
 - `1570%` (`15.7×`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
 - `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
