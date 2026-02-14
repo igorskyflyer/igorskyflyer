@@ -46,7 +46,7 @@ Creator of notable projects including:
 Currently working as a:
 
 **Staff Full-Stack Engineer** | [**SissiS.com**](https://www.sissis.com/?ref=igorskyflyer) & [**Sensomed.eu**](https://www.sensomed.eu/?ref=igorskyflyer)  
-_Specializing in custom automation, high-security infrastructure, and high-fidelity design-to-code implementation._
+> **Focus**: High-complexity implementation, zero-dependency architecture, and performance-critical R&D.
 
 **🍷 SissiS – Custom E-Commerce & Fulfillment Automation**
 
