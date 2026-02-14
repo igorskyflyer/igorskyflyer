@@ -278,7 +278,13 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   He developed a strong fascination with <strong>Latin</strong> for its structure and elegance and with <strong>Psychology</strong> that gave him insight into his own thoughts as well as the minds of others. Seeking that same clarity in other subjects, he formed a habit of translating abstract mathematical concepts into programming logic; if a formula felt opaque, he would map it to code, for instance, demystifying the <strong>summation ($\sum$)</strong> and <strong>product ($\prod$)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
-  Applying the same logic while studying determinants, he built a solver app on his HTC HD2 phone from scratch, using only HTML, CSS and JavaScript. He used the given application on a test and finished it in 15 minutes, left his professor astonished, and earned top marks along with praise. During this time, Igor's primary laboratory was his phone. He didn't just use the device; he mastered its architecture. He ventured into <strong>Visual Basic</strong> for Windows Mobile and automated system tasks using <strong>MortScript</strong>. His curiosity eventually led him into the heart of the Android ecosystem, where he rooted the device and successfully flashed over <strong>20 custom ROMs</strong>, exploring the limits of mobile kernels and hardware-software interoperability.
+  <br>
+  <strong>The Mobile Laboratory (2011)</strong>
+  <br>
+  Applying the same logic while studying determinants, he built a recursive determinant solver app on his HTC HD2 phone from scratch, using only HTML, CSS and JavaScript. He used the given application on a test and finished it in 15 minutes, leaving his professor astonished and earning top marks along with praise. During this time, Igor's primary laboratory was his phone. He didn't just use the device; he mastered its architecture. He ventured into <strong>Visual Basic</strong> for Windows Mobile and automated system tasks using <strong>MortScript</strong>. His curiosity eventually led him into the heart of the Android ecosystem, where he rooted the device and successfully flashed over <strong>20 custom ROMs</strong>, exploring the limits of mobile kernels and hardware-software interoperability.
+  <br>
+  <br>
+  <strong>A Symbolic Departure (2012)</strong>
   <br>
   Just before finishing high school, his IT professor - during the final class - presented Igor with a symbolic gift: a children's book inscribed with best wishes for his future education and work, along with the gratitude for having been his student. In front of the class, the professor praised his curiosity and ingenuity, calling it a privilege to have taught him. A photo of that book and its memory are available at the following link: <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
   <br>
@@ -296,9 +302,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
   <br>
   <br>
-  <strong>The System Architect & Open Source (2016–Present)</strong>
+  <strong>The System Architect (2016–Present)</strong>
   <br>
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
+  <br>
+  <br>
+  <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
   <br>
   Igor began creating open-source projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other.
   <br>
