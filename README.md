@@ -256,7 +256,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. Having no family background in IT or anything related, he was left to his own devices which only further sparked his curiosity.
   <br>
-  <br>
   Beyond the tech world, through various video games and TV shows (mostly crime ones) exposure, he was learning English, his first foreign language, which he continued improving through formal education, which made him proficient in it. He also has conversational proficiency in Spanish, gained through <strong>self-study</strong> and daily exposure, and a background in French from his school years, where he excelled academically. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related South Slavic languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>, due to their mutual intelligibility.
   <br>
   <br>
@@ -281,14 +280,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Applying the same logic while studying determinants, he built a solver app on his HTC HD2 phone from scratch, using only HTML, CSS and JavaScript. He used the given application on a test and finished it in 20 minutes, left his professor astonished, and earned top marks along with praise.
   <br>
-  <br>
   Just before finishing high school, his IT professor - during the final class - presented Igor with a symbolic gift: a children's book inscribed with best wishes for his future education and work, along with the gratitude for having been his student. In front of the class, the professor praised his curiosity and ingenuity, calling it a privilege to have taught him. A photo of that book and its memory are available at the following link: <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
   <br>
   <br>
   <strong>The First Computer & Academic Acceptance (2012)</strong>
   <br>
   After finishing high school, he created his next website named <code>NeoVisio</code> that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia. Though modest and second‑hand, the laptop provided him with the means to deepen and expand his technical expertise.
-  <br>
   <br>
   <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology - among many others.
   He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
@@ -302,7 +299,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <strong>The Digital Polyglot Era & Open Source (2016-Present)</strong>
   <br>
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
-  <br>
   <br>
   Igor began creating open-source projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other. <em>What started as a necessity became a structure.</em>
   <br>
