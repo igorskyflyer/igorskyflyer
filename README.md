@@ -206,7 +206,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🌱 is currently learning
   AI,
-  <a href="https://react.dev/"><strong>React</strong></a>
+  <a href="https://react.dev/"><strong>React</strong></a>,
   <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <br>
   🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
@@ -238,7 +238,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   📝 posts snippets on his <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
   <br>
-  ⚙️ cherishes automatizing things, has tons of dev-utils written in PowerShell, Node and Python
+  ⚙️ cherishes automating things, has tons of dev-utils written in PowerShell, Node and Python
   <br>
   <span id="recursion"></span>
   🦘 loves adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
