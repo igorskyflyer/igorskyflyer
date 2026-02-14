@@ -3,7 +3,7 @@
 > Staff Full-Stack Software Engineer • Award-Winning Developer • Web, Desktop & Mobile • Open-Source Maintainer
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић, pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong> and <strong>open-source maintainer</strong>, he creates developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes,</strong> and <strong>full-scale e-commerce</strong> platforms.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић, pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong> and <strong>open-source maintainer</strong>, he creates developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes,</strong> and <strong>full-scale e-commerce</strong> platforms. He is also a tech <strong>book author</strong> <em>in the making</em>, huge <strong>DX</strong> (<em>developer experience</em>) advocate, <em>challenge-driven</em> problem solver.
 
   <br>
   <br>
@@ -45,13 +45,23 @@ Creator of notable projects including:
 
 Currently working as a:
 
-<ul data-no-restyle>
-  <li><strong>full-stack engineer</strong> with <em>Design and Product Insight</em> at <a href="https://www.sissis.com/?ref=igorskyflyer"><strong>SissiS.com</strong></a> and <a href="https://www.sensomed.eu/?ref=igorskyflyer"><strong>Sensomed.eu</strong></a> (part-time)</li>
-  <li>freelance <strong>full-stack developer</strong></li>
-  <li><em>free-will</em> <strong>open sourcerer</strong></li>
-</ul>
+**Staff Full-Stack Engineer** | [**SissiS.com**](https://www.sissis.com/?ref=igorskyflyer) & [**Sensomed.eu**](https://www.sensomed.eu/?ref=igorskyflyer)  
+_Specializing in custom automation, high-security infrastructure, and high-fidelity design-to-code implementation._
 
-He is also a tech **book author** _in the making_, huge **DX** (_developer experience_) advocate, **challenge-driven** problem solver.
+**🍷 SissiS – Custom E-Commerce & Fulfillment Automation**
+
+- **Bespoke Plugin Suite** – Built a zero-framework WordPress/WooCommerce plugin system from scratch to handle order exports, **CSV/XML/JSON** data migration, and automated **PDF invoice** generation.
+- **Fulfillment Pipeline** – Engineered a custom automation layer using **Cron** and **FTP** to sync with 3rd-party providers, fetch tracking numbers, and trigger automated customer notifications via custom **PHP** hooks.
+- **Native Multi-language & UX** – Implemented native **English/German** support and a custom **AJAX**-powered admin settings page, giving the client full control over fulfillment logic without 3rd-party translation or config plugins.
+- **Security Hardening** – Secured the environment via custom **HTTP security headers** and sanitized data-exchange logic to protect sensitive luxury retail transaction data.
+
+<br>
+
+**🏥 Sensomed – Medical Supply Storefront**
+
+- **PSD-to-Theme Architecture** – Transformed static **Photoshop (PSD)** designs into a high-performance WordPress theme, building custom post-loop templates and a dynamic, expandable **JavaScript** search interface.
+- **Custom Content Blocks** – Developed bespoke **Gutenberg** blocks and product variation filters to manage complex medical equipment catalogs and selectable layouts.
+- **Accessibility & Compliance** – Audited and implemented accessibility standards (**A11Y**) alongside security hardening to ensure a secure, inclusive experience for healthcare professionals.
 
 <br>
 
