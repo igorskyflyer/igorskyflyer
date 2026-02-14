@@ -252,7 +252,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 <details>
   <summary><strong>👶🏼 Early Life</strong></summary>
   <br>
-  <strong>The Spark (1993 - 1998)</strong>
+  <strong>The Spark (1993-1998)</strong>
   <br>
   Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language), in both Latin and Cyrillic scripts, at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. Having no family background in IT or anything related, he was left to his own devices which only further sparked his curiosity.
   <br>
@@ -275,7 +275,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   In 2010, noticing the rising necessity of a standardized JavaScript library for his own projects, Igor created <strong>Nyx</strong> (named after <code>Nyx</code>, the Greek goddess of night), a JavaScript library that grew organically into a jQuery‑like toolkit. He began by adding only what felt necessary at the time: <code>$()</code>, <code>.first()</code>, <code>.ready()</code>, and many other helpers. Later, he discovered that jQuery independently implemented the same methods with identical names yet Nyx was built entirely from scratch, without referencing or copying jQuery's source code, and became Igor's first lesson in <strong>convergent problem‑solving</strong> and <strong>original abstraction design</strong>. He used it extensively in his later projects. Without a modern setup, Igor's curiosity and persistence became his most powerful tools.
   <br>
   <br>
-  <strong>The (Psycho)logic Gap (2010 – 2011)</strong>
+  <strong>The (Psycho)logic Gap (2010-2011)</strong>
   <br>
   He developed a strong fascination with <strong>Latin</strong> for its structure and elegance and with <strong>Psychology</strong> that gave him insight into his own thoughts as well as the minds of others. Seeking that same clarity in other subjects, he formed a habit of translating abstract mathematical concepts into programming logic; if a formula felt opaque, he would map it to code, for instance, demystifying the <strong>summation ($\sum$)</strong> and <strong>product ($\prod$)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
@@ -299,7 +299,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
   <br>
   <br>
-  <strong>The Digital Polyglot Era & Open Source (2016 – Present)</strong>
+  <strong>The Digital Polyglot Era & Open Source (2016-Present)</strong>
   <br>
   Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
   <br>
