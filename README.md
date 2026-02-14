@@ -199,8 +199,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   🐣 is excited about these upcoming technologies:
   <a href="https://pyscript.net"><strong>PyScript</strong></a>,
   <a href="https://formkit.com"><strong>FormKit</strong></a>,
-  <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>,
-  <a href="https://www.cloudflare.com/en-gb/web3/"><strong>Web3</strong></a>
+  <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>
   <br>
   🏅 has completed Google's Foobar challenge
   <br>
