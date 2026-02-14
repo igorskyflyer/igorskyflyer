@@ -16,7 +16,7 @@ Creator of notable projects including:
 - [**AdVoid**](https://github.com/the-advoid/ad-void) – High-performance filtering ecosystem serving **9K+ monthly active users**.
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) – Flagship VS Code extension; part of a **351K+ install** developer toolset.
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) – Featured integrations specializing in **CSP-safe security**, **content rendering**, and bootstrapping.
-- [**Commoji**](https://github.com/igorskyflyer/commoji) – Expressive, visual psychology-based, semantic commit-tagging system for standardized version control.
+- [**Commoji**](https://github.com/igorskyflyer/commoji) – Expressive, visual psychology-based, and semantic commit-tagging system for standardized version control.
 - [**Zep**](https://github.com/igorskyflyer/npm-zep) – State-driven debounce engine with **built-in telemetry** for managed execution lifecycle.
 
 …including many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
