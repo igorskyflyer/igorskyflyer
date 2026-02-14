@@ -3,14 +3,14 @@
 > Staff Full-Stack Software Engineer • Award-Winning Developer • Web, Desktop & Mobile • Open-Source Maintainer
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић, pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong>, and <strong>open-source maintainer</strong>, creating developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes</strong> and <strong>full-scale e-commerce</strong> platforms.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић, pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong> and <strong>open-source maintainer</strong>, he creates developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes,</strong> and <strong>full-scale e-commerce</strong> platforms.
 
   <br>
   <br>
 
 Creator of notable projects including:
 
-- [**Aria**](https://github.com/aria-toolkit) – Custom compiler for ADBT (own DSL) delivering a **1,570% productivity increase**.
+- [**Aria**](https://github.com/aria-toolkit) – Custom compiler for ADBT delivering a **1,570% productivity increase** in filter generation.
 - [**ADBT**](https://github.com/adbt-lang) – Domain-specific language and file format for automated ad-block filter maintenance.
 - [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) – Top 0.15% package on jsDelivr with **888K+ monthly requests**.
 - [**AdVoid**](https://github.com/the-advoid/ad-void) – High-performance filtering ecosystem serving **9K+ monthly active users**.
@@ -19,25 +19,19 @@ Creator of notable projects including:
 - [**Commoji**](https://github.com/igorskyflyer/commoji) – Expressive semantic commit-tagging system for standardized version control.
 - [**Zep**](https://github.com/igorskyflyer/npm-zep) – State-driven debounce engine with **built-in telemetry** for managed execution lifecycle.
 
-…and many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
+…including many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
 
   <br>
 
 ## ✨ Career Highlights & Impact
 
-- [**Widely adopted scrollend polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats)
-  - `2.3M+` yearly requests / `+45798%` growth
-  - `888K+` monthly requests
-  - currently ranked `4884th` most popular package on jsDelivr
-- `351K+` installs across `11` VS Code [**extensions**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=All%20categories&sortBy=Relevance) and `1` [**theme**](https://marketplace.visualstudio.com/search?term=igordvlpr&target=VSCode&category=Themes&sortBy=Relevance)
-- `102K+` installs across `56` published [**npm packages**](https://www.npmjs.com/~igorskyflyer)
-- `1570%` (`15.7×`) productivity increase across all ad-block lists via [**Aria compiler**](https://github.com/aria-toolkit) + [**ADBT**](https://github.com/adbt-lang) templates
-- `10K+` of installs across `6` [**Astro components**](https://astro.build/integrations?search=igor.dvlpr)
-- `9K+` monthly users of [**AdVoid**](https://github.com/the-advoid/ad-void) ad-block filter lists
-- `30+` programming certificates
-- Trusted by [**recurring clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across 10 countries to deliver high-impact projects ([**their testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md))
-- Recipient of a `Best Site` award (`2009`, age `16`, built entirely on a Sony Ericsson J300i)
-- Verified Visual Studio Code [**publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr)
+- [**Widely adopted Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) – Powering **2.3M+ yearly requests** (**+45,798%** growth) and currently ranked `4884th` on jsDelivr.
+- **Visual Studio Code Ecosystem** – **351K+ installs** as a [**Verified Publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr) across **11** extensions and a featured theme.
+- **Open-Source Footprint** – Over **102K+ installs** across **56** published npm packages and **10K+ installs** for official Astro integrations.
+- **Engineering ROI** – Specialized in **compiler design** and **DSL architecture** (Aria/ADBT) that yielded a **15.7× productivity gain**.
+- **AdVoid Filter Ecosystem** – Maintaining high-performance ad-block lists serving **9K+ monthly active users**.
+- **Global Client Trust** – Delivering high-impact solutions for [**recurring international clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across **10** countries with proven [**testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md).
+- **Proven Longevity** – Recipient of a **"Best Site" award (2009)** at age **16** for a site built entirely on a **Sony Ericsson J300i**; holder of **30+ certifications**.
 
 </div>
 
