@@ -303,7 +303,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Igor began creating open-source projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other.
   <br>
   <br>
-  <em>What started as a necessity became a structure.</em>
+  <em>What started as a necessity became an ecosystem.</em>
   <br>
 </details>
 
