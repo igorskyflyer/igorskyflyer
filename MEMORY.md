@@ -1,6 +1,6 @@
 ## 🏫 High School Memory
 
-This section preserves the symbolic gift Igor received from his IT professor at the close of high school. The children's book _“Желим ти пуно среће”_ (“I wish you lots of luck”) was presented to Igor with a handwritten dedication and inscription, alongside the professor's public praise of his curiosity and ingenuity. The book itself carried a printed message that echoed the sentiment, making the gift even more symbolic.
+This section preserves the symbolic gift Igor received from his IT professor at the close of high school. The children's book _“Желим ти пуно среће”_ (“I wish you lots of luck”) by **Nina Štajnbek** was presented to Igor with a handwritten dedication and inscription, alongside the professor's public praise of his curiosity and ingenuity. The book itself carried a printed message that echoed the sentiment, making the gift even more symbolic.
 
 <div align="center">
   <figure>
