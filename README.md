@@ -265,7 +265,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The First Code (2006)</strong>
   <br>
-  At age 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular at the time, marking his first transition from consumer to creator.
+  At age 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The (Psycho)logic Gap (2008)</strong>
