@@ -111,8 +111,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
 
   <ul data-no-restyle>
-  <li>Uploaded <a href="https://youtu.be/1luA8GfMolo" target="_blank"><strong>My Top 16 | DORA 2026 [After the Show]</strong></a> for Eurovision.</li>
-   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok" target="_blank"><strong>My Top 24 | DORA 2026 [Before the Show]</strong></a> for Eurovision.</li>
+  <li>Uploaded <a href="https://youtu.be/1luA8GfMolo"><strong>My Top 16 | DORA 2026 [After the Show]</strong></a> for Eurovision.</li>
+   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok"><strong>My Top 24 | DORA 2026 [Before the Show]</strong></a> for Eurovision.</li>
   </ul>
 </details>
 
@@ -290,7 +290,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>A Symbolic Departure (May 2012)</strong>
   <br>
-  Upon graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
+  Upon graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a>.
   <br>
   <br>
   <strong>The First Computer (September 2012)</strong>
@@ -300,12 +300,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Architect in the Pocket (2013)</strong>
   <br>
-  Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md" target="_blank"><strong>notable projects archive</strong></a>.
+  Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
   <br>
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (2014)</strong>
   <br>
-  By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
+  By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
   <br>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
@@ -313,13 +313,13 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   For his final academic milestone, Igor engineered a comprehensive distribution platform exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, <strong>the entire ecosystem: PHP/MySQL backend, REST API, and Android client, all developed on the phone itself via AIDE.</strong>
   <br>
   <br>
-  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary package manager</strong>. The client performed local system scans, cross-referenced versions with the server via REST to identify updates, and managed the full (un)installation lifecycle. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository" target="_blank"><strong>official repository</strong></a>.
+  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary package manager</strong>. The client performed local system scans, cross-referenced versions with the server via REST to identify updates, and managed the full (un)installation lifecycle. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository"><strong>official repository</strong></a>.
   <br>
   <br>
   <blockquote>
     <strong>💡 Historical Recognition</strong>
     <br>
-    The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/" target="_blank"><strong>AlternativeTo</strong></a>.
+    The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/"><strong>AlternativeTo</strong></a>.
   </blockquote>
   <strong>The System Architect (2016–Present)</strong>
   <br>
@@ -389,11 +389,11 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Posts on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <!-- BLOG-POST-LIST:START -->
-<br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank"><strong><em>npm valid scopes not working on Windows ✋🏼</em></strong></a>
-<br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank"><strong><em>Chrome flags to enable or not 🚩</em></strong></a>
-<br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank"><strong><em>Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</em></strong></a>
-<br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
-<br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
+<br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/"><strong><em>npm valid scopes not working on Windows ✋🏼</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/"><strong><em>Chrome flags to enable or not 🚩</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/"><strong><em>Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
+<br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
 <br>
 </details>
 
@@ -440,7 +440,7 @@ Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong>
   If his open-source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
   <br>
   <br>
-  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
+  <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
   <br>
   <blockquote>
     <br>
