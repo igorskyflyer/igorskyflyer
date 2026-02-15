@@ -319,10 +319,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <br>
   
-  > [!TIP]
-  > Historical Recognition: The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on [**AlternativeTo**](https://alternativeto.net/software/neovisio/).
+  <blockquote>
+    <strong>💡 Historical Recognition</strong>
+    <br>
+    The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/" target="_blank"><strong>AlternativeTo</strong></a>.
+  </blockquote>
 
-  <br>
   <br>
   <strong>The System Architect (2016–Present)</strong>
   <br>
