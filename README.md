@@ -250,7 +250,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 </details>
 
 <details>
-  <summary><strong>👶🏼 Early Life</strong></summary>
+  <summary><strong>​🏛️ Technical Origin</strong></summary>
   <br>
   <strong>The Spark (1993-1998)</strong>
   <br>
