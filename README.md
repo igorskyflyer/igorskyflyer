@@ -255,17 +255,17 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Spark (1993-1998)</strong>
   <br>
-  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics; notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian in both Latin and Cyrillic scripts at the age of 5½. He was always fascinated by technology—analyzing and reverse engineering cellphones and gaming consoles from a very young age. Having no family background in IT, he was left to his own devices, which only further sparked his self-directed curiosity.
+  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics; notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian in both Latin and Cyrillic scripts at the age of 5½. He was always fascinated by technology, analyzing and reverse engineering cellphones and gaming consoles from a very young age. Having no family background in IT, he was left to his own devices, which only further sparked his self-directed curiosity.
   <br>
   <br>
   <strong>The Linguistic Interface (1999-2005)</strong>
   <br>
-  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian, Montenegrin). This period established his ability to recognize patterns and syntax—skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
+  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian, Montenegrin). This period established his ability to recognize patterns and syntax, skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
   <br>
   <br>
   <strong>The First Code (2006)</strong>
   <br>
-  At age 13, he began learning to code—starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>—on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's most popular at the time, marking his first transition from consumer to creator.
+  At age 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's most popular at the time, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The (Psycho)logic Gap (2008)</strong>
@@ -295,19 +295,19 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The First Computer (2012)</strong>
   <br>
-  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>—a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
+  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (2013)</strong>
   <br>
   During his studies, he <strong>gave programming classes</strong> to fellow students, and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise.
   <br>
-  Seeking challenges beyond coursework, Igor accepted a faculty problem: a complex <strong>Linear Programming</strong> task that had gone unsolved by students for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math—he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
+  Seeking challenges beyond coursework, Igor accepted a faculty problem: a complex <strong>Linear Programming</strong> task that had gone unsolved by students for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math, he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
   <br>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
-  For his final academic milestone, Igor engineered a comprehensive distribution platform exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, <strong>the entire ecosystem—PHP/MySQL backend, REST API, and Android client—was developed on the phone itself via AIDE.</strong>
+  For his final academic milestone, Igor engineered a comprehensive distribution platform exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, <strong>the entire ecosystem: PHP/MySQL backend, REST API, and Android client, all developed on the phone itself via AIDE.</strong>
   <br>
   <br>
   The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary package manager</strong>. The client performed local system scans, cross-referenced versions with the server via REST to identify updates, and managed the full (un)installation lifecycle. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository" target="_blank"><strong>official repository</strong></a>.
@@ -321,12 +321,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The System Architect (2016–Present)</strong>
   <br>
-  Over time, Igor expanded his expertise to 18+ programming languages—not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
+  Over time, Igor expanded his expertise to 18+ programming languages, not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
   <br>
   <br>
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
   <br>
-  Igor began creating open-source projects to build tools and fixes that did not yet exist. His contributions—from bug fixes to architectural refinements—have since been adopted by developers and companies globally. He believes that if a system does not function properly, it is his responsibility to ensure it does. This has resulted in a connected ecosystem of libraries and concepts that rely on one another for systemic integrity.
+  Igor began creating open-source projects to build tools and fixes that did not yet exist. His contributions, from bug fixes to architectural refinements, have since been adopted by developers and companies globally. He believes that if a system does not function properly, it is his responsibility to ensure it does. This has resulted in a connected ecosystem of libraries and concepts that rely on one another for systemic integrity.
   <br>
   <br>
   <div align="center"><em>„What started as a necessity became an ecosystem.“</em></div>
