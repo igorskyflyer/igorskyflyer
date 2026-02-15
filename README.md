@@ -288,12 +288,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   While studying determinants, he built a recursive solver app on his <strong>HTC HD2</strong> using HTML/CSS/JS; he used it to finish a math test in 15 minutes, astonishing his professor. During this time, the phone was his primary laboratory. He mastered its architecture, ventured into <strong>Visual Basic</strong> for Windows Mobile, and successfully rooted the phone and flashed over <strong>10 custom Android ROMs</strong> to explore the limits of mobile kernels and hardware-software interoperability.
   <br>
   <br>
-  <strong>A Symbolic Departure (2012)</strong>
+  <strong>A Symbolic Departure (May 2012)</strong>
   <br>
   Upon graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
   <br>
   <br>
-  <strong>The First Computer (2012)</strong>
+  <strong>The First Computer (September 2012)</strong>
   <br>
   Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
