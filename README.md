@@ -111,7 +111,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
 
   <ul data-no-restyle>
-   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok" target="_blank"><strong>My Top 24 | DORA 2026 [Before Show]</strong></a> for Eurovision.</li>
+  <li>Uploaded <a href="https://youtu.be/1luA8GfMolo" target="_blank"><strong>My Top 16 | DORA 2026 [After the Show]</strong></a> for Eurovision.</li>
+   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok" target="_blank"><strong>My Top 24 | DORA 2026 [Before the Show]</strong></a> for Eurovision.</li>
   </ul>
 </details>
 
@@ -254,65 +255,78 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Spark (1993-1998)</strong>
   <br>
-  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics, and notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian (his native language) in both Latin and Cyrillic scripts at the age of 5½. He was always keen on technology and everything tech-related, fascinated by how things work, analyzing and reverse engineering them, even from a very young age. His fascination with technology began with cellphones and gaming consoles. Having no family background in IT or anything related, he was left to his own devices which only further sparked his curiosity.
+  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics; notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian in both Latin and Cyrillic scripts at the age of 5½. He was always fascinated by technology—analyzing and reverse engineering cellphones and gaming consoles from a very young age. Having no family background in IT, he was left to his own devices, which only further sparked his self-directed curiosity.
   <br>
   <br>
   <strong>The Linguistic Interface (1999-2005)</strong>
   <br>
-  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, his first foreign language. He later added conversational proficiency in <strong>Spanish</strong> through self-study and daily exposure, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages like <strong>Croatian</strong>, <strong>Bosnian</strong>, and <strong>Montenegrin</strong>. This period established his ability to recognize patterns and syntax - skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
+  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian, Montenegrin). This period established his ability to recognize patterns and syntax—skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
   <br>
   <br>
   <strong>The First Code (2006)</strong>
   <br>
- At the end of sixth grade, around the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and eventually <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. Once he had mastered the basics, he created several <em>Peperonity</em> sites that became some of the platform's most popular at the time.
+  At age 13, he began learning to code—starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>—on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's most popular at the time, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The (Psycho)logic Gap (2008)</strong>
   <br>
-  In high school (gymnasium, 4 years), Igor was an <strong>exemplary</strong> student in IT and languages predominantly, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and elegance and with <strong>Psychology</strong> that gave him insight into his own thoughts as well as the minds of others. Seeking that same clarity in other subjects, he formed a habit of translating abstract mathematical concepts into programming logic; if a formula felt opaque, he would map it to code, for instance, demystifying the <strong>summation ($\sum$)</strong> and <strong>product ($\prod$)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
+  In gymnasium, Igor was an exemplary student in IT and languages, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and <strong>Psychology</strong> for its insight into human logic. Seeking that same clarity in other subjects, he began translating abstract mathematical concepts into programming logic; he demystified the <strong>summation ($\sum$)</strong> and <strong>product ($\prod$)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
   <br>
   <strong>The First Award (2009)</strong>
   <br>
- After learning the basics of Web development, he built a new site on <em>XTgem</em>, which he entered into a multi-category <code>Best Website</code> contest organized by the XTgem team in 2009. His site (<code>skywap.xtgem.com</code>) <strong>won an award</strong>. After that endeavour, he was learning <strong>PHP</strong> alongside <strong>WordPress</strong>. During his high school days he excelled in <strong>Pascal</strong> (console applications) and <strong>Delphi</strong> (<strong><em>Object Pascal</em></strong>, GUI applications) despite not owning a computer to practice at home.
+  After mastering Web development basics, he built a site on <em>XTgem</em> (<code>skywap.xtgem.com</code>) which <strong>won an award</strong> in a global <code>Best Website</code> contest. Following this, he taught himself <strong>PHP</strong> and <strong>WordPress</strong>. During high school, he excelled in <strong>Pascal</strong> and <strong>Object Pascal (Delphi)</strong>, despite still not owning a computer to practice at home.
   <br>
   <br>
   <strong>The First Convergent Innovation (2010)</strong>
   <br>
-  In 2010, noticing the rising necessity of a standardized JavaScript library for his own projects, Igor created <strong>Nyx</strong> (named after <code>Nyx</code>, the Greek goddess of night), a JavaScript library that grew organically into a jQuery‑like toolkit. He began by adding only what felt necessary at the time: <code>$()</code>, <code>.first()</code>, <code>.ready()</code>, and many other helpers. Later, he discovered that jQuery independently implemented the same methods with identical names yet Nyx was built entirely from scratch, without referencing or copying jQuery's source code, and became Igor's first lesson in <strong>convergent problem‑solving</strong> and <strong>original abstraction design</strong>. He used it extensively in his later projects. Without a modern setup, Igor's curiosity and persistence became his most powerful tools.
+  Noticing the need for a standardized JavaScript library, Igor created <strong>Nyx</strong> (named after <code>Nyx</code>, the Greek goddess of night). He built methods like <code>$()</code>, <code>.first()</code>, and <code>.ready()</code> from scratch, only later discovering that <em>jQuery</em> had independently implemented identical patterns. This was Igor's first lesson in <strong>convergent problem‑solving</strong> and <strong>original abstraction design</strong>. He used it extensively in his later projects. Without a modern setup, Igor's curiosity and persistence became his most powerful tools.
   <br>
   <br>
   <strong>The Mobile Laboratory (2011)</strong>
   <br>
-  Applying the same logic while studying determinants, he built a recursive determinant solver app on his HTC HD2 phone from scratch, using only HTML, CSS and JavaScript. He used the given application on a test and finished it in 15 minutes, leaving his professor astonished and earning top marks along with praise. During this time, Igor's primary laboratory was his phone. He didn't just use the device; he mastered its architecture. He ventured into <strong>Visual Basic</strong> for Windows Mobile and automated system tasks using <strong>MortScript</strong>. His curiosity eventually led him into the heart of the Android ecosystem, where he rooted the device and successfully flashed over <strong>10 custom ROMs</strong>, exploring the limits of mobile kernels and hardware-software interoperability.
+  While studying determinants, he built a recursive solver app on his <strong>HTC HD2</strong> using HTML/CSS/JS; he used it to finish a math test in 15 minutes, astonishing his professor. During this time, the phone was his primary laboratory. He mastered its architecture, ventured into <strong>Visual Basic</strong> for Windows Mobile, and successfully rooted the phone and flashed over <strong>10 custom Android ROMs</strong> to explore the limits of mobile kernels and hardware-software interoperability.
   <br>
   <br>
   <strong>A Symbolic Departure (2012)</strong>
   <br>
-  Just before finishing high school, his IT professor - during the final class - presented Igor with a symbolic gift: a children's book inscribed with best wishes for his future education and work, along with the gratitude for having been his student. In front of the class, the professor praised his curiosity and ingenuity, calling it a privilege to have taught him. A photo of that book and its memory are available at the following link: <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
+  Upon graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md" target="_blank"><strong>high school memories</strong></a>.
   <br>
   <br>
-  <strong>The First Computer & Academic Acceptance (2012)</strong>
+  <strong>The First Computer (2012)</strong>
   <br>
-  After finishing high school, he created his next website named <code>NeoVisio</code> that was based on WordPress and it was the first website that brought him some money. When he saved enough, he bought his <strong>first laptop</strong> at the age of 18 and started attending the Faculty of Technical Sciences in Čačak, Serbia. Though modest and second‑hand, the laptop provided him with the means to deepen and expand his technical expertise.
-  <br>
-  <strong>Software engineering</strong> was his main field of study, where he learned <strong>UML</strong>, <strong>C</strong>, <strong>C#</strong>, ethics, mathematics, marketing, psychology - among many others.
-  He did both solo and team projects in his college days. While studying there, he got captivated by <strong>C#</strong> and started learning it not only in college but also through self-study at home because he is a firm believer and devotee of <strong><em>autodidacticism</em></strong>.
+  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>—a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (2013)</strong>
   <br>
-  During his studies, he <strong>gave programming classes</strong> to other, fellow students and high-school students as well and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise. In his college days he was always seeking for intellectual challenges, one of them being given by one of his professors, to create a mathematical software that Igor named <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, a custom-built solver for equations using the linear programming method. The mentioned professor said that nobody was able to solve it the past 5 years since he came up with it, for which Igor got a 10 (A) and was praised by the professor.
+  During his studies, he <strong>gave programming classes</strong> to fellow students, and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise.
+  <br>
+  Seeking challenges beyond coursework, Igor accepted a faculty problem: a complex <strong>Linear Programming</strong> task that had gone unsolved by students for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math—he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
+  <br>
+  <br>
+  <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
+  <br>
+  For his final academic milestone, Igor engineered a comprehensive distribution platform exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, <strong>the entire ecosystem—PHP/MySQL backend, REST API, and Android client—was developed on the phone itself via AIDE.</strong>
+  <br>
+  <br>
+  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary package manager</strong>. The client performed local system scans, cross-referenced versions with the server via REST to identify updates, and managed the full (un)installation lifecycle. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository" target="_blank"><strong>official repository</strong></a>.
+  <br>
+  <br>
+  
+  > [!TIP]
+  > Historical Recognition: The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on [**AlternativeTo**](https://alternativeto.net/software/neovisio/).
+
   <br>
   <br>
   <strong>The System Architect (2016–Present)</strong>
   <br>
-  Over time, Igor expanded his expertise to encompass more than 18 programming languages not as an exercise in breadth, but in building systems where these technologies interoperate with purpose. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to mobile applications and command-line tools, all designed with performance and developer experience in mind.
+  Over time, Igor expanded his expertise to 18+ programming languages—not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
   <br>
   <br>
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
   <br>
-  Igor began creating open-source projects primarily out of necessity - developing tools, fixes, and concepts that were not yet available. Others found these contributions beneficial. Developers began to adopt them, including some companies. Over time, he became involved in various projects beyond his own. This included bug fixes, refinements, and recommendations. It was never about receiving recognition. He firmly believed that things should function properly - and if they did not, he would ensure that they would. By solving what needed to be solved, Igor ended up building a connected ecosystem - tools, libraries, and concepts that didn't just coexist, but relied on each other.
+  Igor began creating open-source projects to build tools and fixes that did not yet exist. His contributions—from bug fixes to architectural refinements—have since been adopted by developers and companies globally. He believes that if a system does not function properly, it is his responsibility to ensure it does. This has resulted in a connected ecosystem of libraries and concepts that rely on one another for systemic integrity.
   <br>
   <br>
   <div align="center"><em>„What started as a necessity became an ecosystem.“</em></div>
