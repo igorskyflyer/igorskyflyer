@@ -305,9 +305,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (2014)</strong>
   <br>
-  During his studies, he <strong>gave programming classes</strong> to fellow students, and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise.
-  <br>
-  Seeking challenges beyond coursework, Igor accepted a faculty problem: a complex <strong>Linear Programming</strong> task that had gone unsolved by students for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math, he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
+  By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex" target="_blank"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
   <br>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
@@ -318,13 +316,11 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary package manager</strong>. The client performed local system scans, cross-referenced versions with the server via REST to identify updates, and managed the full (un)installation lifecycle. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository" target="_blank"><strong>official repository</strong></a>.
   <br>
   <br>
-  
   <blockquote>
     <strong>💡 Historical Recognition</strong>
     <br>
     The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/" target="_blank"><strong>AlternativeTo</strong></a>.
   </blockquote>
-  
   <strong>The System Architect (2016–Present)</strong>
   <br>
   Over time, Igor expanded his expertise to 18+ programming languages, not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
