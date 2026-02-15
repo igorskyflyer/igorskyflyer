@@ -12,7 +12,7 @@ Creator of notable projects including:
 
 - [**Aria**](https://github.com/aria-toolkit) – Custom compiler for ADBT delivering a **1,570% productivity increase** in filter generation.
 - [**ADBT**](https://github.com/adbt-lang) – Domain-specific language and file format for automated ad-block filter maintenance.
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) – Top 0.15% package on jsDelivr with **888K+ monthly requests**.
+- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) – Top 0.15% package on jsDelivr with **902K+ monthly requests**.
 - [**AdVoid**](https://github.com/the-advoid/ad-void) – High-performance filtering ecosystem serving **9K+ monthly active users**.
 - [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) – Flagship VS Code extension; part of a **351K+ install** developer toolset.
 - [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) – Featured integrations specializing in **CSP-safe security**, **content rendering**, and bootstrapping.
@@ -25,7 +25,7 @@ Creator of notable projects including:
 
 ## ✨ Career Highlights & Impact
 
-- [**Widely adopted Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) – Powering **2.3M+ yearly requests** (**+45,798%** growth) and currently ranked `4884th` on jsDelivr.
+- [**Widely adopted Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) – Powering **2.4M+ yearly requests** (**+46,237%** growth) and currently ranked `4852th` on jsDelivr.
 - **Visual Studio Code Ecosystem** – **351K+ installs** as a [**Verified Publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr) across **11** extensions and a featured theme.
 - **Open-Source Footprint** – Over **102K+ installs** across **56** published npm packages and **10K+ installs** for official Astro integrations.
 - **Engineering ROI** – Specialized in **compiler design** and **DSL architecture** (Aria/ADBT) that yielded a **15.7× productivity gain**.
