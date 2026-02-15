@@ -298,7 +298,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
-  <strong>The Unsolved: (Over)engineering the "Impossible" (2013)</strong>
+  <strong>The Architect in the Pocket (2013)</strong>
+  <br>
+  Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md" target="_blank"><strong>notable projects archive</strong></a>.
+  <br>
+  <br>
+  <strong>The Unsolved: (Over)engineering the "Impossible" (2014)</strong>
   <br>
   During his studies, he <strong>gave programming classes</strong> to fellow students, and started doing <strong>freelance development</strong> which further <strong>expanded</strong> his tech stack and expertise.
   <br>
