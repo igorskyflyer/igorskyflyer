@@ -303,6 +303,17 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
   <br>
   <br>
+  <strong>Interop: The Performance Bench (March 2014)</strong>
+  <br>
+  ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
+  <br>
+  ​The result was BenchPro. Using  <strong>Interop: The Performance Bench (March 2014)</strong>
+  <br>
+  ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
+  <br>
+  ​The result was BenchPro. Using C# and Win32 Interop, he engineered a multi-threaded suite that utilized Monte Carlo simulations to stress-test CPU throughput. By pulling real-time WMI telemetry (L2/L3 cache, core counts), he bridged the gap between abstract architectural theory and physical silicon performance.
+  <br>
+  <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (November 2014)</strong>
   <br>
   By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
