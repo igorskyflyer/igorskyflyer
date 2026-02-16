@@ -320,6 +320,18 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Throughout his degree, Igor maintained a "curriculum-plus" approach. While excelling in <strong>Advanced OOP</strong>, <strong>Software Engineering</strong>, and <strong>Database Programming</strong>, he consistently achieved <strong>100/100 scores</strong> on all programming-related coursework. This was so consistent that he was always exempted from final oral exams—his technical performance had already exhausted the grading scale. During this time, he continued his <strong>autonomous exploration</strong> beyond the classroom, exploring advanced software architectures and emerging tech stacks that went far beyond the classroom, effectively turning his formal education into a baseline for his personal innovation.
   <br>
   <br>
+  <strong>The Vanilla Revolution: Engineering the Core (2015)</strong>
+  <br>
+  By 2015, Igor realized that off-the-shelf platforms were too <em>bloated</em> for his performance standards. He performed a total <em>"architectural purge"</em>, rebuilding his entire portal from the ground up in vanilla PHP, HTML5, JavaScript, and CSS. Rather than relying on third-party plugins, he engineered a <strong>custom CMS</strong> from scratch, featuring:
+  <ul data-no-restyle>
+    <li><strong>Proprietary Widget System</strong>: A modular approach to sidebar content, including social integration and custom search modules.
+    <li><strong>Native Traffic Analytics</strong>: A custom view-tracking engine that logged and displayed real-time engagement (e.g., <code>88 views</code>) for every post without external dependencies.
+    <li><strong>Custom Comment Engine</strong>: A native, lightweight discussion system built directly into the PHP backend.
+    <li><strong>Advanced Blogging Architecture</strong>: Full CRUD functionality for posts, supporting specific categories (e.g., "music"), tags, and precise second-level timestamps.
+    <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
+    <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
+  </ul>
+  <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
   For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, all developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
