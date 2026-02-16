@@ -268,7 +268,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
   <br>
-  <strong>The (Psycho)logic Gap (2008)</strong>
+  <strong>The Psycho-Logic Gap (2008)</strong>
   <br>
   In gymnasium, Igor was an exemplary student in IT and languages, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and <strong>Psychology</strong> for its insight into human logic. Seeking that same clarity in other subjects, he began translating abstract mathematical concepts into programming logic; he demystified the <strong>&sum; (summation)</strong> and <strong>&prod; (product)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
