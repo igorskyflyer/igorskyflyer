@@ -329,7 +329,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <li><strong>Custom Comment Engine</strong>: A native, lightweight discussion system built directly into the PHP backend.
     <li><strong>Advanced Blogging Architecture</strong>: Full CRUD functionality for posts, supporting specific categories (e.g., "music"), tags, and precise second-level timestamps.
     <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
-    <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
+    <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026s</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
   </ul>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
