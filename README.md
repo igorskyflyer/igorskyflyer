@@ -334,21 +334,31 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
-  For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java or the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, all developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
+  For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java alongside the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs like the Android Studio or the Visual Studio Code, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, was developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
   <br>
-  <br>
-  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary App Store</strong>. The client mirrored the web portal's functionality, with the addition of performing local applications scans to cross-reference versions with the server via REST, managing the full (un)installation lifecycle, and syncing <strong>user ratings and metadata</strong> in real-time. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code is available on its <a href="https://github.com/igorskyflyer/android-applications-repository"><strong>official repository</strong></a>.
+  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary App Store</strong>. The client mirrored the web portal's functionality, with the addition of performing local applications scans to cross-reference versions with the server via REST, managing the full (un)installation lifecycle, and syncing <strong>user ratings and metadata</strong> in real-time. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code was later released to the public and is available on its <a href="https://github.com/igorskyflyer/android-neovisio-app-store"><strong>official repository</strong></a>.
   <br>
   <br>
   <blockquote>
     <strong>💡 Historical Recognition</strong>
     <br>
-    The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/"><strong>AlternativeTo</strong></a>.
+    The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/"><strong>AlternativeTo</strong></a> and 2 related applications lists (<a href="https://alternativeto.net/lists/9567/software-and-app-discovery/"><strong>Software and App Discovery</strong></a> and <a href="https://alternativeto.net/lists/7520/apk-sources/"><strong>APK Sources</strong></a>).
   </blockquote>
   <br>
   <strong>The System Architect (2016–Present)</strong>
   <br>
-  Over time, Igor expanded his expertise to 18+ programming languages, not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
+  Over the past decade, Igor has evolved into a versatile polyglot architect, mastering 18+ programming languages through the necessity of solving complex, real-world engineering challenges. His freelance career is defined by development of high-performance, proprietary systems across sectors like healthcare, HR, and luxury retail.
+  <br>
+  <strong>Professional Highlights</strong>
+  <ul data-no-restyle>
+   <li><strong>Enterprise Systems</strong>: Engineered the EZMM Mortuary Management System, a ground-up C#/WPF desktop suite with custom data APIs and modular UI.</li>
+   <li><strong>Automated E-Commerce</strong>: Built secure, high-traffic platforms for SissiS (Luxury Retail) and Sensomed (Healthcare), featuring custom PHP fulfillment and FTP/Cron automation.</li>
+   <li><strong>Legacy Recovery</strong>: Specialized in fixing "unfixable" bugs, from fatal Android Camera API errors to recovering broken ASP.NET and PHP environments without prior documentation.</li>
+   <li><strong>Advanced Logic</strong>: Designed high-speed custom sorting algorithms for massive datasets and developed the open-source Luna library.</li>
+  </ul>
+  <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
+  <br>
+  <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>Read Client Testimonials & Success Stories</strong></a>
   <br>
   <br>
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
