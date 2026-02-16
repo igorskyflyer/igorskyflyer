@@ -311,7 +311,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
   <br>
-  ​The result was BenchPro. Using C# and Win32 Interop, he engineered a multi-threaded suite that utilized Monte Carlo simulations to stress-test CPU throughput. By pulling real-time WMI telemetry (L2/L3 cache, core counts), he bridged the gap between abstract architectural theory and physical silicon performance.
+  ​The result was <a href="https://github.com/igorskyflyer/cs-bench-pro/"><strong>BenchPro</strong></a>. Using <strong>C#</strong> and <strong>Win32 Interop</strong>, he engineered a multi-threaded suite that utilized <strong>Monte Carlo</strong> simulations to stress-test CPU throughput. By pulling real-time <strong>WMI telemetry</strong> (L2/L3 cache, core counts), he bridged the gap between abstract architectural theory and physical silicon performance.
   <br>
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (November 2014)</strong>
