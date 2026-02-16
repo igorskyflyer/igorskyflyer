@@ -31,7 +31,7 @@ Creator of notable projects including:
 - **Engineering ROI** – Specialized in **compiler design** and **DSL architecture** (Aria/ADBT) that yielded a **15.7× productivity gain**.
 - **AdVoid Filter Ecosystem** – Maintaining high-performance ad-block lists serving **9K+ monthly active users**.
 - **Global Client Trust** – Delivering high-impact solutions for [**recurring international clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across **10** countries with proven [**testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md).
-- **Proven Longevity** – Recipient of a **"Best Site" award (2009)** at age **16** for a site built entirely on a **Sony Ericsson J300i**; holder of **30+ certifications**.
+- **Proven Longevity** – Recipient of a **"Best Site" award (2009)** at the age of **16** for a site built entirely on a **Sony Ericsson J300i**; holder of **30+ certifications**.
 
 </div>
 
@@ -265,7 +265,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The First Code (2006)</strong>
   <br>
-  At age 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
+  At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The (Psycho)logic Gap (2008)</strong>
@@ -295,7 +295,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The First Computer (September 2012)</strong>
   <br>
-  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By age 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
+  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
   <strong>The Architect in the Pocket (2013)</strong>
