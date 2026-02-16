@@ -160,21 +160,21 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   🐛 squashes bugs for money on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
 
   <ul data-no-restyle>
-    <li>🦕 <strong><code>1</code></strong> bug bounty completed so far</li>
+    <li>🦕 <strong><code>1</code></strong> bug bounty completed</li>
   </ul>
   🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>56</code> so far
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>56</code>
   <br>
   🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
-    <li>⚖️&nbsp; <code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>custom API</strong></a> so far</li>
+    <li>⚖️&nbsp; <code>1</code> <a href="https://github.com/igorskyflyer/npm-vscode-folderpicker"><strong>custom API</strong></a></li>
   </ul>
   🧃 builds <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code extensions</strong></a>
   <br>
   🧩 assembles <a href="https://github.com/marketplace?query=igorskyflyer"><strong>GitHub Actions</strong></a>:
   <ul data-no-restyle>
-    <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a> so far</li>
+    <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a></li>
   </ul>
   🪸 engineers packages on <a href="https://socket.dev/npm/user/igorskyflyer/packages"><strong>Socket</strong></a>
   <br>
@@ -184,17 +184,17 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   🦦 produces <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>Go/Golang modules</strong></a>:
   <ul data-no-restyle>
-    <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a> so far</li>
+    <li>🐢 <code>1</code> <a href="https://pkg.go.dev/search?q=igorskyflyer&m=package"><strong>module</strong></a></li>
   </ul>
   🪼 shares his projects on <a href="https://www.jsdelivr.com/?query=igorskyflyer"><strong>jsDelivr</strong></a>
   <br>
   🦭 codes <strong>UserScripts</strong> on GreasyFork:
   <ul data-no-restyle>
-    <li>🪰 <code>5</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a> so far</li>
+    <li>🪰 <code>5</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a></li>
   </ul>
   📑 translates projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
-    <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a> so far</li>
+    <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a></li>
   </ul>
   🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
   <br>
@@ -208,7 +208,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   🌱 is currently learning
   AI,
   <a href="https://react.dev/"><strong>React</strong></a>,
-  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
+  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>
   <br>
   🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
   <br>
@@ -303,7 +303,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
   <br>
   <br>
-  <strong>The Unsolved: (Over)engineering the "Impossible" (2014)</strong>
+  <strong>The Unsolved: (Over)engineering the "Impossible" (November 2014)</strong>
   <br>
   By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
   <br>
