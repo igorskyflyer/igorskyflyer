@@ -255,7 +255,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Spark (1993-1998)</strong>
   <br>
-  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics. Notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian in both Latin and Cyrillic scripts at the age of 5½. He was always fascinated by technology, analyzing and reverse engineering cellphones and gaming consoles from a very young age. Having no family background in IT, he was left to his own devices, which only further sparked his self-directed curiosity.
+  Igor was born on August 27, 1993, in Kraljevo, Serbia. From a very young age, he was a curious boy who loved discovering new things, with a gift for logic and linguistics. Notably, without going through the usual process of sounding out words letter by letter, he began reading fluently in Serbian in both Latin and Cyrillic scripts at the age of 5½. He was always fascinated by technology, analyzing and trying to reverse engineer cellphones and gaming consoles from a very young age. Having no family background in IT, he was left to his own devices, which only further sparked his self-directed curiosity.
   <br>
   <br>
   <strong>The Linguistic Interface (1999-2005)</strong>
