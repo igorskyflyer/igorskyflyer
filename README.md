@@ -303,11 +303,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
   <br>
   <br>
-  <strong>Interop: The Performance Bench (March 2014)</strong>
-  <br>
-  ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
-  <br>
-  ​The result was BenchPro. Using  <strong>Interop: The Performance Bench (March 2014)</strong>
+  <strong>Interop: The Performance Benchmark (March 2014)</strong>
   <br>
   ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
   <br>
