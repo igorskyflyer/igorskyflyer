@@ -263,7 +263,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian, Montenegrin). This period established his ability to recognize patterns and syntax, skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
   <br>
   <br>
-  <strong>The First Code (2006)</strong>
+  <strong>The First Code (2006-2007)</strong>
   <br>
   At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
