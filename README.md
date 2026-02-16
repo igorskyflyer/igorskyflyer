@@ -270,7 +270,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The (Psycho)logic Gap (2008)</strong>
   <br>
-  In gymnasium, Igor was an exemplary student in IT and languages, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and <strong>Psychology</strong> for its insight into human logic. Seeking that same clarity in other subjects, he began translating abstract mathematical concepts into programming logic; he demystified the <strong>summation ($\sum$)</strong> and <strong>product ($\prod$)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
+  In gymnasium, Igor was an exemplary student in IT and languages, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and <strong>Psychology</strong> for its insight into human logic. Seeking that same clarity in other subjects, he began translating abstract mathematical concepts into programming logic; he demystified the <strong>summation &sum;</strong> and <strong>product &prod;</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
   <br>
   <strong>The First Award (2009)</strong>
@@ -326,6 +326,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <br>
     The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/"><strong>AlternativeTo</strong></a>.
   </blockquote>
+  <br>
   <strong>The System Architect (2016–Present)</strong>
   <br>
   Over time, Igor expanded his expertise to 18+ programming languages, not through instruction, but through the necessity of building specific tools. This polyglot fluency allowed him to develop cohesive, cross-platform ecosystems: from browser extensions and desktop utilities to command-line tools and mobile applications, all designed with performance and user/developer experience in mind.
