@@ -305,6 +305,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
     <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026s</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
   </ul>
+  Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.
+  <br>
   <br>
   <strong>The Lunar Dawn (September 2015)</strong>
   <br>
