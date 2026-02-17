@@ -4,35 +4,21 @@
 
 <div data-no-restyle>
   <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић, pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An <strong>award-winning developer</strong> and <strong>open-source maintainer</strong>, he creates developer tools and compilers used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the <strong>age of 13</strong>, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions, themes,</strong> and <strong>full-scale e-commerce</strong> platforms. He is also a tech <strong>book author</strong> <em>in the making</em>, huge <strong>DX</strong> (<em>developer experience</em>) advocate, and a <em>challenge-driven</em> problem solver.
-
   <br>
   <br>
-
-Creator of notable projects including:
-
-- [**Aria**](https://github.com/aria-toolkit) – Custom compiler for ADBT delivering a **1,570% productivity increase** in filter generation.
-- [**ADBT**](https://github.com/adbt-lang) – Domain-specific language and file format for automated ad-block filter maintenance.
-- [**Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) – Top 0.15% package on jsDelivr with **902K+ monthly requests**.
-- [**AdVoid**](https://github.com/the-advoid/ad-void) – High-performance filtering ecosystem serving **9K+ monthly active users**.
-- [**Open in Browser**](https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser) – Flagship VS Code extension; part of a **351K+ install** developer toolset.
-- [**Astro Components**](https://astro.build/integrations?search=igor.dvlpr) – Featured integrations specializing in **CSP-safe security**, **content rendering**, and bootstrapping.
-- [**Commoji**](https://github.com/igorskyflyer/commoji) – Expressive, visual psychology-based, and semantic commit-tagging system for standardized version control.
-- [**Zep**](https://github.com/igorskyflyer/npm-zep) – State-driven debounce engine with **built-in telemetry** for managed execution lifecycle.
-
-…including many other impactful projects shaping the developer ecosystem and helping global clients achieve their goals. More details available on the [**Notable Projects**](https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md) page.
-
+  <h2>🚀 Impact &amp; Notable Contributions</h2>
+  <ul data-no-restyle>
+    <li><strong>Scrollend Polyfill</strong> - Powering <strong>902K+ monthly requests</strong> (2.4M+ yearly) with <strong>+46,237%</strong> growth; ranked <strong>4,852nd</strong> on jsDelivr as a top 0.15% package.</li>
+    <li><strong>Aria &amp; ADBT</strong> - Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
+    <li><strong>Visual Studio Code Ecosystem</strong> - <strong>351K+ installs</strong> as a <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Verified Publisher</strong></a> including the flagship <strong>Open in Browser</strong> extension and 10 other developer tools.</li>
+    <li><strong>Open-Source Footprint</strong> - <strong>102K+ installs</strong> across <strong>56</strong> npm packages and <strong>10K+ installs</strong> for official <strong>Astro</strong> integrations (CSP-safe/rendering).</li>
+    <li><strong>Zep &amp; Commoji</strong> - High-performance utilities including a <strong>telemetry-driven</strong> debounce engine and an <strong>expressive</strong> psychology-based semantic tagging system.</li>
+    <li><strong>AdVoid Filter Ecosystem</strong> - High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
+    <li><strong>Global Delivery</strong> - Delivering for <strong>recurring international clients</strong> in <strong>10 countries</strong> with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md" target="_blank"><strong>testimonials</strong></a>; recipient of <strong>&quot;Best Site&quot; (2009)</strong> at age 16.</li>
+    <li><strong>Technical Breadth</strong> - Holder of <strong>30+ certifications</strong> and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
+  </ul>
   <br>
-
-## ✨ Career Highlights & Impact
-
-- [**Widely adopted Scrollend Polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill?tab=stats) – Powering **2.4M+ yearly requests** (**+46,237%** growth) and currently ranked `4852th` on jsDelivr.
-- **Visual Studio Code Ecosystem** – **351K+ installs** as a [**Verified Publisher**](https://marketplace.visualstudio.com/publishers/igordvlpr) across **11** extensions and a featured theme.
-- **Open-Source Footprint** – Over **102K+ installs** across **56** published npm packages and **10K+ installs** for official Astro integrations.
-- **Engineering ROI** – Specialized in **compiler design** and **DSL architecture** (Aria/ADBT) that yielded a **15.7× productivity gain**.
-- **AdVoid Filter Ecosystem** – Maintaining high-performance ad-block lists serving **9K+ monthly active users**.
-- **Global Client Trust** – Delivering high-impact solutions for [**recurring international clients**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) across **10** countries with proven [**testimonials**](https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md).
-- **Proven Longevity** – Recipient of a **"Best Site" award (2009)** at the age of **16** for a site built entirely on a **Sony Ericsson J300i**; holder of **30+ certifications**.
-
+…including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>Notable Projects</strong></a> page.
 </div>
 
 <br>
