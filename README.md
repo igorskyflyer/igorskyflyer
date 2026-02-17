@@ -310,14 +310,16 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Lunar Dawn (September 2015)</strong>
   <br>
-  In September 2015, Igor released <strong>Luna</strong>, a comprehensive engine designed to unify <strong>DOM orchestration, type-safe validation, and state management</strong>. Built as a high-level abstraction layer, it was his first major foray into <strong>System Design</strong>, creating a controlled environment where developers could interact with the browser through a predictable, chainable API.
+  Before the dominance of modern frameworks, Igor architected <strong>Luna</strong>, a unified JavaScript engine designed to simplify complex browser environments. It wasn't just a library; it was a <strong>holistic abstraction layer</strong> that consolidated DOM orchestration, network requests, and state management into one predictable interface.
   <br>
-  The documented interface showcases an early focus on <strong>Technical Scalability</strong>:
+  Key architectural milestones included:
   <ul data-no-restyle>
-    <li><strong>Deterministic Type Engine:</strong> A rigorous <code>.is*()</code> suite (<code>isCollection</code>, <code>isNodelist</code>) that brought structure to JavaScript's dynamic nature.</li>
-    <li><strong>Integrated UX Infrastructure:</strong> Native support for <strong>dynamic style injection</strong> (<code>addStyle</code>), <strong>AJAX</strong> (<code>luna.load</code>), and <strong>viewport effects</strong> (<code>dim</code>, <code>popup</code>).</li>
-    <li><strong>URI State Management:</strong> Built-in <code>querySet</code> and <code>queryGet</code> methods, treating the URL as a primary data source for application state.</li>
+    <li><strong>Predictable System Logic:</strong> Custom type-guards that brought deterministic structure to JavaScript’s dynamic runtime.</li>
+    <li><strong>Unified UX Utilities:</strong> Integrated handling of asynchronous data, dynamic styling, and viewport effects.</li>
+    <li><strong>State-Aware Routing:</strong> Early implementation of URL-driven state management for browser-based applications.</li>
   </ul>
+  Luna marked the transition from writing features to <strong>designing developer ecosystems</strong>, establishing the principles of DX and performance that drive his work today.
+  <br>
   Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.
   <br>
   <br>
