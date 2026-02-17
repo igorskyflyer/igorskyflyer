@@ -294,7 +294,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Throughout his degree, Igor maintained a "curriculum-plus" approach. While excelling in <strong>Advanced OOP</strong>, <strong>Software Engineering</strong>, and <strong>Database Programming</strong>, he consistently achieved <strong>100/100 scores</strong> on all programming-related coursework. This was so consistent that he was always exempted from final oral exams, his technical performance had already exhausted the grading scale. During this time, he continued his <strong>autonomous exploration</strong> beyond the classroom, exploring advanced software architectures and emerging tech stacks that went far beyond the classroom, effectively turning his formal education into a baseline for his personal innovation.
   <br>
   <br>
-  <strong>The Vanilla Revolution: Engineering the Core (2015)</strong>
+  <strong>The Vanilla Revolution: Engineering the Core (August 2015)</strong>
   <br>
   By 2015, Igor realized that off-the-shelf platforms were too <em>bloated</em> for his performance standards. He performed a total <em>"architectural purge"</em>, rebuilding his entire portal from the ground up in vanilla PHP, HTML5, JavaScript, and CSS. Rather than relying on third-party plugins, he engineered a <strong>custom CMS</strong> from scratch, featuring:
   <ul data-no-restyle>
@@ -305,6 +305,20 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
     <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026s</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
   </ul>
+  <br>
+  <strong>The Lunar Dawn (September 2015)</strong>
+  <br>
+  In September 2015, Igor released <strong>Luna</strong>, a comprehensive engine designed to unify <strong>DOM orchestration, type-safe validation, and state management</strong>. Built as a high-level abstraction layer, it was his first major foray into <strong>System Design</strong>, creating a controlled environment where developers could interact with the browser through a predictable, chainable API.
+  <br>
+  <br>
+  The documented interface showcases an early focus on <strong>Technical Scalability</strong>:
+  <ul data-no-restyle>
+    <li><strong>Deterministic Type Engine:</strong> A rigorous <code>.is*()</code> suite (<code>isCollection</code>, <code>isNodelist</code>) that brought structure to JavaScript’s dynamic nature.</li>
+    <li><strong>Integrated UX Infrastructure:</strong> Native support for <strong>dynamic style injection</strong> (<code>addStyle</code>), <strong>AJAX</strong> (<code>luna.load</code>), and <strong>viewport effects</strong> (<code>dim</code>, <code>popup</code>).</li>
+    <li><strong>URI State Management:</strong> Built-in <code>querySet</code> and <code>queryGet</code> methods, treating the URL as a primary data source for application state.</li>
+  </ul>
+  Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.
+  <br>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
