@@ -336,7 +336,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java alongside the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs like the Android Studio or the Visual Studio Code, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, was developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
   <br>
-  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary App Store</strong>. The client mirrored the web portal's functionality, with the addition of performing local applications scans to cross-reference versions with the server via REST, managing the full (un)installation lifecycle, and syncing <strong>user ratings and metadata</strong> in real-time. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code was later released to the public and is available on its <a href="https://github.com/igorskyflyer/android-neovisio-app-store"><strong>official repository</strong></a>.
+  The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary App Store</strong>. The client mirrored the web portal's functionality, with the addition of performing local applications scans to cross-reference versions with the server via REST, managing the full (un)installation lifecycle, and syncing <strong>user ratings and metadata</strong> in real-time. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code was later released to the public and is available on its official repository, <a href="https://github.com/igorskyflyer/android-neovisio-app-store"><strong>NeoVisio AppStore</strong></a>.
   <br>
   <br>
   <blockquote>
@@ -398,6 +398,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   🌱 adores being in touch with <strong>nature</strong>
   <br>
   ⚡ practices <strong>stoicism</strong> - acts on what's his, lets the rest pass
+  <br>
+  🌌 embraces <strong>existentialism</strong> – defines himself through action, creates tools where none exist
   <br>
   🐒 adheres to the <strong>metaphysical naturalism</strong>
   <br>
