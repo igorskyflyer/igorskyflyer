@@ -345,7 +345,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     The platform's impact extended beyond the academic environment, eventually being indexed by global software discovery platforms as a viable third-party distribution alternative. Documentation and community-preserved snapshots of the ecosystem's public release can be found on <a href="https://alternativeto.net/software/neovisio/"><strong>AlternativeTo</strong></a> and 2 related applications lists (<a href="https://alternativeto.net/lists/9567/software-and-app-discovery/"><strong>Software and App Discovery</strong></a> and <a href="https://alternativeto.net/lists/7520/apk-sources/"><strong>APK Sources</strong></a>).
   </blockquote>
   <br>
-  <strong>The System Architect (2016–Present)</strong>
+  <strong>The Polyglot Architect (2016–Present)</strong>
   <br>
   Over the past decade, Igor has evolved into a versatile polyglot architect, mastering 18+ programming languages through the necessity of solving complex, real-world engineering challenges. His freelance career is defined by development of high-performance, proprietary systems across sectors like healthcare, HR, and luxury retail.
   <br>
