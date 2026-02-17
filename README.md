@@ -260,7 +260,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Linguistic Interface (1999-2005)</strong>
   <br>
-  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian, Montenegrin). This period established his ability to recognize patterns and syntax, skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
+  Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian and Montenegrin). This period established his ability to recognize patterns and syntax, skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
   <br>
   <br>
   <strong>The First Code (2006-2007)</strong>
@@ -275,7 +275,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The First Award (2009)</strong>
   <br>
-  After mastering Web development basics, he built a site on <em>XTgem</em> (<code>skywap.xtgem.com</code>) which <strong>won an award</strong> in a global <code>Best Website</code> contest. Following this, he taught himself <strong>PHP</strong> and <strong>WordPress</strong>. During high school, he excelled in <strong>Pascal</strong> and <strong>Object Pascal (Delphi)</strong>, despite still not owning a computer to practice at home.
+  After mastering Web development basics, he built a site on <em>XTgem</em> (<code>skywap.xtgem.com</code>) which <strong>won an award</strong> in a global <code>Best Website</code> contest. Following this, he taught himself <strong>PHP</strong> and <strong>WordPress</strong>. During high school, he excelled in <strong>Pascal</strong> and <strong>Delphi (Object Pascal)</strong>, despite still not owning a computer to practice at home.
   <br>
   <br>
   <strong>The First Convergent Innovation (2010)</strong>
@@ -290,7 +290,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>A Symbolic Departure (May 2012)</strong>
   <br>
-  Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a>.
+  Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.
   <br>
   <br>
   <strong>The First Computer (September 2012)</strong>
@@ -300,19 +300,19 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Architect in the Pocket (2013)</strong>
   <br>
-  Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
+  Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit their source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen. Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.
   <br>
   <br>
   <strong>Interop: The Performance Benchmark (March 2014)</strong>
   <br>
-  ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose the build.
+  ​In his <strong>Computer Architecture</strong> course, the professor offered an elite alternative to the standard theory exam: develop a functional benchmarking utility from scratch. While the majority of the cohort opted for the test, Igor chose to build.
   <br>
   ​The result was <a href="https://github.com/igorskyflyer/cs-bench-pro/"><strong>BenchPro</strong></a>. Using <strong>C#</strong> and <strong>Win32 Interop</strong>, he engineered a multi-threaded suite that utilized <strong>Monte Carlo</strong> simulations to stress-test CPU throughput. By pulling real-time <strong>WMI telemetry</strong> (L2/L3 cache, core counts), he bridged the gap between abstract architectural theory and physical silicon performance.
   <br>
   <br>
   <strong>The Unsolved: (Over)engineering the "Impossible" (November 2014)</strong>
   <br>
-  By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
+  By his third year, Igor was already <strong>mentoring fellow students</strong> and handling <strong>freelance development</strong>. He consistently sought challenges that exceeded standard academic boundaries; this drive culminated during his <strong>Operations Research</strong> course, where he accepted a faculty problem that had gone unsolved by ~500 students for <strong>five years</strong>. With a strict <strong>two-week deadline</strong>, Igor didn't just solve the math; he architected a full desktop suite using <strong>Delphi</strong> and raw <strong>Win32 APIs</strong>. He engineered a <strong>custom GDI rendering engine</strong>, proprietary binary file formats (<code>.cxf</code>, and <code>.cxc</code>), and a system for <strong>Compromise Programming</strong>. The result, <a href="https://github.com/igorskyflyer/calculus-ex"><strong>CalculusEx</strong></a>, earned a perfect 10 (A) and finally closed the long-standing challenge.
   <br>
   <br>
   <strong>Logic Debugged: The Self-Validating System (2014–2015)</strong>
@@ -326,7 +326,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li><strong>Proprietary Widget System</strong>: A modular approach to sidebar content, including social integration and custom search modules.
     <li><strong>Native Traffic Analytics</strong>: A custom view-tracking engine that logged and displayed real-time engagement (e.g., <code>88 views</code>) for every post without external dependencies.
-    <li><strong>Custom Comment Engine</strong>: A native, lightweight discussion system built directly into the PHP backend.
+    <li><strong>Custom Comment Engine</strong>: A native, lightweight discussion system built directly into the PHP backend, including a custom CAPTCHA system.
     <li><strong>Advanced Blogging Architecture</strong>: Full CRUD functionality for posts, supporting specific categories (e.g., "music"), tags, and precise second-level timestamps.
     <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
     <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026s</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
