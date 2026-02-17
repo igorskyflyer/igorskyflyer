@@ -265,8 +265,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <strong>A Symbolic Departure (May 2012)</strong>
   <br>
   Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student.
-  <blockquote>A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
+  <blockquote>A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
   <strong>The First Computer (September 2012)</strong>
   <br>
@@ -276,8 +276,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <strong>The Architect in the Pocket (2013)</strong>
   <br>
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit their source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen.
-  <blockquote>Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.</blockquote>
   <br>
+  <blockquote>Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.</blockquote>
   <br>
   <strong>Interop: The Performance Benchmark (March 2014)</strong>
   <br>
@@ -309,7 +309,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.</blockquote>
   <br>
-  <br>
   <strong>The Lunar Dawn (September 2015)</strong>
   <br>
   Before the dominance of modern frameworks, Igor architected <strong>Luna</strong>, a unified JavaScript engine designed to simplify complex browser environments. It wasn't just a library; it was a <strong>holistic abstraction layer</strong> that consolidated DOM orchestration, network requests, and state management into one predictable interface.
@@ -321,8 +320,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <li><strong>State-Aware Routing:</strong> Early implementation of URL-driven state management for browser-based applications.</li>
   </ul>
   Luna marked the transition from writing features to <strong>designing developer ecosystems</strong>, establishing the principles of DX and performance that drive his work today.
-  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.</blockquote>
   <br>
+  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.</blockquote>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
