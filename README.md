@@ -18,7 +18,7 @@
     <li><strong>Global Delivery</strong> – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>recurring international clients</strong></a> in <strong>10 countries</strong> with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>testimonials</strong></a>; recipient of <strong>&quot;Best Site&quot; (2009)</strong> at age 16.</li>
     <li><strong>Technical Breadth</strong> – Holder of <strong>30+ certifications</strong> and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
   </ul>
-…including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>Notable Projects</strong></a> page.
+  …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>Notable Projects</strong></a> page.
 </div>
 
 <br>
