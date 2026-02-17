@@ -354,7 +354,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
    <li><strong>Enterprise Systems</strong>: Engineered the EZMM Mortuary Management System, a ground-up C#/WPF desktop suite with custom data APIs and modular UI.</li>
    <li><strong>Automated E-Commerce</strong>: Built secure, high-traffic platforms for SissiS (Luxury Retail) and Sensomed (Healthcare), featuring custom PHP fulfillment and FTP/Cron automation.</li>
    <li><strong>Legacy Recovery</strong>: Specialized in fixing "unfixable" bugs, from fatal Android Camera API errors to recovering broken ASP.NET and PHP environments without prior documentation.</li>
-   <li><strong>Advanced Logic</strong>: Designed high-speed custom sorting algorithms for massive datasets and developed the open-source Luna library.</li>
+   <li><strong>Advanced Logic</strong>: Designed high-speed custom sorting algorithms for massive datasets.</li>
   </ul>
   <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
   <br>
