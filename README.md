@@ -317,7 +317,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>Logic Debugged: The Self-Validating System (2014–2015)</strong>
   <br>
-  Throughout his degree, Igor maintained a "curriculum-plus" approach. While excelling in <strong>Advanced OOP</strong>, <strong>Software Engineering</strong>, and <strong>Database Programming</strong>, he consistently achieved <strong>100/100 scores</strong> on all programming-related coursework. This was so consistent that he was always exempted from final oral exams—his technical performance had already exhausted the grading scale. During this time, he continued his <strong>autonomous exploration</strong> beyond the classroom, exploring advanced software architectures and emerging tech stacks that went far beyond the classroom, effectively turning his formal education into a baseline for his personal innovation.
+  Throughout his degree, Igor maintained a "curriculum-plus" approach. While excelling in <strong>Advanced OOP</strong>, <strong>Software Engineering</strong>, and <strong>Database Programming</strong>, he consistently achieved <strong>100/100 scores</strong> on all programming-related coursework. This was so consistent that he was always exempted from final oral exams, his technical performance had already exhausted the grading scale. During this time, he continued his <strong>autonomous exploration</strong> beyond the classroom, exploring advanced software architectures and emerging tech stacks that went far beyond the classroom, effectively turning his formal education into a baseline for his personal innovation.
   <br>
   <br>
   <strong>The Vanilla Revolution: Engineering the Core (2015)</strong>
