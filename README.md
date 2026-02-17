@@ -312,7 +312,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   In September 2015, Igor released <strong>Luna</strong>, a comprehensive engine designed to unify <strong>DOM orchestration, type-safe validation, and state management</strong>. Built as a high-level abstraction layer, it was his first major foray into <strong>System Design</strong>, creating a controlled environment where developers could interact with the browser through a predictable, chainable API.
   <br>
-  <br>
   The documented interface showcases an early focus on <strong>Technical Scalability</strong>:
   <ul data-no-restyle>
     <li><strong>Deterministic Type Engine:</strong> A rigorous <code>.is*()</code> suite (<code>isCollection</code>, <code>isNodelist</code>) that brought structure to JavaScript’s dynamic nature.</li>
