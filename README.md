@@ -290,12 +290,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>A Symbolic Departure (May 2012)</strong>
   <br>
-  Upon graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a>.
+  Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student. A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a>.
   <br>
   <br>
   <strong>The First Computer (September 2012)</strong>
   <br>
-  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 18, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
+  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 19, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
   <strong>The Architect in the Pocket (2013)</strong>
