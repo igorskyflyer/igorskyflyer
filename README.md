@@ -45,24 +45,11 @@ Creator of notable projects including:
 
 Currently working as a:
 
-**Staff Full-Stack Engineer** | [**SissiS.com**](https://www.sissis.com/?ref=igorskyflyer) & [**Sensomed.eu**](https://www.sensomed.eu/?ref=igorskyflyer)
+**Staff Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_
+_Focus: High-complexity R&D and performance-critical systems._
 
-> **Focus**: High-complexity implementation, zero-dependency architecture, and performance-critical R&D.
-
-**🍷 SissiS – Custom E-Commerce & Fulfillment Automation**
-
-- **Bespoke Plugin Suite** – Built a zero-framework WordPress/WooCommerce plugin system from scratch to handle order exports, **CSV/XML/JSON** data migration, and automated **PDF invoice** generation.
-- **Fulfillment Pipeline** – Engineered a custom automation layer using **Cron** and **FTP** to sync with 3rd-party providers, fetch tracking numbers, and trigger automated customer notifications via custom **PHP** hooks.
-- **Native Multi-language & UX** – Implemented native **English/German** support and a custom **AJAX**-powered admin settings page, giving the client full control over fulfillment logic without 3rd-party translation or config plugins.
-- **Security Hardening** – Secured the environment via custom **HTTP security headers** and sanitized data-exchange logic to protect sensitive luxury retail transaction data.
-
-<br>
-
-**🏥 Sensomed – Medical Supply Storefront**
-
-- **PSD-to-Theme Architecture** – Transformed static **Photoshop (PSD)** designs into a high-performance WordPress theme, building custom post-loop templates and a dynamic, expandable **JavaScript** search interface.
-- **Custom Content Blocks** – Developed bespoke **Gutenberg** blocks and product variation filters to manage complex medical equipment catalogs and selectable layouts.
-- **Accessibility & Compliance** – Audited and implemented accessibility standards (**A11Y**) alongside security hardening to ensure a secure, inclusive experience for healthcare professionals.
+- **Custom E-Commerce Engine (SissiS)**: Engineered a zero-framework automation layer for fulfillment, order migration, and security hardening, eliminating reliance on 3rd-party plugins.
+- **Medical Infrastructure (Sensomed)**: Architected a high-performance, A11Y-compliant storefront with custom-built data management blocks for complex medical catalogs.
 
 <br>
 
