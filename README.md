@@ -8,7 +8,7 @@
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><strong>Scrollend Polyfill</strong> - Powering <strong>902K+ monthly requests</strong> (2.4M+ yearly) with <strong>+46,237%</strong> growth; ranked <strong>4,852nd</strong> on jsDelivr as a top 0.15% package.</li>
+    <li><strong>Scrollend Polyfill</strong> - Powering <strong>902K+ monthly requests</strong> with <strong>+46,237%</strong> of yearly growth; ranked <strong>4,852nd</strong> on jsDelivr as a top 0.15% package.</li>
     <li><strong>Aria &amp; ADBT</strong> - Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
     <li><strong>Visual Studio Code Ecosystem</strong> - <strong>351K+ installs</strong> as a <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Verified Publisher</strong></a> including the flagship <strong>Open in Browser</strong> extension and 10 other developer tools.</li>
     <li><strong>Open-Source Footprint</strong> - <strong>102K+ installs</strong> across <strong>56</strong> npm packages and <strong>10K+ installs</strong> for official <strong>Astro</strong> integrations (CSP-safe/rendering).</li>
