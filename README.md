@@ -266,6 +266,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student.
   <br>
+  <br>
   <blockquote>A record of this can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
   <strong>The First Computer (September 2012)</strong>
