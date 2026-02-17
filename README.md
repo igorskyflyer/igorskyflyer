@@ -8,14 +8,15 @@
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><strong>Scrollend Polyfill</strong> - Powering <strong>902K+ monthly requests</strong> with <strong>+46,237%</strong> of yearly growth; ranked <strong>4,852nd</strong> on jsDelivr as a top 0.15% package.</li>
-    <li><strong>Aria &amp; ADBT</strong> - Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
-    <li><strong>Visual Studio Code Ecosystem</strong> - <strong>351K+ installs</strong> as a <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Verified Publisher</strong></a> including the flagship <strong>Open in Browser</strong> extension and 10 other developer tools.</li>
-    <li><strong>Open-Source Footprint</strong> - <strong>102K+ installs</strong> across <strong>56</strong> npm packages and <strong>10K+ installs</strong> for official <strong>Astro</strong> integrations (CSP-safe/rendering).</li>
-    <li><strong>Zep &amp; Commoji</strong> - High-performance utilities including a <strong>telemetry-driven</strong> debounce engine and an <strong>expressive</strong> psychology-based semantic tagging system.</li>
-    <li><strong>AdVoid Filter Ecosystem</strong> - High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
-    <li><strong>Global Delivery</strong> - Delivering for <strong>recurring international clients</strong> in <strong>10 countries</strong> with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md" target="_blank"><strong>testimonials</strong></a>; recipient of <strong>&quot;Best Site&quot; (2009)</strong> at age 16.</li>
-    <li><strong>Technical Breadth</strong> - Holder of <strong>30+ certifications</strong> and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
+    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>902K+ monthly requests</strong> with <strong>+46,237%</strong> yearly growth; ranked <strong>4,852nd</strong> on jsDelivr as a <strong>top 0.15%</strong> package.</li>
+    <li><a href="https://github.com/aria-toolkit"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
+    <li><strong>Visual Studio Code Ecosystem</strong> – <strong>351K+ installs</strong> as a <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Verified Publisher</strong></a> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
+    <li><strong>Open-Source Footprint</strong> – <strong>102K+ installs</strong> across <strong>56</strong> npm packages and <strong>10K+ installs</strong> for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
+    <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven debounce engine featuring <strong>built-in telemetry</strong> for managed execution lifecycles in high-concurrency environments.</li>
+    <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, <strong>visual psychology-based</strong> semantic commit-tagging system designed to standardize version control logic.</li>
+    <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
+    <li><strong>Global Delivery</strong> – Delivering for <strong>recurring international clients</strong> in <strong>10 countries</strong> with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>testimonials</strong></a>; recipient of <strong>&quot;Best Site&quot; (2009)</strong> at age 16.</li>
+    <li><strong>Technical Breadth</strong> – Holder of <strong>30+ certifications</strong> and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
   </ul>
   <br>
 …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>Notable Projects</strong></a> page.
