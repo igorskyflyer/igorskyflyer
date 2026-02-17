@@ -314,7 +314,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   The documented interface showcases an early focus on <strong>Technical Scalability</strong>:
   <ul data-no-restyle>
-    <li><strong>Deterministic Type Engine:</strong> A rigorous <code>.is*()</code> suite (<code>isCollection</code>, <code>isNodelist</code>) that brought structure to JavaScript’s dynamic nature.</li>
+    <li><strong>Deterministic Type Engine:</strong> A rigorous <code>.is*()</code> suite (<code>isCollection</code>, <code>isNodelist</code>) that brought structure to JavaScript's dynamic nature.</li>
     <li><strong>Integrated UX Infrastructure:</strong> Native support for <strong>dynamic style injection</strong> (<code>addStyle</code>), <strong>AJAX</strong> (<code>luna.load</code>), and <strong>viewport effects</strong> (<code>dim</code>, <code>popup</code>).</li>
     <li><strong>URI State Management:</strong> Built-in <code>querySet</code> and <code>queryGet</code> methods, treating the URL as a primary data source for application state.</li>
   </ul>
