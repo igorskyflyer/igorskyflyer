@@ -285,7 +285,8 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Mobile Laboratory (2011)</strong>
   <br>
-  While studying determinants, he built a recursive solver app on his <strong>HTC HD2</strong> using HTML/CSS/JS; he used it to finish a math test in 15 minutes, astonishing his professor. During this time, the phone was his primary laboratory. He mastered its architecture, ventured into <strong>Visual Basic</strong> for Windows Mobile, and successfully rooted the phone and flashed over <strong>10 custom Android ROMs</strong> to explore the limits of mobile kernels and hardware-software interoperability.
+  While studying determinants, Igor developed a recursive solver application on his <strong>HTC HD2</strong> using a combination of HTML, CSS, and JavaScript. The utility allowed him to complete a comprehensive mathematics examination in 15 minutes, significantly outperforming the allocated time, astonishing his professor in the process.
+  During this period, the mobile device served as a primary engineering environment. He mastered its hardware architecture, utilized <strong>Basic4PPC</strong> to target the Windows Mobile environment, and performed low-level system modifications, including rooting and flashing over <strong>10 custom Android ROMs</strong>. These efforts were directed at exploring the boundaries of mobile kernels and hardware-software interoperability.
   <br>
   <br>
   <strong>A Symbolic Departure (May 2012)</strong>
