@@ -313,7 +313,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Lunar Dawn (September 2015)</strong>
   <br>
-  Before the dominance of modern frameworks, Igor architected <strong>Luna</strong>, a unified JavaScript engine designed to simplify complex browser environments. It wasn't just a library; it was a <strong>holistic abstraction layer</strong> that consolidated DOM orchestration, network requests, and state management into one predictable interface.
+  Before the dominance of modern frameworks, Igor architected <strong>Luna</strong>, a unified JavaScript engine designed to simplify complex browser environments. Developed entirely on a <strong>mobile device</strong>, it wasn't just a library; it was a <strong>holistic abstraction layer</strong> that consolidated DOM orchestration, network requests, and state management into one predictable interface.
   <br>
   Key architectural milestones included:
   <ul data-no-restyle>
