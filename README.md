@@ -236,7 +236,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Before writing code, Igor was decoding human languages. Through exposure to video games and TV shows (mostly crime procedurals), he taught himself <strong>English</strong>, followed by conversational proficiency in <strong>Spanish</strong> through self-study, and excelled academically in <strong>French</strong>. Growing up speaking <strong>Serbian</strong> gave him natural comprehension of related <em>South Slavic</em> languages (Croatian, Bosnian and Montenegrin). This period established his ability to recognize patterns and syntax, skills he would soon transfer to machines. Simultaneously, his creative side was also nurtured when his music professor invited him to join the school choir and later to perform as a soloist.
   <br>
   <br>
-  <strong>The First Code (2006-2007)</strong>
+  <strong>The First Authored Byte (2006-2007)</strong>
   <br>
   At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
@@ -246,7 +246,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   In gymnasium, Igor was an exemplary student in IT and languages, earning repeated commendations from professors. He developed a strong fascination with <strong>Latin</strong> for its structure and <strong>Psychology</strong> for its insight into human logic. Seeking that same clarity in other subjects, he began translating abstract mathematical concepts into programming logic; he demystified the <strong>&sum; (summation)</strong> and <strong>&prod; (product)</strong> operators by re-imagining them as <code>for</code> loops. He applied this same lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of the Boolean logic he had mastered years prior.
   <br>
   <br>
-  <strong>The First Award (2009)</strong>
+  <strong>Global Reach from a Mobile (2009)</strong>
   <br>
   After mastering Web development basics, he built a site on <em>XTgem</em> (<code>skywap.xtgem.com</code>) which <strong>won an award</strong> in a global <code>Best Website</code> contest. Following this, he taught himself <strong>PHP</strong> and <strong>WordPress</strong>. During high school, he excelled in <strong>Pascal</strong> and <strong>Delphi (Object Pascal)</strong>, despite still not owning a computer to practice at home.
   <br>
@@ -269,7 +269,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <blockquote>A record of this event can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
-  <strong>The First Computer (September 2012)</strong>
+  <strong>The Earned Machine (September 2012)</strong>
   <br>
   Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 19, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
@@ -298,7 +298,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Throughout his degree, Igor maintained a "curriculum-plus" approach. While excelling in <strong>Advanced OOP</strong>, <strong>Software Engineering</strong>, and <strong>Database Programming</strong>, he consistently achieved <strong>100/100 scores</strong> on all programming-related coursework. This was so consistent that he was always exempted from final oral exams, his technical performance had already exhausted the grading scale. During this time, he continued his <strong>autonomous exploration</strong> beyond the classroom, exploring advanced software architectures and emerging tech stacks that went far beyond the classroom, effectively turning his formal education into a baseline for his personal innovation.
   <br>
   <br>
-  <strong>The Vanilla Revolution: Engineering the Core (August 2015)</strong>
+  <strong>The Vanilla Rebellion: Zero-Dependency Architecture (August 2015)</strong>
   <br>
   By 2015, Igor realized that off-the-shelf platforms were too <em>bloated</em> for his performance standards. He performed a total <em>"architectural purge"</em>, rebuilding his entire portal from the ground up in vanilla PHP, HTML5, JavaScript, and CSS. Rather than relying on third-party plugins, he engineered a <strong>custom CMS</strong> from scratch, featuring:
   <ul data-no-restyle>
