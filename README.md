@@ -343,13 +343,6 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Over the past decade, Igor has evolved into a versatile polyglot architect, mastering 18+ programming languages through the necessity of solving complex, real-world engineering challenges. His freelance career is defined by development of high-performance, proprietary systems across sectors like healthcare, HR, and luxury retail.
   <br>
-  <strong>Professional Highlights</strong>
-  <ul data-no-restyle>
-   <li><strong>Enterprise Systems</strong>: Engineered the EZMM Mortuary Management System, a ground-up C#/WPF desktop suite with custom data APIs and modular UI.</li>
-   <li><strong>Automated E-Commerce</strong>: Built secure, high-traffic platforms for SissiS (Luxury Retail) and Sensomed (Healthcare), featuring custom PHP fulfillment and FTP/Cron automation.</li>
-   <li><strong>Legacy Recovery</strong>: Specialized in fixing "unfixable" bugs, from fatal Android Camera API errors to recovering broken ASP.NET and PHP environments without prior documentation.</li>
-   <li><strong>Advanced Logic</strong>: Designed high-speed custom sorting algorithms for massive datasets.</li>
-  </ul>
   <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
   <br>
   <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>Read Client Testimonials & Success Stories</strong></a>
