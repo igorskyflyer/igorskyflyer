@@ -343,10 +343,12 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   Over the past decade, Igor has evolved into a versatile polyglot architect, mastering 18+ programming languages through the necessity of solving complex, real-world engineering challenges. His freelance career is defined by development of high-performance, proprietary systems across sectors like healthcare, HR, and luxury retail.
   <br>
-  <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
   <br>
-  <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>Read Client Testimonials & Success Stories</strong></a>
-  <br>
+  <blockquote>
+    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
+    <br>
+    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>Read Client Testimonials & Success Stories</strong></a>
+  </blockquote>
   <br>
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
   <br>
