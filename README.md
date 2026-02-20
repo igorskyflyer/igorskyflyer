@@ -364,7 +364,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 <details>
   <summary><strong>🚶🏼‍♂️ Personal Traits</strong></summary>
   <br>
-  🧠 personality:
+  🧠 cognitive profile:
   <ul data-no-restyle>
     <li><strong>type:</strong> <code>INTJ / INTP</code> (<em>the INTx architect</em>)</li>
     <li><strong>ennegram:</strong> <code>5w6</code> (<em>the troubleshooter</em>)</li>
