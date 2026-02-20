@@ -276,7 +276,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 19, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
-  <strong>The Architect in the Pocket (2013)</strong>
+  <strong>The Handheld Foundry (2013)</strong>
   <br>
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit their source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen.
   <br>
