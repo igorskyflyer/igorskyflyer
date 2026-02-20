@@ -248,7 +248,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   He demystified the <strong>&sum; (summation)</strong> and <strong>&prod; (product)</strong> operators by re-imagining them as <code>for</code> loops, and neutralized the complexity of <strong>Absolute Value (|x|)</strong> by recognizing it as simple branching logic. He extended this lens to <strong>Propositional Logic</strong>, instantly recognizing <strong>Tautologies</strong> as the mathematical equivalent of Boolean logic and mapping <strong>Logical Quantifiers</strong>- the Universal (<strong>&forall;</strong>) and Existential (<strong>&exist;</strong>) - to loop integrity and early-exit patterns. By treating mathematical "sentence structures" as execution paths, he turned the curriculum into a series of predictable algorithms.
   <br>
   <br>
-  <strong>Global Reach from a Mobile (2009)</strong>
+  <strong>Global Ping: Mobile Signal (2009)</strong>
   <br>
   After mastering Web development basics, he built a site on <em>XTgem</em> (<code>skywap.xtgem.com</code>) which <strong>won an award</strong> in a global <code>Best Website</code> contest. Following this, he taught himself <strong>PHP</strong> and <strong>WordPress</strong>. During high school, he excelled in <strong>Pascal</strong> and <strong>Delphi (Object Pascal)</strong>, despite still not owning a computer to practice at home.
   <br>
