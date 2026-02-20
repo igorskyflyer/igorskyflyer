@@ -79,7 +79,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
 
 <details>
   <summary>
-   <strong>🗂️ Non-tech</strong>
+   <strong>🗂️ Non-Tech</strong>
   </summary>
   <br>
 
