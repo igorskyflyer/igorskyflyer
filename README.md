@@ -368,9 +368,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <ul data-no-restyle>
     <li><strong>type:</strong> <code>INTJ / INTP</code> (<em>the INTx architect</em>)</li>
     <li><strong>ennegram:</strong> <code>5w6</code> (<em>the troubleshooter</em>)</li>
-    <li><strong>DiSC Profile</strong>: <code>CS</code> (<em>Conscientiousness 46% / Steadiness 33%</em>)</li>
-    <li><strong>SQ‑R (Systemizing Quotient):</strong> <code>110</code> (<em>high systemizer</em>)</li>
-    <li><strong>EQ (Empathy Quotient):</strong> <code>44</code> (<em>the objective observer</em>)</li>
+    <li><strong>DiSC Profile</strong>: <code>CS</code> (<em>conscientiousness 46% / steadiness 33%</em>)</li>
+    <li><strong>SQ‑R (systemizing quotient):</strong> <code>110</code> (<em>high systemizer</em>)</li>
+    <li><strong>EQ (empathy quotient):</strong> <code>44</code> (<em>the objective observer</em>)</li>
   </ul>
   👟 loves taking long walks &amp; runs:
   <br>
