@@ -395,9 +395,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   </ul>
   🌱 adores being in touch with <strong>nature</strong>
   <br>
-  ⚡ practices <strong>stoicism</strong> - acts on what's his, lets the rest pass
+  ⚡ practices <strong>stoicism</strong>
   <br>
-  🌌 embraces <strong>existentialism</strong> – defines himself through action, creates tools where none exist
+  🌌 embraces <strong>existentialism</strong>
   <br>
   🐒 adheres to the <strong>metaphysical naturalism</strong>
   <br>
