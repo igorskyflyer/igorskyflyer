@@ -335,7 +335,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
-  For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on a smartphone. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java alongside the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs like the Android Studio or the Visual Studio Code, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, was developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
+  For his final academic milestone, Igor engineered a comprehensive <strong>app store and distribution platform</strong> exclusively on his phone, an LG L70. He set this as a personal <em>"stress test,"</em> choosing a programming-heavy thesis that none of his peers attempted. Despite having <strong>zero prior exposure</strong> to Java alongside the Android API, he taught himself the entire stack on the fly. Because his laptop could not support modern IDEs like the Android Studio or the Visual Studio Code, the entire ecosystem: PHP/MySQL backend, REST API, and Android client, was developed on the <strong>phone itself</strong> via a simple text editor and <em>AIDE</em>.
   <br>
   The <strong>NeoVisio Ecosystem</strong> functioned as a synchronized <strong>proprietary App Store</strong>. The client mirrored the web portal's functionality, with the addition of performing local applications scans to cross-reference versions with the server via REST, managing the full (un)installation lifecycle, and syncing <strong>user ratings and metadata</strong> in real-time. Igor engineered the client to handle <strong>network-state detection</strong>, a custom <strong>download manager</strong>, and automated <strong>homescreen shortcut injection</strong>, maintaining perfect feature parity between the browser and the native OS. The client's source code was later released to the public and is available on its official repository, <a href="https://github.com/igorskyflyer/android-neovisio-app-store"><strong>NeoVisio AppStore</strong></a>.
   <br>
@@ -360,6 +360,16 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
   <br>
   Igor began creating open-source projects to build tools and fixes that did not yet exist. His contributions, from bug fixes to architectural refinements, have since been adopted by developers and companies globally. He believes that if a system does not function properly, it is his responsibility to ensure it does. This has resulted in a connected ecosystem of libraries and concepts that rely on one another for systemic integrity.
+  <br>
+  <br>
+  Engineering foundational open-source tools that solve systemic development challenges, with a focus on <strong>Software for Software</strong>:
+  <ul data-no-restyle>
+    <li><strong>Standardization & Interoperability</strong>: Developing high-integrity polyfills (like scrollend) and Astro integrations to bridge engine gaps and ensure cross-platform consistency.</li>
+    <li><strong>Domain-Specific Languages (DSL)</strong>: Architecting the ADBT ecosystem and the Aria compiler to provide a formal, automated framework for ad-block filter maintenance.</li>
+    <li><strong>Developer Experience (DX)</strong>: Creating widely adopted VS Code extensions and themes designed to reduce cognitive load and streamline high-frequency development workflows.</li>
+    <li><strong>Deterministic Logic</strong>: Building performance-critical engines like Zep (debounce) and Commoji (semantic tagging) to standardize execution lifecycles and version control.</li>
+    <li><strong>Modular Architecture</strong>: Developing zero-dependency TypeScript/JavaScript helpers (like Zitto) to prioritize lean, deterministic logic across Node, Deno, and Bun environments.</li>
+  </ul>
   <br>
   <br>
   <div align="center"><em>„What started as a necessity became an ecosystem.“</em></div>
