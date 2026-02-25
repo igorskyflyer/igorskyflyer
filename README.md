@@ -15,10 +15,10 @@
     <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
     <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
     <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
-    <li>Global Delivery – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>recurring international clients</strong></a> in 10 countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age 16.</li>
+    <li>Global Delivery – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>recurring international clients</strong></a> in 10 countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age 16.</li>
     <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
   </ul>
-  …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>Notable Projects</strong></a> page.
+  …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
 </div>
 
 <br>
@@ -39,7 +39,7 @@ _Focus: High-complexity R&D and performance-critical systems._
 
 <br>
 
-More about Igor's past work can be found on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md) page.
+More about Igor's past work can be found on the [**Past Work**](https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md) page.
 
 ---
 
@@ -274,7 +274,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student.
   <br>
   <br>
-  <blockquote>A record of this event can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
+  <blockquote>A record of this event can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/memory.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
   <strong>The Earned Machine (September 2012)</strong>
   <br>
@@ -286,7 +286,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Continuing his <em>"mobile-first"</em> philosophy, Igor engineered a fully functional <strong>Content Management System</strong> (CMS) entirely on his phone. Developed using <strong>vanilla</strong> HTML, CSS, JS, and PHP, the system featured a comprehensive control panel for real-time site orchestration. It provided a robust content workflow: allowing him to create and search pages, edit their source code or templates on the fly, and manage a modular component and widget architecture. He even engineered a specialized Status Toggle to switch the site between online and offline modes instantly. This wasn't just a site; it was a portable factory built to sustain a digital presence from a 5-inch screen.
   <br>
   <br>
-  <blockquote>Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>notable projects archive</strong></a>.</blockquote>
+  <blockquote>Detailed records and visual evidence of this and other early works are preserved in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>notable projects archive</strong></a>.</blockquote>
   <br>
   <strong>Interop: The Performance Benchmark (March 2014)</strong>
   <br>
@@ -316,7 +316,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
     <li><strong>Search & Discovery Hub</strong>: An integrated search engine with a "Recent Searches" history layer that turned user queries into discoverable tags.
     <li><strong>Extreme Optimization</strong>: The system was so lean that page generation times were clocked as low as <code>0.026s</code>, proving that high-performance architecture is a product of efficient logic, not heavy hardware.
   </ul>
-  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.</blockquote>
+  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>public archive</strong></a>.</blockquote>
   <br>
   <strong>The Lunar Dawn (September 2015)</strong>
   <br>
@@ -331,7 +331,7 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   Luna marked the transition from writing features to <strong>designing developer ecosystems</strong>, establishing the principles of DX and performance that drive his work today.
   <br>
   <br>
-  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/NOTABLE_PROJECTS.md"><strong>public archive</strong></a>.</blockquote>
+  <blockquote>Remains of it are available in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>public archive</strong></a>.</blockquote>
   <br>
   <strong>The Zero-Studio Thesis: NeoVisio Ecosystem (2016)</strong>
   <br>
@@ -352,9 +352,9 @@ Stay up-to-date by following the [**official tracker**](https://github.com/igors
   <br>
   <br>
   <blockquote>
-    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/PAST_WORK.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
+    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>View Full Freelance Portfolio & Project Deep Dives</strong></a>
     <br>
-    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/TESTIMONIALS.md"><strong>Read Client Testimonials & Success Stories</strong></a>
+    <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>Read Client Testimonials & Success Stories</strong></a>
   </blockquote>
   <br>
   <strong>The Interconnected Ecosystem: Open Source as Necessity (2017–Present)</strong>
