@@ -49,6 +49,10 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+Released `v2.0.0` of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that optimizes Git history for high-speed scanning and semantic clarity.
+
+<br>
+
 Released 3 new UserScripts:
 
 - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
