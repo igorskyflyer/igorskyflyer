@@ -8,7 +8,7 @@
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>917K+ monthly requests</strong> with 2.908M yearly requests / +53,563% yearly growth; ranked 4,793rd on jsDelivr as a <strong>top 0.15%</strong> package.</li>
+    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>878K+ monthly requests</strong> with 3.129M yearly requests / +55,857% yearly growth; ranked 4,878th on jsDelivr as a <strong>top 0.15%</strong> package.</li>
     <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
     <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong>351K+ installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
     <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong>102K+ installs</strong> across 56 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
