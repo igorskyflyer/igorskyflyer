@@ -58,15 +58,12 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 - Adapting all npm packages to the latest npm security requirements.
 - Released a new npm package, [**Zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto), a zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers.
 - In the process of migrating all of the npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
-
-<br>
-
-<a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
-
-<br>
-
-Stay up-to-date by following the [**official tracker**](https://github.com/igorskyflyer/project-nextwave/milestone/1) and the [**official discussion**](https://github.com/orgs/community/discussions/169922).
-
+ 
+<div align="center">
+  <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
+  <br>
+  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a>.
+</div>
 <br>
 
 <details>
