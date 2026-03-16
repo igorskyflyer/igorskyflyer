@@ -62,7 +62,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <div align="center">
   <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
   <br>
-  Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a>.
+  <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
 </div>
 <br>
 
