@@ -50,7 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 - Released [`v2.1.1`](https://github.com/igorskyflyer/commoji/releases/tag/v2.1.1) of [**Commoji**](https://github.com/igorskyflyer/commoji/), now with categorized/pre-sorted prefixes and reduced cognitive load built on top of the psychology-optimized commit convention for ultra-readable Git histories.
-- Updated [**Render Component for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
+- Updated [**Component Renderer for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
 - Released 3 new UserScripts:
   - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
   - [**Twitch: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay)
