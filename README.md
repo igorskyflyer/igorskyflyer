@@ -49,7 +49,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
-- Released [`v2.0.2`](https://github.com/igorskyflyer/commoji/releases/tag/v2.0.2) of [**Commoji**](https://github.com/igorskyflyer/commoji/), with categorized and pre-sorted tags.
+- Released [`v2.1.1`](https://github.com/igorskyflyer/commoji/releases/tag/v2.1.1) of [**Commoji**](https://github.com/igorskyflyer/commoji/), with categorized and pre-sorted prefixes, and cognitive load improvements.
 - Released [`v2.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v2.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that optimizes Git history for high-speed scanning and semantic clarity.
 - Released 3 new UserScripts:
   - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
