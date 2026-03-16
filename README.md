@@ -50,12 +50,12 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 - Released [`v2.1.1`](https://github.com/igorskyflyer/commoji/releases/tag/v2.1.1) of [**Commoji**](https://github.com/igorskyflyer/commoji/), now with categorized/pre-sorted prefixes and reduced cognitive load built on top of the psychology-optimized commit convention for ultra-readable Git histories.
+- Updated [**Render Component for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
 - Released 3 new UserScripts:
   - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
   - [**Twitch: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay)
   - [**Twitch: Mute Homepage**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
 - Adapting all npm packages to the latest npm security requirements.
-- Released a new npm package, [**Zitto**](https://www.npmjs.com/package/@igorskyflyer/zitto), a zero-dependency TypeScript/JavaScript helper for merging defaults and options across Node, Deno, Bun, and browsers.
 - In the process of migrating all of the npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
  
 <div align="center">
