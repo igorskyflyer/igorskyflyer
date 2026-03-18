@@ -49,7 +49,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
-- Released [`v2.1.1`](https://github.com/igorskyflyer/commoji/releases/tag/v2.1.1) of [**Commoji**](https://github.com/igorskyflyer/commoji/), now with categorized/pre-sorted prefixes and reduced cognitive load built on top of the psychology-optimized commit convention for ultra-readable Git histories.
+- Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
 - Updated [**Component Renderer for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
 - Released 3 new UserScripts:
   - [**Kick: Stop Auto-Play Videos**](https://github.com/igorskyflyer/userscript-kick-stop-autoplay)
@@ -57,7 +57,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   - [**Twitch: Mute Homepage**](https://github.com/igorskyflyer/userscript-twitch-mute-homepage)
 - Adapting all npm packages to the latest npm security requirements.
 - In the process of migrating all of the npm packages from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) username and scope, due to technical difficulties with the previous scope.
- 
+
 <div align="center">
   <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
   <br>
