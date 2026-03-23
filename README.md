@@ -50,6 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 - Released npm packages:
+  - [**@igorskyflyer/biome-config**](https://www.npmjs.com/package/@igorskyflyer/biome-config) - an opinionated Biome configuration for modern JavaScript and TypeScript projects. Strict linting, consistent formatting, and performance-minded rules, all in one shareable config.
   - [**@igorskyflyer/oxfmt-config**](https://www.npmjs.com/package/@igorskyflyer/oxfmt-config) - an opinionated Oxfmt config for pixel-perfect code formatting.
   - [**@igorskyflyer/editorconfig**](https://www.npmjs.com/package/@igorskyflyer/editorconfig) - an opinionated EditorConfig for consistent code style across editors and IDEs.
   - [**@igorskyflyer/tsconfig**](https://www.npmjs.com/package/@igorskyflyer/tsconfig) - an opinionated, reusable TSConfig base for modern TypeScript projects.
