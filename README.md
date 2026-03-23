@@ -50,6 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 - Released npm packages:
+  - [**@igorskyflyer/oxfmt-config**](https://www.npmjs.com/package/@igorskyflyer/oxfmt-config) - an opinionated Oxfmt for pixel-perfect code formatting opinions.
   - [**@igorskyflyer/editorconfig**](https://www.npmjs.com/package/@igorskyflyer/editorconfig) - an opinionated EditorConfig for consistent code style across editors and IDEs.
   - [**@igorskyflyer/tsconfig**](https://www.npmjs.com/package/@igorskyflyer/tsconfig) - an opinionated, reusable TSConfig base for modern TypeScript projects.
 - Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
