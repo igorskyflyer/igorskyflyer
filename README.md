@@ -10,8 +10,8 @@
   <ul data-no-restyle>
     <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>878K+ monthly requests</strong> with 3.129M yearly requests / +55,857% yearly growth; ranked 4,878th on jsDelivr as a <strong>top 0.15%</strong> package.</li>
     <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
-    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong>351K+ installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
-    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong>102K+ installs</strong> across 56 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
+    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong>354K+ installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
+    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong>102K+ installs</strong> across 60 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
     <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
     <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
     <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
@@ -131,7 +131,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   </ul>
   🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>56</code>
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>60</code>
   <br>
   🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
