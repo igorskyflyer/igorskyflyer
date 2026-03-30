@@ -52,6 +52,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 - Created a repository:
   - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
 - Released npm packages:
+  - [**@igorskyflyer/prettier-config**](https://www.npmjs.com/package/@igorskyflyer/prettier-config) - a Prettier config for JS/TS projects. Single quotes, no semis, LF, no trailing commas.
   - [**@igorskyflyer/oxlint-config**](https://www.npmjs.com/package/@igorskyflyer/oxlint-config) - a strict, opinionated and no-nonsense Oxlint configuration that catches real bugs and enforces clean code.
   - [**@igorskyflyer/biome-config**](https://www.npmjs.com/package/@igorskyflyer/biome-config) - an opinionated Biome configuration for modern JavaScript and TypeScript projects. Strict linting, consistent formatting, and performance-minded rules, all in one shareable config.
   - [**@igorskyflyer/oxfmt-config**](https://www.npmjs.com/package/@igorskyflyer/oxfmt-config) - an opinionated Oxfmt config for pixel-perfect code formatting.
