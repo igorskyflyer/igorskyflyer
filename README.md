@@ -60,7 +60,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   - [**@igorskyflyer/tsconfig**](https://www.npmjs.com/package/@igorskyflyer/tsconfig) - an opinionated, reusable TSConfig base for modern TypeScript projects.
 - Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
 - Updated [**Component Renderer for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
-- In the process of scope-migrating from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
+- In the process of scope-migration from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
 
 <div align="center">
   <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
