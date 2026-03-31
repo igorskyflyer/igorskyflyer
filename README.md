@@ -371,6 +371,41 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 </details>
 
 <details>
+  <summary><strong>🧑🏼‍💻 Dev Setup</strong></summary>
+  <br>
+  <ul data-no-restyle>
+    <li><strong>Machine</strong>: Lenovo IdeaPad 3 15ABA7</li>
+    <li><strong>CPU</strong>: AMD Ryzen 7 5825U (Zen 3, 8C/16T, 2.0–4.5 GHz, 7nm)</li>
+    <li><strong>GPU</strong>: AMD Radeon Graphics (Vega 8, iGPU)</li>
+    <li><strong>RAM</strong>: 16GB DDR4</li>
+    <li><strong>Storage</strong>: 512GB Crucial SSD</li>
+    <li><strong>Display</strong>: 15.6" FHD 1920×1080</li>
+    <li>
+    <strong>IDE/Editor</strong>:
+      <ul data-no-restyle>
+        <li>
+          <strong>Visual Studio Code:</strong>
+          <ul data-no-restyle>
+            <li><strong>Theme:</strong> <a href="https://marketplace.visualstudio.com/items?itemName=igor.dvlpr.kai"><strong>Kai</strong></a></li>
+            <li><strong>Font:</strong> <strong>Monaspace Argon</strong></li>
+          </ul>
+        </li>
+        <li><strong>Visual Studio</strong></li>
+        <li><strong>Android Studio</strong></li>
+      </ul>
+    </li>
+    <li><strong>OS</strong>:
+      <ul data-no-restyle>
+        <li><strong>Windows</strong></li>
+        <li><strong>Linux</strong></li>
+      </ul>
+    </li>
+    <li><strong>Commits</strong>: <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a></li>
+    <li><strong>Tooling</strong>: <a href="https://github.com/igorskyflyer/dotfiles"><strong>@igorskyflyer/dotfiles</strong></a></li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>🚶🏼‍♂️ Personal Traits</strong></summary>
   <br>
   🧠 cognitive profile:
