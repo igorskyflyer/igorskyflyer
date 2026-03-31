@@ -386,7 +386,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
         <li>
           <strong>Visual Studio Code:</strong>
           <ul data-no-restyle>
-            <li><strong>Theme:</strong> <a href="https://marketplace.visualstudio.com/items?itemName=igor.dvlpr.kai"><strong>Kai</strong></a></li>
+            <li><strong>Theme:</strong> <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai"><strong>Kai</strong></a></li>
             <li><strong>Font:</strong> <strong>Monaspace Argon</strong></li>
           </ul>
         </li>
