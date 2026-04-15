@@ -20,6 +20,7 @@
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
   <br>
+  <br>
   An independent biographical entry is available on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>.
 </div>
 
@@ -216,6 +217,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
     <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong></a></li>
   </ul>
   📖 has an independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
+  <br>
   🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
 </details>
