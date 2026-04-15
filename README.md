@@ -3,7 +3,7 @@
 > Staff Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • 18+ Years Technical Grit
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also a tech book author <em>in the making</em>, huge DX (<em>developer experience</em>) advocate, and a challenge-driven problem solver.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also a tech book author <em>in the making</em>, huge DX (<em>developer experience</em>) advocate, and a challenge-driven problem solver. 
   <br>
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
@@ -19,6 +19,8 @@
     <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
+  <br>
+  An independent biographical entry is available on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>.
 </div>
 
 <br>
@@ -213,6 +215,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3Aigorskyflyer"><strong>applications</strong></a></li>
   </ul>
+  📖 has an independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
   🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
 </details>
