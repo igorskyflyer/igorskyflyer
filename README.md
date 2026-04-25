@@ -52,6 +52,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+- Revised and fixed the Serbian translation of [**UnigetUI**](https://github.com/Devolutions/UniGetUI)
 - Created a repository:
   - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
 - Released npm packages:
