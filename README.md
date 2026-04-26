@@ -274,7 +274,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   Just before graduation, his IT professor presented him with a symbolic gift: a children's book inscribed with gratitude for his ingenuity, calling it a privilege to have had him as a student.
   <br>
   <br>
-  <blockquote>A record of this event can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/memory.md"><strong>high school memories</strong></a> page.</blockquote>
+  <blockquote>A record of this event can be found in his <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/MEMORY.md"><strong>high school memories</strong></a> page.</blockquote>
   <br>
   <strong>The Earned Machine (September 2012)</strong>
   <br>
