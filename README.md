@@ -171,6 +171,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a></li>
   </ul>
+  ​🖼️ designs PowerPoint presentations for clients in his spare time
+  <br>
   🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
   <br>
   🐣 is excited about these upcoming technologies:
