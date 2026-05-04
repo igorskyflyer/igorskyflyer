@@ -55,7 +55,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
     - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
-    - a UI &lt;-&gt; state mismatch for upgradable packages ([**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
+    - a UI &#8596; state mismatch for upgradable packages ([**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
     - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
 - Created a repository:
   - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
