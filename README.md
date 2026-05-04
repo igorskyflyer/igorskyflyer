@@ -136,7 +136,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   </ul>
   🐦‍🔥 manufactures <a href="https://jsr.io/@igorskyflyer"><strong>JSR</strong></a> packages
   <br>
-  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>60</code>
+  🎀 crafts <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm packages</strong></a>, <code>60</code> published
   <br>
   🔨 forges Visual Studio Code APIs:
   <ul data-no-restyle>
