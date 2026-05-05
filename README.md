@@ -45,8 +45,6 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📢 Announcement
 
-<div align="right"><em>Recent activity</em></div>
-
 ### 🤖 Tech
 
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
