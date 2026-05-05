@@ -8,7 +8,7 @@
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>3.75M yearly requests</strong> with +58.750% growth; ranked 8,175th on jsDelivr as a <strong>top 0.20%</strong> package.</li>
+    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>3.8M yearly requests</strong> with +58.608% growth.</li>
     <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
     <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong>357K+ installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
     <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong>102K+ installs</strong> across 60 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
@@ -19,9 +19,6 @@
     <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
-  <br>
-  <br>
-  An independent biographical entry is available on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>.
 </div>
 
 <br>
@@ -54,9 +51,9 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
-    - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
-    - a UI &#8660; state mismatch for upgradable packages ([**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
-    - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
+  - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
+  - a UI &#8660; state mismatch for upgradable packages ([**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
+  - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
 - Created a repository:
   - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
 - Released npm packages:
@@ -488,28 +485,28 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <div align="center">
     <!-- 1st row -->
-    <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open-Source Profile" loading="lazy"></a>
-    <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Verified Microsoft Visual Studio Code Publisher" loading="lazy"></a>
-    <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front-End Experiments & UI Demos" loading="lazy"></a>
-    <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Google Play Store Developer Profile" loading="lazy"></a>
-    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Support Igor Dimitrijević (igorskyflyer) - Ko-Fi Open-Source Funding Page" loading="lazy"></a>
-    <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle Creative Coding Challenges" loading="lazy"></a>
+    <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open-Source Profile" loading="lazy" style="display: inline-block"></a>
+    <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Verified Microsoft Visual Studio Code Publisher" loading="lazy" style="display: inline-block"></a>
+    <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front-End Experiments & UI Demos" loading="lazy" style="display: inline-block"></a>
+    <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Google Play Store Developer Profile" loading="lazy" style="display: inline-block"></a>
+    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Support Igor Dimitrijević (igorskyflyer) - Ko-Fi Open-Source Funding Page" loading="lazy" style="display: inline-block"></a>
+    <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle Creative Coding Challenges" loading="lazy" style="display: inline-block"></a>
     <br>
     <!-- 2nd row -->
-    <a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Gravatar Developer Identity Profile" loading="lazy"></a>
-    <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight Tech Skills & Learning Profile" loading="lazy"></a>
-    <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow Developer Q&A Contributions" loading="lazy"></a>
-    <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Instagram Visual Portfolio & Updates" loading="lazy"></a>
-    <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok Short-Form Creative Content" loading="lazy"></a>
-    <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - YouTube EuroVision-related Content" loading="lazy"></a>
+    <a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Gravatar Developer Identity Profile" loading="lazy" style="display: inline-block"></a>
+    <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight Tech Skills & Learning Profile" loading="lazy" style="display: inline-block"></a>
+    <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow Developer Q&A Contributions" loading="lazy" style="display: inline-block"></a>
+    <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Instagram Visual Portfolio & Updates" loading="lazy" style="display: inline-block"></a>
+    <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok Short-Form Creative Content" loading="lazy" style="display: inline-block"></a>
+    <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - YouTube EuroVision-related Content" loading="lazy" style="display: inline-block"></a>
     <br>
     <!-- 3rd row -->
-    <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Dribbble UI/UX Design Portfolio" loading="lazy"></a>
-    <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Threads Developer Insights & Photography" loading="lazy"></a>
-    <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons All-In-One Link Hub" loading="lazy"></a>
-    <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn Professional Profile & Experience" loading="lazy"></a>
-    <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LeetCode Algorithm Challenges & Solutions" loading="lazy"></a>
-    <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X (Twitter) Developer Updates & Insights" loading="lazy"></a>
+    <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Dribbble UI/UX Design Portfolio" loading="lazy" style="display: inline-block"></a>
+    <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Threads Developer Insights & Photography" loading="lazy" style="display: inline-block"></a>
+    <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons All-In-One Link Hub" loading="lazy" style="display: inline-block"></a>
+    <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn Professional Profile & Experience" loading="lazy" style="display: inline-block"></a>
+    <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LeetCode Algorithm Challenges & Solutions" loading="lazy" style="display: inline-block"></a>
+    <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X (Twitter) Developer Updates & Insights" loading="lazy" style="display: inline-block"></a>
 
   <br>
   <br>
