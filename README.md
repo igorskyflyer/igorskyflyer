@@ -482,35 +482,38 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <summary><strong>🙆🏻‍♂️ Let&#39;s Connect</strong></summary>
   <br>
   <div align="center">
-    <!-- 1st row -->
-    <a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Official npm Packages & Open-Source Profile" loading="lazy" style="display: inline"></a>
-    <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Verified Microsoft Visual Studio Code Publisher" loading="lazy" style="display: inline"></a>
-    <a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CodePen Front-End Experiments & UI Demos" loading="lazy" style="display: inline"></a>
-    <a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Google Play Store Developer Profile" loading="lazy" style="display: inline"></a>
-    <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Support Igor Dimitrijević (igorskyflyer) - Ko-Fi Open-Source Funding Page" loading="lazy" style="display: inline"></a>
-    <a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - CSSBattle Creative Coding Challenges" loading="lazy" style="display: inline"></a>
-    <br>
-    <!-- 2nd row -->
-    <a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Gravatar Developer Identity Profile" loading="lazy" style="display: inline"></a>
-    <a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Pluralsight Tech Skills & Learning Profile" loading="lazy" style="display: inline"></a>
-    <a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Stack Overflow Developer Q&A Contributions" loading="lazy" style="display: inline"></a>
-    <a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Instagram Visual Portfolio & Updates" loading="lazy" style="display: inline"></a>
-    <a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - TikTok Short-Form Creative Content" loading="lazy" style="display: inline"></a>
-    <a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - YouTube EuroVision-related Content" loading="lazy" style="display: inline"></a>
-    <br>
-    <!-- 3rd row -->
-    <a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Dribbble UI/UX Design Portfolio" loading="lazy" style="display: inline"></a>
-    <a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Threads Developer Insights & Photography" loading="lazy" style="display: inline"></a>
-    <a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - Beacons All-In-One Link Hub" loading="lazy" style="display: inline"></a>
-    <a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LinkedIn Professional Profile & Experience" loading="lazy" style="display: inline"></a>
-    <a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - LeetCode Algorithm Challenges & Solutions" loading="lazy" style="display: inline"></a>
-    <a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="Igor Dimitrijević (igorskyflyer) - X (Twitter) Developer Updates & Insights" loading="lazy" style="display: inline"></a>
-
-  <br>
-  <br>
-
-Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc.
-
+    <table>
+      <!-- 1st row -->
+      <tr>
+        <td><a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="42" height="42" alt="npm" loading="lazy"></a></td>
+        <td><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="42" height="42" alt="VS Code" loading="lazy"></a></td>
+        <td><a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="42" height="42" alt="CodePen" loading="lazy"></a></td>
+        <td><a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="42" height="42" alt="Google Play" loading="lazy"></a></td>
+        <td><a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="42" height="42" alt="Ko-Fi" loading="lazy"></a></td>
+        <td><a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="42" height="42" alt="CSSBattle" loading="lazy"></a></td>
+      </tr>
+      <!-- 2nd row -->
+      <tr>
+        <td><a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="42" height="42" alt="Gravatar" loading="lazy"></a></td>
+        <td><a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="42" height="42" alt="Pluralsight" loading="lazy"></a></td>
+        <td><a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="42" height="42" alt="Stack Overflow" loading="lazy"></a></td>
+        <td><a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="42" height="42" alt="Instagram" loading="lazy"></a></td>
+        <td><a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="42" height="42" alt="TikTok" loading="lazy"></a></td>
+        <td><a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="42" height="42" alt="YouTube" loading="lazy"></a></td>
+      </tr>
+      <!-- 3rd row -->
+      <tr>
+        <td><a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="42" height="42" alt="Dribbble" loading="lazy"></a></td>
+        <td><a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="42" height="42" alt="Threads" loading="lazy"></a></td>
+        <td><a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="42" height="42" alt="Beacons" loading="lazy"></a></td>
+        <td><a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="42" height="42" alt="LinkedIn" loading="lazy"></a></td>
+        <td><a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="42" height="42" alt="LeetCode" loading="lazy"></a></td>
+        <td><a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="42" height="42" alt="X" loading="lazy"></a></td>
+      </tr>
+    </table>
+    <p>
+      Reach Igor via <a href="https://igorskyflyer.me/contact/"><strong>email</strong></a> or <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a> for business inquiries, exciting projects, etc.
+   </p>
   </div>
   <br>
 </details>
