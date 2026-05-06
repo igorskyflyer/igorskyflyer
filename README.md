@@ -481,6 +481,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <details>
   <summary><strong>🙆🏻‍♂️ Let&#39;s Connect</strong></summary>
   <br>
+  <br>
   <div align="center">
     <table>
       <!-- 1st row -->
