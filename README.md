@@ -510,6 +510,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
       <td align="center"><a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="48" height="48" alt="LinkedIn" loading="lazy"></a></td>
       <td align="center"><a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="48" height="48" alt="LeetCode" loading="lazy"></a></td>
       <td align="center"><a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="48" height="48" alt="X" loading="lazy"></a></td>
+      <td align="center"><a href="https://backloggd.com/u/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/backloggd.png" width="48" height="48" alt="Backloggd" loading="lazy"></a></td>
+    <td align="center"><a href="https://igorskyflyer.me/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/igorskyflyer.me.png" width="48" height="48" alt="igorskyflyer.me" loading="lazy"></a></td>
     </tr>
   </table>
     <p>
