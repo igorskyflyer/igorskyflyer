@@ -85,8 +85,9 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
    <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok"><strong>My Top 24 | DORA 2026 [Before the Show]</strong></a> for Eurovision.</li>
   </ul>
   <br>
-  <p>Read the past activity in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/announcements.md" title="Announcements archive by Igor Dimitrijević (igorskyflyer)"><strong>announcements archive</strong></a>.</p>
 </details>
+
+<p>Read the past activity in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/announcements.md" title="Announcements archive by Igor Dimitrijević (igorskyflyer)"><strong>announcements archive</strong></a>.</p>
 
 ---
 
