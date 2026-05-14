@@ -21,10 +21,10 @@
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
   <br>
   <br>
-  <p align="center">
+  <div align="center">
     <strong>Available for Staff / Principal roles and select freelance engagements.</strong><br>
     <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
-  </p>
+  </div>
 </div>
 
 <br>
