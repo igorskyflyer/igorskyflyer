@@ -21,15 +21,11 @@
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
   <br>
   <br>
-  <p>
+  <p align="center">
     <strong>Available for Staff / Principal roles and select freelance engagements.</strong><br>
     <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
   </p>
 </div>
-
-<br>
-
-> If his projects have improved your workflow, you can support their development via [**Ko-Fi**](https://ko-fi.com/igorskyflyer).
 
 <br>
 
