@@ -1,24 +1,29 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Staff Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • 18+ Years Technical Grit
+> Staff Full-Stack Engineer (IC Track) • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also a tech book author <em>in the making</em>, huge DX (<em>developer experience</em>) advocate, and a challenge-driven problem solver. 
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff (IC) full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also a tech book author <em>in the making</em>, huge DX (<em>developer experience</em>) advocate, and a challenge-driven problem solver. 
   <br>
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong>3.84M yearly requests</strong> with +58.047% growth.</li>
-    <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong>15.7&times; productivity gain</strong> in automated ad-block filter maintenance.</li>
-    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong>358K+ installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
-    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong>102K+ installs</strong> across 60 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
-    <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance privacy infrastructure serving <strong>9K+ monthly active users</strong>.</li>
+    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong><code>3.84M</code> yearly requests</strong> with +58.047% growth.</li>
+    <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong><code>16.7&times;</code> productivity gain</strong> in automated ad-block filter maintenance.</li>
+    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong><code>358K+</code> installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
+    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong><code>102K+</code> installs</strong> across 60 npm packages and 10K+ installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
+    <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance privacy infrastructure serving <strong><code>9K+</code> monthly active users</strong>.</li>
     <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
     <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
     <li>Global Delivery – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>recurring international clients</strong></a> in 10 countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age 16.</li>
-    <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 18+ years of active development.</li>
+    <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 20+ years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
+
+  <p>
+    <strong>Available for Staff / Principal roles and select freelance engagements.</strong><br>
+    <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
+</p>
 </div>
 
 <br>
@@ -175,17 +180,14 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🐣 is excited about these upcoming technologies:
   <a href="https://pyscript.net"><strong>PyScript</strong></a>,
-  <a href="https://formkit.com"><strong>FormKit</strong></a>,
-  <a href="https://github.com/carbon-language/carbon-lang"><strong>Carbon</strong></a>
+  <a href="https://formkit.com"><strong>FormKit</strong></a>
   <br>
   🏅 has completed Google's Foobar challenge
   <br>
   🌱 is currently learning
   AI,
-  <a href="https://react.dev/"><strong>React</strong></a>,
-  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>
-  <br>
-  🤝 is looking for help with his <a href="https://github.com/igorskyflyer?tab=repositories&sort=stargazers"><strong>open-source</strong></a> projects
+  <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
+  <a href="https://wgpu.rs/"><strong>wgpu</strong></a>
   <br>
   🤼 exchanges opinions with his peers at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
   <br>
