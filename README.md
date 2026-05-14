@@ -19,11 +19,12 @@
     <li>Technical Breadth – Holder of 30+ certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 20+ years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
-
+  <br>
+  <br>
   <p>
     <strong>Available for Staff / Principal roles and select freelance engagements.</strong><br>
     <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
-</p>
+  </p>
 </div>
 
 <br>
