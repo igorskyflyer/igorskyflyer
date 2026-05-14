@@ -1,9 +1,9 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Staff Full-Stack Engineer (IC Track) • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
+> Staff Engineer (IC Track) • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff (IC) full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and nearly two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also a tech book author <em>in the making</em>, huge DX (<em>developer experience</em>) advocate, and a challenge-driven problem solver. 
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff (IC) full-stack software engineer</strong> working across Web, desktop, and mobile platforms. An award-winning developer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide. With a <strong>BSc (Hons) in Software Engineering</strong> and two decades of hands-on coding, beginning at the age of 13, he has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions</strong>, themes, and full-scale e-commerce platforms. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
   <br>
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
