@@ -16,7 +16,7 @@
     <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
     <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
     <li>Global Delivery – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>recurring international clients</strong></a> in <code>10</code> countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age <code>16</code>.</li>
-    <li>Technical Breadth – Holder of <code>30+</code> certifications and a <strong>BSc (Hons) in Software Engineering</strong> with 20+ years of active development.</li>
+    <li>Technical Breadth – Holder of <code>30+</code> certifications and a <strong>BSc (Hons) in Software Engineering</strong> with <code>20+</code> years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
   <br>
