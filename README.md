@@ -183,7 +183,6 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   🏅 has completed Google's Foobar challenge
   <br>
   🌱 is currently learning
-  AI,
   <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <a href="https://wgpu.rs/"><strong>wgpu</strong></a>
   <br>
