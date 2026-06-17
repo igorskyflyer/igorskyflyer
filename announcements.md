@@ -26,9 +26,17 @@
 
 ## 2021
 
+- Igor created a highly-upvoted [**issue**](https://github.com/microsoft/vscode/issues/130367) (320+ 👍🏼 and 30+ ❤️ reactions) at `microsoft/vscode`, where he expressed his wish for Visual Studio Code to adopt ESM in its extension development, advocating for better DX, faster build times and lower host resource consumption &ndash; _Aug 8_.
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/128589) at `microsoft/vscode`, wanting the `QuickPickItem` to support file icons, which led to him implementing that feature in the aforementioned `vscode-folderpicker` API &ndash; _Jul 14_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/127201) at `microsoft/vscode`, wanting to override Visual Studio Code's way of showing the Save dialog; the issue was closed which led Igor to create his own API ([**vscode-folderpicker**](https://github.com/igorskyflyer/npm-vscode-folderpicker)) and the companion Visual Studio Code extension [**New Folder**](https://github.com/igorskyflyer/vscode-new-folder) &ndash; _Jun 26_.
+- Igor created 2 PRs at `fisheva/Eva-Theme`:
+  - [**Branding & DX improvements**](https://github.com/fisheva/Eva-Theme/pull/56)
+  - [**Grammar fixes**](https://github.com/fisheva/Eva-Theme/pull/55)
+
+for a Visual Studio Code theme he used shortly &ndash; _Jun 24 - Jun 26_.
+
 - Igor created an [**issue**](https://github.com/anuraghazra/github-readme-stats/issues/1149) at `github-readme-stats`, noting that the colors for certain languages are too similar, thus, indistinguishable &ndash; _Jun 19_.
-- Igor added his first [**package**](https://github.com/microsoft/winget-pkgs/pull/16434) to the `microsoft/winget-pkgs` repository &ndash; _Jun 7_.
+- Igor added 2 packages ([**#1**](https://github.com/microsoft/winget-pkgs/pull/17044), [**#2**](https://github.com/microsoft/winget-pkgs/pull/16434)) to the `microsoft/winget-pkgs` repository &ndash; _Jun 7 - Jun 17_.
 
 <br>
 
