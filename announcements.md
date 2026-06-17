@@ -24,6 +24,13 @@
 
 <br>
 
+## 2021
+
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/127201) at `microsoft/vscode`, wanting to override Visual Studio Code's way of showing the Save dialog; the issue was closed which led Igor to create his own API ([**vscode-folderpicker**](https://github.com/igorskyflyer/npm-vscode-folderpicker)) and the companion Visual Studio Code extension [**New Folder**](https://github.com/igorskyflyer/vscode-new-folder) &ndash; _Jun 26_.
+- Igor created an [**issue**](https://github.com/anuraghazra/github-readme-stats/issues/1149) at `github-readme-stats`, noting that the colors for certain languages are too similar, thus, indistinguishable &ndash; _Jun 19_.
+
+<br>
+
 ## 2019
 
 - Igor created his first [**3rd-party PR**](https://github.com/kisstkondoros/codemetrics/pull/71) for the **codemetrics** Visual Studio Code extension, enhancing the DX and decreasing host's resource consumption &ndash; _Sep 3_.
