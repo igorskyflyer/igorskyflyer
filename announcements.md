@@ -21,3 +21,23 @@
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization &ndash; _Dec 31_.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization &ndash; _Dec 30_.
+
+<br>
+
+## 2019
+
+- Igor created his first [**3rd-party PR**](https://github.com/kisstkondoros/codemetrics/pull/71) for the **codemetrics** Visual Studio Code extension, enhancing the DX and decreasing host's resource consumption &ndash; _Sep 3_.
+
+<br>
+
+## 2017
+
+- Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795), at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal &ndash; _Dec 25_.
+- Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 30_.
+- Igor create his first (but _private_) repository [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 18_.
+
+<br>
+
+## 2016
+
+- Igor joined GitHub &ndash; _Aug 10_.
