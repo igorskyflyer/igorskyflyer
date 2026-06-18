@@ -90,7 +90,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
 </details>
 
-<p>Read the past activity in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/announcements.md" title="Announcements archive by Igor Dimitrijević (igorskyflyer)"><strong>announcements archive</strong></a>.</p>
+<p>Read the full archive of Igor's open-source milestones, contributions and recognitions in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/announcements.md" title="Announcements archive by Igor Dimitrijević (igorskyflyer)"><strong>announcements archive</strong></a>.</p>
 
 ---
 
