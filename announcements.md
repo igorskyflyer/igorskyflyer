@@ -21,6 +21,14 @@
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization &ndash; _Dec 31_.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization &ndash; _Dec 30_.
+- Igor created an [**issue**](https://github.com/nodejs/node/issues/50619) at `nodejs/node` noting that the [`Date.toLocaleString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString) function gives the wrong 24h output (`24:50` instead of `00:50`) &ndash; _Nov 8_.
+- Igor created an [**issue**](https://github.com/PlayForm/Compress/issues/206) at `PlayForm/Compress` catching a fatal error when evaluating the SSR module which would cause the whole Astro website to crash &ndash; _Oct 22_.
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/189574) at `microsoft/vscode` noting that an error occurs when trying to apply a built-in extension to all profiles &ndash; _Aug 3_.
+- Igor created a [**PR**](https://github.com/rust-lang/rust-analyzer/pull/15290) at `rust-lang/rust-analyzer`, adding a DX-oriented feature, the use of notification command links for debugger installation instead of having the user search and manually installing the needed debugger, release in [**Rust v1.73.0**](https://thanks.rust-lang.org/rust/1.73.0/) &ndash; _Jul 20_.
+- Igor created a [**discussion**](https://github.com/anuraghazra/github-readme-stats/discussions/2942) at `anuraghazra/github-readme-stats` noting that the Go(lang) is not taken into account for Top Languages &ndash; _Jul 15_.
+- Igor created an [**issue**](https://github.com/npm/cli/issues/6621) at `npm/cli` noting that the provided install command is broken on Windows when the scope/package name contain(s) a dot &ndash; _Jul 2_.
+- Igor created a [**PR**](https://github.com/microsoft/winget-cli/issues/3288) at `microsoft/winget-cli` noting that the administrator privilege elevation never occurs when needed by an installer &ndash; _May 30_.
+- Igor created a [**PR**](https://github.com/microsoft/winget-cli/issues/3248) at `microsoft/winget-cli` noting that he has discovered an upgrade loop when upgrading the Microsoft Visual C++ 2015-2019 Redistributable &ndash; _May 13_.
 - Igor created a [**discussion**](https://github.com/github-linguist/linguist/discussions/6394) at `github-linguist/linguist` noting that excluding languages doesn't work consistently &ndash; _Apr 28_.
 - Igor caught a fatal API bug and opened an [**issue**](https://github.com/jonjomckay/fritter/issues/663) at `jonjomckay/fritter` and informed the author of it &ndash; _Apr 21_.
 - Igor opened a [**PR**](https://github.com/you-apps/ConnectYou/pull/135) at `you-apps/ConnectYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
@@ -38,7 +46,7 @@
 
 - Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `"Edit on GitHub"` link didn't work so he fixed it &ndash; _Dec 8_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/163081) at `microsoft/vscode`, noting that the notification command links parsing is broken when multiple links are present, which renders the links broken for all developers &ndash; _Oct 9_.
-- Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client &ndash; improving DX for all WooCommerce developers &ndash; _Oct 3_.
+- Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client &ndash; improving DX for all WooCommerce developers, released with [**WooCommerce v7.2.0**](https://developer.woocommerce.com/2022/12/14/woocommerce-7-2-0-released/) &ndash; _Oct 3_.
 
 <br>
 
