@@ -6,7 +6,7 @@
 
 ## 2026
 
-- Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; Jun 17\_.
+- Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; _Jun 17_.
 - Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4793) at `Devolutions/UniGetUI`, noting that there is a UI state mismatch for upgradable packages/applications selection when using the Avalonia mode of the application &ndash; _May 16_.
 - Igor opened an [**issue**](https://github.com/refined-github/refined-github/issues/9291) at `refined-github/refined-github`, noting that the profile's Gists link is broken &ndash; _Apr 28_.
