@@ -12,11 +12,14 @@
 - Igor opened a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4630) at `Devolutions/UniGetUI`, performing a comprehensive Serbian localization overhaul: enforcing consistent ekavian dialect and `Ti` form throughout, fixing mistranslations, noun/gender/verb agreement errors, word order issues, corrupted strings, mixed Cyrillic/Latin script, and standardizing all UI and installer terminology &ndash; _Apr 23_.
 - Igor opened an [**issue**](https://github.com/git/git-scm.com/issues/2154) at `git/git-scm.com`, noting that assets fail to load on the Windows install page and that it's possibly caused by an SRI issue &ndash; _Apr 15_.
 - Igor received a [**PR**](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/45) on his [**PostExcerpt for Astro**](https://github.com/igorskyflyer/npm-astro-post-excerpt) component requesting Astro v6 compatibility: adopted by the [**MapLibre**](https://maplibre.org) project (the leading open-source alternative to Mapbox, used by Facebook, Amazon, GitHub and others). Igor went beyond merging it: he navigated multiple Astro v6 breaking changes, published an alpha, forked and upgraded the author's own codebase, and saw the fix through to production &ndash; _Mar 11_.
+- Igor's [**read-local-file**](https://github.com/marketplace/actions/read-local-file) GitHub Action was included as a real-world taint analysis test case in [**GitHub's CodeQL**](https://github.com/github/codeql) security research library &ndash; _Jan 23_.
+- Igor consistently ranks in the **Top 3** most active GitHub users in Serbia by total, public and commit contributions: tracked across [`gayanvoice/top-github-users`](https://github.com/gayanvoice/top-github-users), [`isyuricunha/top-github-users`](https://github.com/isyuricunha/top-github-users) and [`fbiego/commits-board`](https://github.com/fbiego/commits-board) &ndash; _ongoing_.
 
 <br>
 
 ## 2025
 
+- Igor's [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists are used as a data source by [**1Hosts**](https://github.com/badmojr/1Hosts), one of the most popular open-source blocklist projects &ndash; _Sep 14, 2025_.
 - Igor created a [**PR**](https://github.com/collinbarrett/FilterLists/pull/5151) at `collinbarrett/FilterLists` that adds the [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists to that ad-block filter lists directory &ndash; _Sep 9_.
 - Igor created an [**issue**](https://github.com/cssbattle/forum/issues/430) at `cssbattle/forum` noting that the submissions-related badges are not working &ndash; _Sep 9_.
 - Igor created an [**issue**](https://github.com/cssbattle/forum/issues/427) at `cssbattle/forum` noting that the selector/tag name is considered a property &ndash; _Aug 31_.
@@ -71,6 +74,7 @@
 ## 2022
 
 - Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `Edit on GitHub` link didn't work so he fixed it &ndash; _Dec 8_.
+- Igor's Astro components are featured on the official [**astro.build**](https://astro.build/integrations/?search=igor.dvlpr) integrations page &ndash; _Dec 3 – ongoing_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/163081) at `microsoft/vscode`, noting that the notification command links parsing is broken when multiple links are present, which renders the links broken for all developers &ndash; _Oct 9_.
 - Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client &ndash; improving DX for all WooCommerce developers, released with [**WooCommerce v7.2.0**](https://developer.woocommerce.com/2022/12/14/woocommerce-7-2-0-released/) &ndash; _Oct 3_.
 
