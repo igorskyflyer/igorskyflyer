@@ -21,7 +21,14 @@
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization &ndash; _Dec 31_.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization &ndash; _Dec 30_.
-- Igor created a [**discussion**](https://github.com/github-linguist/linguist/discussions/6394) noting that excluding languages doesn't work consistently &ndash; _28 Apr_.
+- Igor created a [**discussion**](https://github.com/github-linguist/linguist/discussions/6394) at `github-linguist/linguist` noting that excluding languages doesn't work consistently &ndash; _Apr 28_.
+- Igor caught a fatal API bug and opened an [**issue**](https://github.com/jonjomckay/fritter/issues/663) at `jonjomckay/fritter` and informed the author of it &ndash; _Apr 21_.
+- Igor opened a [**PR**](https://github.com/you-apps/ConnectYou/pull/135) at `you-apps/ConnectYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
+- Igor opened a [**PR**](https://github.com/you-apps/TranslateYou/pull/220) at `you-apps/TranslateYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
+- Igor opened a [**PR**](https://github.com/you-apps/WallYou/pull/86) at `you-apps/WallYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
+- Igor opened a [**PR**](https://github.com/you-apps/TriviaYou/pull/97) at `you-apps/TriviaYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
+- Igor opened a [**PR**](https://github.com/you-apps/ClockYou/pull/13) at `you-apps/ClockYou` and translated the whole Android application to Serbian &ndash; _Apr 9_.
+- Igor opened a [**PR**](https://github.com/you-apps/RecordYou/pull/101) at `you-apps/RecordYou` and translated the whole Android application to Serbian &ndash; _Apr 1_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/178460) at `microsoft/vscode`, proposing that the commit message auto-complete should deduplicate suggestions, making it faster to store, process and loop through, with `Set` as the natural implementation &ndash; _Mar 28_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/178421) at `microsoft/vscode`, noting that the newly-introduced profile feature works inconsistently when passing a desired profile name as a command-line argument &ndash; _Mar 27_.
 
@@ -29,7 +36,7 @@
 
 ## 2022
 
-- Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `Edit on GitHub` link didn't work so he fixed it &ndash; _Dec 8_.
+- Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `"Edit on GitHub"` link didn't work so he fixed it &ndash; _Dec 8_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/163081) at `microsoft/vscode`, noting that the notification command links parsing is broken when multiple links are present, which renders the links broken for all developers &ndash; _Oct 9_.
 - Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client &ndash; improving DX for all WooCommerce developers &ndash; _Oct 3_.
 
@@ -62,4 +69,4 @@
 
 ## 2016
 
-- Igor joined GitHub &ndash; _Aug 10_.
+- Igor joined GitHub, _the open-source era begins_ &ndash; _Aug 10_.
