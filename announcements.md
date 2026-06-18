@@ -4,16 +4,37 @@
 
 <br>
 
+## 2026
+
+- Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
+- Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4793) at `Devolutions/UniGetUI`, noting that there is a UI state mismatch for upgradable packages/applications selection when using the Avalonia mode of the application &ndash; _May 16_.
+- Igor opened an [**issue**](https://github.com/refined-github/refined-github/issues/9291) at `refined-github/refined-github`, noting that the profile's Gists link is broken &ndash; _Apr 28_.
+- Igor opened a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4630) at `Devolutions/UniGetUI`, performing a comprehensive Serbian localization overhaul: enforcing consistent ekavian dialect and `Ti` form throughout, fixing mistranslations, noun/gender/verb agreement errors, word order issues, corrupted strings, mixed Cyrillic/Latin script, and standardizing all UI and installer terminology &ndash; _Apr 23_.
+- Igor opened an [**issue**](https://github.com/git/git-scm.com/issues/2154) at `git/git-scm.com`, noting that assets fail to load on the Windows install page and that it's possibly caused by an SRI issue &ndash; _Apr 15_.
+
+<br>
+
 ## 2025
 
+- Igor created a [**PR**](https://github.com/collinbarrett/FilterLists/pull/5151) at `collinbarrett/FilterLists` that adds the [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists to that ad-block filter lists directory &ndash; _Sep 9_.
+- Igor created an [**issue**](https://github.com/cssbattle/forum/issues/430) at `cssbattle/forum` noting that the submissions-related badges are not working &ndash; _Sep 9_.
+- Igor created an [**issue**](https://github.com/cssbattle/forum/issues/427) at `cssbattle/forum` noting that the selector/tag name is considered a property &ndash; _Aug 31_.
+- Igor created a [**PR**](https://github.com/VincenzoManto/DevDiary/pull/2) at `VincenzoManto/DevDiary` fixing the wrong listed repository URL &ndash; _Aug 21_.
+- Igor created an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4009) at `Devolutions/UniGetUI`, noting a UI state mismatch for upgradable packages selection &ndash; _Aug 15_.
+- Igor created a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) at `Devolutions/UniGetUI` fixing a fatal error when trying to (un)install and/or update scoped npm packages containing a dot (.) &ndash; _Aug 15_.
 - Igor created and joined the [**Find Again!**](https://github.com/find-again) organization &ndash; _Jul 21_.
+- Igor created an [**issue**](https://github.com/brave/brave-browser/issues/43170) at `brave/brave-browser` noting that adding a particular filter list causes an indefinite crash &ndash; _Jul 21_.
 
 <br>
 
 ## 2024
 
 - Project [**Rolldown**](https://github.com/rolldown/rolldown/) started using Igor's [**read-local-file**](https://github.com/marketplace/actions/read-local-file) GitHub Action &ndash; _Aug 31_.
+- Igor created an [**issue**](https://github.com/microsoft/vsmarketplace/issues/986) at `microsoft/vsmarketplace`, noting that the extension naming rules are too strict and limiting &ndash; _Aug 12_.
+- Igor created an [**issue**](https://github.com/microsoft/vsmarketplace/issues/983) at `microsoft/vsmarketplace`, noting that the auto-links in extension's README are wrongly generated &ndash; _Aug 11_.
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/224644) at `microsoft/vscode`, noting a discrepancy between Markdown rendering of auto-links (GitHub, Marketplace, VS Code) &ndash; _Aug 2_.
 - Igor created an [**issue**](https://github.com/withastro/starlight/issues/2127) at `withastro/starlight`, noting that it is not possible to create a new project using the template on Windows &ndash; _Jul 12_.
+- Igor reached out to a developer using his [**PostExcerpt for Astro**](https://github.com/igorskyflyer/npm-astro-post-excerpt) component and created a [**PR**](https://github.com/SoyCarlos/SoyCarlos.github.io/pull/15) at `SoyCarlos/SoyCarlos.github.io`, giving them a full integration of the component on their site. Another developer has written about the `PostExcerpt` component on [**their blog**](https://chenhuijing.com/blog/creating-excerpts-in-astro/) &ndash; _Jul 11_.
 - Igor created an [**issue**](https://github.com/brave/brave-browser/issues/35163) at `brave/brave-browser`, noting that the Back key/gesture can't be used to exit the QR code scanner &ndash; _Jan 6_.
 - Igor created an [**issue**](https://github.com/brave/brave-browser/issues/35140) at `brave/brave-browser`, noting the wrongly calculated/displayed data in Privacy Stats &ndash; _Jan 4_.
 - Igor created and joined the [**AdVoid**](https://github.com/the-advoid) organization &ndash; _Jan 3_.
@@ -24,16 +45,15 @@
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization &ndash; _Dec 31_.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization &ndash; _Dec 30_.
-- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/198975) at `microsoft/vscode` noting that commit message(s) disappear after undoing the last commit
-  &ndash; _Nov 23_.
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/198975) at `microsoft/vscode` noting that commit message(s) disappear after undoing the last commit &ndash; _Nov 23_.
 - Igor created an [**issue**](https://github.com/nodejs/node/issues/50619) at `nodejs/node` noting that the [`Date.toLocaleString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString) function gives the wrong 24h output (`24:50` instead of `00:50`) &ndash; _Nov 8_.
 - Igor created an [**issue**](https://github.com/PlayForm/Compress/issues/206) at `PlayForm/Compress` catching a fatal error when evaluating the SSR module which would cause the whole Astro website to crash &ndash; _Oct 22_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/189574) at `microsoft/vscode` noting that an error occurs when trying to apply a built-in extension to all profiles &ndash; _Aug 3_.
 - Igor created a [**PR**](https://github.com/rust-lang/rust-analyzer/pull/15290) at `rust-lang/rust-analyzer`, adding a DX-oriented feature, the use of notification command links for debugger installation instead of having the user search and manually installing the needed debugger, release in [**Rust v1.73.0**](https://thanks.rust-lang.org/rust/1.73.0/) &ndash; _Jul 20_.
 - Igor created a [**discussion**](https://github.com/anuraghazra/github-readme-stats/discussions/2942) at `anuraghazra/github-readme-stats` noting that the Go(lang) is not taken into account for Top Languages &ndash; _Jul 15_.
 - Igor created an [**issue**](https://github.com/npm/cli/issues/6621) at `npm/cli` noting that the provided install command is broken on Windows when the scope/package name contain(s) a dot &ndash; _Jul 2_.
-- Igor created a [**PR**](https://github.com/microsoft/winget-cli/issues/3288) at `microsoft/winget-cli` noting that the administrator privilege elevation never occurs when needed by an installer &ndash; _May 30_.
-- Igor created a [**PR**](https://github.com/microsoft/winget-cli/issues/3248) at `microsoft/winget-cli` noting that he has discovered an upgrade loop when upgrading the Microsoft Visual C++ 2015-2019 Redistributable &ndash; _May 13_.
+- Igor created an [**issue**](https://github.com/microsoft/winget-cli/issues/3288) at `microsoft/winget-cli` noting that the administrator privilege elevation never occurs when needed by an installer &ndash; _May 30_.
+- Igor created an [**issue**](https://github.com/microsoft/winget-cli/issues/3248) at `microsoft/winget-cli` noting that he has discovered an upgrade loop when upgrading the Microsoft Visual C++ 2015-2019 Redistributable &ndash; _May 13_.
 - Igor created a [**discussion**](https://github.com/github-linguist/linguist/discussions/6394) at `github-linguist/linguist` noting that excluding languages doesn't work consistently &ndash; _Apr 28_.
 - Igor caught a fatal API bug and opened an [**issue**](https://github.com/jonjomckay/fritter/issues/663) at `jonjomckay/fritter` and informed the author of it &ndash; _Apr 21_.
 - Igor opened a [**PR**](https://github.com/you-apps/ConnectYou/pull/135) at `you-apps/ConnectYou` and translated the whole Android application to Serbian &ndash; _Apr 10_.
@@ -49,7 +69,7 @@
 
 ## 2022
 
-- Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `"Edit on GitHub"` link didn't work so he fixed it &ndash; _Dec 8_.
+- Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `Edit on GitHub` link didn't work so he fixed it &ndash; _Dec 8_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/163081) at `microsoft/vscode`, noting that the notification command links parsing is broken when multiple links are present, which renders the links broken for all developers &ndash; _Oct 9_.
 - Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client &ndash; improving DX for all WooCommerce developers, released with [**WooCommerce v7.2.0**](https://developer.woocommerce.com/2022/12/14/woocommerce-7-2-0-released/) &ndash; _Oct 3_.
 
