@@ -13,6 +13,9 @@
 ## 2024
 
 - Project [**Rolldown**](https://github.com/rolldown/rolldown/) started using Igor's [**read-local-file**](https://github.com/marketplace/actions/read-local-file) GitHub Action &ndash; _Aug 31_.
+- Igor created an [**issue**](https://github.com/withastro/starlight/issues/2127) at `withastro/starlight`, noting that it is not possible to create a new project using the template on Windows &ndash; _Jul 12_.
+- Igor created an [**issue**](https://github.com/brave/brave-browser/issues/35163) at `brave/brave-browser`, noting that the Back key/gesture can't be used to exit the QR code scanner &ndash; _Jan 6_.
+- Igor created an [**issue**](https://github.com/brave/brave-browser/issues/35140) at `brave/brave-browser`, noting the wrongly calculated/displayed data in Privacy Stats &ndash; _Jan 4_.
 - Igor created and joined the [**AdVoid**](https://github.com/the-advoid) organization &ndash; _Jan 3_.
 
 <br>
@@ -21,6 +24,8 @@
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization &ndash; _Dec 31_.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization &ndash; _Dec 30_.
+- Igor created an [**issue**](https://github.com/microsoft/vscode/issues/198975) at `microsoft/vscode` noting that commit message(s) disappear after undoing the last commit
+  &ndash; _Nov 23_.
 - Igor created an [**issue**](https://github.com/nodejs/node/issues/50619) at `nodejs/node` noting that the [`Date.toLocaleString()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString) function gives the wrong 24h output (`24:50` instead of `00:50`) &ndash; _Nov 8_.
 - Igor created an [**issue**](https://github.com/PlayForm/Compress/issues/206) at `PlayForm/Compress` catching a fatal error when evaluating the SSR module which would cause the whole Astro website to crash &ndash; _Oct 22_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/189574) at `microsoft/vscode` noting that an error occurs when trying to apply a built-in extension to all profiles &ndash; _Aug 3_.
