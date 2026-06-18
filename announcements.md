@@ -6,6 +6,7 @@
 
 ## 2026
 
+- Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; Jun 17\_.
 - Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4793) at `Devolutions/UniGetUI`, noting that there is a UI state mismatch for upgradable packages/applications selection when using the Avalonia mode of the application &ndash; _May 16_.
 - Igor opened an [**issue**](https://github.com/refined-github/refined-github/issues/9291) at `refined-github/refined-github`, noting that the profile's Gists link is broken &ndash; _Apr 28_.
@@ -26,8 +27,10 @@
 - Igor created a [**PR**](https://github.com/VincenzoManto/DevDiary/pull/2) at `VincenzoManto/DevDiary` fixing the wrong listed repository URL &ndash; _Aug 21_.
 - Igor created an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4009) at `Devolutions/UniGetUI`, noting a UI state mismatch for upgradable packages selection &ndash; _Aug 15_.
 - Igor created a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) at `Devolutions/UniGetUI` fixing a fatal error when trying to (un)install and/or update scoped npm packages containing a dot (.) &ndash; _Aug 15_.
+- Igor contributed Serbian (Latin) translations to [**AdGuard Applications**](https://crowdin.com/project/adguard-applications) and Serbian (Cyrillic) translations to [**PCSX2 Emulator**](https://crowdin.com/project/pcsx2-emulator) via Crowdin &ndash; _Jul 27 - Sep 22, 2025_.
 - Igor created and joined the [**Find Again!**](https://github.com/find-again) organization &ndash; _Jul 21_.
 - Igor created an [**issue**](https://github.com/brave/brave-browser/issues/43170) at `brave/brave-browser` noting that adding a particular filter list causes an indefinite crash &ndash; _Jul 21_.
+- Igor fixed a confidential security vulnerability in [**Brave Browser**](https://brave.com) via [**HackerOne**](https://hackerone.com) &ndash; _Feb 10, 2025_.
 
 <br>
 
