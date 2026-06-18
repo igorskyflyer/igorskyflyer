@@ -11,6 +11,7 @@
 - Igor opened an [**issue**](https://github.com/refined-github/refined-github/issues/9291) at `refined-github/refined-github`, noting that the profile's Gists link is broken &ndash; _Apr 28_.
 - Igor opened a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4630) at `Devolutions/UniGetUI`, performing a comprehensive Serbian localization overhaul: enforcing consistent ekavian dialect and `Ti` form throughout, fixing mistranslations, noun/gender/verb agreement errors, word order issues, corrupted strings, mixed Cyrillic/Latin script, and standardizing all UI and installer terminology &ndash; _Apr 23_.
 - Igor opened an [**issue**](https://github.com/git/git-scm.com/issues/2154) at `git/git-scm.com`, noting that assets fail to load on the Windows install page and that it's possibly caused by an SRI issue &ndash; _Apr 15_.
+- Igor received a [**PR**](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/45) on his [**PostExcerpt for Astro**](https://github.com/igorskyflyer/npm-astro-post-excerpt) component requesting Astro v6 compatibility: adopted by the [**MapLibre**](https://maplibre.org) project (the leading open-source alternative to Mapbox, used by Facebook, Amazon, GitHub and others). Igor went beyond merging it: he navigated multiple Astro v6 breaking changes, published an alpha, forked and upgraded the author's own codebase, and saw the fix through to production &ndash; _Mar 11_.
 
 <br>
 
