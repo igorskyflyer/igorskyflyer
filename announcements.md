@@ -94,9 +94,23 @@
 
 <br>
 
+## 2020
+
+- Igor created the [**mp3size**](https://github.com/igorskyflyer/npm-mp3size) npm package, later porting it to [**.NET**](https://github.com/igorskyflyer/.net-core-mp3size) and [**Dart**](https://github.com/igorskyflyer/dart-mp3size) &ndash; _May 17_.
+
+<br>
+
 ## 2019
 
 - Igor created his first [**3rd-party PR**](https://github.com/kisstkondoros/codemetrics/pull/71) for the **codemetrics** Visual Studio Code extension, enhancing the DX and decreasing host's resource consumption &ndash; _Sep 3_.
+
+<br>
+
+## 2018
+
+## 2018
+
+- Igor created the [**Open in Browser**](https://github.com/igorskyflyer/vscode-open-in-browser) Visual Studio Code extension, which went on to become his most popular extension to date &ndash; _Dec 27_.
 
 <br>
 
