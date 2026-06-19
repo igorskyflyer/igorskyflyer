@@ -1,6 +1,6 @@
 # 📋 Activities
 
-> This document serves as an archive of major activities over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) open-source commitment and contributions.
+> This document serves as an archive of major activities over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, open-source commitment, and contributions.
 
 <br>
 
@@ -129,3 +129,9 @@
 ## 2016
 
 - Igor joined GitHub, _the open-source era begins_ &ndash; _Aug 10_.
+
+<br>
+
+## 2009
+
+- At age 16, using only a Sony Ericsson J300i, Igor's website ([**skywap.xtgem.com**](https://skywap.xtgem.com)) won the `Best Website` award in a global XtGem contest &ndash; _Oct 12_.
