@@ -487,11 +487,11 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <div align="center">
     <table>
      <tr>
-      <td align="center"><a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="48" height="48" alt="npm" loading="lazy"></a></td>
-      <td align="center"><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="48" height="48" alt="VS Code" loading="lazy"></a></td>
-      <td align="center"><a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="48" height="48" alt="CodePen" loading="lazy"></a></td>
-      <td align="center"><a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="48" height="48" alt="Google Play" loading="lazy"></a></td>
-      <td align="center"><a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="48" height="48" alt="Ko-Fi" loading="lazy"></a></td>
+      <td align="center"><a href="https://www.npmjs.com/~igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/npm.png" width="48" height="48" alt="npm" loading="lazy"><br>npm</a></td>
+      <td align="center"><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/microsoft.png" width="48" height="48" alt="VS Code" loading="lazy"><br>Microsoft Marketplace</a></td>
+      <td align="center"><a href="https://codepen.io/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/codepen.png" width="48" height="48" alt="CodePen" loading="lazy"><br>Codepen</a></td>
+      <td align="center"><a href="https://g.dev/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/play-store.png" width="48" height="48" alt="Google Play" loading="lazy"><br>Google Play</a></td>
+      <td align="center"><a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="48" height="48" alt="Ko-Fi" loading="lazy"><br>Ko-Fi</a></td>
      </tr>
       <tr>
       <td align="center"><a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="48" height="48" alt="CSSBattle" loading="lazy"></a></td>
