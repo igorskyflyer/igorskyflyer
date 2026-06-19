@@ -121,7 +121,7 @@
 ## 2017
 
 - Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal &ndash; _Dec 25_.
-- Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 30_.
+- Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex). A full mathematical desktop suite for multi-objective optimization using Linear Programming and Compromise Programming. Built in Delphi with raw Win32/GDI, custom proprietary binary format (.cxf), dynamic grid engine, and advanced performance optimizations. Successfully solved a 5-year unsolved Operations Research problem that had stumped ~500 students. &ndash; _Mar 30_.
 - Igor created his first (but _private_) repository [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 18_.
 
 <br>
