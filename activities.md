@@ -30,6 +30,7 @@
 - Igor created a [**PR**](https://github.com/VincenzoManto/DevDiary/pull/2) at `VincenzoManto/DevDiary`, fixing the wrong listed repository URL &ndash; _Aug 21_.
 - Igor created an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4009) at `Devolutions/UniGetUI`, noting a UI state mismatch for upgradable packages selection &ndash; _Aug 15_.
 - Igor created a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) at `Devolutions/UniGetUI`, fixing a fatal error when trying to (un)install and/or update scoped npm packages containing a dot (.) &ndash; _Aug 15_.
+- Igor added the package: [**VRoid Studio**](https://github.com/microsoft/winget-pkgs/issues/283890) to the `microsoft/winget-pkgs` repository &ndash; _Aug 14_.
 - Igor contributed Serbian (Latin) translations to [**AdGuard Application for Android**](https://crowdin.com/project/adguard-applications) and Serbian (Cyrillic) translations to [**PCSX2 Emulator**](https://crowdin.com/project/pcsx2-emulator) via Crowdin &ndash; _Jul 27 - Sep 22_.
 - Igor created and joined the [**Find Again!**](https://github.com/find-again) organization &ndash; _Jul 21_.
 - Igor created an [**issue**](https://github.com/brave/brave-browser/issues/43170) at `brave/brave-browser`, noting that adding a particular filter list causes an indefinite crash &ndash; _Jul 21_.
@@ -95,7 +96,7 @@
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/127201) at `microsoft/vscode`, requesting the ability to override the native Save dialog interface. Following the closure of the upstream issue, he engineered a custom standalone API ([**vscode-folderpicker**](https://github.com/igorskyflyer/npm-vscode-folderpicker)) and published a companion extension ([**New Folder**](https://github.com/igorskyflyer/vscode-new-folder)) to implement the missing feature &ndash; _Jun 26_.
 - Igor created 2 PRs at `fisheva/Eva-Theme`: [**Branding & DX improvements**](https://github.com/fisheva/Eva-Theme/pull/56) and [**Grammar fixes**](https://github.com/fisheva/Eva-Theme/pull/55) for a Visual Studio Code theme he used shortly &ndash; _Jun 24 - Jun 26_.
 - Igor created an [**issue**](https://github.com/anuraghazra/github-readme-stats/issues/1149) at `github-readme-stats`, noting that the colors for certain languages are too similar, making them indistinguishable &ndash; _Jun 19_.
-- Igor added 2 packages ([**#1**](https://github.com/microsoft/winget-pkgs/pull/17044), [**#2**](https://github.com/microsoft/winget-pkgs/pull/16434)) to the `microsoft/winget-pkgs` repository &ndash; _Jun 7 - Jun 17_.
+- Igor added 6 packages: [**BurnAware Free**](https://github.com/microsoft/winget-pkgs/pull/15660), [**Clockify**](https://github.com/microsoft/winget-pkgs/pull/15882), [**Komodo Edit**](https://github.com/microsoft/winget-pkgs/pull/16434), [**UltraViewer**](https://github.com/microsoft/winget-pkgs/pull/17037), [**StarUML**](https://github.com/microsoft/winget-pkgs/pull/17044), [**Stellarium**](https://github.com/microsoft/winget-pkgs/pull/18800) to the `microsoft/winget-pkgs` repository &ndash; _Jun 7 - Jun 24_.
 
 <br>
 
