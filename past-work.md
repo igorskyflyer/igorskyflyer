@@ -1,8 +1,8 @@
 # 🧠 Freelance Experience
 
-## Almost Two Decades of Technical Experience & Creative Problem Solving
+## Two Decades of Technical Experience & Creative Problem Solving
 
-With almost two decades of learning and coding, Igor's work spans full-stack freelance work and developer tools, each built with reliability and performance in mind. He has created solutions in various sectors such as healthcare, HR, media, automation and luxury beverage retail. From full-stack builds to SEO, from UI/UX enhancements to API development, from systems architecture to server security, Igor's work reflects breadth and attention to details.
+With two decades of learning and coding, Igor's work spans full-stack freelance work and developer tools, each built with reliability and performance in mind. He has created solutions in various sectors such as healthcare, HR, media, automation and luxury beverage retail. From full-stack builds to SEO, from UI/UX enhancements to API development, from systems architecture to server security, Igor's work reflects breadth and attention to details.
 
 <br>
 
