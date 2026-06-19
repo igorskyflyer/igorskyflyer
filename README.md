@@ -220,7 +220,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/issues?q=sort%3Aupdated-desc+is%3Apr+is%3Aissue+author%3Aigorskyflyer+"><strong>applications</strong></a></li>
   </ul>
-  📖 has an independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
+  📖 has an AI-generated, independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
   <br>
   🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
