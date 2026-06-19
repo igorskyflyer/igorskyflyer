@@ -494,26 +494,26 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
       <td align="center"><a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="48" height="48" alt="Ko-Fi" loading="lazy"><br>Ko-Fi</a></td>
      </tr>
       <tr>
-      <td align="center"><a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="48" height="48" alt="CSSBattle" loading="lazy"></a></td>
-      <td align="center"><a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="48" height="48" alt="Gravatar" loading="lazy"></a></td>
-      <td align="center"><a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="48" height="48" alt="Pluralsight" loading="lazy"></a></td>
-      <td align="center"><a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="48" height="48" alt="Stack Overflow" loading="lazy"></a>
+      <td align="center"><a href="https://cssbattle.dev/player/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/cssbattle.png" width="48" height="48" alt="CSSBattle" loading="lazy"><br>CSS Battles</a></td>
+      <td align="center"><a href="https://igorskyflyer.bio"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="48" height="48" alt="Gravatar" loading="lazy"><br>Biography</a></td>
+      <td align="center"><a href="https://app.pluralsight.com/profile/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/pluralsight.png" width="48" height="48" alt="Pluralsight" loading="lazy"><br>Pluralsight</a></td>
+      <td align="center"><a href="https://stackoverflow.com/users/3864203/skyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/stack-overflow.png" width="48" height="48" alt="Stack Overflow" loading="lazy"><br>Stack Overflow</a>
       </td>
-      <td align="center"><a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="48" height="48" alt="Instagram" loading="lazy"></a></td>
+      <td align="center"><a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="48" height="48" alt="Instagram" loading="lazy"><br>Instagram</a></td>
       </tr>
       <tr>
-      <td align="center"><a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="48" height="48" alt="TikTok" loading="lazy"></a></td>
-      <td align="center"><a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="48" height="48" alt="YouTube" loading="lazy"></a></td>
-      <td align="center"><a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="48" height="48" alt="Dribbble" loading="lazy"></a></td>
-      <td align="center"><a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="48" height="48" alt="Threads" loading="lazy"></a></td>
-      <td align="center"><a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="48" height="48" alt="Beacons" loading="lazy"></a></td>
+      <td align="center"><a href="https://www.tiktok.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/tiktok.png" width="48" height="48" alt="TikTok" loading="lazy"><br>TikTok</a></td>
+      <td align="center"><a href="https://youtube.com/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/youtube.png" width="48" height="48" alt="YouTube" loading="lazy"><br>YouTube</a></td>
+      <td align="center"><a href="https://dribbble.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="48" height="48" alt="Dribbble" loading="lazy"><br>Dribbble</a></td>
+      <td align="center"><a href="https://www.threads.net/@igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/threads.png" width="48" height="48" alt="Threads" loading="lazy"><br>Threads</a></td>
+      <td align="center"><a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="48" height="48" alt="Beacons" loading="lazy"><br>Beacons</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="48" height="48" alt="LinkedIn" loading="lazy"></a></td>
-      <td align="center"><a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="48" height="48" alt="LeetCode" loading="lazy"></a></td>
-      <td align="center"><a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="48" height="48" alt="X" loading="lazy"></a></td>
-      <td align="center"><a href="https://backloggd.com/u/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/backloggd.png" width="48" height="48" alt="Backloggd" loading="lazy"></a></td>
-    <td align="center"><a href="https://igorskyflyer.me/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/igorskyflyer.me.png" width="48" height="48" alt="igorskyflyer.me" loading="lazy"></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="48" height="48" alt="LinkedIn" loading="lazy"><br>LinkedIn</a></td>
+      <td align="center"><a href="https://leetcode.com/u/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/leetcode.png" width="48" height="48" alt="LeetCode" loading="lazy"><br>LeetCode</a></td>
+      <td align="center"><a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="48" height="48" alt="X (Twitter)" loading="lazy"><br>X (Twitter)</a></td>
+      <td align="center"><a href="https://backloggd.com/u/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/backloggd.png" width="48" height="48" alt="Backloggd" loading="lazy"><br>Backloggd</a></td>
+    <td align="center"><a href="https://igorskyflyer.me/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/igorskyflyer.me.png" width="48" height="48" alt="igorskyflyer.me" loading="lazy"><br>Personal Website</a></td>
     </tr>
   </table>
     <p>
