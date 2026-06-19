@@ -118,7 +118,7 @@
 
 ## 2017
 
-- Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795), at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal &ndash; _Dec 25_.
+- Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal &ndash; _Dec 25_.
 - Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 30_.
 - Igor created his first (but _private_) repository [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 18_.
 
