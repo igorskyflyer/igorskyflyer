@@ -108,8 +108,6 @@
 
 ## 2018
 
-## 2018
-
 - Igor created the [**Open in Browser**](https://github.com/igorskyflyer/vscode-open-in-browser) Visual Studio Code extension, which went on to become his most popular extension to date &ndash; _Dec 27_.
 
 <br>
