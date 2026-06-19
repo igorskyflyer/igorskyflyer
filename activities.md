@@ -1,6 +1,6 @@
-# 🏛️ Announcements
+# 🏛️ Activities
 
-> This document serves as an archive of major announcements over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) open-source commitment and contributions.
+> This document serves as an archive of major activities over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) open-source commitment and contributions.
 
 <br>
 
