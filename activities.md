@@ -1,4 +1,4 @@
-# 🏛️ Activities
+# 📋 Activities
 
 > This document serves as an archive of major activities over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) open-source commitment and contributions.
 
@@ -9,7 +9,7 @@
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; _Jun 17_.
 - Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4793) at `Devolutions/UniGetUI`, noting that there is a UI state mismatch for upgradable packages/applications selection when using the Avalonia mode of the application &ndash; _May 16_.
-- Igor became a [**verified entity**](https://www.google.com/search?kgmid=/g/11kc3sl0nv) on Google &ndash; _May 2_.
+- Igor's legal name and `igorskyflyer` handle were merged into a single [**verified entity**](https://www.google.com/search?kgmid=/g/11kc3sl0nv) on Google's Knowledge Panel &ndash; _May 2_.
 - Igor opened an [**issue**](https://github.com/refined-github/refined-github/issues/9291) at `refined-github/refined-github`, noting that the profile's Gists link is broken &ndash; _Apr 28_.
 - Igor opened a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4630) at `Devolutions/UniGetUI`, performing a comprehensive Serbian localization overhaul: enforcing consistent ekavian dialect and `Ti` form throughout, fixing mistranslations, noun/gender/verb agreement errors, word order issues, corrupted strings, mixed Cyrillic/Latin script, and standardizing all UI and installer terminology &ndash; _Apr 23_.
 - Igor opened an [**issue**](https://github.com/git/git-scm.com/issues/2154) at `git/git-scm.com`, noting that assets fail to load on the Windows install page and that it's possibly caused by an SRI issue &ndash; _Apr 15_.
