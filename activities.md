@@ -23,7 +23,7 @@
 
 ## 2025
 
-- Igor's [**scrollend-polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) hit `1M` of requests &ndash; _Dec 27_.
+- Igor's [**scrollend-polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) hit `1M` requests &ndash; _Dec 27_.
 - Igor's [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists are used as a data source by [**1Hosts**](https://github.com/badmojr/1Hosts), one of the most popular open-source blocklist projects &ndash; _Sep 14_.
 - Igor created a [**PR**](https://github.com/collinbarrett/FilterLists/pull/5151) at `collinbarrett/FilterLists` that adds the [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists to that ad-block filter lists directory &ndash; _Sep 9_.
 - Igor created an [**issue**](https://github.com/cssbattle/forum/issues/430) at `cssbattle/forum`, noting that the submissions-related badges are not working &ndash; _Sep 9_.
