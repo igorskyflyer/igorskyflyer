@@ -30,7 +30,7 @@
 - Igor created a [**PR**](https://github.com/VincenzoManto/DevDiary/pull/2) at `VincenzoManto/DevDiary`, fixing the wrong listed repository URL &ndash; _Aug 21_.
 - Igor created an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4009) at `Devolutions/UniGetUI`, noting a UI state mismatch for upgradable packages selection &ndash; _Aug 15_.
 - Igor created a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) at `Devolutions/UniGetUI`, fixing a fatal error when trying to (un)install and/or update scoped npm packages containing a dot (.) &ndash; _Aug 15_.
-- Igor added the package: [**VRoid Studio**](https://github.com/microsoft/winget-pkgs/issues/283890) to the `microsoft/winget-pkgs` repository &ndash; _Aug 14_.
+- Igor added the package [**VRoid Studio**](https://github.com/microsoft/winget-pkgs/issues/283890) to the `microsoft/winget-pkgs` repository &ndash; _Aug 14_.
 - Igor contributed Serbian (Latin) translations to [**AdGuard Application for Android**](https://crowdin.com/project/adguard-applications) and Serbian (Cyrillic) translations to [**PCSX2 Emulator**](https://crowdin.com/project/pcsx2-emulator) via Crowdin &ndash; _Jul 27 - Sep 22_.
 - Igor created and joined the [**Find Again!**](https://github.com/find-again) organization &ndash; _Jul 21_.
 - Igor created an [**issue**](https://github.com/brave/brave-browser/issues/43170) at `brave/brave-browser`, noting that adding a particular filter list causes an indefinite crash &ndash; _Jul 21_.
