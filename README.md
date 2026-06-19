@@ -218,7 +218,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <span id="recursion"></span>
   🦘 loves adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
   <ul data-no-restyle>
-    <li>🦑 added <code>9</code> <a href="https://github.com/microsoft/winget-pkgs/issues?q=sort%3Aupdated-desc+is%3Apr+is%3Aissue+author%3Aigorskyflyer+"><strong>applications</strong></a></li>
+    <li>🦑 added <code>7</code> <a href="https://github.com/microsoft/winget-pkgs/issues?q=sort%3Aupdated-desc+is%3Apr+is%3Aissue+author%3Aigorskyflyer+"><strong>applications</strong></a></li>
   </ul>
   📖 has an AI-generated, independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
   <br>
