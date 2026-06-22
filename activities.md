@@ -103,7 +103,7 @@
 
 ## 2020
 
-- Igor started porting some of his libraries/applications to different languages and platforms, one them being the [**mp3size**](https://github.com/igorskyflyer/npm-mp3size) npm package, later porting it to [**.NET**](https://github.com/igorskyflyer/.net-core-mp3size) and [**Dart**](https://github.com/igorskyflyer/dart-mp3size) &ndash; _May 17_.
+- Igor started porting some of his libraries/applications to different languages and platforms, one them being the [**mp3size**](https://github.com/igorskyflyer/npm-mp3size) npm package, later porting it to [**.NET**](https://github.com/igorskyflyer/.net-core-mp3size), [**Dart**](https://github.com/igorskyflyer/dart-mp3size), and [**Python**](https://github.com/igorskyflyer/python-mp3size) &ndash; _May 17_.
 
 <br>
 
