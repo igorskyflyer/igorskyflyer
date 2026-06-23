@@ -222,6 +222,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   </ul>
   📖 has an AI-generated, independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
   <br>
+  📄 maintains 2 topics on GitHub: <a href="https://github.com/topics/igorskyflyer"><strong>igorskyflyer</strong></a> and <a href="https://github.com/topics/igor-dimitrijevic"><strong>Igor Dimitrijević</strong></a>
+  <br>
   🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
 </details>
