@@ -50,6 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+- Obtained a dedicated [**WikiData entry**](https://www.wikidata.org/wiki/Q140356947)
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
   - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
