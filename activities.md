@@ -6,6 +6,7 @@
 
 ## 2026
 
+- Igor obtained a dedicated [**WikiData entry**](https://www.wikidata.org/wiki/Q140356947) &ndash; _Jun 25_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; _Jun 17_.
 - Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4793) at `Devolutions/UniGetUI`, noting that there is a UI state mismatch for upgradable packages/applications selection when using the Avalonia mode of the application &ndash; _May 16_.
