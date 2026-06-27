@@ -286,7 +286,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <strong>The Earned Machine (September 2012)</strong>
   <br>
-  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 19, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
+  Immediately after high school, Igor built his next project, a WordPress-based site, which generated his first earnings. By the age of 19, he had saved enough to buy his <strong>first laptop</strong>, a modest, second-hand machine that finally allowed him to expand his expertise. He then enrolled in the Faculty of Technical Sciences in Čačak, Serbia. While studying <strong>IT</strong> and <strong>Software Engineering</strong>, he treated the curriculum as a baseline; he was already learning <strong>C#</strong> through aggressive self-study long before the first lecture.
   <br>
   <br>
   <strong>The Handheld Foundry (2013)</strong>
