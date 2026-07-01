@@ -35,10 +35,10 @@
 Currently working as a:
 
 **Staff Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_
-_Focus: High-complexity R&D and performance-critical systems._
+_Focus: WordPress/WooCommerce platform engineering, backend automation, security hardening._
 
-- **Custom E-Commerce Engine (SissiS)**: Engineered a zero-framework automation layer for fulfillment, order migration, and security hardening, eliminating reliance on 3rd-party plugins.
-- **Medical Infrastructure (Sensomed)**: Architected a high-performance, A11Y-compliant storefront with custom-built data management blocks for complex medical catalogs.
+- **SissiS**: Built a custom WordPress/WooCommerce plugin suite from scratch (PHP, no 3rd-party frameworks) for order export (XML/JSON), CSV-based order migration, FTP-synced tracking updates, Cron-driven automation, and custom HTTP security headers. Multilingual (EN/DE) implemented natively, without translation plugins.
+- **Sensomed**: Delivered a WordPress/WooCommerce storefront built from a static Photoshop design, with custom theme/post templates, product variation and category filtering, Google Translate-based multilingual support, and security header hardening. Advised on accessibility improvements.
 
 <br>
 
