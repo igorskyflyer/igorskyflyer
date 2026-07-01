@@ -34,8 +34,7 @@
 
 Currently working as a:
 
-**Staff Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_
-
+**Staff Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_  
 _Focus: WordPress/WooCommerce platform engineering, backend automation, security hardening._
 
 - **SissiS**: Built a custom WordPress/WooCommerce plugin suite from scratch (PHP, no 3rd-party frameworks) for order export (XML/JSON), CSV-based order migration, FTP-synced tracking updates, Cron-driven automation, and custom HTTP security headers. Multilingual (EN/DE) implemented natively, without translation plugins.
