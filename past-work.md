@@ -205,9 +205,9 @@ These are implementation domains and architectural patterns built on top of the 
 ## 🌟 Highlights
 
 - Built the entire system solo – from **UI** to **backend**
+- Delivered a fully **operational**, domain-specific desktop app with high **maintainability**
 - Designed a **modular**, **extensible** architecture intended to support future modules and integrations
 - Solved **complex** problems with zero prior domain experience
-- Created a **scalable** architecture ready for future modules and integrations
 
 ---
 
