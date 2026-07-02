@@ -224,6 +224,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   📄 maintains 2 topics on GitHub: <a href="https://github.com/topics/igorskyflyer"><strong>igorskyflyer</strong></a> and <a href="https://github.com/topics/igor-dimitrijevic"><strong>Igor Dimitrijević</strong></a>
   <br>
+  🎵 tunes song lyrics on <a href="https://genius.com/igorskyflyer"><strong>Genius</strong></a>
+  <br>
   🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
 </details>
