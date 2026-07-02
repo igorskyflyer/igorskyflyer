@@ -6,7 +6,9 @@
 
 <br>
 
-> This document serves as an archive of events over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, education, open-source commitment, and contributions.
+<blockquote align="center">
+  This document serves as an archive of events over the years regarding <em>Igor Dimitrijević's</em> (<code>igorskyflyer</code>) technical journey, education, open-source commitment, and contributions.
+</blockquote>
 
 <br>
 
