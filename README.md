@@ -534,7 +534,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <a href="https://liberapay.com/igorskyflyer/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
   <br>
-  <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
+  <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="118" height="30" loading="lazy"></a>
   <br>
   <br>
   <blockquote>
