@@ -529,7 +529,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <br>
 
 <div align="center">
-  If his open-source projects have saved you time or improved your workflow, consider supporting their continued development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> or <a href="https://liberapay.com/igorskyflyer/donate"><strong>LiberaPay</a>.
+  If his open-source projects have saved you time or improved your workflow, consider supporting their continued development via <a href="https://liberapay.com/igorskyflyer/donate"><strong>LiberaPay</a> or <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
   <br>
   <br>
   <a href="https://liberapay.com/igorskyflyer/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
