@@ -2,6 +2,10 @@
 
 > This document serves as an archive of events over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, education, open-source commitment, and contributions.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/evolution.png" width="256" height="256" alt="A logo of evolution">
+</div>
+
 <br>
 
 ## 2026
@@ -137,3 +141,10 @@
 ## 2009
 
 - At age 16, using only a Sony Ericsson J300i, Igor's website ([**skywap.xtgem.com**](https://skywap.xtgem.com)) won the `Best Website` award in a global XtGem contest &ndash; _Oct 12_.
+
+<br>
+<br>
+
+<blockquote align="center">
+  “Evolution is time remembering itself.”
+</blockquote>
