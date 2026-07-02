@@ -538,7 +538,6 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <br>
   <blockquote>
-    <br>
     Support helps fund new open-source tools, maintenance, and documentation.
   </blockquote>
 </div>
