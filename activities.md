@@ -1,6 +1,6 @@
-# 📋 Activities
+# ⏳ Timeline
 
-> This document serves as an archive of major activities over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, open-source commitment, and contributions.
+> This document serves as an archive of events over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, education, open-source commitment, and contributions.
 
 <br>
 
