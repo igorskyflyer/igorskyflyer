@@ -26,14 +26,14 @@
 <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Pixel perfect - Flaticon</a>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/gravatar.png" width="48">
-<br>
-<a href="https://gravatar.com" title="gravatar icons">Gravatar.com</a>
-<br>
-<br>
 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/dribbble.png" width="48">
 <br>
 <a href="https://www.flaticon.com/free-icons/dribbble" title="dribbble icons">Dribbble icons created by Ruslan Babkin - Flaticon</a>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/liberapay.png" width="48">
+<br>
+<a href="https://liberapay.com" title="Liberapay icon">Liberapay.com</a>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/linkedin.png" width="48">
@@ -86,7 +86,7 @@
 <a href="https://leetcode.com/">Leetcode</a>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" width="100">
+<img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" width="118">
 <br>
 <a href="https://ko-fi.com/">Ko-Fi</a>
 </div>
