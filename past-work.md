@@ -205,7 +205,7 @@ These are implementation domains and architectural patterns built on top of the 
 ## 🌟 Highlights
 
 - Built the entire system solo – from **UI** to **backend**
-- Delivered a fully **operational**, domain-specific desktop app with high **maintainability**
+- Designed a **modular**, **extensible** architecture intended to support future modules and integrations
 - Solved **complex** problems with zero prior domain experience
 - Created a **scalable** architecture ready for future modules and integrations
 
@@ -314,7 +314,7 @@ These are implementation domains and architectural patterns built on top of the 
 
 #### 🧮 Custom Sorting Algorithm
 
-> Designed a performant sorting algorithm for large datasets (thousands of lines), praised by the client for its speed and adaptability.
+> Designed a performant sorting algorithm for large datasets (thousands of lines), delivered on time and praised by the client as "smart work."
 
 ---
 
