@@ -1,10 +1,10 @@
 # ⏳ Timeline
 
-> This document serves as an archive of events over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, education, open-source commitment, and contributions.
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/evolution.png" width="256" height="256" alt="A logo of evolution">
+  <img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/refs/heads/main/assets/evolution.png" width="498" height="173" alt="A logo of evolution">
 </div>
+
+> This document serves as an archive of events over the years regarding _Igor Dimitrijević's_ (`igorskyflyer`) technical journey, education, open-source commitment, and contributions.
 
 <br>
 
