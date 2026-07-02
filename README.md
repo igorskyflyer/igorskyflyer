@@ -506,7 +506,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
       </tr>
       <tr>
       <td align="center"><a href="https://beacons.ai/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/beacons.png" width="48" height="48" alt="Igor Dimitrijević Beacons link-in-bio page" loading="lazy"><br></a></td>
-      <td align="center"><a href="https://en.liberapay.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/liberapay.png" width="48" height="48" alt="Igor Dimitrijević biography and bio links page" loading="lazy"><br></a></td>
+      <td align="center"><a href="https://liberapay.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/liberapay.png" width="48" height="48" alt="Igor Dimitrijević biography and bio links page" loading="lazy"><br></a></td>
       <td align="center"><a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi-logo.png" width="48" height="48" alt="Support Igor Dimitrijević open-source work on Ko-fi" loading="lazy"><br></a></td>
       <td align="center"><a href="https://x.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/twitter.png" width="48" height="48" alt="Igor Dimitrijević X (Twitter) profile" loading="lazy"><br></a></td>
       <td align="center"><a href="https://www.instagram.com/igorskyflyer/"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/instagram.png" width="48" height="48" alt="Igor Dimitrijević Instagram profile" loading="lazy"><br></a></td>
@@ -529,10 +529,13 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <br>
 
 <div align="center">
-  If his open-source projects have improved your workflow<br>or productivity, you can support their ongoing development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
+  If his open-source projects have saved you time or improved your workflow, consider supporting their continued development via <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a> or <a href="https://liberapay.com/igorskyflyer/donate"><strong>LiberaPay</a>.
   <br>
+  <br>
+  <a href="https://liberapay.com/igorskyflyer/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
   <br>
   <a href="https://ko-fi.com/igorskyflyer"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Support Igor Dimitrijević (igorskyflyer) - Donate to Sustain Open-Source Projects" width="180" height="46" loading="lazy"></a>
+  <br>
   <br>
   <blockquote>
     <br>
