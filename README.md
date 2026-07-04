@@ -51,8 +51,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 - Published new releases of these npm packages:
-  - [**astro-component v1.1.1**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1)
-  - [**astro-render-component v2.0.2**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2)
+  - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) &ndash; `v1.1.1`
+  - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) &ndash; `v2.0.2`
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
   - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
