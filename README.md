@@ -461,6 +461,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🐬 is a firm believer in <strong>autodidacticism</strong>
   <br>
+  📚 keeps learning on <a href="https://app.pluralsight.com/profile/igorskyflyer"><strong>PluralSight</strong></a> and <a href="https://www.sololearn.com/en/profile/6324186"><strong>SoloLearn</strong></a>
+  <br>
   🎧 is a huge <strong>audiophile</strong>, even posts EuroVision videos on his <a href="https://www.youtube.com/playlist?list=PLrZjhEsxZp5g-wAOPiwUMeUiCzbn9kwB_"><strong>YouTube channel</strong></a>
   <br>🎭 is also known as:
   <strong>Igor Dimitrijević</strong>,
