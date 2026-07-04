@@ -46,7 +46,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ---
 
-## 📋 Activities
+## 📋 Recent Activity
 
 ### 🤖 Tech
 
