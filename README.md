@@ -1,9 +1,9 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Staff Engineer (IC Track) • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
+> Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>staff (IC) full-stack software engineer</strong> working across Web, desktop, and mobile platforms. A <strong>freelance</strong> full-stack engineer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide while delivering solutions for repeating clients across 10 countries. With a <strong>BSc (Hons) IT</strong>, specializing in <strong>Software Engineering</strong> and two decades of hands-on coding, beginning at the age of 13, he is a DX-first engineer who has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions/themes</strong> and full-scale <strong>e-commerce platforms</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
+  <strong>Igor Dimitrijević</strong> (Serbian Cyrillic: Игор Димитријевић; pronounced [ˈiɡɔr dǐmitrijɛʋitɕ]), born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian <strong>senior full-stack software engineer</strong> working across Web, desktop, and mobile platforms. A <strong>freelance</strong> full-stack engineer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide while delivering solutions for repeating clients across 10 countries. With a <strong>BSc (Hons) IT</strong>, specializing in <strong>Software Engineering</strong> and two decades of hands-on coding, beginning at the age of 13, he is a DX-first engineer who has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions/themes</strong> and full-scale <strong>e-commerce platforms</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
   <br>
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
@@ -23,7 +23,7 @@
   <br>
   <br>
   <div align="center">
-    <strong>Available for Staff / Principal roles and select freelance engagements.</strong><br>
+    <strong>Available for Senior / Staff roles and select freelance engagements.</strong><br>
     <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
   </div>
 </div>
@@ -34,7 +34,7 @@
 
 Currently working as a:
 
-**Staff Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_  
+**Senior Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_  
 _Focus: WordPress/WooCommerce platform engineering, backend automation, security hardening._
 
 - **SissiS**: Built a custom WordPress/WooCommerce plugin suite from scratch (PHP, no 3rd-party frameworks) for order export (XML/JSON), CSV-based order migration, FTP-synced tracking updates, Cron-driven automation, and custom HTTP security headers. Multilingual (EN/DE) implemented natively, without translation plugins.
