@@ -114,7 +114,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <br>
 📱 <strong>Mobile:</strong> <a href="https://github.com/igorskyflyer?tab=repositories&language=java"><strong>Java</strong></a> (Android), <a href="https://github.com/igorskyflyer?tab=repositories&q=flutter"><strong>Flutter</strong></a>
 <br>
-🦄 <strong>UI / UX:</strong> Figma, Affinity Designer, Adobe XD / Illustrator / Photoshop
+🦄 <strong>UI / UX:</strong> <a href="https://www.figma.com/@igorskyflyer"><strong>Figma</strong></a>, Affinity Designer, Adobe XD / Illustrator / Photoshop
 <br>
 🛠️ <strong>Tooling:</strong> esbuild, Vite, Biome, Vitest, Composer
 <br>
