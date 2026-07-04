@@ -161,7 +161,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🦭 codes <strong>UserScripts</strong> on GreasyFork:
   <ul data-no-restyle>
-    <li>🪰 <code>5</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a></li>
+    <li>🪰 <code>6</code> <a href="https://greasyfork.org/en/users/1002054-igorskyflyer"><strong>UserScripts</strong></a></li>
   </ul>
   📑 translates projects - <em>pro bono</em>, on Crowdin:
   <ul data-no-restyle>
