@@ -138,6 +138,7 @@
 
 ## 2016
 
+- Igor's [**NeoVisio App-Store**](https://github.com/igorskyflyer/android-neovisio-app-store) that served as his Bachelor's thesis was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory &ndash; _Sep 12_.
 - Igor joined GitHub, _the open-source era begins_ &ndash; _Aug 10_.
 
 <br>
