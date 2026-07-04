@@ -50,6 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+- Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
   - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) &ndash; `v1.1.1`
   - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) &ndash; `v2.0.2`
