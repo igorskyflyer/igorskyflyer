@@ -50,6 +50,9 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+- Published new releases of these npm packages:
+  - [**astro-component v1.1.1**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1)
+  - [**astro-render-component v2.0.2**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2)
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
   - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
@@ -57,15 +60,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
 - Created a repository:
   - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
-- Released npm packages:
-  - [**@igorskyflyer/prettier-config**](https://www.npmjs.com/package/@igorskyflyer/prettier-config) - a Prettier config for JS/TS projects. Single quotes, no semis, LF, trailing commas for better diffs.
-  - [**@igorskyflyer/oxlint-config**](https://www.npmjs.com/package/@igorskyflyer/oxlint-config) - a strict, opinionated and no-nonsense Oxlint configuration that catches real bugs and enforces clean code.
-  - [**@igorskyflyer/biome-config**](https://www.npmjs.com/package/@igorskyflyer/biome-config) - an opinionated Biome configuration for modern JavaScript and TypeScript projects. Strict linting, consistent formatting, and performance-minded rules, all in one shareable config.
-  - [**@igorskyflyer/oxfmt-config**](https://www.npmjs.com/package/@igorskyflyer/oxfmt-config) - an opinionated Oxfmt config for pixel-perfect code formatting.
-  - [**@igorskyflyer/editorconfig**](https://www.npmjs.com/package/@igorskyflyer/editorconfig) - an opinionated EditorConfig for consistent code style across editors and IDEs.
-  - [**@igorskyflyer/tsconfig**](https://www.npmjs.com/package/@igorskyflyer/tsconfig) - an opinionated, reusable TSConfig base for modern TypeScript projects.
 - Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
-- Updated [**Component Renderer for Astro**](https://github.com/igorskyflyer/npm-astro-render-component) with added support for the latest Astro v6.
 - In the process of scope-migration from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
 
 <div align="center">
