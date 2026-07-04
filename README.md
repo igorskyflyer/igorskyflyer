@@ -52,15 +52,14 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 - Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
-  - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) &ndash; `v1.1.1`
-  - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) &ndash; `v2.0.2`
-- Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv)
+  - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) - `v1.1.1`
+  - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) - `v2.0.2`
+- Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv).
 - Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
   - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
   - a UI &#8660; state mismatch for upgradable packages in both Avalonia/legacy modes ([**#4793**](https://github.com/Devolutions/UniGetUI/issues/4793), [**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
   - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
-- Created a repository:
-  - [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
+- Created a repository: [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
 - Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
 - In the process of scope-migration from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
 
