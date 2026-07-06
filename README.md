@@ -129,7 +129,6 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   In addition, Igor:
   <br>
   🐛 squashes bugs for money on <a href="https://hackerone.com/igorskyflyer"><strong>HackerOne</strong></a>
-
   <ul data-no-restyle>
     <li>🦕 <strong><code>1</code></strong> bug bounty completed</li>
   </ul>
@@ -167,6 +166,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a></li>
   </ul>
+  🧭 lists applications on <a href="https://alternativeto.net/user/igorskyflyer/"><strong>AlternativeTo</strong></a>
+  <br>
   ​🖼️ designs PowerPoint presentations for clients in his spare time
   <br>
   🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
