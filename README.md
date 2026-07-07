@@ -52,6 +52,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 - Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
+  - [**Biome Config**](https://github.com/igorskyflyer/npm-biome-config/releases/tag/v3.0.0) - `v3.0.0`
   - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) - `v1.1.1`
   - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) - `v2.0.2`
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv).
