@@ -10,7 +10,7 @@
   <ul data-no-restyle>
     <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong><code>3.96M</code> yearly requests</strong> with <code>+54,137%</code> <code>(~542×)</code> growth.</li>
     <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong><code>16.7&times;</code> productivity gain</strong> in automated ad-block filter maintenance.</li>
-    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong><code>362K+</code> installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
+    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong><code>362.5K+</code> installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
     <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong><code>102K+</code> installs</strong> across <code>60</code> npm packages and <code>10K+</code> installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
     <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance and modular filter lists blocking ads, trackers, malware, phishing, and web clutter, serving <strong><code>10K+</code> monthly active users</strong>.</li>
     <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
@@ -52,7 +52,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 - Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
-  - [**Biome Config**](https://github.com/igorskyflyer/npm-biome-config/releases/tag/v3.0.1) - `v3.0.1`
+  - [**Biome config**](https://github.com/igorskyflyer/npm-biome-config/releases/tag/v3.0.1) - `v3.0.1`
   - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) - `v1.1.1`
   - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) - `v2.0.2`
 - Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv).
