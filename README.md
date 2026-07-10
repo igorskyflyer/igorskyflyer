@@ -66,7 +66,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 - In the process of scope-migration from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
 
 <div align="center">
-  <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
+  <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> <strong>(91% completed)</strong> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
   <br>
   <br>
   <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
