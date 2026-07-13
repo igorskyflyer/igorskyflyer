@@ -14,6 +14,7 @@
 
 ## 2026
 
+- Igor opened an [**issue**](https://github.com/microsoft/vscode/issues/325688) at `microsoft/vscode`, noting that multiple extension recommendation modals stack and overlap when `workbench.editor.useModal` is enabled &ndash; _Jul 13_.
 - Igor opened an [**issue**](https://gitlab.com/versionlens/vscode-versionlens/-/work_items/418) at `versionlens/vscode-versionlens`, noting that the UI shows stale and/or wrong CodeLens commands &ndash; _Jul 01_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; _Jun 17_.
 - Igor opened an [**issue**](https://github.com/truelockmc/streambert/issues/60) at `truelockmc/streambert`, noting that there is a layout shift when toggling the watched status &ndash; _May 17_.
