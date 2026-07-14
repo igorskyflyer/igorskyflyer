@@ -14,7 +14,7 @@
 
 ## 2026
 
-- Igor published his [**1st article**](https://www.linkedin.com/pulse/pnpm-11120-self-update-crash-cannot-use-operator-fix-dimitrijevi%25C4%2587-wpchf/) on LinkedIn regarding a pnpm `v11.12.0` self-update issue &ndash; _Jul 14_.
+- Igor published his [**first article**](https://www.linkedin.com/pulse/pnpm-11120-self-update-crash-cannot-use-operator-fix-dimitrijevi%25C4%2587-wpchf/) on LinkedIn regarding a pnpm `v11.12.0` self-update issue &ndash; _Jul 14_.
 - Igor opened an [**issue**](https://github.com/microsoft/vscode/issues/325688) at `microsoft/vscode`, noting that multiple extension recommendation modals stack and overlap when `workbench.editor.useModal` is enabled &ndash; _Jul 13_.
 - Igor opened an [**issue**](https://gitlab.com/versionlens/vscode-versionlens/-/work_items/418) at `versionlens/vscode-versionlens`, noting that the UI shows stale and/or wrong CodeLens commands &ndash; _Jul 01_.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4942) at `Devolutions/UniGetUI`, noting that the package version numbers are cut off in the main window &ndash; _Jun 17_.
