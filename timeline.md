@@ -12,8 +12,16 @@
 
 <br>
 
+## Upcoming
+
+- Not currently disclosed.
+
+<br>
+
 ## 2026
 
+- Igor's early advocacy for ESM and highly-upvoted proposal in [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [`v1.129.0`](https://github.com/microsoft/vscode/milestone/435) – _Jul 15_.
+- Igor opened a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3040) at `npmx-dev/npmx.dev`, completing and fixing the Spanish translation of the platform – _Jul 14_.
 - Igor published his [**first article**](https://www.linkedin.com/pulse/pnpm-11120-self-update-crash-cannot-use-operator-fix-dimitrijevi%25C4%2587-wpchf/) on LinkedIn regarding a pnpm `v11.12.0` self-update issue – _Jul 14_.
 - Igor opened an [**issue**](https://github.com/microsoft/vscode/issues/325688) at `microsoft/vscode`, noting that multiple extension recommendation modals stack and overlap when `workbench.editor.useModal` is enabled – _Jul 13_.
 - Igor opened an [**issue**](https://gitlab.com/versionlens/vscode-versionlens/-/work_items/418) at `versionlens/vscode-versionlens`, noting that the UI shows stale and/or wrong CodeLens commands – _Jul 01_.
