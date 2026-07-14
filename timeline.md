@@ -103,7 +103,7 @@
 
 - Igor's [**AdVoid**](https://github.com/the-advoid/ad-void) project received support from [**AdGuard**](https://adguard.com/?aid=135952) in the form of a free developer license – _Dec 19_.
 - Igor created a [**PR**](https://github.com/tylerwray/me/pull/22) at `tylerwray/me`, a fellow-developer's website he stumbled upon by pure accident, where he noticed that the `Edit on GitHub` link didn't work so he fixed it – _Dec 8_.
-- Igor's Astro components are added to the official [**astro.build**](https://astro.build/integrations/?search=igor.dvlpr) integrations page – _Dec 3 – ongoing_.
+- Igor's Astro components are added to the official [**astro.build**](https://astro.build/integrations/?search=igor.dvlpr) integrations page – _Dec 3 - ongoing_.
 - Igor created an [**issue**](https://github.com/microsoft/vscode/issues/163081) at `microsoft/vscode`, noting that the notification command links parsing is broken when multiple links are present, which renders the links broken for all developers – _Oct 9_.
 - Igor created a [**PR**](https://github.com/woocommerce/woocommerce/pull/34932) at `woocommerce/woocommerce`, fixing numerous typos he spotted while working for a client – improving DX for all WooCommerce developers, released with [**WooCommerce v7.2.0**](https://developer.woocommerce.com/2022/12/14/woocommerce-7-2-0-released/) – _Oct 3_.
 
