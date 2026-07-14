@@ -171,7 +171,7 @@
 
 ## 2014
 
-- Igor completed the **Oracle: Java Fundamentals** course and earned his official Oracle Academy certification. &ndash; _Jun 2_.
+- Igor completed the **Oracle: Java Fundamentals** course and earned the official Oracle Academy certification. &ndash; _Jun 2_.
 
 <br>
 
