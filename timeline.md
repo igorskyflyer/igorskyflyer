@@ -127,12 +127,36 @@
 ## 2018
 
 - Igor created the [**Open in Browser**](https://github.com/igorskyflyer/vscode-open-in-browser) Visual Studio Code extension, which went on to become his most popular extension to date &ndash; _Dec 27_.
+- Igor completed the **Responsive Web Design: Master Responsive CSS For Best User Experience** course and earned the official BitDegree certification. &ndash; _Oct 10_.
 
 <br>
 
 ## 2017
 
 - Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal &ndash; _Dec 25_.
+- Igor completed the **Injection Flaws** course with a score of `96%` and earned the official Cybrary certification. &ndash; _Oct 22_.
+- Igor completed the **TypeScript and JavaScript (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 6_.
+- Igor completed the **Python** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 6_.
+- Igor completed the **Java** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 6_.
+- Igor completed the **C++** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 6_.
+- Igor completed the **C** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 4_.
+- Igor completed the **HTML/CSS (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 4_.
+- Igor completed the **HTML/CSS and JavaScript** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 3_.
+- Igor completed the **Android and Java** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 3_.
+- Igor completed the **PHP** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Oct 3_.
+- Igor completed the **SQL Fundamentals** course and earned the official SoloLearn certification. &ndash; _Oct 2_.
+- Igor completed the **jQuery** course and earned the official SoloLearn certification. &ndash; _Oct 2_.
+- Igor completed the **Python 3** course and earned the official SoloLearn certification. &ndash; _Oct 1_.
+- Igor completed the **Ruby** course and earned the official SoloLearn certification. &ndash; _Sep 30_.
+- Igor completed the **Java** course and earned the official SoloLearn certification. &ndash; _Sep 30_.
+- Igor completed the **PHP** course and earned the official SoloLearn certification. &ndash; _Sep 29_.
+- Igor completed the **JavaScript** course and earned the official SoloLearn certification. &ndash; _Sep 29_.
+- Igor completed the **CSS Fundamentals** course and earned the official SoloLearn certification. &ndash; _Sep 29_.
+- Igor completed the **C#** course and earned the official SoloLearn certification. &ndash; _Sep 29_.
+- Igor completed the **Swift Fundamentals** course and earned the official SoloLearn certification. &ndash; _Sep 28_.
+- Igor completed the **C#** course, ranking in the `top 10%` and earned the official TestDome certification. &ndash; _Sep 28_.
+- Igor completed the **C++** course and earned the official SoloLearn certification. &ndash; _Sep 27_.
+- Igor completed the **HTML Fundamentals** course and earned the official SoloLearn certification. &ndash; _Sep 27_.
 - Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex). A full mathematical desktop suite for multi-objective optimization using Linear Programming and Compromise Programming. Built in Delphi with raw Win32/GDI, custom proprietary binary format (.cxf), dynamic grid engine, and advanced performance optimizations. Successfully solved a 5-year unsolved Operations Research problem that had stumped ~500 students. &ndash; _Mar 30_.
 - Igor created his first (but _private_) repository [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) &ndash; _Mar 18_.
 
@@ -142,6 +166,12 @@
 
 - Igor's [**NeoVisio App-Store**](https://github.com/igorskyflyer/android-neovisio-app-store) (_that served as his Bachelor's thesis_) was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory &ndash; _Sep 12_.
 - Igor joined GitHub, _the open-source era begins_ &ndash; _Aug 10_.
+
+<br>
+
+## 2014
+
+- Igor completed the **Oracle: Java Fundamentals** course and earned his official Oracle Academy certification. &ndash; _Jun 2_.
 
 <br>
 
