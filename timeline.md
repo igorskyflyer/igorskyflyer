@@ -136,6 +136,13 @@
 
 - Igor created his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal – _Dec 25_.
 - Igor completed the **Injection Flaws** course with a score of `96%` and earned the official Cybrary certification. – _Oct 22_.
+- Igor completed the **Google: Associate Android Developer** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **Android** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **Java** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **CSS** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **C#** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **JavaScript** course and earned the official Pluralsight certification. – _Oct 17_.
+- Igor completed the **HTML5** course and earned the official Pluralsight certification. – _Oct 17_.
 - Igor completed the **TypeScript and JavaScript (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification. – _Oct 6_.
 - Igor completed the **Python** course, ranking in the `top 10%` and earned the official TestDome certification. – _Oct 6_.
 - Igor completed the **Java** course, ranking in the `top 10%` and earned the official TestDome certification. – _Oct 6_.
