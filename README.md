@@ -174,25 +174,25 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🖋️ writes articles on <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a>
   <br>
-  🦋 is a contributor to these <a href="https://github.com/pulls/search?q=sort%3Aupdated-desc+involves%3Aigorskyflyer+-user%3Aigorskyflyer"><strong>PRs</strong></a>
+  🦋 contributes to these <a href="https://github.com/pulls/search?q=sort%3Aupdated-desc+involves%3Aigorskyflyer+-user%3Aigorskyflyer"><strong>PRs</strong></a>
   <br>
   ​🖼️ designs PowerPoint presentations for clients in his spare time
   <br>
   🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
   <br>
-  🐣 is excited about these upcoming technologies:
+  🐣 eyes these upcoming technologies:
   <a href="https://pyscript.net"><strong>PyScript</strong></a>,
   <a href="https://formkit.com"><strong>FormKit</strong></a>
   <br>
-  🏅 has completed Google's Foobar challenge
+  🏅 conquered Google's Foobar challenge
   <br>
-  🌱 is currently learning
+  🌱 explores
   <a href="https://www.rust-lang.org"><strong>Rust</strong></a>,
   <a href="https://wgpu.rs/"><strong>wgpu</strong></a>
   <br>
   🤼 exchanges opinions with his peers at <a href="https://github.com/microsoft/vscode/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Aigorskyflyer+"><strong>VS Code</strong></a>
   <br>
-  🧪 does front-end experiments on his <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> such as:
+  🧪 performs front-end experiments on his <a href="https://codepen.io/igorskyflyer/pens/public/"><strong>CodePen</strong></a> such as:
 
   <blockquote>
     🔳 &nbsp;<a href="https://codepen.io/igorskyflyer/pen/XvbQpp"><strong>3D Cube</strong></a>
@@ -217,20 +217,20 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   📝 posts snippets on his <a href="https://gist.github.com/igorskyflyer"><strong>Gist</strong></a>
   <br>
-  ⚙️ cherishes automating things, has tons of dev-utils written in PowerShell, Node and Python
+  ⚙️ automates, has tons of dev-utils written in PowerShell, Node and Python
   <br>
   <span id="recursion"></span>
-  🦘 loves adding new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
+  🦘 submits new applications to the <a href="https://github.com/microsoft/winget-pkgs/"><strong>WinGet-Pkgs</strong></a> repository:
   <ul data-no-restyle>
     <li>🦑 added <code>7</code> <a href="https://github.com/microsoft/winget-pkgs/issues?q=sort%3Aupdated-desc+is%3Apr+is%3Aissue+author%3Aigorskyflyer+"><strong>applications</strong></a></li>
   </ul>
-  📖 has an AI-generated, independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
+  📖 retains an AI-generated, independent biographical entry on <a href="https://grokipedia.com/page/Igor_Dimitrijevi%C4%87_software_engineer"><strong>Grokipedia</strong></a>
   <br>
-  📄 maintains 2 topics on GitHub: <a href="https://github.com/topics/igorskyflyer"><strong>igorskyflyer</strong></a> and <a href="https://github.com/topics/igor-dimitrijevic"><strong>Igor Dimitrijević</strong></a>
+  📄 manages 2 topics on GitHub: <a href="https://github.com/topics/igorskyflyer"><strong>igorskyflyer</strong></a> and <a href="https://github.com/topics/igor-dimitrijevic"><strong>Igor Dimitrijević</strong></a>
   <br>
   🎵 tunes song lyrics on <a href="https://genius.com/igorskyflyer"><strong>Genius</strong></a>
   <br>
-  🔃 can teach you about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
+  🔃 teaches about recursion - read <a href="https://github.com/igorskyflyer#recursion"><strong>about recursion</strong></a> to learn more
   <br>
 </details>
 
