@@ -174,6 +174,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🖋️ writes articles on <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a>
   <br>
+  🦋 is a contributor to these <a href="https://github.com/pulls/search?q=sort%3Aupdated-desc+involves%3Aigorskyflyer+-user%3Aigorskyflyer"><strong>PRs</strong></a>
+  <br>
   ​🖼️ designs PowerPoint presentations for clients in his spare time
   <br>
   🎠 makes <a href="https://packagist.org/users/igorskyflyer/packages/"><strong>Packagist</strong></a> packages
