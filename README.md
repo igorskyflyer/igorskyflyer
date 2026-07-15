@@ -3,20 +3,20 @@
 > Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • 20+ Years of Experience
 
 <div data-no-restyle>
-  <strong>Igor Dimitrijević</strong>, born August 27, 1993, known online as <strong><em>IgorSkyFlyer</em></strong>, is a Serbian BSc (Hons) <strong>freelance senior full-stack software engineer</strong> specializing in DX tooling, compilers, and cross-platform web, desktop, and mobile applications. A <strong>freelance</strong> full-stack engineer and <strong>open-source maintainer</strong>, he creates <strong>developer tools</strong> and <strong>compilers</strong> used by <strong>hundreds of thousands</strong> worldwide while delivering solutions for repeating clients across 10 countries. With a <strong>BSc (Hons) IT</strong>, specializing in <strong>Software Engineering</strong> and two decades of hands-on coding, beginning at the age of 13, he is a DX-first engineer who has delivered everything from custom <strong>compilers</strong> and <strong>AST engines</strong> to <strong>Visual Studio Code extensions/themes</strong> and full-scale <strong>e-commerce platforms</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
+  <strong>Igor Dimitrijević</strong> (born August 27, 1993), known online as <em>IgorSkyFlyer</em>, is a Serbian <strong>freelance senior full-stack software engineer</strong> holding a BSc (Hons) in IT. Specializing in developer experience (DX) tooling, performance-first architectures, and cross-platform web, desktop, and mobile applications, his freelance work spans <strong>e-commerce platforms</strong>, <strong>desktop management software</strong>, and <strong>legacy-system recovery</strong> for repeating clients across 10 countries. With two decades of hands-on coding experience beginning at age 13, his open-source work spans custom <strong>domain-specific languages</strong>, <strong>compilers</strong>, <strong>Visual Studio Code tooling</strong>, and an <strong>npm package ecosystem</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
   <br>
   <br>
   <h2>🚀 Impact &amp; Notable Contributions</h2>
   <ul data-no-restyle>
-    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> – Powering <strong><code>3.975M</code> yearly requests</strong> with <code>+49,500%</code> <code>(~496×)</code> growth.</li>
-    <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> – Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong><code>16.7&times;</code> productivity gain</strong> in automated ad-block filter maintenance.</li>
-    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> – <strong><code>362.5K+</code> installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
-    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> – <strong><code>102K+</code> installs</strong> across <code>60</code> npm packages and <code>10K+</code> installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
-    <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> – High-performance and modular filter lists blocking ads, trackers, malware, phishing, and web clutter, serving <strong><code>10K+</code> monthly active users</strong>.</li>
-    <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> – State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
-    <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> – Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
-    <li>Global Delivery – Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>recurring international clients</strong></a> in <code>10</code> countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age <code>16</code>.</li>
-    <li>Technical Breadth – Holder of <code>30+</code> certifications and a <strong>BSc (Hons) IT, specializing in Software Engineering</strong> with <code>20+</code> years of active development.</li>
+    <li><a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> - Powering <strong><code>3.975M</code> yearly requests</strong> with <code>+49,500%</code> <code>(~496x)</code> growth.</li>
+    <li><a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> &amp; <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a> - Specialized <strong>compiler</strong> and <strong>DSL architecture</strong> yielding a <strong><code>16.7x</code> productivity gain</strong> in automated ad-block filter maintenance.</li>
+    <li><a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>Visual Studio Code Extensions</strong></a> - <strong><code>362.5K+</code> installs</strong> as <strong>Verified Publisher</strong> including the flagship <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.open-in-browser"><strong>Open in Browser</strong></a> extension.</li>
+    <li><a href="https://www.npmjs.com/~igorskyflyer"><strong>Open-Source Footprint</strong></a> - <strong><code>102K+</code> installs</strong> across <code>60</code> npm packages and <code>10K+</code> installs for official <a href="https://astro.build/integrations?search=igor.dvlpr"><strong>Astro integrations</strong></a> (CSP-safe/rendering).</li>
+    <li><a href="https://github.com/the-advoid/ad-void"><strong>AdVoid Filter Ecosystem</strong></a> - High-performance and modular filter lists blocking ads, trackers, malware, phishing, and web clutter, serving <strong><code>10K+</code> monthly active users</strong>.</li>
+    <li><a href="https://github.com/igorskyflyer/npm-zep"><strong>Zep</strong></a> - State-driven <strong>debounce engine</strong> featuring built-in telemetry for managed execution lifecycle in high-concurrency environments.</li>
+    <li><a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a> - Expressive, visual psychology-based <strong>semantic commit-tagging</strong> system designed to standardize version control logic.</li>
+    <li>Global Delivery - Delivering high-impact solutions for <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/past-work.md"><strong>recurring international clients</strong></a> in <code>10</code> countries with proven <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md"><strong>testimonials</strong></a>; recipient of "Best Site" (2009) award at age <code>16</code>.</li>
+    <li>Technical Breadth - Holder of <code>30+</code> certifications and a <strong>BSc (Hons) IT, specializing in Software Engineering</strong> with <code>20+</code> years of active development.</li>
   </ul>
   …including many other projects shaping the developer ecosystem. More details available on the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/notable-projects.md"><strong>Notable Projects</strong></a> page.
   <br>
@@ -148,6 +148,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a></li>
   </ul>
+  🪄 conjures packages on <a href="https://npmx.dev/~igorskyflyer"><strong>npmx.dev</strong></a>
+  <br>
   🪸 engineers packages on <a href="https://socket.dev/npm/user/igorskyflyer/packages"><strong>Socket</strong></a>
   <br>
   🐦 shapes packages on <a href="https://classic.yarnpkg.com/en/packages?q=%40igorskyflyer"><strong>YarnPkg</strong></a>
@@ -169,6 +171,8 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
     <li>💬 <code>2</code> <a href="https://crowdin.com/profile/igorskyflyer/"><strong>translated projects</strong></a></li>
   </ul>
   🧭 lists applications on <a href="https://alternativeto.net/user/igorskyflyer/"><strong>AlternativeTo</strong></a>
+  <br>
+  🖋️ writes articles on <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a>
   <br>
   ​🖼️ designs PowerPoint presentations for clients in his spare time
   <br>
