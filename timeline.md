@@ -14,7 +14,7 @@
 
 ## `2026`
 
-- Igor's early advocacy for ESM and highly-upvoted proposal on Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [`v1.129.0`](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
+- Igor's early advocacy for ESM and highly-upvoted proposal on Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [**v1.129.0**](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
 - Igor opened a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3040) at `npmx-dev/npmx.dev`, completing and fixing the Spanish translation of the platform – `Jul 14`.
 - Igor published his [**first article**](https://www.linkedin.com/pulse/pnpm-11120-self-update-crash-cannot-use-operator-fix-dimitrijevi%25C4%2587-wpchf/) on LinkedIn regarding a pnpm `v11.12.0` self-update issue – `Jul 14`.
 - Igor opened an [**issue**](https://github.com/microsoft/vscode/issues/325688) at `microsoft/vscode`, noting that multiple extension recommendation modals stack and overlap when `workbench.editor.useModal` is enabled – `Jul 13`.
@@ -30,7 +30,7 @@
 - Igor released [**v3.0.0**](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log – `Mar 19`.
 - Igor received a [**PR**](https://github.com/igorskyflyer/npm-astro-post-excerpt/pull/45) on his [**PostExcerpt for Astro**](https://github.com/igorskyflyer/npm-astro-post-excerpt) component requesting Astro v6 compatibility: adopted by the [**MapLibre**](https://maplibre.org) project (the leading open-source alternative to Mapbox, used by Facebook, Amazon, GitHub and others). Igor went beyond merging it: he navigated multiple Astro v6 breaking changes, published an alpha, forked and upgraded the author's own codebase, and saw the fix through to production – `Mar 11`.
 - Igor's [**read-local-file**](https://github.com/marketplace/actions/read-local-file) GitHub Action was included as a real-world taint analysis test case in [**GitHub's CodeQL**](https://github.com/github/codeql) security research library – `Jan 23`.
-- Igor consistently ranks in the **Top 3** most active GitHub users in Serbia by total, public, and commit contributions: tracked across [`gayanvoice/top-github-users`](https://github.com/gayanvoice/top-github-users), [`isyuricunha/top-github-users`](https://github.com/isyuricunha/top-github-users) and [`fbiego/commits-board`](https://github.com/fbiego/commits-board) – `ongoing`.
+- Igor consistently ranks in the **Top 3** most active GitHub users in Serbia by total, public, and commit contributions: tracked across [**gayanvoice/top-github-users**](https://github.com/gayanvoice/top-github-users), [**isyuricunha/top-github-users**](https://github.com/isyuricunha/top-github-users) and [**fbiego/commits-board**](https://github.com/fbiego/commits-board) – `ongoing`.
 
 <br>
 
