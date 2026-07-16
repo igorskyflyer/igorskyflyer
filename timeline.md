@@ -186,7 +186,7 @@
 
 ## `2009`
 
-- At age 16, using only a Sony Ericsson J300i, Igor's website ([**skywap.xtgem.com**](https://skywap.xtgem.com)) won the `Best Website` award in a global XtGem contest – `Oct 12`.
+- At age 16, the website ([**skywap.xtgem.com**](https://skywap.xtgem.com)) Igor created solely on a Sony Ericsson J300i, won the `Best Website` award in a global XtGem contest – `Oct 12`.
 
 <br>
 <br>
