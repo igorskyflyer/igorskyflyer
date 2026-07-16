@@ -483,7 +483,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   Articles on are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
   <br>
   <br>
-  Posts on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+  Posts are available on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
   <!-- BLOG-POST-LIST:START -->
 <br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank"><strong><em>npm valid scopes not working on Windows ✋🏼</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank"><strong><em>Chrome flags to enable or not 🚩</em></strong></a>
