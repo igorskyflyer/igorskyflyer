@@ -50,6 +50,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ### 🤖 Tech
 
+<!-- {{activity}} -->
 - Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
   - [**TSConfig**](https://github.com/igorskyflyer/npm-tsconfig/releases/tag/v2.0.1) - `v2.0.1`
@@ -71,6 +72,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
 </div>
+<!-- {{/activity}} -->  
 <br>
 
 <details>
