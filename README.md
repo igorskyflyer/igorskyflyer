@@ -249,7 +249,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <strong>The First Authored Byte (2006-2007)</strong>
   <br>
-  At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>over 8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
+  At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>~8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The Psycho-Logic Gap (2008)</strong>
@@ -276,7 +276,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <strong>The Mobile Laboratory (2011)</strong>
   <br>
-  While studying determinants, Igor developed a recursive solver application on his <strong>HTC HD2</strong> using a combination of HTML, CSS, and JavaScript. The utility allowed him to complete a comprehensive mathematics examination in 15 minutes, significantly outperforming the allocated time, astonishing his professor in the process.
+  While studying determinants, Igor developed a solver application on his <strong>HTC HD2</strong> using a combination of HTML, CSS, and JavaScript. The utility allowed him to complete a comprehensive mathematics examination in 15 minutes, significantly outperforming the allocated time, astonishing his professor by finishing the exam in record time.
   During this period, the mobile device served as a primary engineering environment. He mastered its hardware architecture, utilized <strong>Basic4PPC</strong> to target the Windows Mobile environment, and performed low-level system modifications, including rooting and flashing over <strong>10 custom Android ROMs</strong>. These efforts were directed at exploring the boundaries of mobile kernels and hardware-software interoperability.
   <br>
   <br>
