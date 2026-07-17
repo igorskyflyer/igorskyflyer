@@ -406,7 +406,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
           <strong>Visual Studio Code:</strong>
           <ul data-no-restyle>
             <li><strong>Theme:</strong> <a href="https://marketplace.visualstudio.com/items?itemName=igordvlpr.kai-theme"><strong>Kai</strong></a></li>
-            <li><strong>Font:</strong> <strong>Monaspace Argon</strong></li>
+            <li><strong>Font:</strong> Monaspace Argon</li>
           </ul>
         </li>
         <li><strong>Visual Studio</strong></li>
