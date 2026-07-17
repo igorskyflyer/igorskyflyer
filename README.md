@@ -1,6 +1,6 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • BSc Hons IT • 20+ Years of Experience
+> Freelance Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • BSc Hons IT  • 20+ Years of Experience
 
 <div data-no-restyle>
   <strong>Igor Dimitrijević</strong> (born August 27, 1993), known online as <em>IgorSkyFlyer</em>, is a Serbian <strong>freelance senior full-stack software engineer</strong> holding a BSc (Hons) in IT. Specializing in developer experience (DX) tooling, performance-first architectures, and cross-platform web, desktop, and mobile applications, his freelance work spans <strong>e-commerce platforms</strong>, <strong>desktop management software</strong>, and <strong>legacy-system recovery</strong> for repeating clients across 10 countries. With two decades of hands-on coding experience beginning at age 13, his open-source work spans custom <strong>domain-specific languages</strong>, <strong>compilers</strong>, <strong>Visual Studio Code tooling</strong>, and an <strong>npm package ecosystem</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
