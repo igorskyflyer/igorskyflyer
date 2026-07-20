@@ -1,6 +1,6 @@
 # Igor Dimitrijević (igorskyflyer)
 
-> Freelance Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • BSc Hons IT  • 20+ Years of Experience
+> Freelance Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • BSc Hons IT • 20+ Years of Experience
 
 <div data-no-restyle>
   <strong>Igor Dimitrijević</strong> (born August 27, 1993), known online as <em>IgorSkyFlyer</em>, is a Serbian <strong>freelance senior full-stack software engineer</strong> holding a BSc (Hons) in IT. Specializing in developer experience (DX) tooling, performance-first architectures, and cross-platform web, desktop, and mobile applications, his freelance work spans <strong>e-commerce platforms</strong>, <strong>desktop management software</strong>, and <strong>legacy-system recovery</strong> for repeating clients across 10 countries. With two decades of hands-on coding experience beginning at age 13, his open-source work spans custom <strong>domain-specific languages</strong>, <strong>compilers</strong>, <strong>Visual Studio Code tooling</strong>, and an <strong>npm package ecosystem</strong>. He is also writing a dos-à-dos autobiography bridging the technical and the personal.
@@ -51,6 +51,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 ### 🤖 Tech
 
 <!-- {{activity}} -->
+
 - Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
 - Published new releases of these npm packages:
   - [**TSConfig**](https://github.com/igorskyflyer/npm-tsconfig/releases/tag/v2.0.1) - `v2.0.1`
@@ -251,7 +252,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   <strong>The First Authored Byte (2006-2007)</strong>
   <br>
-  At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>~8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites that became some of the platform's popular sites at the time, marking his first transition from consumer to creator.
+  At the age of 13, he began learning to code, starting with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on a 1.5-inch screen (<em>Sony Ericsson J300i</em>) because he didn't own a computer. He spent <strong>~8 hours a day</strong> reading and experimenting. Often, after playing outside with friends, he would pull out the phone and start building HTML pages on <em>Peperonity</em> - while they gathered around, curious and amused, watching each line take shape. He created several <em>Peperonity</em> sites, marking his first transition from consumer to creator.
   <br>
   <br>
   <strong>The Psycho-Logic Gap (2008)</strong>
