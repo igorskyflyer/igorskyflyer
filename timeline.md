@@ -14,6 +14,8 @@
 
 ## `2026`
 
+- Igor submitted a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3065) to `npmx-dev/npmx-dev`, noting that there were some strings in the source code that were not translatable – `Jul 20`.
+- Igor opened an [**issue**](https://github.com/npmx-dev/npmx.dev/issue/3064) at `npmx-dev/npmx-dev`, noting that there were some strings in the source code that were not translatable – `Jul 20`.
 - Igor's early advocacy for ESM and highly-upvoted proposal on Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [**v1.129.0**](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
 - Igor submitted a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3040) to `npmx-dev/npmx.dev`, completing and fixing the Spanish translation of the platform that got released in [**v0.17.1**](https://github.com/npmx-dev/npmx.dev/releases/tag/v0.17.1) – `Jul 14`.
 - Igor published his [**first article**](https://www.linkedin.com/pulse/pnpm-11120-self-update-crash-cannot-use-operator-fix-dimitrijevi%25C4%2587-wpchf/) on LinkedIn regarding a pnpm `v11.12.0` self-update issue – `Jul 14`.
