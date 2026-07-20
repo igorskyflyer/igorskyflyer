@@ -192,15 +192,15 @@
 
 <br>
 
-## `2008`
+## `2007`
 
-- Igor created several Peperonity sites, marking his first transition from consumer to creator.
+- Igor created several Peperonity sites, marking his first transition from consumer to creator – `April`.
 
 <br>
 
 ## `2006`
 
-- Igor started learning programming, dedicating `~8h/day` under strict hardware and connectivity constraints.
+- Igor started learning programming, dedicating `~8h/day` under strict hardware and connectivity constraints – `August`.
 
 <br>
 <br>
