@@ -44,7 +44,8 @@
 - Igor opened an [**issue**](https://github.com/cssbattle/forum/issues/427) at `cssbattle/forum`, noting that the selector/tag name is considered a property – `Aug 31`.
 - Igor submitted a [**PR**](https://github.com/VincenzoManto/DevDiary/pull/2) to `VincenzoManto/DevDiary`, fixing the incorrect repository URL – `Aug 21`.
 - Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/4009) at `Devolutions/UniGetUI`, noting a UI state mismatch for upgradable package selection – `Aug 15`.
-- Igor submitted a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) to `Devolutions/UniGetUI`, fixing a fatal error when installing, uninstalling, or updating scoped npm packages containing a dot (.) – `Aug 15`.
+- Igor submitted a [**PR**](https://github.com/Devolutions/UniGetUI/pull/4008) to `Devolutions/UniGetUI`, fixing a fatal error when installing, uninstalling, or updating scoped npm packages containing a dot (`.`) – `Aug 15`.
+- Igor created a [**discussion**](https://github.com/orgs/community/discussions/169922), noting that packages whose scope contains a dot (`.`) fail to install on Windows – `Aug 15`.
 - Igor added the package [**VRoid Studio**](https://github.com/microsoft/winget-pkgs/issues/283890) to the `microsoft/winget-pkgs` repository – `Aug 14`.
 - Igor contributed Serbian (Latin) translations to [**AdGuard Application for Android**](https://crowdin.com/project/adguard-applications) and Serbian (Cyrillic) translations to [**PCSX2 Emulator**](https://crowdin.com/project/pcsx2-emulator) via Crowdin – `Jul 27 - Sep 22`.
 - Igor created and joined the [**Find Again!**](https://github.com/find-again) organization – `Jul 21`.
@@ -112,6 +113,7 @@
 - Igor created 2 PRs at `fisheva/Eva-Theme`: [**Branding & DX improvements**](https://github.com/fisheva/Eva-Theme/pull/56) and [**Grammar fixes**](https://github.com/fisheva/Eva-Theme/pull/55) for a Visual Studio Code theme he used shortly – `Jun 24 - Jun 26`.
 - Igor opened an [**issue**](https://github.com/anuraghazra/github-readme-stats/issues/1149) at `github-readme-stats`, noting that colors for certain languages are too similar, making them indistinguishable – `Jun 19`.
 - Igor added 6 packages: [**BurnAware Free**](https://github.com/microsoft/winget-pkgs/pull/15660), [**Clockify**](https://github.com/microsoft/winget-pkgs/pull/15882), [**Komodo Edit**](https://github.com/microsoft/winget-pkgs/pull/16434), [**UltraViewer**](https://github.com/microsoft/winget-pkgs/pull/17037), [**StarUML**](https://github.com/microsoft/winget-pkgs/pull/17044), and [**Stellarium**](https://github.com/microsoft/winget-pkgs/pull/18800) to the `microsoft/winget-pkgs` repository – `Jun 7 - Jun 24`.
+- Igor opened an [**issue**](https://github.com/microsoft/winget-pkgs/issues/15507) at `microsoft/winget-pkgs`, noting that Microsoft Edge fails to update using `winget` – `May 30`.
 
 <br>
 
