@@ -130,44 +130,44 @@
 ## `2018`
 
 - Igor created the [**Open in Browser**](https://github.com/igorskyflyer/vscode-open-in-browser) Visual Studio Code extension, which went on to become his most popular extension to date – `Dec 27`.
-- Igor completed the **Responsive Web Design: Master Responsive CSS For Best User Experience** course and earned the official BitDegree certification. – `Oct 10`.
+- Igor completed the **Responsive Web Design: Master Responsive CSS For Best User Experience** course and earned the official BitDegree certification – `Oct 10`.
 
 <br>
 
 ## `2017`
 
 - Igor opened his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, wanting a new feature: the ability to retrieve output from a programmatically created Terminal – `Dec 25`.
-- Igor completed the **Injection Flaws** course with a score of `96%` and earned the official Cybrary certification. – `Oct 22`.
-- Igor completed the **Google: Associate Android Developer** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **Android** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **Java** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **CSS** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **C#** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **JavaScript** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **HTML5** course and earned the official Pluralsight certification. – `Oct 17`.
-- Igor completed the **TypeScript and JavaScript (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 6`.
-- Igor completed the **Python** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 6`.
-- Igor completed the **Java** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 6`.
-- Igor completed the **C++** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 6`.
-- Igor completed the **C** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 4`.
-- Igor completed the **HTML/CSS (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 4`.
-- Igor completed the **HTML/CSS and JavaScript** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 3`.
-- Igor completed the **Android and Java** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 3`.
-- Igor completed the **PHP** course, ranking in the `top 10%` and earned the official TestDome certification. – `Oct 3`.
-- Igor completed the **SQL Fundamentals** course and earned the official SoloLearn certification. – `Oct 2`.
-- Igor completed the **jQuery** course and earned the official SoloLearn certification. – `Oct 2`.
-- Igor completed the **Python 3** course and earned the official SoloLearn certification. – `Oct 1`.
-- Igor completed the **Ruby** course and earned the official SoloLearn certification. – `Sep 30`.
-- Igor completed the **Java** course and earned the official SoloLearn certification. – `Sep 30`.
-- Igor completed the **PHP** course and earned the official SoloLearn certification. – `Sep 29`.
-- Igor completed the **JavaScript** course and earned the official SoloLearn certification. – `Sep 29`.
-- Igor completed the **CSS Fundamentals** course and earned the official SoloLearn certification. – `Sep 29`.
-- Igor completed the **C#** course and earned the official SoloLearn certification. – `Sep 29`.
-- Igor completed the **Swift Fundamentals** course and earned the official SoloLearn certification. – `Sep 28`.
-- Igor completed the **C#** course, ranking in the `top 10%` and earned the official TestDome certification. – `Sep 28`.
-- Igor completed the **C++** course and earned the official SoloLearn certification. – `Sep 27`.
-- Igor completed the **HTML Fundamentals** course and earned the official SoloLearn certification. – `Sep 27`.
-- Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex). A full mathematical desktop suite for multi-objective optimization using Linear Programming and Compromise Programming. Built in Delphi with raw Win32/GDI, custom proprietary binary format (.cxf), dynamic grid engine, and advanced performance optimizations. Successfully solved a 5-year unsolved Operations Research problem that had stumped ~500 students. – `Mar 30`.
+- Igor completed the **Injection Flaws** course with a score of `96%` and earned the official Cybrary certification – `Oct 22`.
+- Igor completed the **Google: Associate Android Developer** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **Android** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **Java** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **CSS** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **C#** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **JavaScript** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **HTML5** course and earned the official Pluralsight certification – `Oct 17`.
+- Igor completed the **TypeScript and JavaScript (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 6`.
+- Igor completed the **Python** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 6`.
+- Igor completed the **Java** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 6`.
+- Igor completed the **C++** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 6`.
+- Igor completed the **C** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 4`.
+- Igor completed the **HTML/CSS (Hard)** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 4`.
+- Igor completed the **HTML/CSS and JavaScript** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 3`.
+- Igor completed the **Android and Java** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 3`.
+- Igor completed the **PHP** course, ranking in the `top 10%` and earned the official TestDome certification – `Oct 3`.
+- Igor completed the **SQL Fundamentals** course and earned the official SoloLearn certification – `Oct 2`.
+- Igor completed the **jQuery** course and earned the official SoloLearn certification – `Oct 2`.
+- Igor completed the **Python 3** course and earned the official SoloLearn certification – `Oct 1`.
+- Igor completed the **Ruby** course and earned the official SoloLearn certification – `Sep 30`.
+- Igor completed the **Java** course and earned the official SoloLearn certification – `Sep 30`.
+- Igor completed the **PHP** course and earned the official SoloLearn certification – `Sep 29`.
+- Igor completed the **JavaScript** course and earned the official SoloLearn certification – `Sep 29`.
+- Igor completed the **CSS Fundamentals** course and earned the official SoloLearn certification – `Sep 29`.
+- Igor completed the **C#** course and earned the official SoloLearn certification – `Sep 29`.
+- Igor completed the **Swift Fundamentals** course and earned the official SoloLearn certification – `Sep 28`.
+- Igor completed the **C#** course, ranking in the `top 10%` and earned the official TestDome certification – `Sep 28`.
+- Igor completed the **C++** course and earned the official SoloLearn certification – `Sep 27`.
+- Igor completed the **HTML Fundamentals** course and earned the official SoloLearn certification – `Sep 27`.
+- Igor open-sourced [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex). A full mathematical desktop suite for multi-objective optimization using Linear Programming and Compromise Programming. Built in Delphi with raw Win32/GDI, custom proprietary binary format (.cxf), dynamic grid engine, and advanced performance optimizations – `Mar 30`.
 - Igor created his first (but _private_) repository [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex) – `Mar 18`.
 
 <br>
@@ -179,9 +179,15 @@
 
 <br>
 
+## `2015`
+
+<br>
+
 ## `2014`
 
-- Igor completed the **Oracle: Java Fundamentals** course and earned the official Oracle Academy certification. – `Jun 2`.
+- Given a **2**-week deadline, Igor built [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex/) in `Delphi` and raw `Win32` APIs, featuring a custom GDI rendering engine and binary file formats (`.cxf`, `.cxc`), solving an Operations Research problem left unsolved by **~500** students over **5** years – `Nov`
+- Igor completed the **Oracle: Java Fundamentals** course and earned the official Oracle Academy certification – `Jun 2`.
+- Igor built [**BenchPro**](https://github.com/igorskyflyer/cs-bench-pro/), a multi-threaded CPU benchmarking suite in `C#` using `Win32 Interop`, Monte Carlo simulations, and real-time WMI telemetry as a practical alternative to the Computer Architecture exam – `Mar`.
 
 <br>
 
