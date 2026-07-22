@@ -241,7 +241,7 @@
 
 ## `2006`
 
-- Igor started learning programming, dedicating `~8h/day` under strict hardware and connectivity constraints – `August`.
+- Igor began learning programming, devoting `~8h/day` to self-study under strict hardware and connectivity constraints – `August`.
 
 <br>
 <br>
