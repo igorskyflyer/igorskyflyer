@@ -185,6 +185,34 @@
 
 <br>
 
+## `2013`
+
+- Igor built a custom PHP CMS entirely on a mobile device using vanilla `HTML`, `CSS`, `JavaScript`, and `PHP`, featuring live code and template editing, search, and a modular component architecture – `Apr`.
+
+<br>
+
+## `2012`
+
+- Igor purchased his first laptop at age 19 using earnings generated from a WordPress site built after high school – `Sep 10`.
+- Igor enrolled in IT and Software Engineering at the Faculty of Technical Sciences in Čačak – `Jul 10`.
+- Igor completed the general course curriculum at Gymnasium in Serbia, prioritizing IT, languages, and natural sciences – `May 22`.
+- Prior to graduation, Igor's IT professor presented him with an inscribed book acknowledging his academic work – `May 12`.
+
+<br>
+
+## `2011`
+
+- While studying determinants, Igor built a solver application on his HTC HD2 using `HTML`, `CSS`, and `JavaScript`, completing a comprehensive mathematics examination in **15** minutes – `Oct 12`.
+- Using his HTC HD2 as a mobile engineering environment, Igor developed Windows Mobile applications with `Basic4PPC` and experimented with low-level system modifications, rooting and flashing over **10** custom Android ROMs to explore hardware-software interoperability – `Oct 12`.
+
+<br>
+
+## `2010`
+
+- Igor created `Nyx`, a custom JavaScript utility library featuring methods like `$()`, `.first()`, and `.ready()`, later discovering `jQuery` had independently implemented identical patterns, marking an early lesson in convergent problem solving and abstraction design – `Aug`.
+
+<br>
+
 ## `2009`
 
 - At age 16, the website ([**skywap.xtgem.com**](https://skywap.xtgem.com)) Igor created solely on a Sony Ericsson J300i, won the `Best Website` award in a global XtGem contest – `Oct 12`.
@@ -192,6 +220,10 @@
 <br>
 
 ## `2008`
+
+- Before committing to software engineering, Igor explored veterinary medicine, human medicine, psychology, and linguistics to decode rule-based systems, ultimately choosing programming as his central calling to unify these fields through logic, linguistic precision, and systemic modeling – `Oct`.
+- After 2 years of learning how to code, seeing programming and the logic it conveys as a universal language, Igor started viewing abstract mathematical concepts as deterministic and atomic code pathways – `Sep`.
+- Igor completed primary education in Serbia – `Jun`.
 
 <br>
 
