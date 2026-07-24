@@ -11,12 +11,13 @@
 </blockquote>
 
 <br>
+<br>
 
 <details>
   <summary><h3>Table of Contents</h3></summary>
   <ul>
     <li>
-      <a href="#2020s"><strong>2020s</strong></a>
+      <a href="#2020s"><strong>🛸 2020s</strong></a>
       <ul>
         <li><a href="#2026"><strong>2026</strong></a></li>
         <li><a href="#2025"><strong>2025</strong></a></li>
@@ -28,7 +29,7 @@
       </ul>
     </li>
     <li>
-      <a href="#2010s"><strong>2010s</strong></a>
+      <a href="#2010s"><strong>📖 2010s</strong></a>
       <ul>
         <li><a href="#2019"><strong>2019</strong></a></li>
         <li><a href="#2018"><strong>2018</strong></a></li>
@@ -43,7 +44,7 @@
       </ul>
     </li>
     <li>
-      <a href="#2000s"><strong>2000s</strong></a>
+      <a href="#2000s"><strong>🛹 2000s</strong></a>
       <ul>
         <li><a href="#2009"><strong>2009</strong></a></li>
         <li><a href="#2008"><strong>2008</strong></a></li>
@@ -54,7 +55,6 @@
   </ul>
 </details>
 
-<br>
 <br>
 
 ## 2020s
