@@ -14,7 +14,7 @@
 <br>
 
 <details>
-  <summary><h3>Table of Contents</h3></summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ul>
     <li>
       <a href="#2020s"><strong>🛸 2020s</strong></a>
