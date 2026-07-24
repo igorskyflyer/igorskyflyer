@@ -176,12 +176,16 @@
 
 ## `2016`
 
-- Igor's [**NeoVisio App-Store**](https://github.com/igorskyflyer/android-neovisio-app-store) (which served as his Bachelor's thesis) was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory – `Sep 12`.
+- Igor's [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-app-store) was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory – `Sep 12`.
+- Igor completed his IT degree by engineering [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-appstore) entirely on an LG L70 phone, building both a web-based Android application catalog with REST APIs and a synchronized native store client – `Sep`.
 - Igor joined GitHub, marking the beginning of his open-source work – `Aug 10`.
 
 <br>
 
 ## `2015`
+
+- Igor engineered `Luna` on a mobile device, a unified JavaScript abstraction layer consolidating DOM orchestration, custom type guards, network handling, and state-aware routing – `Sep`.
+- Igor built a custom zero-dependency PHP CMS from scratch, featuring CRUD blog management, native traffic analytics, a custom comment engine with CAPTCHA, modular widget systems, and `0.026s` page generation times – `Aug`.
 
 <br>
 
@@ -217,7 +221,7 @@
 
 ## `2010`
 
-- Igor created `Nyx`, a custom JavaScript utility library featuring methods like `$()`, `.first()`, and `.ready()`, later discovering `jQuery` had independently implemented identical patterns, marking an early lesson in convergent problem solving and abstraction design – `Aug`.
+- Igor created `Nyx.js`, a custom JavaScript utility library featuring methods like `$()`, `.first()`, and `.ready()`, later discovering `jQuery` had independently implemented identical patterns, marking an early lesson in convergent problem solving and abstraction design – `Aug`.
 
 <br>
 
