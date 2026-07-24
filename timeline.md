@@ -59,7 +59,7 @@
 
 ## 2020s
 
-#### `2026`
+### `2026`
 
 - Igor opened an [**issue**](https://github.com/npmx-dev/npmx.dev/issues/3064) and submitted a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3065) to `npmx-dev/npmx.dev`, noting non-translatable strings in the source code and adding translation support for them – `Jul 20`.
 - Igor's early advocacy for ESM and highly-upvoted proposal from Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [**v1.129.0**](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
