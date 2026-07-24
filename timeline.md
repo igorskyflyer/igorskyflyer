@@ -12,7 +12,54 @@
 
 <br>
 
-## `2026`
+<details>
+  <summary><h3>Table of Contents</h3></summary>
+  <ul>
+    <li>
+      <a href="#2020s"><strong>2020s</strong></a>
+      <ul>
+        <li><a href="#2026"><strong>2026</strong></a></li>
+        <li><a href="#2025"><strong>2025</strong></a></li>
+        <li><a href="#2024"><strong>2024</strong></a></li>
+        <li><a href="#2023"><strong>2023</strong></a></li>
+        <li><a href="#2022"><strong>2022</strong></a></li>
+        <li><a href="#2021"><strong>2021</strong></a></li>
+        <li><a href="#2020"><strong>2020</strong></a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#2010s"><strong>2010s</strong></a>
+      <ul>
+        <li><a href="#2019"><strong>2019</strong></a></li>
+        <li><a href="#2018"><strong>2018</strong></a></li>
+        <li><a href="#2017"><strong>2017</strong></a></li>
+        <li><a href="#2016"><strong>2016</strong></a></li>
+        <li><a href="#2015"><strong>2015</strong></a></li>
+        <li><a href="#2014"><strong>2014</strong></a></li>
+        <li><a href="#2013"><strong>2013</strong></a></li>
+        <li><a href="#2012"><strong>2012</strong></a></li>
+        <li><a href="#2011"><strong>2011</strong></a></li>
+        <li><a href="#2010"><strong>2010</strong></a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#2000s"><strong>2000s</strong></a>
+      <ul>
+        <li><a href="#2009"><strong>2009</strong></a></li>
+        <li><a href="#2008"><strong>2008</strong></a></li>
+        <li><a href="#2007"><strong>2007</strong></a></li>
+        <li><a href="#2006"><strong>2006</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<br>
+<br>
+
+## 2020s
+
+#### `2026`
 
 - Igor opened an [**issue**](https://github.com/npmx-dev/npmx.dev/issues/3064) and submitted a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3065) to `npmx-dev/npmx.dev`, noting non-translatable strings in the source code and adding translation support for them – `Jul 20`.
 - Igor's early advocacy for ESM and highly-upvoted proposal from Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [**v1.129.0**](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
@@ -35,7 +82,7 @@
 
 <br>
 
-## `2025`
+### `2025`
 
 - Igor's [**scrollend-polyfill**](https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill) hit `1M` requests – `Dec 27`.
 - Igor's [**AdVoid**](https://github.com/the-advoid/ad-void) filter lists are used as a data source by [**1Hosts**](https://github.com/badmojr/1Hosts/blob/8dce4db17f1fdb465faa2b8be3549f1e24ce38c0/-data/lists/assets.txt#L131), one of the most popular open-source blocklist projects – `Sep 14`.
@@ -54,7 +101,7 @@
 
 <br>
 
-## `2024`
+### `2024`
 
 - Project [**Rolldown**](https://github.com/rolldown/rolldown/) started using Igor's [**read-local-file**](https://github.com/marketplace/actions/read-local-file) GitHub Action – `Aug 31`.
 - Igor opened an [**issue**](https://github.com/microsoft/vsmarketplace/issues/986) at `microsoft/vsmarketplace`, noting that extension naming rules are overly restrictive – `Aug 12`.
@@ -69,7 +116,7 @@
 
 <br>
 
-## `2023`
+### `2023`
 
 - Igor created and joined the [**ADBT**](https://github.com/adbt-lang) organization – `Dec 31`.
 - Igor created and joined the [**Aria**](https://github.com/aria-toolkit) organization – `Dec 30`.
@@ -95,7 +142,7 @@
 
 <br>
 
-## `2022`
+### `2022`
 
 - Igor's [**AdVoid**](https://github.com/the-advoid/ad-void) project received support from [**AdGuard**](https://adguard.com/?aid=135952) in the form of a free developer license – `Dec 19`.
 - Igor submitted a [**PR**](https://github.com/tylerwray/me/pull/22) to `tylerwray/me`, a fellow developer's website - he stumbled upon by pure accident, fixing a broken `Edit on GitHub` link – `Dec 8`.
@@ -105,7 +152,7 @@
 
 <br>
 
-## `2021`
+### `2021`
 
 - Igor opened a highly-upvoted [**issue**](https://github.com/microsoft/vscode/issues/130367) (320+ 👍🏼 and 30+ ❤️ reactions) at `microsoft/vscode`, advocating for Visual Studio Code extension development to adopt ESM to improve DX, speed up build times, and reduce resource consumption – `Aug 8`.
 - Igor opened an [**issue**](https://github.com/microsoft/vscode/issues/128589) at `microsoft/vscode`, requesting file icon support for `QuickPickItem`, which he later implemented in his `vscode-folderpicker` API – `Jul 14`.
@@ -117,26 +164,28 @@
 
 <br>
 
-## `2020`
+### `2020`
 
 - Igor started porting several libraries and applications to different languages and platforms, one of them being the [**mp3size**](https://github.com/igorskyflyer/npm-mp3size) npm package, which he later ported to [**.NET**](https://github.com/igorskyflyer/.net-core-mp3size), [**Dart**](https://github.com/igorskyflyer/dart-mp3size), and [**Python**](https://github.com/igorskyflyer/python-mp3size) – `May 17`.
 
 <br>
 
-## `2019`
+## 2010s
+
+### `2019`
 
 - Igor submitted his first [**3rd-party PR**](https://github.com/kisstkondoros/codemetrics/pull/71) for the **codemetrics** Visual Studio Code extension, enhancing DX and decreasing host resource consumption – `Sep 3`.
 
 <br>
 
-## `2018`
+### `2018`
 
 - Igor created the [**Open in Browser**](https://github.com/igorskyflyer/vscode-open-in-browser) Visual Studio Code extension, which went on to become his most popular extension to date – `Dec 27`.
 - Igor completed the **Responsive Web Design: Master Responsive CSS For Best User Experience** course and earned the official BitDegree certification – `Oct 10`.
 
 <br>
 
-## `2017`
+### `2017`
 
 - Igor opened his [**first issue**](https://github.com/microsoft/vscode/issues/40795) at `microsoft/vscode`, requesting the ability to retrieve output from a programmatically created Terminal – `Dec 25`.
 - Igor completed the **Injection Flaws** course with a score of `96%` and earned the official Cybrary certification – `Oct 22`.
@@ -174,7 +223,7 @@
 
 <br>
 
-## `2016`
+### `2016`
 
 - Igor's [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-app-store) was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory – `Sep 12`.
 - Igor completed his IT degree by engineering [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-appstore) entirely on an LG L70 phone, building both a web-based Android application catalog with REST APIs and a synchronized native store client – `Sep`.
@@ -182,14 +231,14 @@
 
 <br>
 
-## `2015`
+### `2015`
 
 - Igor engineered `Luna` on a mobile device, a unified JavaScript abstraction layer consolidating DOM orchestration, custom type guards, network handling, and state-aware routing – `Sep`.
 - Igor built a custom zero-dependency PHP CMS from scratch, featuring CRUD blog management, native traffic analytics, a custom comment engine with CAPTCHA, modular widget systems, and `0.026s` page generation times – `Aug`.
 
 <br>
 
-## `2014`
+### `2014`
 
 - Given a **2**-week deadline, Igor built [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex/) in `Delphi` and raw `Win32` APIs, featuring a custom GDI rendering engine and binary file formats (`.cxf`, `.cxc`), solving an Operations Research problem left unsolved by **~500** students over **5** years – `Nov`.
 - Igor completed the **Oracle: Java Fundamentals** course and earned the official Oracle Academy certification – `Jun 2`.
@@ -197,13 +246,13 @@
 
 <br>
 
-## `2013`
+### `2013`
 
 - Igor built a custom PHP CMS entirely on a mobile device using vanilla `HTML`, `CSS`, `JavaScript`, and `PHP`, featuring live code and template editing, search, and a modular component architecture – `Apr`.
 
 <br>
 
-## `2012`
+### `2012`
 
 - Igor purchased his first laptop at age 19 using earnings generated from a WordPress site built after high school – `Sep 10`.
 - Igor enrolled in IT and Software Engineering at the Faculty of Technical Sciences in Čačak – `Jul 10`.
@@ -212,26 +261,28 @@
 
 <br>
 
-## `2011`
+### `2011`
 
 - While studying determinants, Igor built a solver application on his HTC HD2 using `HTML`, `CSS`, and `JavaScript`, completing a comprehensive mathematics examination in **15** minutes – `Oct 12`.
 - Using his HTC HD2 as a mobile engineering environment, Igor developed Windows Mobile applications with `Basic4PPC` and experimented with low-level system modifications, rooting and flashing over **10** custom Android ROMs to explore hardware-software interoperability – `Oct 12`.
 
 <br>
 
-## `2010`
+### `2010`
 
 - Igor created `Nyx.js`, a custom JavaScript utility library featuring methods like `$()`, `.first()`, and `.ready()`, later discovering `jQuery` had independently implemented identical patterns, marking an early lesson in convergent problem solving and abstraction design – `Aug`.
 
 <br>
 
-## `2009`
+## 2000s
+
+### `2009`
 
 - At age 16, [**skywap.xtgem.com**](https://skywap.xtgem.com), a website Igor created solely on a Sony Ericsson J300i, won the `Best Website` award in a global XtGem contest – `Oct 12`.
 
 <br>
 
-## `2008`
+### `2008`
 
 - Before committing to software engineering, Igor explored veterinary medicine, human medicine, psychology, and linguistics to decode rule-based systems, ultimately choosing programming as his central calling to unify these fields through logic, linguistic precision, and systemic modeling – `Oct`.
 - After 2 years of learning how to code, seeing programming and the logic it conveys as a universal language, Igor started viewing abstract mathematical concepts as deterministic and atomic code pathways – `Sep`.
@@ -239,13 +290,13 @@
 
 <br>
 
-## `2007`
+### `2007`
 
 - Igor created several Peperonity sites, marking his first transition from consumer to creator – `Apr`.
 
 <br>
 
-## `2006`
+### `2006`
 
 - Igor began learning programming, devoting `~8h/day` to self-study under strict hardware and connectivity constraints – `Aug`.
 
