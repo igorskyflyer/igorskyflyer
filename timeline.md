@@ -15,6 +15,7 @@
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
+  <br>
   <ul>
     <li>
       <a href="#2020s"><strong>🛸 2020s</strong></a>
