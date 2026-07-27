@@ -227,7 +227,7 @@
 ### `2016`
 
 - Igor's [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-app-store) was added to the popular [**AlternativeTo**](https://alternativeto.net/software/neovisio/about/) directory – `Sep 12`.
-- Igor completed his IT degree by engineering [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-appstore) entirely on an LG L70 phone, building both a web-based Android application catalog with REST APIs and a synchronized native store client – `Sep`.
+- Igor completed his IT degree by engineering [**NeoVisio AppStore**](https://github.com/igorskyflyer/android-neovisio-appstore) entirely on an LG L70 phone, delivering a PWA-ready app catalog with JSON-LD structured data, REST APIs, custom client architecture, and a synchronized native store client – `Sep`.
 - Igor joined GitHub, marking the beginning of his open-source work – `Aug 10`.
 
 <br>
@@ -241,7 +241,7 @@
 
 ### `2014`
 
-- Given a **2**-week deadline, Igor built [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex/) in `Delphi` and raw `Win32` APIs, featuring a custom GDI rendering engine and binary file formats (`.cxf`, `.cxc`), solving an Operations Research problem left unsolved by **~500** students over **5** years – `Nov`.
+- Igor accepted a challenge, was given a **2**-week deadline, and built [**CalculusEx**](https://github.com/igorskyflyer/calculus-ex/) in `Delphi` and raw `Win32` APIs, featuring a custom GDI rendering engine and binary file formats (`.cxf`, `.cxc`), solving an Operations Research problem left unsolved by **~500** students over **5** years – `Nov`.
 - Igor completed the **Oracle: Java Fundamentals** course and earned the official Oracle Academy certification – `Jun 2`.
 - Igor built [**BenchPro**](https://github.com/igorskyflyer/cs-bench-pro/), a multi-threaded CPU benchmarking suite in `C#` using `Win32 Interop`, Monte Carlo simulations, and real-time WMI telemetry as a practical alternative to the Computer Architecture exam – `Mar`.
 
