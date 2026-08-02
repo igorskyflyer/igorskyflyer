@@ -62,6 +62,8 @@
 
 ### `2026`
 
+- Igor opened an [**issue**](https://github.com/Devolutions/UniGetUI/issues/5239) at `Devolutions/UniGetUI`, noting that the package `binstall` could not be identified, hence, updated successfully – `Aug 03`.
+- Igor completed the **Introduction to Cybersecurity** course and earned the official `Cisco Networking Academy` certification – `Aug 01`.
 - Igor opened an [**issue**](https://gitlab.com/versionlens/vscode-versionlens/-/work_items/421) at `versionlens/vscode-versionlens`, noting that the extension does not support the [`devEngines`](https://docs.npmjs.com/cli/v11/configuring-npm/package-json#devengines) field, only the legacy `packageManager` field – `Jul 28`.
 - Igor opened an [**issue**](https://github.com/npmx-dev/npmx.dev/issues/3064) and submitted a [**PR**](https://github.com/npmx-dev/npmx.dev/pull/3065) to `npmx-dev/npmx.dev`, noting non-translatable strings in the source code and adding translation support for them – `Jul 20`.
 - Igor's early advocacy for ESM and highly-upvoted proposal from Aug 8, [**2021**](#2021) came to fruition as Microsoft officially migrated to and shipped native ESM support for extensions in VS Code [**v1.129.0**](https://github.com/microsoft/vscode/milestone/435) – `Jul 16`.
