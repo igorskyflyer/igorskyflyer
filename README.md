@@ -151,7 +151,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <ul data-no-restyle>
     <li>🛸 <code>1</code> <a href="https://github.com/marketplace?query=igorskyflyer"><strong>action</strong></a></li>
   </ul>
-  👨🏼‍🎓 earns certificates on <a href="https://www.credly.com/users/igorskyflyer/badges/credly"><strong>Credly</strong></a>
+  👨🏼‍🎓 earns certificates on <a href="https://www.credly.com/users/igorskyflyer/"><strong>Credly</strong></a>
   <br>
   🪄 conjures packages on <a href="https://npmx.dev/~igorskyflyer"><strong>npmx.dev</strong></a>
   <br>
