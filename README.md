@@ -466,7 +466,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   🎬 loves <strong>watching</strong> movies, series &amp; anime, see his <a href="https://igorskyflyer.notion.site/f745de2862da4612b6e9ff043059bca4?v=daf5cbd301c14c1088425676f809fa79"><strong>watchlist</strong></a>
   <br>
-  🎮 plays <strong>games</strong> in his spare time, see his <a href="https://backloggd.com/u/igorskyflyer/"><strong>game list</strong></a> and <a href="https://backloggd.com/u/igorskyflyer/games/added/type:wishlist/"><strong>wishlist</strong></a>
+  🎮 plays <strong>games</strong> in his spare time, see his <a href="https://backloggd.com/u/igorskyflyer/"><strong>game list</strong></a>, <a href="https://backloggd.com/u/igorskyflyer/games/added/type:wishlist/"><strong>backloggd wishlist</strong></a>, and <a href="https://store.steampowered.com/wishlist/profiles/76561198859340857/?st=7715645110930006080"><strong>Steam wishlist</strong></a>
   <br>
   🐬 is a firm believer in <strong>autodidacticism</strong>
   <br>
