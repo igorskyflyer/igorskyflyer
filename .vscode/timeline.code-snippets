@@ -1,0 +1,44 @@
+{
+  "Timeline Issue Entry": {
+    "prefix": "issue",
+    "body": [
+      "- Igor opened an [**issue**](${1:<URL>}) at `${2:<REPO>}`, noting that ${3:<ISSUE>} – `${4:<MM DD>}`."
+    ],
+    "description": "Add a new GitHub/GitLab issue entry to the timeline"
+  },
+  "Timeline PR Entry": {
+    "prefix": "pr",
+    "body": [
+      "- Igor submitted a [**PR**](${1:<URL>}) to `${2:<REPO>}`, ${3:<PR>} – `${4:<MM DD>}`."
+    ],
+    "description": "Add a new Pull Request entry to the timeline"
+  },
+  "Timeline Issue & PR Combo Entry": {
+    "prefix": "issue-pr",
+    "body": [
+      "- Igor opened an [**issue**](${1:<ISSUE_URL>}) and submitted a [**PR**](${2:<PR_URL>}) to `${3:<REPO>}`, noting ${4:<ISSUE>} and ${5:<PR>} – `${6:<MM DD>}`."
+    ],
+    "description": "Add a combined Issue and PR entry to the timeline"
+  },
+  "Timeline Winget Package Entry": {
+    "prefix": "winget",
+    "body": [
+      "- Igor added the package [**${1:<PACKAGE>}**](${2:https://github.com/microsoft/winget-pkgs/pull/<PR>}) to the `microsoft/winget-pkgs` repository – `${3:<MM DD>}`."
+    ],
+    "description": "Add a WinGet package addition entry to the timeline"
+  },
+  "Timeline Certification Entry": {
+    "prefix": "cert",
+    "body": [
+      "- Igor completed the **${1:<COURSE>}** course and earned the official `${2:<PROVIDER>}` certification – `${3:<MM DD>}`."
+    ],
+    "description": "Add a course/certification completion entry to the timeline"
+  },
+  "Timeline Certification Entry with URL": {
+    "prefix": "cert-url",
+    "body": [
+      "- Igor completed the [**${1:<COURSE>}**](<COURSE_URL>) course and earned the official `${2:<PROVIDER>}` certification – `${3:<MM DD>}`."
+    ],
+    "description": "Add a course/certification completion entry to the timeline"
+  }
+}
