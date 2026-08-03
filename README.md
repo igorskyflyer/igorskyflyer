@@ -464,7 +464,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
   <br>
   😽 <strong>rescues</strong> and fosters <strong>animals</strong>: mostly cats, some dogs, and the occasional sparrow or goldfish
   <br>
-  🎬 loves <strong>watching</strong> movies, series &amp; anime, see his <a href="https://bramble-mechanic-9d4.notion.site/f745de2862da4612b6e9ff043059bca4?v=daf5cbd301c14c1088425676f809fa79"><strong>watchlist</strong></a>
+  🎬 loves <strong>watching</strong> movies, series &amp; anime, see his <a href="https://igorskyflyer.notion.site/f745de2862da4612b6e9ff043059bca4?v=daf5cbd301c14c1088425676f809fa79"><strong>watchlist</strong></a>
   <br>
   🎮 plays <strong>games</strong> in his spare time, see his <a href="https://backloggd.com/u/igorskyflyer/"><strong>game list</strong></a> and <a href="https://backloggd.com/u/igorskyflyer/games/added/type:wishlist/"><strong>wishlist</strong></a>
   <br>
