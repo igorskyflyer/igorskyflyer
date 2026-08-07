@@ -48,48 +48,6 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📋 Recent Activity
 
-### 🤖 Tech
-
-<!-- {{activity}} -->
-
-- Published a new UserScript [**Unmute Images on GitHub**](https://github.com/igorskyflyer/userscript-github-unmute-images) that removes the muted background color from images on GitHub.
-- Published new releases of these npm packages:
-  - [**Biome config**](https://github.com/igorskyflyer/npm-biome-config/releases/tag/v3.0.3) - `v3.0.3`
-  - [**TSConfig**](https://github.com/igorskyflyer/npm-tsconfig/releases/tag/v2.0.1) - `v2.0.1`
-  - [**astro-component**](https://github.com/igorskyflyer/npm-astro-component/releases/tag/v1.1.1) - `v1.1.1`
-  - [**astro-render-component**](https://github.com/igorskyflyer/npm-astro-render-component/releases/tag/v2.0.2) - `v2.0.2`
-- Became a **Verified Entity** on Google [`/g/11kc3sl0nv`](https://www.google.com/search?kgmid=/g/11kc3sl0nv).
-- Worked on [**UniGetUI**](https://github.com/Devolutions/UniGetUI) including:
-  - a bug with scoped npm packages containing a dot symbol ([**#4007**](https://github.com/Devolutions/UniGetUI/issues/4007))
-  - a UI &#8660; state mismatch for upgradable packages in both Avalonia/legacy modes ([**#4793**](https://github.com/Devolutions/UniGetUI/issues/4793), [**#4009**](https://github.com/Devolutions/UniGetUI/issues/4009))
-  - revised and fixed the Serbian translation ([**#4590**](https://github.com/Devolutions/UniGetUI/issues/4590))
-- Created a repository: [**igorskyflyer/dotfiles**](https://github.com/igorskyflyer/dotfiles) - a curated index of all published [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) configuration packages; crafted for a seamless DX.
-- Released [`v3.0.0`](https://github.com/igorskyflyer/commoji/releases/tag/v3.0.0) of [**Commoji**](https://github.com/igorskyflyer/commoji/), a psychology-based emoji commit convention that reduces cognitive load and turns Git history into a visually scannable and instantly queryable log.
-- In the process of scope-migration from [**@igor.dvlpr**](https://www.npmjs.com/~igor.dvlpr) to [**@igorskyflyer**](https://www.npmjs.com/~igorskyflyer) and adapting all npm packages to the latest security requirements.
-
-<div align="center">
-  <em>Stay up-to-date by following the <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><strong>official tracker</strong></a> <strong>(91% completed)</strong> and the <a href="https://github.com/orgs/community/discussions/169922"><strong>official discussion</strong></a></em>.
-  <br>
-  <br>
-  <a href="https://github.com/igorskyflyer/project-nextwave/milestone/1"><img src="https://img.shields.io/github/milestones/progress/igorskyflyer/project-nextwave/1?style=for-the-badge&label=Progress" alt="Progress"></a>
-</div>
-<!-- {{/activity}} -->  
-<br>
-
-<details>
-  <summary>
-   <strong>🗂️ Non-Tech</strong>
-  </summary>
-  <br>
-
-  <ul data-no-restyle>
-   <li>Uploaded <a href="https://www.youtube.com/watch?v=EBPn_vsG11Q"><strong>PZE 2026 | My Top 14 - Before the Show | Eurovision 2026, Serbia</strong></a></li>
-  <li>Uploaded <a href="https://youtu.be/1luA8GfMolo"><strong>My Top 16 | DORA 2026 [After the Show]</strong></a> for Eurovision.</li>
-   <li>Uploaded <a href="https://www.youtube.com/watch?v=2QlV8xUasok"><strong>My Top 24 | DORA 2026 [Before the Show]</strong></a> for Eurovision.</li>
-  </ul>
-  <br>
-</details>
-
 <p>Read the full archive of Igor's professional and academic journey in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/timeline.md" title="Timeline archive by Igor Dimitrijević (igorskyflyer)"><strong>timeline archive</strong></a>.</p>
 
 ---
