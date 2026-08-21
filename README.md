@@ -60,6 +60,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 <details>
   <summary><strong>🤖 Tech Activities</strong></summary>
+  <br />
   Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" target="_blank"><strong>Tech Activities</strong></a> page on the official website.
 </details>
 
