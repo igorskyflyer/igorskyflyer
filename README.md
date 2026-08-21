@@ -55,7 +55,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <details>
   <summary><strong>⚡ Tech Stack</strong></summary>
   <br>
-  Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-stack" target="_blank"><strong>Tech Stack</strong></a> page on the official website.
+  Migrated to the <a href="https://igorskyflyer.me/portfolio/#tech-stack" target="_blank"><strong>Tech Stack</strong></a> page on the official website.
 </details>
 
 <details>
