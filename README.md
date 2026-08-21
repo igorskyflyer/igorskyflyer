@@ -48,7 +48,7 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 
 ## 📋 Recent Activity
 
-<p>Read the full archive of Igor's professional and academic journey in the <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/timeline.md" title="Timeline archive by Igor Dimitrijević (igorskyflyer)"><strong>timeline archive</strong></a>.</p>
+<p>Read the full archive of Igor's professional and academic journey in the <a href="https://igorskyflyer.me/igorskyflyer/timeline/" title="Timeline archive by Igor Dimitrijević (igorskyflyer)"><strong>timeline archive</strong></a>.</p>
 
 ---
 
