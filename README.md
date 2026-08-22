@@ -32,13 +32,7 @@
 
 ## 💼 Work
 
-Currently working as a:
-
-**Senior Full-Stack Engineer** | _SissiS (Luxury Retail) & Sensomed (Healthcare)_  
-_Focus: WordPress/WooCommerce platform engineering, backend automation, security hardening._
-
-- **SissiS**: Built a custom WordPress/WooCommerce plugin suite from scratch (PHP, no 3rd-party frameworks) for order export (XML/JSON), CSV-based order migration, FTP-synced tracking updates, Cron-driven automation, and custom HTTP security headers. Multilingual (EN/DE) implemented natively, without translation plugins.
-- **Sensomed**: Delivered a WordPress/WooCommerce storefront built from a static Photoshop design, with custom theme/post templates, product variation and category filtering, Google Translate-based multilingual support, and security header hardening. Advised on accessibility improvements.
+Migrated to the <a href="https://igorskyflyer.me/portfolio/#current-roles" target="_blank"><strong>Current Roles</strong></a> section on the official website.
 
 <br>
 
@@ -55,19 +49,19 @@ More about Igor's past work can be found on the [**Past Work**](https://github.c
 <details>
   <summary><strong>⚡ Tech Stack</strong></summary>
   <br>
-  Migrated to the <a href="https://igorskyflyer.me/portfolio/#tech-stack" target="_blank"><strong>Tech Stack</strong></a> page on the official website.
+  Migrated to the <a href="https://igorskyflyer.me/portfolio/#tech-stack" target="_blank"><strong>Tech Stack</strong></a> section on the official website.
 </details>
 
 <details>
   <summary><strong>🤖 Tech Activities</strong></summary>
   <br />
-  Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" target="_blank"><strong>Tech Activities</strong></a> page on the official website.
+  Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" target="_blank"><strong>Tech Activities</strong></a> section on the official website.
 </details>
 
 <details>
   <summary><strong>​🏛️ Technical Origin</strong></summary>
   <br>
-  Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#technical-origin" target="_blank"><strong>Technical Origin</strong></a> section on the official website.
+  Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" target="_blank"><strong>Technical Origin</strong></a> section on the official website.
 </details>
 
 <details>
