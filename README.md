@@ -3,9 +3,9 @@
 > Freelance Senior Full-Stack Engineer • Open-Source Maintainer • Web, Desktop & Mobile • BSc Hons IT • 20+ Years of Experience
 
 <div>
-  <strong>Igor Dimitrijević</strong> (<em>IgorSkyFlyer</em>) is a Senior Full-Stack Software Engineer with a BSc (Hons) in IT, specializing in DX tooling, performance-first architectures, and cross-platform applications. Active in software development since 2006, his work spans custom compilers like <a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> and <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a>, <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>VS Code Extensions</strong></a> (363.5K+ installs), and a broad <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm ecosystem</strong></a> (102K+ installs) including tools like <code>Zep</code> and <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a>.
+  <strong>Igor Dimitrijević</strong> (<em>IgorSkyFlyer</em>) is a Senior Full-Stack Software Engineer with a BSc (Hons) in IT, specializing in DX tooling, performance-first architectures, and cross-platform applications. Active in software development since 2006, his work spans custom compilers like <a href="https://github.com/aria-toolkit/aria-cli"><strong>Aria</strong></a> and <a href="https://github.com/adbt-lang/adbt"><strong>ADBT</strong></a>, <a href="https://marketplace.visualstudio.com/publishers/igordvlpr"><strong>VS Code Extensions</strong></a> (375K+ installs), and a broad <a href="https://www.npmjs.com/~igorskyflyer"><strong>npm ecosystem</strong></a> (102K+ installs) including tools like <code>Zep</code> and <a href="https://github.com/igorskyflyer/commoji"><strong>Commoji</strong></a>.
   <br><br>
-  Alongside maintaining open-source infrastructure like <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> and the <a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> (3.975M yearly requests), he delivers e-commerce platforms and legacy-system recovery solutions for <strong>clients across 10 countries</strong>. The majority of his portfolio, including <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md">client testimonials</a> and his upcoming dos-à-dos autobiography, is available on his personal website.
+  Alongside maintaining open-source infrastructure like <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> and the <a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> (4M+ yearly requests), he delivers e-commerce platforms and legacy-system recovery solutions for <strong>clients across 10 countries</strong>. The majority of his portfolio, including <a href="https://github.com/igorskyflyer/igorskyflyer/blob/main/client-testimonials.md">client testimonials</a> and his upcoming dos-à-dos autobiography, is available on his personal website.
   <br><br>
   <div align="center">
     <strong>Available for Staff roles and select freelance engagements.</strong><br>
@@ -38,7 +38,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" 
 <br>
 
 <h3>​🏛️ Tech Origin</h3>
-Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" target="_blank"><strong>Technical Origin</strong></a> section on the official website.
+Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" target="_blank"><strong>Techn Origin</strong></a> section on the official website.
 
 <br>
 
