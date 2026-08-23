@@ -58,6 +58,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" 
 <br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank"><strong><em>Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
+
 <br>
 <br>
 
