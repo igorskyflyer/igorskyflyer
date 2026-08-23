@@ -46,7 +46,6 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" targ
 Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" target="_blank"><strong>Personal Traits</strong></a> section on the official website.
 
 <br>
-<br>
 
 <h3>✍🏼 Latest Posts</h3>
   His tech articles are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
