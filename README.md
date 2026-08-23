@@ -48,9 +48,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" 
 <br>
 <br>
 
-<details>
-  <summary><strong>✍🏼 Latest Posts</strong></summary>
-  <br>
+<h3>✍🏼 Latest Posts</h3>
   His tech articles are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
   <br>
   <br>
@@ -62,8 +60,6 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" 
 <br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
 <br>
-</details>
-
 <br>
 
 <div align="center">
