@@ -37,7 +37,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" 
 
 <br>
 
-<h3>​🏛️ Technical Origin</h3>
+<h3>​🏛️ Tech Origin</h3>
 Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" target="_blank"><strong>Technical Origin</strong></a> section on the official website.
 
 <br>
