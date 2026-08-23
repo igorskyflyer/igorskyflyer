@@ -51,7 +51,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" 
 <details>
   <summary><strong>✍🏼 Latest Posts</strong></summary>
   <br>
-  Articles on are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
+  His tech articles are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
   <br>
   <br>
   Posts are available on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
