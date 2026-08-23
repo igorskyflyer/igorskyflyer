@@ -61,6 +61,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" 
 
 <br>
 <br>
+<br>
 
 <div align="center">
   If his open-source projects have saved you time or improved your workflow, consider supporting their continued development via <a href="https://liberapay.com/igorskyflyer/donate"><strong>LiberaPay</a> or <a href="https://ko-fi.com/igorskyflyer"><strong>Ko-Fi</strong></a>.
