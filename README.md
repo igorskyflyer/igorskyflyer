@@ -50,6 +50,7 @@ Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" targ
 Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" target="_blank"><strong>Personal Traits</strong></a> section on the official website.
 
 <br>
+<br>
 
 <details>
   <summary><strong>✍🏼 Latest Posts</strong></summary>
