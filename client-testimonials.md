@@ -103,7 +103,7 @@ These testimonials reflect a decade of Igor's freelance work and almost two deca
 >
 > ---
 >
-> **Web** • **PHP**, **CSS**, **HTML**, **JavaScript**, **Layout**, **Design**, **Responsive**, **Mobile** • **Devin Y.** • **Jamaica** 🇯🇲
+> **Web** • **PHP**, **CSS**, **HTML**, **JavaScript**, **Layout**, **Design**, **Responsive**, **Mobile** • **Leon** • **Jamaica** 🇯🇲
 
 <br>
 
