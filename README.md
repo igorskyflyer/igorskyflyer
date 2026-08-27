@@ -8,7 +8,7 @@
   Alongside maintaining open-source infrastructure like <a href="https://github.com/the-advoid/ad-void"><strong>AdVoid</strong></a> and the <a href="https://www.jsdelivr.com/package/gh/igorskyflyer/npm-scrollend-polyfill"><strong>Scrollend Polyfill</strong></a> (4M+ yearly requests), he delivers e-commerce platforms and legacy-system recovery solutions for <strong>clients across 10 countries</strong>. The majority of his portfolio, including <a href="http://igorskyflyer.me/igorskyflyer/testimonials/" target="_blank"><strong>client testimonials</strong></a> and his upcoming dos-à-dos autobiography, is available on his personal website.
   <br><br>
   <div align="center">
-    <strong>Available for Staff roles and select freelance engagements.</strong><br>
+    <strong>Available for Senior / Staff roles and select freelance engagements.</strong><br>
     <a href="https://igorskyflyer.me/contact/"><strong>Reach out</strong></a> · <a href="https://www.linkedin.com/in/igorskyflyer"><strong>LinkedIn</strong></a>
   </div>
 </div>
