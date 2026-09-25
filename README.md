@@ -15,49 +15,17 @@
 
 <br>
 
-## 💼 Work
-
-Migrated to the <a href="https://igorskyflyer.me/portfolio/#current-roles" target="_blank"><strong>Current Roles</strong></a> section on the official website.
-
----
-
-## 📋 Recent Activity
-
-<p>Read the full archive of Igor's professional and academic journey in the <a href="https://igorskyflyer.me/igorskyflyer/timeline/" title="Timeline archive by Igor Dimitrijević (igorskyflyer)"><strong>timeline archive</strong></a>.</p>
-
----
-
-<h3>⚡ Tech Stack</h3>
-Migrated to the <a href="https://igorskyflyer.me/portfolio/#tech-stack" target="_blank"><strong>Tech Stack</strong></a> section on the official website.
-
-<br>
-
-<h3>🤖 Tech Activities</h3>
-Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-activities" target="_blank"><strong>Tech Activities</strong></a> section on the official website.
-
-<br>
-
-<h3>​🏛️ Tech Origin</h3>
-Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#tech-origin" target="_blank"><strong>Techn Origin</strong></a> section on the official website.
-
-<br>
-
-<h3>🚶🏼‍♂️ Personal Traits</h3>
-Migrated to the <a href="https://igorskyflyer.me/igorskyflyer/#personal-traits" target="_blank"><strong>Personal Traits</strong></a> section on the official website.
-
-<br>
-
 <h3>✍🏼 Latest Posts</h3>
-  His tech articles are available on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile.
-  <br>
-  <br>
-  Posts are available on his blog <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a>:
+  His tech-related blog posts are available on his <a href="https://igorskyflyer.me/blog"><strong>igorskyflyer.me</strong></a> website:
   <!-- BLOG-POST-LIST:START -->
 <br>- <a href="https://igorskyflyer.me/blog/npm-valid-scopes-not-working-on-windows/" target="_blank"><strong><em>npm valid scopes not working on Windows ✋🏼</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/chrome-flags-to-enable-or-not/" target="_blank"><strong><em>Chrome flags to enable or not 🚩</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/why-i-moved-from-netlify-to-cloudflare-and-why-you-might-want-too/" target="_blank"><strong><em>Why I moved from Netlify to Cloudflare and why you might want too 👨🏼‍🚀</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/vscode-npm-bin/" target="_blank"><strong><em>Fix Node binaries in VS Code Terminal 🐢</em></strong></a>
 <br>- <a href="https://igorskyflyer.me/blog/how-to-write-low-performance-css-animations/" target="_blank"><strong><em>How to write low performance CSS animations 🐌</em></strong></a><!-- BLOG-POST-LIST:END -->
+<br>
+<br>
+He also publishes tech articles on his <a href="https://www.linkedin.com/in/igorskyflyer/recent-activity/articles/"><strong>LinkedIn</strong></a> profile. 
 
 <br>
 <br>
